@@ -1,24 +1,30 @@
 export default function StatsBar() {
   const stats = [
-    { label: 'Projects Delivered', value: '50+' },
-    { label: 'Client Satisfaction', value: '100%' },
-    { label: 'Time to Deploy', value: '2-4 weeks' },
-    { label: 'Sites on Vercel', value: '50+' },
+    { value: '48hr', label: 'Average Delivery' },
+    { value: '100%', label: 'Mobile Responsive' },
+    { value: '$0', label: 'Hosting Setup' },
+    { value: '5+', label: 'Industries Served' },
   ];
 
   return (
-    <section className="py-16 px-4 bg-gray-900 bg-opacity-50">
-      <div className="max-w-6xl mx-auto">
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
-          {stats.map((stat, index) => (
-            <div key={index} className="text-center">
-              <div className="text-3xl md:text-4xl font-display font-bold text-accent mb-2">
-                {stat.value}
-              </div>
-              <p className="text-gray-400 text-sm md:text-base">{stat.label}</p>
+    <section className="px-6">
+      <div
+        className="max-w-[900px] mx-auto py-10 grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-4"
+        style={{
+          borderTop: '1px solid rgba(255,255,255,0.05)',
+          borderBottom: '1px solid rgba(255,255,255,0.05)',
+        }}
+      >
+        {stats.map((s, i) => (
+          <div key={i} className="text-center">
+            <div className="font-display text-4xl text-accent mb-0.5 italic">
+              {s.value}
             </div>
-          ))}
-        </div>
+            <div className="font-sans text-[11px] text-gray-600 uppercase tracking-[0.1em] font-medium">
+              {s.label}
+            </div>
+          </div>
+        ))}
       </div>
     </section>
   );

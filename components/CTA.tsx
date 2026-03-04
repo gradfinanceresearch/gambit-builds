@@ -1,19 +1,42 @@
 export default function CTA() {
   return (
-    <section className="py-20 px-4">
-      <div className="max-w-4xl mx-auto">
-        <div className="bg-gradient-to-r from-gray-900 to-gray-800 border border-accent border-opacity-30 rounded-xl p-12 md:p-16 text-center">
-          <h2 className="font-display text-4xl md:text-5xl font-bold mb-6">
-            Ready to launch your website?
+    <section className="py-20 px-6">
+      <div
+        className="max-w-[700px] mx-auto text-center py-[60px] px-10 rounded-[20px] relative overflow-hidden"
+        style={{
+          border: '1px solid rgba(249,115,22,0.12)',
+          background:
+            'linear-gradient(135deg, rgba(249,115,22,0.06), rgba(249,115,22,0.015))',
+        }}
+      >
+        {/* Orb */}
+        <div
+          className="absolute -top-[100px] -right-[80px] w-[350px] h-[350px] rounded-full pointer-events-none"
+          style={{
+            background:
+              'radial-gradient(circle, rgba(249,115,22,0.08) 0%, transparent 65%)',
+            filter: 'blur(50px)',
+          }}
+        />
+
+        <div className="relative z-10">
+          <h2
+            className="font-normal mb-3.5 leading-[1.2] tracking-tight"
+            style={{ fontSize: 'clamp(28px, 4vw, 38px)' }}
+          >
+            Ready to upgrade your
+            <br />
+            online presence?
           </h2>
-          <p className="text-gray-300 text-lg md:text-xl mb-8 max-w-2xl mx-auto">
-            Let's build something great together. Send us an email or schedule a call.
+          <p className="font-sans text-[15px] text-gray-500 leading-relaxed mb-7 mx-auto max-w-[440px] font-light">
+            We'll build you a free mockup — no commitment, no cost. Just a
+            preview of what your new site could look like.
           </p>
           <a
             href="mailto:kaleb@gambitbuilds.com"
-            className="inline-block bg-accent hover:bg-orange-600 text-black font-semibold px-10 py-4 rounded-lg transition-all transform hover:scale-105 active:scale-95 text-lg"
+            className="inline-block bg-accent hover:bg-orange-400 text-black font-semibold text-[15px] px-9 py-4 rounded-[10px] transition-all duration-200 hover:-translate-y-[2px]"
           >
-            Get in Touch
+            Get Your Free Mockup →
           </a>
         </div>
       </div>

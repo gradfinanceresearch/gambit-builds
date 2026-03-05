@@ -7,7 +7,10 @@ type ConceptData = {
   headline?: string;
   subheadline?: string;
   services?: string[];
+  service_descriptions?: string[];
   service_areas?: string[];
+  reviews?: { text: string; detail: string }[];
+  issues_addressed?: string[];
   phone?: string;
   cta?: string;
   colors?: { primary?: string; accent?: string };
@@ -129,21 +132,18 @@ export default function Concept({ data, slug }: { data: ConceptData; slug: strin
           {/* Feature card */}
           <div className="rounded-2xl border border-white/10 bg-white/5 p-6 shadow-[0_0_0_1px_rgba(255,255,255,0.04)]">
             <div className="text-sm font-semibold">What this concept improves</div>
-            <ul className="mt-4 space-y-3 text-sm text-neutral-300">
-              <li className="flex gap-3">
-                <Dot color={accent} />
-                Clear “Call / Estimate” actions above the fold for mobile visitors.
-              </li>
-              <li className="flex gap-3">
-                <Dot color={accent} />
-                Strong trust signals (reviews, badges, service area) to boost conversions.
-              </li>
-              <li className="flex gap-3">
-                <Dot color={accent} />
-                Clean services layout that’s easy to scan and SEO-friendly.
-              </li>
-            </ul>
-
+	<ul className="mt-4 space-y-3 text-sm text-neutral-300">
+  {(data.issues_addressed?.length ? data.issues_addressed : [
+    "Clear call / estimate actions above the fold for mobile visitors.",
+    "Strong trust signals to boost conversions.",
+    "Clean services layout that's easy to scan."
+  ]).map((issue, i) => (
+    <li key={i} className="flex gap-3">
+      <Dot color={accent} />
+      {issue}
+    </li>
+  ))}
+</ul>
             <div className="mt-6 rounded-xl border border-white/10 bg-neutral-950/60 p-4">
               <div className="text-xs text-neutral-400">Brand color preview</div>
               <div className="mt-3 flex items-center gap-3">
@@ -179,7 +179,7 @@ export default function Concept({ data, slug }: { data: ConceptData; slug: strin
               >
                 <div className="text-sm font-semibold">{s}</div>
                 <p className="mt-2 text-sm text-neutral-400">
-                  Quick description that emphasizes speed, quality, and a clear next step.
+		{data.service_descriptions?.[i] || "Fast, reliable service with upfront pricing."}
                 </p>
                 <div className="mt-4 text-sm font-semibold" style={{ color: accent }}>
                   Request estimate →
@@ -196,9 +196,13 @@ export default function Concept({ data, slug }: { data: ConceptData; slug: strin
           <div className="rounded-2xl border border-white/10 bg-white/5 p-6">
             <h3 className="text-lg font-bold">Trusted by local customers</h3>
             <div className="mt-4 space-y-4">
-              <Review accent={accent} />
-              <Review accent={accent} />
-              <Review accent={accent} />
+	   {(data.reviews?.length ? data.reviews : [
+  { text: "Fast and professional.", detail: "Clear communication, showed up on time." },
+  { text: "Highly recommend.", detail: "Fair pricing and great workmanship." },
+  { text: "Will use again.", detail: "Solved the problem quickly and cleanly." }
+]).map((r, i) => (
+  <Review key={i} text={r.text} detail={r.detail} accent={accent} />
+))}
             </div>
           </div>
 
@@ -289,18 +293,16 @@ function Stat({ label, value, accent }: { label: string; value: string; accent: 
   );
 }
 
-function Review({ accent }: { accent: string }) {
+function Review({ text, detail, accent }: { text: string; detail: string; accent: string }) {
   return (
     <div className="rounded-xl border border-white/10 bg-neutral-950/50 p-4">
       <div className="flex items-center justify-between">
-        <div className="text-sm font-semibold">“Fast and professional.”</div>
+        <div className="text-sm font-semibold">"{text}"</div>
         <div className="text-xs font-semibold" style={{ color: accent }}>
           5.0 ★★★★★
         </div>
       </div>
-      <div className="mt-2 text-sm text-neutral-400">
-        “Clear communication, showed up on time, and the work was excellent.”
-      </div>
+      <div className="mt-2 text-sm text-neutral-400">"{detail}"</div>
       <div className="mt-3 text-xs text-neutral-500">— Local customer</div>
     </div>
   );

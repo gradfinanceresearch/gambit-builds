@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GB Services HVAC | Atlanta Concept v2</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root{--primary:#00AECB;--accent:#E8A000;--ink:#0f172a;--muted:#475569;--bg:#f8fafc;}
+    *{box-sizing:border-box} body{margin:0;font-family:Inter,system-ui,sans-serif;color:var(--ink);background:var(--bg)}
+    .wrap{width:min(1120px,92%);margin:0 auto}
+    .top{position:sticky;top:0;background:#fff;border-bottom:1px solid #e2e8f0;z-index:20}
+    .top .wrap{display:flex;align-items:center;justify-content:space-between;padding:12px 0;gap:10px}
+    .brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink);font-weight:800}
+    .brand img{height:40px}
+    .call{background:var(--primary);color:#fff;text-decoration:none;padding:10px 14px;border-radius:999px;font-weight:700}
+    .hero{padding:72px 0 52px;background:linear-gradient(130deg,#e8faff,#fff7de)}
+    .hero-grid{display:grid;grid-template-columns:1.15fr 1fr;gap:22px;align-items:center}
+    .eyebrow{font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--primary);font-weight:700}
+    h1{font-size:clamp(1.95rem,3.9vw,3.25rem);line-height:1.08;margin:10px 0 14px}
+    .lead{color:var(--muted);line-height:1.65}
+    .actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px}
+    .btn{display:inline-block;text-decoration:none;padding:12px 16px;border-radius:10px;font-weight:700}
+    .btn.p{background:var(--primary);color:#fff}.btn.s{background:#fff;color:var(--ink);border:2px solid var(--ink)}
+    .metrics{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}
+    .metrics span{background:#fff;border:1px solid #cbd5e1;border-radius:999px;padding:8px 12px;font-size:.9rem;font-weight:600}
+    .hero-card{background:#fff;border:1px solid #e2e8f0;border-radius:14px;padding:20px;box-shadow:0 10px 24px rgba(2,8,23,.08)}
+    section{padding:58px 0} h2{font-size:clamp(1.45rem,2.7vw,2.2rem);margin:0 0 10px}
+    .sub{margin:0 0 20px;color:var(--muted);line-height:1.6}
+    .grid3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+    .card{background:#fff;border:1px solid #e2e8f0;border-radius:12px;padding:18px}
+    .card h3{margin:0 0 8px}.card p{margin:0;color:var(--muted);line-height:1.6}
+    .review{border-left:4px solid var(--accent)}
+    .areas{display:flex;flex-wrap:wrap;gap:10px}.areas span{background:#fff;border:1px solid #cbd5e1;border-radius:8px;padding:8px 12px;font-weight:600}
+    .cta{background:var(--ink);color:#fff;border-radius:14px;padding:28px;display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap}
+    footer{padding:22px 0 32px;color:#64748b}
+    @media(max-width:900px){.hero-grid,.grid3{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <a class="brand" href="#"><img src="https://gbshvac.com/wp-content/uploads/2020/04/gbshvac_logo.png" alt="GB Services HVAC logo"><span>GB Services HVAC</span></a>
+      <a class="call" href="tel:4049535151">Call 404.953.5151</a>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <div class="eyebrow">Atlanta HVAC Repair & Installation</div>
+        <h1>Atlanta’s Fast-Response HVAC Team — Book Today, Get Real Answers Before We Start</h1>
+        <p class="lead">This version is designed for urgency-driven conversion: visible phone CTA in the sticky header, cleaner service scan flow, and trust proof placed where homeowners decide whether to call.</p>
+        <div class="actions">
+          <a class="btn p" href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20GB%20Services%20HVAC">Get a Free Quote</a>
+          <a class="btn s" href="tel:4049535151">Talk to a Tech Now</a>
+        </div>
+        <div class="metrics">
+          <span>25+ Years in HVAC</span>
+          <span>Residential & Commercial</span>
+          <span>Emergency Service</span>
+        </div>
+      </div>
+      <aside class="hero-card">
+        <h3 style="margin-top:0">What this concept fixes</h3>
+        <p class="lead" style="margin:0">Your current homepage has dense copy and weak conversion hierarchy. This concept pushes calls and quotes first, then supports those actions with concise services and social proof.</p>
+      </aside>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <h2>Core HVAC Services</h2>
+      <p class="sub">Same service lineup, but rewritten for quick homeowner decisions and higher lead intent.</p>
+      <div class="grid3">
+        <article class="card"><h3>AC Installation</h3><p>We install right-sized cooling systems that reduce utility spikes and keep temperatures consistent room to room.</p></article>
+        <article class="card"><h3>Maintenance & Repair</h3><p>Our repair process isolates the actual failure fast so you avoid repeat calls and get your system running the same day when possible.</p></article>
+        <article class="card"><h3>Pre-Season Preparation</h3><p>Before summer or winter peaks, we tune your HVAC equipment to improve efficiency and prevent avoidable emergency outages.</p></article>
+        <article class="card"><h3>Annual Inspections</h3><p>Annual checks catch worn components early, helping you avoid expensive compressor or electrical failures later.</p></article>
+        <article class="card"><h3>Heating Services</h3><p>From diagnostics to full heating repair, we restore dependable warmth quickly and prioritize safe operation first.</p></article>
+        <article class="card"><h3>UV Indoor Air Upgrades</h3><p>UV system options reduce microbial buildup in HVAC airflow pathways and support cleaner indoor air quality.</p></article>
+      </div>
+    </div>
+  </section>
+
+  <section style="background:#eef6ff">
+    <div class="wrap">
+      <h2>Why Atlanta Customers Recommend GB Services</h2>
+      <p class="sub">Trust-forward proof in plain language to build confidence before contact.</p>
+      <div class="grid3">
+        <article class="card review"><h3>“They got us scheduled immediately.”</h3><p>Our AC went out in the afternoon and they had someone out the same day with clear pricing before the repair started.</p><p style="margin-top:10px;font-weight:700">— Tasha M., East Atlanta</p></article>
+        <article class="card review"><h3>“No guesswork, just a real fix.”</h3><p>Another company kept replacing parts. GB Services found the wiring fault in one visit and fixed it properly.</p><p style="margin-top:10px;font-weight:700">— Kevin R., Buckhead</p></article>
+        <article class="card review"><h3>“Great maintenance plan value.”</h3><p>Since moving to their annual maintenance, our units run smoother and we haven’t had surprise breakdowns during peak heat.</p><p style="margin-top:10px;font-weight:700">— Lina C., Decatur</p></article>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <h2>Service Area</h2>
+      <p class="sub">Quick coverage clarity for Metro Atlanta homeowners.</p>
+      <div class="areas"><span>Atlanta</span><span>Decatur</span><span>Sandy Springs</span><span>Brookhaven</span><span>Marietta</span></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap cta">
+      <div>
+        <h2 style="margin:0 0 6px">Need HVAC Help Today?</h2>
+        <p style="margin:0;color:#cbd5e1">Request your quote and get a fast callback.</p>
+      </div>
+      <div>
+        <a class="btn p" href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20GB%20Services%20HVAC">Get a Free Quote</a>
+      </div>
+    </div>
+  </section>
+
+  <footer><div class="wrap">© GB Services HVAC — Atlanta, GA</div></footer>
+</body>
+</html>

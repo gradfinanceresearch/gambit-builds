@@ -1,0 +1,27 @@
+{
+  "slug": "sparks-heating-and-air-denver",
+  "business": "Sparks Heating and Air",
+  "city": "Denver",
+  "tagline": "Trusted Local HVAC Service",
+  "headline": "Heating & Cooling Experts in Denver",
+  "subheadline": "Fast, reliable service for homeowners and businesses.",
+  "services": [
+    "AC Repair",
+    "Heating Repair",
+    "HVAC Installation",
+    "24/7 Emergency Service"
+  ],
+  "service_areas": [
+    "Denver",
+    "Centennial",
+    "Englewood",
+    "Aurora"
+  ],
+  "phone": "(720) 456-8849",
+  "logo": "",
+  "colors": {
+    "primary": "#0B3A63",
+    "accent": "#F97316"
+  },
+  "cta": "Get a Free Estimate"
+}

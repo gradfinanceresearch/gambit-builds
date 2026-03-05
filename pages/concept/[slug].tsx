@@ -3,9 +3,11 @@ import type { GetServerSideProps } from "next";
 type ConceptData = {
   business?: string;
   city?: string;
+  tagline?: string;
   headline?: string;
   subheadline?: string;
   services?: string[];
+  service_areas?: string[];
   phone?: string;
   cta?: string;
   colors?: { primary?: string; accent?: string };
@@ -206,7 +208,7 @@ export default function Concept({ data, slug }: { data: ConceptData; slug: strin
               Add nearby towns/neighborhoods to rank for more “near me” searches.
             </p>
             <div className="mt-4 flex flex-wrap gap-2">
-              {((data.service_areas?.length ? data.service_areas : [city]).map((a) => (
+              {(data.service_areas?.length ? data.service_areas : [city]).map((a) => (
                 <span
                   key={a}
                   className="rounded-full border border-white/10 bg-neutral-950/40 px-3 py-1 text-xs text-neutral-200"

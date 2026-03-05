@@ -1,0 +1,22 @@
+{
+  "slug": "colony-roofers-atlanta",
+  "business": "Colony Roofers",
+  "city": "Atlanta",
+  "headline": "Roofing Experts in Atlanta",
+  "subheadline": "Fast, reliable service for homeowners and businesses.",
+  "services": [
+    "Roof Replacement",
+    "Roof Repair",
+    "Storm Damage Repair",
+    "Shingle Roofing",
+    "Roof Inspections",
+    "Residential Roofing"
+  ],
+  "phone": "(678) 365-3138",
+  "logo": "",
+  "colors": {
+    "primary": "#1F2937",
+    "accent": "#F97316"
+  },
+  "cta": "Get a Free Estimate"
+}

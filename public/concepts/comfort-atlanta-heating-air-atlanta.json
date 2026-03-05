@@ -1,0 +1,27 @@
+{
+  "slug": "comfort-atlanta-heating-air-atlanta",
+  "business": "Comfort Atlanta Heating & Air",
+  "city": "Atlanta",
+  "tagline": "Trusted HVAC Service in Atlanta",
+  "headline": "HVAC Experts in Atlanta",
+  "subheadline": "Fast, reliable heating and cooling service for homeowners and businesses.",
+  "services": [
+    "AC Repair",
+    "Heating Repair",
+    "HVAC Installation",
+    "Maintenance"
+  ],
+  "service_areas": [
+    "Atlanta",
+    "Decatur",
+    "Sandy Springs",
+    "Marietta"
+  ],
+  "phone": "",
+  "logo": "",
+  "colors": {
+    "primary": "#0EA5E9",
+    "accent": "#F97316"
+  },
+  "cta": "Get a Free Estimate"
+}

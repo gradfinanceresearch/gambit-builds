@@ -1,0 +1,35 @@
+{
+  "slug": "sparks-heating-and-air-denver-v3",
+  "business": "Sparks Heating and Air",
+  "city": "Denver",
+  "layout": "trust-forward",
+  "tagline": "Denver's Trusted HVAC Experts",
+  "headline": "Stay Comfortable Year-Round — Fast, Reliable HVAC Service in Denver",
+  "subheadline": "Licensed technicians, upfront pricing, and same-day service available — request service in minutes.",
+  "services": [
+    "HVAC Installation",
+    "HVAC Maintenance",
+    "HVAC Repair",
+    "Furnace Repair",
+    "Air Quality Services"
+  ],
+  "service_areas": [
+    "Denver",
+    "Aurora",
+    "Lakewood",
+    "Englewood",
+    "Centennial"
+  ],
+  "phone": "(720) 456-8849",
+  "logo": "",
+  "colors": {
+    "primary": "#1E3A5F",
+    "accent": "#E85A1A"
+  },
+  "cta": "Request Service",
+  "issues_addressed": [
+    "No single obvious estimate path on first view → one primary request action in the hero",
+    "Service content was hard to scan quickly → clean service-card structure for fast homeowner decisions",
+    "Trust signals were weak above the fold → credibility proof surfaced early with ratings/licensing context"
+  ]
+}

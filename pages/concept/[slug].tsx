@@ -29,6 +29,7 @@ export default function Concept({ data, slug }: { data: ConceptData; slug: strin
   const business = data.business || "Local Service Co";
   const city = data.city || "your area";
   const headline = data.headline || `${business} in ${city}`;
+  const tagline = data.tagline || "";
   const subheadline =
     data.subheadline ||
     `Modern, mobile-first site concept designed to turn visitors into calls and quote requests.`;
@@ -90,7 +91,7 @@ export default function Concept({ data, slug }: { data: ConceptData; slug: strin
 
             <h1 className="mt-4 text-3xl font-bold tracking-tight md:text-5xl">{headline}</h1>
             <p className="mt-3 text-base text-neutral-300 md:text-lg">{subheadline}</p>
-
+	    {tagline ? <p className="mt-2 text-sm text-neutral-400">{tagline}</p> : null}
             <div className="mt-6 flex flex-col gap-3 sm:flex-row">
               <a
                 href={mailto}
@@ -205,7 +206,7 @@ export default function Concept({ data, slug }: { data: ConceptData; slug: strin
               Add nearby towns/neighborhoods to rank for more “near me” searches.
             </p>
             <div className="mt-4 flex flex-wrap gap-2">
-              {[city, "Nearby Area", "Another Area", "Neighborhood"].map((a) => (
+              {((data.service_areas?.length ? data.service_areas : [city]).map((a) => (
                 <span
                   key={a}
                   className="rounded-full border border-white/10 bg-neutral-950/40 px-3 py-1 text-xs text-neutral-200"

@@ -36,9 +36,10 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
   return { props: { data, slug, html: null } };
 };
 export default function Concept({ data, slug, html }: { data: ConceptData | null; slug: string; html?: string | null }) {
-  if (html) {
+if (html) {
     return <div dangerouslySetInnerHTML={{ __html: html }} />;
   }
+  if (!data) return null;
   const primary = data.colors?.primary || "#1E40AF";
   const accent = data.colors?.accent || "#F97316";
   const business = data.business || "Local Service Co";

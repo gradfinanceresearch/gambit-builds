@@ -19,22 +19,23 @@ type ConceptData = {
 
 export const getServerSideProps: GetServerSideProps = async (ctx) => {
   const slug = String(ctx.params?.slug || "");
-  const base = process.env.NEXT_PUBLIC_SITE_URL || "https://gambitbuilds.com";
+  const fs = require("fs");
+  const path = require("path");
 
-  // Check for HTML version first
-  const htmlRes = await fetch(`${base}/concepts/${slug}.html`);
-  if (htmlRes.ok) {
-    const html = await htmlRes.text();
+  const htmlPath = path.join(process.cwd(), "public", "concepts", `${slug}.html`);
+  if (fs.existsSync(htmlPath)) {
+    const html = fs.readFileSync(htmlPath, "utf8");
     return { props: { html, slug, data: null } };
   }
 
-  // Fall back to JSON
+  const base = process.env.NEXT_PUBLIC_SITE_URL || "https://gambitbuilds.com";
   const res = await fetch(`${base}/concepts/${slug}.json`);
   if (!res.ok) return { notFound: true };
 
   const data = (await res.json()) as ConceptData;
   return { props: { data, slug, html: null } };
 };
+
 export default function Concept({ data, slug, html }: { data: ConceptData | null; slug: string; html?: string | null }) {
 if (html) {
     return <div dangerouslySetInnerHTML={{ __html: html }} />;

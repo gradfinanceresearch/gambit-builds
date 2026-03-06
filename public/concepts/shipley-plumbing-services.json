@@ -1,0 +1,27 @@
+{
+  "slug": "shipley-plumbing-services",
+  "business": "Shipley Plumbing Services",
+  "city": "Baltimore",
+  "tagline": "Trusted Plumbing Service in Baltimore",
+  "headline": "Plumbing Experts in Baltimore",
+  "subheadline": "Local plumbing team serving homeowners and businesses across Baltimore.",
+  "services": [
+    "Repairs",
+    "Installations",
+    "Maintenance",
+    "Emergency Service"
+  ],
+  "service_areas": [
+    "Baltimore",
+    "Towson",
+    "Catonsville",
+    "Dundalk"
+  ],
+  "phone": "",
+  "logo": "",
+  "colors": {
+    "primary": "#0EA5E9",
+    "accent": "#F97316"
+  },
+  "cta": "Get a Free Estimate"
+}

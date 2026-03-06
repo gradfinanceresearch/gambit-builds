@@ -1,0 +1,27 @@
+{
+  "slug": "bbs-landscaping",
+  "business": "BB’s Landscaping",
+  "city": "Baltimore",
+  "tagline": "Trusted Landscaping Service in Baltimore",
+  "headline": "Landscaping Experts in Baltimore",
+  "subheadline": "Local landscaping team serving homeowners and businesses across Baltimore.",
+  "services": [
+    "Lawn Care",
+    "Landscape Design",
+    "Seasonal Cleanup",
+    "Hardscaping"
+  ],
+  "service_areas": [
+    "Baltimore",
+    "Towson",
+    "Catonsville",
+    "Dundalk"
+  ],
+  "phone": "",
+  "logo": "",
+  "colors": {
+    "primary": "#16A34A",
+    "accent": "#F97316"
+  },
+  "cta": "Get a Free Estimate"
+}

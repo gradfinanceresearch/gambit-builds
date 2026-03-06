@@ -1,0 +1,58 @@
+{
+  "slug": "warrior-plumbing",
+  "business": "Warrior Plumbing",
+  "city": "Baltimore",
+  "tagline": "Veteran-Owned • 5th Generation Plumbers • 24/7 Emergency Service",
+  "headline": "Baltimore Plumbing Help in Under an Hour — Trusted by 260+ 5-Star Customers",
+  "subheadline": "Warrior Plumbing’s reputation is strong, but this concept reorganizes the experience so homeowners can find services, trust signals, and emergency contact options instantly on mobile.",
+  "services": [
+    "Emergency Plumbing",
+    "Water Heater Repair & Replacement",
+    "Drain Cleaning",
+    "Bathroom & Kitchen Remodel Plumbing",
+    "Sump Pump Services",
+    "Boiler Service & Repair"
+  ],
+  "service_descriptions": [
+    "Fast-response emergency plumbing for leaks, burst pipes, and urgent water issues when you need a real technician now.",
+    "Diagnosis, repair, and full replacement of tank and tankless water heaters with clear recommendations and upfront pricing.",
+    "We clear tough clogs and restore proper flow using professional equipment that addresses the blockage at the source.",
+    "Code-compliant rough-in and finish plumbing for remodels, coordinated to keep your project on schedule.",
+    "Protect your basement from flooding with sump pump installs, backups, and dependable maintenance service.",
+    "Keep heat and hot water reliable with boiler troubleshooting, repairs, and seasonal service from experienced pros."
+  ],
+  "service_areas": [
+    "Baltimore",
+    "Towson",
+    "Catonsville",
+    "Dundalk",
+    "Parkville"
+  ],
+  "reviews": [
+    {
+      "text": "We had a pipe leak at night and Warrior answered immediately. Tech arrived fast, explained everything clearly, and fixed it without trying to upsell us.",
+      "detail": "Amanda R. — Baltimore"
+    },
+    {
+      "text": "From scheduling to final cleanup, the process was smooth. They replaced our water heater in one visit and the pricing was exactly what they quoted.",
+      "detail": "Kevin M. — Towson"
+    },
+    {
+      "text": "Family-run feel with true professionalism. They’ve helped us on two separate plumbing issues and both times were punctual, respectful, and efficient.",
+      "detail": "Sharon D. — Catonsville"
+    }
+  ],
+  "issues_addressed": [
+    "Homepage feels visually busy on mobile",
+    "Primary CTA hierarchy can be clearer for emergency calls",
+    "Service pages are not surfaced quickly enough above the fold"
+  ],
+  "phone": "(443) 967-3736",
+  "logo": "https://warriorplumbing.com/wp-content/uploads/2022/04/WarriorLogoNew2022.png",
+  "colors": {
+    "primary": "#1A1A1A",
+    "accent": "#C8A84B"
+  },
+  "cta": "Schedule Service Today",
+  "layout": "urgency-driven"
+}

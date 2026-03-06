@@ -20,15 +20,25 @@ type ConceptData = {
 export const getServerSideProps: GetServerSideProps = async (ctx) => {
   const slug = String(ctx.params?.slug || "");
   const base = process.env.NEXT_PUBLIC_SITE_URL || "https://gambitbuilds.com";
-  const res = await fetch(`${base}/concepts/${slug}.json`);
 
+  // Check for HTML version first
+  const htmlRes = await fetch(`${base}/concepts/${slug}.html`);
+  if (htmlRes.ok) {
+    const html = await htmlRes.text();
+    return { props: { html, slug, data: null } };
+  }
+
+  // Fall back to JSON
+  const res = await fetch(`${base}/concepts/${slug}.json`);
   if (!res.ok) return { notFound: true };
 
   const data = (await res.json()) as ConceptData;
-  return { props: { data, slug } };
+  return { props: { data, slug, html: null } };
 };
-
-export default function Concept({ data, slug }: { data: ConceptData; slug: string }) {
+export default function Concept({ data, slug, html }: { data: ConceptData | null; slug: string; html?: string | null }) {
+  if (html) {
+    return <div dangerouslySetInnerHTML={{ __html: html }} />;
+  }
   const primary = data.colors?.primary || "#1E40AF";
   const accent = data.colors?.accent || "#F97316";
   const business = data.business || "Local Service Co";

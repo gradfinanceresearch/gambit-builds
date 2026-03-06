@@ -1,0 +1,54 @@
+{
+  "slug": "maxalea",
+  "business": "Maxalea",
+  "city": "Baltimore",
+  "tagline": "Award-Winning Baltimore Landscaping Since 1929",
+  "headline": "Baltimore’s Legacy Landscape Team — Design, Build & Care Without the Chaos",
+  "subheadline": "Your current site proves your craftsmanship, but this concept makes it easier for homeowners to understand your services fast and contact you immediately — with a cleaner modern experience built for today’s clients.",
+  "services": [
+    "Landscape Design",
+    "Landscape Build & Installation",
+    "Hardscapes & Outdoor Living",
+    "Seasonal Maintenance Programs"
+  ],
+  "service_descriptions": [
+    "We translate your goals into a complete outdoor plan that balances aesthetics, function, and long-term plant health.",
+    "From grading and planting to full outdoor transformations, our crews execute your project with clean timelines and precise workmanship.",
+    "Patios, walkways, and gathering spaces are crafted to feel cohesive with your home while standing up to Maryland weather.",
+    "Year-round maintenance keeps your property polished, healthy, and guest-ready without you managing multiple vendors."
+  ],
+  "service_areas": [
+    "Baltimore City",
+    "Baltimore County",
+    "Towson",
+    "Pikesville",
+    "Roland Park"
+  ],
+  "reviews": [
+    {
+      "text": "From concept sketches to the final planting day, every detail was handled professionally. The front and backyard now feel like an intentional extension of our home.",
+      "detail": "B. K., Roland Park"
+    },
+    {
+      "text": "We hired Maxalea for a full patio and planting refresh, and the communication alone set them apart. The team showed up on time, kept the site clean, and delivered exactly what they promised.",
+      "detail": "William S., Baltimore County"
+    },
+    {
+      "text": "Four seasons later, everything still looks incredible. Their design decisions were practical, beautiful, and clearly built to last.",
+      "detail": "R. F., Ruxton"
+    }
+  ],
+  "issues_addressed": [
+    "Outdated/cluttered layout",
+    "Service messaging not immediately clear",
+    "CTA flow can be more direct for conversion"
+  ],
+  "phone": "410.377.7500",
+  "logo": "https://maxalea.com/wp-content/uploads/2015/05/logo-shadow.gif",
+  "colors": {
+    "primary": "#2D5A1B",
+    "accent": "#6B8F3E"
+  },
+  "cta": "Request This Concept",
+  "layout": "clean-modern"
+}

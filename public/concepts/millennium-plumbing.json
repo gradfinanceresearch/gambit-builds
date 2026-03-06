@@ -2,26 +2,64 @@
   "slug": "millennium-plumbing",
   "business": "Millennium Plumbing",
   "city": "Baltimore",
-  "tagline": "Trusted Plumbing Service in Baltimore",
-  "headline": "Plumbing Experts in Baltimore",
-  "subheadline": "Local plumbing team serving homeowners and businesses across Baltimore.",
+  "tagline": "Clean · Courteous · Professional",
+  "headline": "Baltimore's On-Time Plumbing & Heating — Clean Work, Straight Answers",
+  "subheadline": "Millennium Plumbing delivers total home comfort with clean, courteous service every time. We don't upsell you on repairs you don't need — we show up, diagnose honestly, and fix it right.",
   "services": [
-    "Repairs",
-    "Installations",
-    "Maintenance",
-    "Emergency Service"
+    "Electric Water Heaters",
+    "Gas Water Heaters",
+    "Plumbing Repair",
+    "Faucet Repair",
+    "Toilet Repair",
+    "Drain Cleaning",
+    "Sewer Repair",
+    "Sump Pumps"
+  ],
+  "service_descriptions": [
+    "Installation, repair, and replacement of electric water heaters — we restore your hot water fast with minimal disruption.",
+    "Regular maintenance and fast repair of gas water heaters to keep energy costs down and hot water flowing reliably.",
+    "Reliable, comprehensive plumbing repair — from small leaks to major pipe replacements, done clean and on time.",
+    "Stop the drip for good. We fix and replace faucets quickly, saving you water and ending that maddening dripping sound.",
+    "Running toilet? Won't flush? We restore full toilet function fast with prompt, professional repair or replacement.",
+    "Safe, effective drain cleaning for kitchen, bathroom, and main sewer lines — cleared completely, not just temporarily.",
+    "Camera-assisted sewer line diagnosis and repair — we find the real problem before digging, saving time and money.",
+    "Installation and repair of sump pumps that protect your basement from flooding during Baltimore's rainy seasons."
   ],
   "service_areas": [
-    "Baltimore",
+    "Baltimore City",
     "Towson",
-    "Catonsville",
-    "Dundalk"
+    "Glen Burnie",
+    "Columbia",
+    "Pikesville",
+    "Howard County",
+    "Anne Arundel County",
+    "Washington, DC"
   ],
-  "phone": "",
+  "reviews": [
+    {
+      "text": "Called after a main line clog that two other companies couldn't clear. Shawn showed up the same day, diagnosed it in minutes, and fixed it without unnecessary drama. He even walked me through how to prevent it from happening again. This is my plumber now.",
+      "detail": "Kevin F. — Baltimore, MD · Google Review"
+    },
+    {
+      "text": "7 companies didn't answer. Millennium picked up on the first ring at 10pm during a pipe emergency. Tech was at my house within an hour, professional and calm throughout. Saved my basement.",
+      "detail": "Lisa T. — Towson, MD · Google Review"
+    },
+    {
+      "text": "Had a shower valve replaced — old shutoffs were crumbling and I was worried about the scope of the job. Shawn arrived on time, handled it cleanly and quickly, explained exactly what he was doing, and charged fairly. Zero stress.",
+      "detail": "Kevin C. — Glen Burnie, MD · Google Review"
+    }
+  ],
+  "issues_addressed": [
+    "Phone number not prominent enough on existing site",
+    "Site looks outdated despite strong Google reviews",
+    "Emergency availability not highlighted"
+  ],
+  "phone": "(410) 265-8833",
   "logo": "",
   "colors": {
-    "primary": "#0EA5E9",
-    "accent": "#F97316"
+    "primary": "#1a1a6e",
+    "accent": "#d42020"
   },
-  "cta": "Get a Free Estimate"
+  "cta": "Call (410) 265-8833",
+  "layout": "urgency-driven"
 }

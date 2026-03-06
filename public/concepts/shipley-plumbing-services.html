@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shipley Plumbing Services — Howard & Montgomery County's #1 Plumber</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Poppins:wght@700;800&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --primary: #1A3C8F;
+    --primary-light: #2952c4;
+    --accent: #FFD700;
+    --accent-dark: #e6c200;
+    --dark: #0f1f4a;
+    --gray: #f4f7fc;
+    --text: #333;
+    --white: #fff;
+  }
+  body { font-family: 'Inter', sans-serif; color: var(--text); line-height: 1.6; }
+  a { color: inherit; text-decoration: none; }
+
+  /* STICKY HEADER */
+  header {
+    position: sticky; top: 0; z-index: 999;
+    background: var(--primary);
+    padding: 14px 24px;
+    display: flex; align-items: center; justify-content: space-between;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.25);
+  }
+  .header-brand {
+    display: flex; align-items: center; gap: 12px;
+  }
+  .header-logo-icon {
+    width: 40px; height: 40px;
+    background: var(--accent);
+    border-radius: 8px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1.3rem;
+  }
+  .header-name {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.1rem; font-weight: 800;
+    color: var(--white);
+  }
+  .header-name span { color: var(--accent); }
+  .header-phone a {
+    background: var(--accent);
+    color: var(--dark);
+    font-weight: 700; font-size: 1rem;
+    padding: 10px 20px;
+    border-radius: 6px;
+    display: flex; align-items: center; gap: 8px;
+    transition: background 0.2s;
+  }
+  .header-phone a:hover { background: var(--accent-dark); }
+
+  /* HERO */
+  .hero {
+    background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 70%, #1e4a9f 100%);
+    color: var(--white);
+    padding: 80px 24px 90px;
+    text-align: center;
+    position: relative; overflow: hidden;
+  }
+  .hero::before {
+    content: '';
+    position: absolute; inset: 0;
+    background: radial-gradient(circle at 70% 50%, rgba(255,215,0,0.08) 0%, transparent 60%);
+    pointer-events: none;
+  }
+  .hero-badge {
+    display: inline-block;
+    background: var(--accent);
+    color: var(--dark);
+    font-size: 0.78rem; font-weight: 700;
+    padding: 5px 14px; border-radius: 20px;
+    margin-bottom: 20px; letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+  .hero h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: clamp(2rem, 5vw, 3.2rem);
+    font-weight: 800; line-height: 1.15;
+    margin-bottom: 20px;
+    max-width: 760px; margin-left: auto; margin-right: auto;
+  }
+  .hero h1 em { color: var(--accent); font-style: normal; }
+  .hero p {
+    font-size: 1.1rem; opacity: 0.88;
+    max-width: 580px; margin: 0 auto 36px;
+  }
+  .hero-cta {
+    display: flex; flex-wrap: wrap; gap: 14px;
+    justify-content: center;
+  }
+  .btn-primary {
+    background: var(--accent); color: var(--dark);
+    font-weight: 700; font-size: 1.05rem;
+    padding: 14px 32px; border-radius: 8px;
+    transition: transform 0.15s, background 0.2s;
+  }
+  .btn-primary:hover { background: var(--accent-dark); transform: translateY(-2px); }
+  .btn-outline {
+    border: 2px solid rgba(255,255,255,0.6); color: var(--white);
+    font-weight: 600; padding: 14px 28px; border-radius: 8px;
+    transition: border-color 0.2s, background 0.2s;
+  }
+  .btn-outline:hover { border-color: var(--accent); background: rgba(255,215,0,0.1); }
+
+  /* TRUST BAR */
+  .trust-bar {
+    background: var(--accent);
+    padding: 14px 24px;
+    display: flex; flex-wrap: wrap; justify-content: center; gap: 24px;
+    font-weight: 700; font-size: 0.9rem; color: var(--dark);
+  }
+  .trust-bar-item { display: flex; align-items: center; gap: 7px; }
+
+  /* SECTIONS */
+  .section { padding: 72px 24px; }
+  .section-inner { max-width: 1100px; margin: 0 auto; }
+  .section-label {
+    font-size: 0.78rem; font-weight: 700; letter-spacing: 1.5px;
+    text-transform: uppercase; color: var(--primary);
+    margin-bottom: 10px;
+  }
+  .section-title {
+    font-family: 'Poppins', sans-serif;
+    font-size: clamp(1.6rem, 3vw, 2.4rem);
+    font-weight: 800; line-height: 1.2;
+    margin-bottom: 16px; color: var(--dark);
+  }
+  .section-sub { font-size: 1.05rem; color: #666; max-width: 560px; }
+
+  /* SERVICES */
+  .services-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 24px; margin-top: 44px;
+  }
+  .service-card {
+    background: var(--white);
+    border: 1px solid #e0e8f5;
+    border-radius: 12px;
+    padding: 28px 24px;
+    transition: box-shadow 0.2s, transform 0.2s;
+    border-top: 4px solid var(--primary);
+  }
+  .service-card:hover { box-shadow: 0 8px 28px rgba(26,60,143,0.12); transform: translateY(-3px); }
+  .service-icon {
+    width: 48px; height: 48px;
+    background: var(--gray);
+    border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1.5rem; margin-bottom: 16px;
+  }
+  .service-card h3 { font-size: 1.1rem; font-weight: 700; margin-bottom: 8px; color: var(--dark); }
+  .service-card p { font-size: 0.92rem; color: #666; }
+
+  /* REVIEWS */
+  .reviews-section { background: var(--gray); }
+  .reviews-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 24px; margin-top: 44px;
+  }
+  .review-card {
+    background: var(--white); border-radius: 12px;
+    padding: 28px 24px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+    border-bottom: 4px solid var(--accent);
+  }
+  .stars { color: var(--accent); font-size: 1.15rem; margin-bottom: 12px; -webkit-text-stroke: 0.5px #c8a000; }
+  .review-text { font-size: 0.95rem; color: #444; line-height: 1.65; margin-bottom: 16px; }
+  .reviewer { display: flex; align-items: center; gap: 12px; }
+  .reviewer-avatar {
+    width: 40px; height: 40px; border-radius: 50%;
+    background: var(--primary); color: var(--white);
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 700; font-size: 1rem;
+  }
+  .reviewer-name { font-weight: 700; font-size: 0.9rem; color: var(--dark); }
+  .reviewer-location { font-size: 0.8rem; color: #999; }
+
+  /* SERVICE AREAS */
+  .areas-grid {
+    display: flex; flex-wrap: wrap; gap: 12px;
+    margin-top: 32px;
+  }
+  .area-badge {
+    background: var(--white);
+    border: 2px solid var(--primary);
+    color: var(--primary);
+    font-weight: 600; font-size: 0.92rem;
+    padding: 8px 18px; border-radius: 24px;
+  }
+
+  /* CTA */
+  .cta-section {
+    background: linear-gradient(135deg, var(--dark), var(--primary));
+    color: var(--white);
+    text-align: center;
+    padding: 80px 24px;
+  }
+  .cta-section h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: clamp(1.8rem, 3.5vw, 2.8rem);
+    font-weight: 800; margin-bottom: 16px;
+  }
+  .cta-section p { font-size: 1.1rem; opacity: 0.85; margin-bottom: 36px; max-width: 520px; margin-left: auto; margin-right: auto; }
+  .cta-buttons { display: flex; flex-wrap: wrap; gap: 14px; justify-content: center; }
+
+  /* FOOTER */
+  footer {
+    background: #0a1530;
+    color: #aaa;
+    padding: 40px 24px 28px;
+    text-align: center;
+  }
+  .footer-inner { max-width: 900px; margin: 0 auto; }
+  .footer-logo {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2rem; font-weight: 800;
+    color: var(--accent); margin-bottom: 10px;
+  }
+  .footer-links {
+    display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;
+    margin: 16px 0; font-size: 0.88rem;
+  }
+  .footer-links a { color: #ccc; transition: color 0.2s; }
+  .footer-links a:hover { color: var(--accent); }
+  .footer-copy { font-size: 0.78rem; color: #555; margin-top: 16px; }
+  .footer-gambit { font-size: 0.72rem; color: #444; margin-top: 8px; }
+  .footer-gambit a { color: var(--accent); }
+
+  @media (max-width: 640px) {
+    .header-name { font-size: 0.9rem; }
+    .hero { padding: 56px 16px 64px; }
+    .section { padding: 52px 16px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- STICKY HEADER -->
+<header>
+  <div class="header-brand">
+    <div class="header-logo-icon">🔧</div>
+    <div class="header-name">Shipley <span>Plumbing</span></div>
+  </div>
+  <div class="header-phone">
+    <a href="tel:3016837080">📞 (301) 683-7080</a>
+  </div>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-badge">⭐ Howard &amp; Montgomery County's Favorite Plumber</div>
+  <h1>Maryland's <em>Ship Shape</em> Plumbing &amp; HVAC —<br>Done Right the First Time</h1>
+  <p>From emergency drain cleanouts to full HVAC system installs, Shipley delivers expert plumbing and comfort services that Maryland homeowners have trusted for years.</p>
+  <div class="hero-cta">
+    <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Shipley%20Plumbing%20Services" class="btn-primary">Get a Free Estimate</a>
+    <a href="tel:3016837080" class="btn-outline">Call (301) 683-7080</a>
+  </div>
+</section>
+
+<!-- TRUST BAR -->
+<div class="trust-bar">
+  <div class="trust-bar-item">✅ Licensed &amp; Insured</div>
+  <div class="trust-bar-item">🛡️ Service Plans Available</div>
+  <div class="trust-bar-item">🌡️ Plumbing + HVAC in One Call</div>
+  <div class="trust-bar-item">💬 Certified Technicians</div>
+</div>
+
+<!-- SERVICES -->
+<section class="section">
+  <div class="section-inner">
+    <div class="section-label">Our Services</div>
+    <h2 class="section-title">Everything Your Home's Plumbing &amp; Comfort Needs</h2>
+    <p class="section-sub">One company, one call — for all your plumbing, drain, heating, and cooling needs in Maryland.</p>
+    <div class="services-grid">
+      <div class="service-card">
+        <div class="service-icon">🚿</div>
+        <h3>Plumbing</h3>
+        <p>From leaky faucets to full system repairs, our licensed techs tackle every plumbing job quickly and leave your home spotless.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🌀</div>
+        <h3>Drain &amp; Sewer</h3>
+        <p>Safe, thorough drain cleaning and sewer line services — including camera inspection, repair, and replacement, done right the first time.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">❄️</div>
+        <h3>Air Conditioning</h3>
+        <p>Expert A/C installation, repairs, and tune-ups that keep your system running at peak efficiency all summer long.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🔥</div>
+        <h3>Heating</h3>
+        <p>Fast, dependable furnace and heating system service — installation, maintenance, and repair for all major brands.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">📋</div>
+        <h3>Service Plans</h3>
+        <p>Annual maintenance plans that keep your plumbing and HVAC in top shape and save you money before problems start.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🚨</div>
+        <h3>Emergency Service</h3>
+        <p>When something goes wrong and can't wait, call us. We're available for urgent plumbing and HVAC emergencies.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- REVIEWS -->
+<section class="section reviews-section">
+  <div class="section-inner">
+    <div class="section-label">Customer Reviews</div>
+    <h2 class="section-title">Why Maryland Homeowners Choose Shipley</h2>
+    <div class="reviews-grid">
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Shipley came out to clear a main line backup that had been a recurring nightmare for two years. They not only cleared it but ran a camera and showed me exactly where the root intrusion was. Scheduled the repair the following week. Finally — someone who solves the actual problem."</p>
+        <div class="reviewer">
+          <div class="reviewer-avatar">J</div>
+          <div>
+            <div class="reviewer-name">James P.</div>
+            <div class="reviewer-location">Gaithersburg, MD</div>
+          </div>
+        </div>
+      </div>
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Our AC died mid-July. I called four companies and Shipley was the only one who could come out the same day. Tech was professional, explained exactly what failed, and had the part on his truck. Back in cool air by dinnertime. Worth every penny."</p>
+        <div class="reviewer">
+          <div class="reviewer-avatar">S</div>
+          <div>
+            <div class="reviewer-name">Sandra M.</div>
+            <div class="reviewer-location">Ashton, MD</div>
+          </div>
+        </div>
+      </div>
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Signed up for the annual service plan after they serviced my furnace last fall. Already saved money on a water heater flush that would've cost me double otherwise. Friendly crew every time. Feels like they actually care about the customer relationship."</p>
+        <div class="reviewer">
+          <div class="reviewer-avatar">R</div>
+          <div>
+            <div class="reviewer-name">Robert L.</div>
+            <div class="reviewer-location">Olney, MD</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SERVICE AREAS -->
+<section class="section">
+  <div class="section-inner">
+    <div class="section-label">Where We Work</div>
+    <h2 class="section-title">Serving Howard &amp; Montgomery County</h2>
+    <p class="section-sub">Our team covers the greater Maryland area, from Ashton to Columbia and beyond.</p>
+    <div class="areas-grid">
+      <div class="area-badge">📍 Ashton</div>
+      <div class="area-badge">📍 Olney</div>
+      <div class="area-badge">📍 Gaithersburg</div>
+      <div class="area-badge">📍 Rockville</div>
+      <div class="area-badge">📍 Columbia</div>
+      <div class="area-badge">📍 Silver Spring</div>
+      <div class="area-badge">📍 Laurel</div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta-section">
+  <h2>Ready for Ship Shape Service?</h2>
+  <p>Get a free estimate from Maryland's most dependable plumbing &amp; HVAC team. We'll have someone at your door fast.</p>
+  <div class="cta-buttons">
+    <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Shipley%20Plumbing%20Services" class="btn-primary">Request a Free Estimate</a>
+    <a href="tel:3016837080" class="btn-outline">Call (301) 683-7080</a>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-inner">
+    <div class="footer-logo">Shipley Plumbing, Heating &amp; Air Conditioning</div>
+    <p>17816 New Hampshire Avenue, Ashton, MD 20861</p>
+    <div class="footer-links">
+      <a href="#">Home</a>
+      <a href="#">Services</a>
+      <a href="#">Service Plans</a>
+      <a href="tel:3016837080">(301) 683-7080</a>
+      <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Shipley%20Plumbing%20Services">Contact</a>
+    </div>
+    <div class="footer-copy">© 2025 Shipley Plumbing Services. All rights reserved.</div>
+    <div class="footer-gambit">✨ Concept mockup by <a href="https://gambitbuilds.com">Gambit Builds</a></div>
+  </div>
+</footer>
+
+</body>
+</html>

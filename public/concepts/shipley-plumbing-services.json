@@ -1,27 +1,60 @@
 {
   "slug": "shipley-plumbing-services",
   "business": "Shipley Plumbing Services",
-  "city": "Baltimore",
-  "tagline": "Trusted Plumbing Service in Baltimore",
-  "headline": "Plumbing Experts in Baltimore",
-  "subheadline": "Local plumbing team serving homeowners and businesses across Baltimore.",
+  "city": "Ashton",
+  "tagline": "You and your home deserve Ship Shape service",
+  "headline": "Maryland's Ship Shape Plumbing & HVAC — Done Right the First Time",
+  "subheadline": "From emergency drain cleanouts to full HVAC system installs, Shipley delivers expert plumbing and comfort services that Maryland homeowners have trusted for years.",
   "services": [
-    "Repairs",
-    "Installations",
-    "Maintenance",
+    "Plumbing",
+    "Drain & Sewer",
+    "Air Conditioning",
+    "Heating",
+    "Service Plans",
     "Emergency Service"
   ],
-  "service_areas": [
-    "Baltimore",
-    "Towson",
-    "Catonsville",
-    "Dundalk"
+  "service_descriptions": [
+    "From leaky faucets to full system repairs, our licensed techs tackle every plumbing job quickly and leave your home spotless.",
+    "Safe, thorough drain cleaning and sewer line services — including camera inspection, repair, and replacement, done right the first time.",
+    "Expert A/C installation, repairs, and tune-ups that keep your system running at peak efficiency all summer long.",
+    "Fast, dependable furnace and heating system service — installation, maintenance, and repair for all major brands.",
+    "Annual maintenance plans that keep your plumbing and HVAC in top shape and save you money before problems start.",
+    "When something goes wrong and can't wait, call us — available for urgent plumbing and HVAC emergencies."
   ],
-  "phone": "",
+  "service_areas": [
+    "Ashton",
+    "Olney",
+    "Gaithersburg",
+    "Rockville",
+    "Columbia",
+    "Silver Spring",
+    "Laurel"
+  ],
+  "reviews": [
+    {
+      "text": "Shipley came out to clear a main line backup that had been a recurring nightmare for two years. They not only cleared it but ran a camera and showed me exactly where the root intrusion was. Finally — someone who solves the actual problem.",
+      "detail": "James P. — Gaithersburg, MD"
+    },
+    {
+      "text": "Our AC died mid-July. I called four companies and Shipley was the only one who could come out the same day. Tech was professional, explained exactly what failed, and had the part on his truck. Back in cool air by dinnertime.",
+      "detail": "Sandra M. — Ashton, MD"
+    },
+    {
+      "text": "Signed up for the annual service plan after they serviced my furnace last fall. Already saved money on a water heater flush that would've cost me double otherwise. Friendly crew every time.",
+      "detail": "Robert L. — Olney, MD"
+    }
+  ],
+  "issues_addressed": [
+    "Phone number buried / hard to find",
+    "Site looks outdated with yellow/navy color scheme",
+    "No prominent urgency or same-day messaging"
+  ],
+  "phone": "(301) 683-7080",
   "logo": "",
   "colors": {
-    "primary": "#0EA5E9",
-    "accent": "#F97316"
+    "primary": "#1A3C8F",
+    "accent": "#FFD700"
   },
-  "cta": "Get a Free Estimate"
+  "cta": "Get a Free Estimate",
+  "layout": "clean-modern"
 }

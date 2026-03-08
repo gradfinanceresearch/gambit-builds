@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>All Engineered HVAC | Cleveland Concept</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root{--primary:#0B5ED7;--accent:#F59E0B;--ink:#0f172a;--muted:#475569;--bg:#f8fafc;}
+    *{box-sizing:border-box} body{margin:0;font-family:Inter,system-ui,sans-serif;color:var(--ink);background:var(--bg)}
+    .wrap{width:min(1120px,92%);margin:0 auto}
+    .top{position:sticky;top:0;background:#fff;border-bottom:1px solid #e2e8f0;z-index:20}
+    .top .wrap{display:flex;align-items:center;justify-content:space-between;padding:12px 0;gap:12px}
+    .brand{font-weight:800;text-decoration:none;color:var(--ink)}
+    .call{background:var(--primary);color:#fff;text-decoration:none;padding:10px 14px;border-radius:999px;font-weight:700}
+    .hero{padding:68px 0 50px;background:linear-gradient(130deg,#eaf2ff,#fff7e8)}
+    .hero-grid{display:grid;grid-template-columns:1.1fr 1fr;gap:20px;align-items:center}
+    h1{font-size:clamp(2rem,4vw,3.2rem);line-height:1.08;margin:10px 0 14px}
+    .eyebrow{font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--primary);font-weight:700}
+    .lead{color:var(--muted);line-height:1.6}
+    .actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px}
+    .btn{display:inline-block;text-decoration:none;padding:12px 16px;border-radius:10px;font-weight:700}
+    .btn.p{background:var(--primary);color:#fff}.btn.s{background:#fff;color:var(--ink);border:2px solid var(--ink)}
+    .card{background:#fff;border:1px solid #e2e8f0;border-radius:14px;padding:18px;box-shadow:0 10px 24px rgba(2,8,23,.08)}
+    section{padding:56px 0} h2{font-size:clamp(1.4rem,2.7vw,2.1rem);margin:0 0 10px}
+    .sub{margin:0 0 18px;color:var(--muted)}
+    .grid3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+    .svc{background:#fff;border:1px solid #e2e8f0;border-radius:12px;padding:16px}
+    .cta{background:var(--ink);color:#fff;border-radius:14px;padding:26px;display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap}
+    footer{padding:22px 0 32px;color:#64748b}
+    @media(max-width:900px){.hero-grid,.grid3{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <a class="brand" href="#">All Engineered HVAC</a>
+      <a class="call" href="tel:2164039760">Call 216-403-9760</a>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <div class="eyebrow">Cleveland Heights Heating & Cooling</div>
+        <h1>Simple, clear HVAC homepage built to get homeowners to call fast</h1>
+        <p class="lead">Concept goal: put phone + service actions above the fold, reduce text clutter, and make trust proof easier to scan on mobile.</p>
+        <div class="actions">
+          <a class="btn p" href="tel:2164039760">Call Now</a>
+          <a class="btn s" href="mailto:kaleb@gambitbuilds.com?subject=All%20Engineered%20HVAC%20Concept">Request Estimate</a>
+        </div>
+      </div>
+      <aside class="card">
+        <h3 style="margin-top:0">What this concept improves</h3>
+        <p class="lead" style="margin:0">The current site leans heavily on long testimonial pages. This version keeps testimonials, but gives service categories, service area, and contact actions first.</p>
+      </aside>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <h2>Core Services</h2>
+      <p class="sub">Focused layout for fast decision-making.</p>
+      <div class="grid3">
+        <article class="svc"><h3>AC Repair</h3><p>Quick diagnostics and practical fixes for cooling failures.</p></article>
+        <article class="svc"><h3>Furnace Service</h3><p>Repairs and tune-ups before winter breakdowns hit.</p></article>
+        <article class="svc"><h3>New System Installation</h3><p>Right-sized replacements with straightforward options.</p></article>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap cta">
+      <div>
+        <h2 style="margin:0 0 6px">Need HVAC help in Cleveland Heights?</h2>
+        <p style="margin:0;color:#cbd5e1">Tap to call or request an estimate today.</p>
+      </div>
+      <div><a class="btn p" href="tel:2164039760">Call 216-403-9760</a></div>
+    </div>
+  </section>
+
+  <footer><div class="wrap">© All Engineered HVAC Concept — Cleveland, OH</div></footer>
+</body>
+</html>

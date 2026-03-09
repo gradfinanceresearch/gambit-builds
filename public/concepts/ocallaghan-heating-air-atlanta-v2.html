@@ -5,33 +5,60 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>O'Callaghan Heating & Air | Atlanta HVAC</title>
   <style>
-    :root{--red:#dc2626;--red2:#b91c1c;--ink:#0f172a;--ink2:#1e293b;--muted:#64748b;--bg:#f8fafc;--white:#fff;--border:#e2e8f0;--orange:#f97316}
-    *{box-sizing:border-box;margin:0;padding:0} body{font-family:Inter,Arial,sans-serif;color:var(--ink);background:var(--bg);line-height:1.6}
+    :root{--red:#dc2626;--red2:#b91c1c;--ink:#0a0a0a;--bg:#ffffff;--white:#ffffff;--border:#d1d5db;--orange:#f97316;--dark:#111827}
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:Inter,Arial,sans-serif;color:var(--ink);background:var(--bg);line-height:1.6}
     .wrap{width:min(1120px,92%);margin:0 auto}.section{padding:68px 0}
-    .top{background:var(--ink2);color:#fff;padding:10px 0;font-weight:700;font-size:.9rem}.top .wrap{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
-    .nav{background:#fff;border-bottom:1px solid var(--border);position:sticky;top:0;z-index:50}.nav .wrap{display:flex;justify-content:space-between;align-items:center;padding:14px 0}
-    .brand{font-weight:900;font-size:1.1rem;color:var(--ink)} .phone{font-weight:900;color:var(--red);text-decoration:none}
-    .btn{display:inline-flex;align-items:center;gap:8px;background:var(--red);color:#fff;text-decoration:none;padding:13px 22px;border-radius:10px;font-weight:800}
-    .btn:hover{background:var(--red2)} .btn.alt{background:#fff;color:var(--ink);border:2px solid #ffffff80}
+
+    /* dark bg => white text */
+    .top{background:#000;color:#fff;padding:10px 0;font-weight:800;font-size:.9rem}
+    .top .wrap{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+
+    .nav{background:#fff;border-bottom:2px solid #111;position:sticky;top:0;z-index:50}
+    .nav .wrap{display:flex;justify-content:space-between;align-items:center;padding:14px 0}
+    .brand{font-weight:900;font-size:1.1rem;color:#000}
+    .phone{font-weight:900;color:#000;text-decoration:none}
+
+    .btn{display:inline-flex;align-items:center;gap:8px;background:var(--red);color:#fff;text-decoration:none;padding:13px 22px;border-radius:10px;font-weight:800;border:2px solid #7f1d1d}
+    .btn:hover{background:var(--red2)}
+    .btn.alt{background:#fff;color:#000;border:2px solid #000}
+
     .hero{background:linear-gradient(135deg,#7f1d1d 0%,#dc2626 55%,#f97316 100%);color:#fff;padding:76px 0}
     .hero-grid{display:grid;grid-template-columns:1.2fr 1fr;gap:34px;align-items:center}
     h1{font-size:clamp(2rem,5vw,3.4rem);line-height:1.08;font-weight:900;margin-bottom:14px;color:#fff}
-    .lead{color:#fee2e2;font-size:1.05rem;margin-bottom:20px}
-    .badges{display:flex;gap:16px;flex-wrap:wrap;margin-top:18px;font-size:.9rem;font-weight:700;color:#fff}
-    .card{background:#fff;color:var(--ink);border-radius:14px;padding:24px;box-shadow:0 10px 32px rgba(0,0,0,.22)}
-    .card h3{font-size:1.2rem;margin-bottom:8px}.card p{color:var(--muted);margin-bottom:14px}
-    .field{width:100%;padding:12px;border:1px solid var(--border);border-radius:8px;margin-bottom:10px}
-    .submit{width:100%;background:var(--red);color:#fff;border:none;border-radius:9px;padding:12px;font-weight:800}
-    h2{font-size:clamp(1.5rem,3vw,2.25rem);line-height:1.15;margin-bottom:10px;color:var(--ink)}
-    .center{text-align:center;max-width:700px;margin:0 auto 40px}.center p{color:var(--muted)}
+    .lead{color:#fff;font-size:1.05rem;margin-bottom:20px;font-weight:600}
+    .badges{display:flex;gap:16px;flex-wrap:wrap;margin-top:18px;font-size:.92rem;font-weight:800;color:#fff}
+
+    .card{background:#fff;color:#000;border-radius:14px;padding:24px;box-shadow:0 10px 32px rgba(0,0,0,.28);border:2px solid #111}
+    .card h3{font-size:1.2rem;margin-bottom:8px;color:#000}
+    .card p{color:#111;margin-bottom:14px}
+    .field{width:100%;padding:12px;border:2px solid #6b7280;border-radius:8px;margin-bottom:10px;color:#000;background:#fff}
+    .submit{width:100%;background:var(--red);color:#fff;border:none;border-radius:9px;padding:12px;font-weight:900}
+
+    /* light bg => dark text */
+    h2{font-size:clamp(1.5rem,3vw,2.25rem);line-height:1.15;margin-bottom:10px;color:#000}
+    .center{text-align:center;max-width:700px;margin:0 auto 40px}
+    .center p{color:#111;font-weight:500}
     .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
-    .box{background:#fff;border:1px solid var(--border);border-radius:14px;padding:22px}
-    .box h3{margin-bottom:8px}.box p{color:var(--muted);font-size:.94rem}
-    .strip{background:var(--ink);color:#fff;padding:20px 0}.strip .wrap{display:flex;justify-content:center;gap:28px;flex-wrap:wrap;font-weight:700}
-    .reviews{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.review{background:#fff;border:1px solid var(--border);border-radius:14px;padding:20px}
-    .review p{color:var(--ink2);font-style:italic;margin:10px 0 12px}.review .name{font-weight:700}
-    .cta{background:var(--ink2);color:#fff;text-align:center;padding:80px 0}.cta p{color:#cbd5e1;margin:10px 0 22px}.cta .big{font-size:clamp(2rem,5vw,3.2rem);font-weight:900;color:var(--orange);display:block;margin-bottom:20px;text-decoration:none}
-    .footer{background:#0b1220;color:#94a3b8;padding:30px 0;text-align:center;font-size:.85rem}
+    .box{background:#fff;border:2px solid #111;border-radius:14px;padding:22px}
+    .box h3{margin-bottom:8px;color:#000}
+    .box p{color:#111;font-size:.95rem}
+
+    .strip{background:#000;color:#fff;padding:20px 0}
+    .strip .wrap{display:flex;justify-content:center;gap:28px;flex-wrap:wrap;font-weight:800}
+
+    .reviews{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+    .review{background:#fff;border:2px solid #111;border-radius:14px;padding:20px}
+    .review p{color:#000;font-style:italic;margin:10px 0 12px}
+    .review .name{font-weight:800;color:#000}
+
+    .cta{background:#000;color:#fff;text-align:center;padding:80px 0}
+    .cta h2{color:#fff}
+    .cta p{color:#fff;margin:10px 0 22px;font-weight:600}
+    .cta .big{font-size:clamp(2rem,5vw,3.2rem);font-weight:900;color:#ffd166;display:block;margin-bottom:20px;text-decoration:none}
+
+    .footer{background:#000;color:#fff;padding:30px 0;text-align:center;font-size:.9rem;font-weight:600}
+
     @media(max-width:920px){.hero-grid,.grid,.reviews{grid-template-columns:1fr 1fr}}
     @media(max-width:640px){.hero-grid,.grid,.reviews{grid-template-columns:1fr}.card{display:none}}
   </style>
@@ -39,7 +66,7 @@
 <body>
   <div class="top"><div class="wrap"><span>24/7 Emergency HVAC Service • Metro Atlanta</span><span>Licensed & Insured • 40+ Years Local</span></div></div>
   <nav class="nav"><div class="wrap"><div class="brand">O'Callaghan Heating & Air</div><div><a class="phone" href="tel:4045776885">404-577-6885</a> &nbsp; <a class="btn" href="tel:4045776885">Call Now</a></div></div></nav>
-  <section class="hero"><div class="wrap hero-grid"><div><h1>Fast HVAC Repairs and Reliable Comfort in Atlanta</h1><p class="lead">This concept upgrades conversion flow with a stronger hero CTA, trust indicators above the fold, and clearer service pathways on mobile and desktop.</p><div style="display:flex;gap:12px;flex-wrap:wrap"><a class="btn" href="#">Get Free Estimate</a><a class="btn alt" href="#">Schedule Service</a></div><div class="badges"><span>✅ Same-Day Availability</span><span>⭐ Top-Rated Local Team</span><span>🛠️ All Major Brands</span></div></div><aside class="card"><h3>Request a Callback</h3><p>Tell us what’s going on. We’ll call you quickly.</p><input class="field" placeholder="Name"/><input class="field" placeholder="Phone"/><select class="field"><option>Service Needed</option><option>AC Repair</option><option>Heating Repair</option><option>Estimate</option></select><button class="submit">Request Callback</button></aside></div></section>
+  <section class="hero"><div class="wrap hero-grid"><div><h1>Fast HVAC Repairs and Reliable Comfort in Atlanta</h1><p class="lead">High-contrast concept: every dark area uses light text, every light area uses dark text. Built for instant readability and stronger conversion flow.</p><div style="display:flex;gap:12px;flex-wrap:wrap"><a class="btn" href="#">Get Free Estimate</a><a class="btn alt" href="#">Schedule Service</a></div><div class="badges"><span>✅ Same-Day Availability</span><span>⭐ Top-Rated Local Team</span><span>🛠️ All Major Brands</span></div></div><aside class="card"><h3>Request a Callback</h3><p>Tell us what’s going on. We’ll call you quickly.</p><input class="field" placeholder="Name"/><input class="field" placeholder="Phone"/><select class="field"><option>Service Needed</option><option>AC Repair</option><option>Heating Repair</option><option>Estimate</option></select><button class="submit">Request Callback</button></aside></div></section>
   <div class="strip"><div class="wrap"><span>No Hidden Fees</span><span>Upfront Pricing</span><span>Satisfaction Guarantee</span><span>Emergency Response</span></div></div>
   <section class="section"><div class="wrap"><div class="center"><h2>Core HVAC Services</h2><p>Clear service categories help homeowners find the right option fast and call without friction.</p></div><div class="grid"><article class="box"><h3>AC Repair</h3><p>Rapid diagnostics and same-day fixes for no-cool issues and weak airflow.</p></article><article class="box"><h3>Heating Repair</h3><p>Furnace and heat pump service to restore safe, reliable heat quickly.</p></article><article class="box"><h3>System Replacement</h3><p>Efficient HVAC installs with clear options and financing-friendly estimates.</p></article><article class="box"><h3>Preventive Maintenance</h3><p>Seasonal tune-ups that reduce breakdown risk and improve energy performance.</p></article><article class="box"><h3>Indoor Air Quality</h3><p>Filtration and airflow solutions for healthier indoor comfort year-round.</p></article><article class="box"><h3>Emergency HVAC</h3><p>Priority repair support when systems fail during peak heat or cold.</p></article></div></div></section>
   <section class="section" style="padding-top:0"><div class="wrap"><div class="center"><h2>What Customers Value</h2></div><div class="reviews"><div class="review"><div>★★★★★</div><p>"Easy scheduling and straightforward pricing. Tech explained everything clearly."</p><div class="name">— Atlanta homeowner</div></div><div class="review"><div>★★★★★</div><p>"Called in the morning and had cool air restored that afternoon."</p><div class="name">— Fulton County customer</div></div><div class="review"><div>★★★★★</div><p>"Professional, on time, and no surprise add-ons at the end."</p><div class="name">— Metro Atlanta resident</div></div></div></div></section>

@@ -1,30 +1,49 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>O'Callaghan Heating & Air | Atlanta HVAC Concept</title>
-<style>
-:root{--navy:#0f2747;--red:#d62839;--light:#f4f7fb;--text:#10233b}
-*{box-sizing:border-box}body{margin:0;font-family:Inter,Arial,sans-serif;color:var(--text);background:#fff;line-height:1.5}
-.container{max-width:1120px;margin:0 auto;padding:0 20px}
-.top{background:var(--navy);color:#fff}.top .container{display:flex;justify-content:space-between;align-items:center;padding:10px 20px;font-size:14px}
-.btn{display:inline-block;background:var(--red);color:#fff;padding:12px 18px;border-radius:8px;text-decoration:none;font-weight:700}
-.hero{background:linear-gradient(135deg,#0f2747,#1a3d67);color:#fff;padding:60px 0}
-.hero h1{font-size:44px;line-height:1.1;margin:0 0 14px}.hero p{max-width:640px;color:#e6eef8}
-.actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:20px}.ghost{background:#fff;color:#0f2747}
-.trust{background:#eef3fa;padding:18px 0}.trust-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;text-align:center;font-weight:700}
-.section{padding:56px 0}.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.card{border:1px solid #dbe5f1;border-radius:12px;padding:18px;background:#fff}
-.quote{background:#0f2747;color:#fff;border-radius:12px;padding:20px;margin-top:20px}
-.footer{background:#0b1a30;color:#d4deea;padding:30px 0;margin-top:40px}
-@media (max-width:900px){.trust-grid,.cards{grid-template-columns:1fr 1fr}.hero h1{font-size:34px}}
-@media (max-width:640px){.trust-grid,.cards{grid-template-columns:1fr}}
-</style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>O'Callaghan Heating & Air | Atlanta HVAC</title>
+  <style>
+    :root{--red:#dc2626;--red2:#b91c1c;--ink:#0f172a;--ink2:#1e293b;--muted:#64748b;--bg:#f8fafc;--white:#fff;--border:#e2e8f0;--orange:#f97316}
+    *{box-sizing:border-box;margin:0;padding:0} body{font-family:Inter,Arial,sans-serif;color:var(--ink);background:var(--bg);line-height:1.6}
+    .wrap{width:min(1120px,92%);margin:0 auto}.section{padding:68px 0}
+    .top{background:var(--ink2);color:#fff;padding:10px 0;font-weight:700;font-size:.9rem}.top .wrap{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+    .nav{background:#fff;border-bottom:1px solid var(--border);position:sticky;top:0;z-index:50}.nav .wrap{display:flex;justify-content:space-between;align-items:center;padding:14px 0}
+    .brand{font-weight:900;font-size:1.1rem;color:var(--ink)} .phone{font-weight:900;color:var(--red);text-decoration:none}
+    .btn{display:inline-flex;align-items:center;gap:8px;background:var(--red);color:#fff;text-decoration:none;padding:13px 22px;border-radius:10px;font-weight:800}
+    .btn:hover{background:var(--red2)} .btn.alt{background:#fff;color:var(--ink);border:2px solid #ffffff80}
+    .hero{background:linear-gradient(135deg,#7f1d1d 0%,#dc2626 55%,#f97316 100%);color:#fff;padding:76px 0}
+    .hero-grid{display:grid;grid-template-columns:1.2fr 1fr;gap:34px;align-items:center}
+    h1{font-size:clamp(2rem,5vw,3.4rem);line-height:1.08;font-weight:900;margin-bottom:14px;color:#fff}
+    .lead{color:#fee2e2;font-size:1.05rem;margin-bottom:20px}
+    .badges{display:flex;gap:16px;flex-wrap:wrap;margin-top:18px;font-size:.9rem;font-weight:700;color:#fff}
+    .card{background:#fff;color:var(--ink);border-radius:14px;padding:24px;box-shadow:0 10px 32px rgba(0,0,0,.22)}
+    .card h3{font-size:1.2rem;margin-bottom:8px}.card p{color:var(--muted);margin-bottom:14px}
+    .field{width:100%;padding:12px;border:1px solid var(--border);border-radius:8px;margin-bottom:10px}
+    .submit{width:100%;background:var(--red);color:#fff;border:none;border-radius:9px;padding:12px;font-weight:800}
+    h2{font-size:clamp(1.5rem,3vw,2.25rem);line-height:1.15;margin-bottom:10px;color:var(--ink)}
+    .center{text-align:center;max-width:700px;margin:0 auto 40px}.center p{color:var(--muted)}
+    .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+    .box{background:#fff;border:1px solid var(--border);border-radius:14px;padding:22px}
+    .box h3{margin-bottom:8px}.box p{color:var(--muted);font-size:.94rem}
+    .strip{background:var(--ink);color:#fff;padding:20px 0}.strip .wrap{display:flex;justify-content:center;gap:28px;flex-wrap:wrap;font-weight:700}
+    .reviews{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.review{background:#fff;border:1px solid var(--border);border-radius:14px;padding:20px}
+    .review p{color:var(--ink2);font-style:italic;margin:10px 0 12px}.review .name{font-weight:700}
+    .cta{background:var(--ink2);color:#fff;text-align:center;padding:80px 0}.cta p{color:#cbd5e1;margin:10px 0 22px}.cta .big{font-size:clamp(2rem,5vw,3.2rem);font-weight:900;color:var(--orange);display:block;margin-bottom:20px;text-decoration:none}
+    .footer{background:#0b1220;color:#94a3b8;padding:30px 0;text-align:center;font-size:.85rem}
+    @media(max-width:920px){.hero-grid,.grid,.reviews{grid-template-columns:1fr 1fr}}
+    @media(max-width:640px){.hero-grid,.grid,.reviews{grid-template-columns:1fr}.card{display:none}}
+  </style>
 </head>
 <body>
-<div class="top"><div class="container"><div>Serving Metro Atlanta • 24/7 Emergency HVAC</div><div><strong>Call (404) 577-6885</strong></div></div></div>
-<section class="hero"><div class="container"><h1>Fast, Reliable Heating & Cooling in Atlanta</h1><p>Modern concept built to increase call volume with clearer CTAs, stronger trust proof, and a cleaner mobile-first layout.</p><div class="actions"><a class="btn" href="#">Get a Free Estimate</a><a class="btn ghost" href="#">Schedule Service</a></div></div></section>
-<section class="trust"><div class="container trust-grid"><div>40+ Years Local</div><div>Licensed & Insured</div><div>Same-Day Service</div><div>5-Star Team</div></div></section>
-<section class="section"><div class="container"><h2>HVAC Services</h2><div class="cards"><div class="card"><h3>AC Repair</h3><p>Rapid diagnostics and same-day fixes for cooling outages.</p></div><div class="card"><h3>Heating Repair</h3><p>Keep your home warm with dependable furnace and heat pump service.</p></div><div class="card"><h3>System Replacement</h3><p>Energy-efficient installs with financing options and clear timelines.</p></div></div><div class="quote"><h3>Need Help Today?</h3><p>Talk to a local Atlanta technician now.</p><a class="btn" href="#">Call (404) 577-6885</a></div></div></section>
-<footer class="footer"><div class="container">Concept preview for O'Callaghan Heating & Air Conditioning • Atlanta, GA</div></footer>
-</body></html>
+  <div class="top"><div class="wrap"><span>24/7 Emergency HVAC Service • Metro Atlanta</span><span>Licensed & Insured • 40+ Years Local</span></div></div>
+  <nav class="nav"><div class="wrap"><div class="brand">O'Callaghan Heating & Air</div><div><a class="phone" href="tel:4045776885">404-577-6885</a> &nbsp; <a class="btn" href="tel:4045776885">Call Now</a></div></div></nav>
+  <section class="hero"><div class="wrap hero-grid"><div><h1>Fast HVAC Repairs and Reliable Comfort in Atlanta</h1><p class="lead">This concept upgrades conversion flow with a stronger hero CTA, trust indicators above the fold, and clearer service pathways on mobile and desktop.</p><div style="display:flex;gap:12px;flex-wrap:wrap"><a class="btn" href="#">Get Free Estimate</a><a class="btn alt" href="#">Schedule Service</a></div><div class="badges"><span>✅ Same-Day Availability</span><span>⭐ Top-Rated Local Team</span><span>🛠️ All Major Brands</span></div></div><aside class="card"><h3>Request a Callback</h3><p>Tell us what’s going on. We’ll call you quickly.</p><input class="field" placeholder="Name"/><input class="field" placeholder="Phone"/><select class="field"><option>Service Needed</option><option>AC Repair</option><option>Heating Repair</option><option>Estimate</option></select><button class="submit">Request Callback</button></aside></div></section>
+  <div class="strip"><div class="wrap"><span>No Hidden Fees</span><span>Upfront Pricing</span><span>Satisfaction Guarantee</span><span>Emergency Response</span></div></div>
+  <section class="section"><div class="wrap"><div class="center"><h2>Core HVAC Services</h2><p>Clear service categories help homeowners find the right option fast and call without friction.</p></div><div class="grid"><article class="box"><h3>AC Repair</h3><p>Rapid diagnostics and same-day fixes for no-cool issues and weak airflow.</p></article><article class="box"><h3>Heating Repair</h3><p>Furnace and heat pump service to restore safe, reliable heat quickly.</p></article><article class="box"><h3>System Replacement</h3><p>Efficient HVAC installs with clear options and financing-friendly estimates.</p></article><article class="box"><h3>Preventive Maintenance</h3><p>Seasonal tune-ups that reduce breakdown risk and improve energy performance.</p></article><article class="box"><h3>Indoor Air Quality</h3><p>Filtration and airflow solutions for healthier indoor comfort year-round.</p></article><article class="box"><h3>Emergency HVAC</h3><p>Priority repair support when systems fail during peak heat or cold.</p></article></div></div></section>
+  <section class="section" style="padding-top:0"><div class="wrap"><div class="center"><h2>What Customers Value</h2></div><div class="reviews"><div class="review"><div>★★★★★</div><p>"Easy scheduling and straightforward pricing. Tech explained everything clearly."</p><div class="name">— Atlanta homeowner</div></div><div class="review"><div>★★★★★</div><p>"Called in the morning and had cool air restored that afternoon."</p><div class="name">— Fulton County customer</div></div><div class="review"><div>★★★★★</div><p>"Professional, on time, and no surprise add-ons at the end."</p><div class="name">— Metro Atlanta resident</div></div></div></div></section>
+  <section class="cta"><div class="wrap"><h2>Need HVAC Help Today?</h2><p>Call now for fast response and a clear next step.</p><a class="big" href="tel:4045776885">404-577-6885</a><a class="btn" href="#">Get Free Estimate</a></div></section>
+  <footer class="footer"><div class="wrap">Concept preview for O'Callaghan Heating & Air • Atlanta, GA • Built by Gambit Builds</div></footer>
+</body>
+</html>

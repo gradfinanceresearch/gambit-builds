@@ -1,1 +1,688 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0"><title>LaRue Mechanical Services | Columbus, OH</title><style>:root{--primary:#1E3A5F;--accent:#F97316;--ink:#1f2937;--muted:#475569;--line:#cbd5e1}*{box-sizing:border-box}body{margin:0;font-family:Inter,Arial,sans-serif;color:var(--ink);background:#fff;line-height:1.55}.wrap{width:min(1120px,92%);margin:auto}.top{background:var(--primary);color:#fff}.top .wrap{display:flex;justify-content:space-between;padding:10px 0;font-weight:700}.top a{color:#fff;text-decoration:none}.nav{position:sticky;top:0;background:#fff;border-bottom:1px solid var(--line)}.nav .wrap{display:flex;justify-content:space-between;align-items:center;padding:12px 0}.brand{font-weight:900;color:var(--primary)}.btn{display:inline-block;padding:10px 14px;border-radius:9px;text-decoration:none;font-weight:800}.btn-a{background:var(--accent);color:#fff}.btn-p{background:var(--primary);color:#fff}.hero{background:linear-gradient(140deg,#1E3A5F,#162f4c);color:#fff;padding:64px 0}h1{font-size:clamp(2rem,5vw,3.1rem);line-height:1.1;margin:0 0 12px}.hero p{color:#dbeafe;max-width:760px}.actions a{margin:8px 10px 0 0}.sec{padding:56px 0}h2{font-size:clamp(1.6rem,3vw,2.2rem);margin:0 0 8px}.sub{color:var(--muted);margin:0 0 18px}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.card{border:1px solid var(--line);border-top:4px solid var(--accent);border-radius:12px;padding:16px;background:#fff}.card h3{margin:0 0 8px}.card p{margin:0;color:#334155}.reviews{background:var(--primary)}.reviews h2{color:#fff}.reviews .card{background:#122744;border-color:#38506e}.reviews .card h3{color:#fff}.reviews .card p{color:#dbeafe}.areas{display:flex;flex-wrap:wrap;gap:10px}.areas span{background:#e2e8f0;color:#0f172a;padding:8px 12px;border-radius:999px;font-weight:700}.cta{background:var(--accent);color:#fff;text-align:center;padding:52px 0}.cta p{color:#fff}.cta .btn{background:#fff;color:#111827}footer{background:#0b1220;color:#94a3b8;text-align:center;padding:22px 0}@media(max-width:900px){.grid{grid-template-columns:1fr}}</style></head><body><div class="top"><div class="wrap"><div>LaRue Mechanical Services • Columbus, OH</div><a href="tel:6147541227">614-754-1227</a></div></div><div class="nav"><div class="wrap"><div class="brand">LaRue Mechanical Services</div><div><a class="btn btn-a" href="#contact">Get a Free Quote</a> <a class="btn btn-p" href="tel:6147541227">Call 614-754-1227</a></div></div></div><section class="hero"><div class="wrap"><h1>Columbus Mechanical Service With Faster Booking and Clearer Service Options</h1><p>This concept keeps LaRue’s family-owned positioning but replaces the text-heavy homepage with a cleaner path: clear services, immediate call options, trust content, and a visible quote CTA.</p><div class="actions"><a class="btn btn-a" href="#contact">Request Service</a><a class="btn btn-p" href="tel:6147541227">Call Now</a></div></div></section><section class="sec"><div class="wrap"><h2>Services</h2><p class="sub">Built around the actual work LaRue already provides across Central Ohio.</p><div class="grid"><article class="card"><h3>Commercial Kitchen Equipment Repair</h3><p>Factory-trained diagnostics and repair for critical kitchen equipment to reduce downtime during service hours.</p></article><article class="card"><h3>Preventive Commercial Maintenance</h3><p>Scheduled inspections and maintenance plans that catch failures before they interrupt business operations.</p></article><article class="card"><h3>Residential Appliance Repair</h3><p>Reliable in-home appliance repair with straightforward service recommendations and clear next steps.</p></article><article class="card"><h3>Residential Heating & Cooling</h3><p>Heating and cooling service focused on restoring comfort quickly while keeping long-term reliability in view.</p></article><article class="card"><h3>Emergency Service Calls</h3><p>Priority response for urgent failures when your equipment can’t wait for normal scheduling windows.</p></article></div></div></section><section class="sec reviews"><div class="wrap"><h2>What Customers Say</h2><div class="grid"><article class="card"><h3>Fast response</h3><p>“Our walk-in cooler issue got diagnosed the same day, and the repair plan was clear right away.” — Restaurant owner, Columbus</p></article><article class="card"><h3>Professional and direct</h3><p>“No guesswork, no runaround — they explained the problem and fixed it without wasting time.” — Homeowner, Westerville</p></article><article class="card"><h3>Dependable maintenance</h3><p>“Their routine service has prevented multiple breakdowns for our kitchen equipment this year.” — Operations manager, Dublin</p></article></div></div></section><section class="sec"><div class="wrap"><h2>Service Areas</h2><div class="areas"><span>Columbus</span><span>Franklin County</span><span>Fairfield County</span><span>Madison County</span><span>Union County</span></div></div></section><section id="contact" class="cta"><div class="wrap"><h2>Need Service Scheduled?</h2><p>Call now or request a quote and we’ll follow up with availability.</p><a class="btn" href="mailto:kaleb@gambitbuilds.com?subject=Concept mockup for LaRue Mechanical Services">Request a Quote</a></div></section><footer>© LaRue Mechanical Services concept • Columbus, OH</footer></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LaRue Mechanical Services — Columbus, OH</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: #ffffff;
+      color: #1f2937;
+      line-height: 1.6;
+    }
+
+    a { text-decoration: none; color: inherit; }
+
+    /* ── STICKY HEADER ── */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: #ffffff;
+      border-bottom: 2px solid #8DE0E0;
+      padding: 0 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 68px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+
+    .header-logo {
+      font-size: 1.2rem;
+      font-weight: 800;
+      color: #145F5F;
+      letter-spacing: -0.5px;
+      line-height: 1.2;
+    }
+
+    .header-logo span {
+      display: block;
+      font-size: 0.75rem;
+      font-weight: 500;
+      color: #4b5563;
+      letter-spacing: 0.5px;
+    }
+
+    .header-phone a {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: #F97316;
+      color: #ffffff;
+      font-weight: 700;
+      font-size: 0.95rem;
+      padding: 10px 20px;
+      border-radius: 6px;
+      transition: background 0.2s;
+    }
+
+    .header-phone a:hover { background: #ea6b0a; }
+
+    /* ── HERO ── */
+    .hero {
+      background: #145F5F;
+      color: #ffffff;
+      padding: 80px 24px 90px;
+      text-align: center;
+    }
+
+    .hero-badge {
+      display: inline-block;
+      background: rgba(141,224,224,0.25);
+      color: #a8edec;
+      font-size: 0.78rem;
+      font-weight: 600;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      padding: 6px 14px;
+      border-radius: 20px;
+      margin-bottom: 20px;
+    }
+
+    .hero h1 {
+      font-size: clamp(1.9rem, 5vw, 3rem);
+      font-weight: 800;
+      color: #ffffff;
+      line-height: 1.2;
+      max-width: 780px;
+      margin: 0 auto 18px;
+    }
+
+    .hero h1 em {
+      font-style: normal;
+      color: #8DE0E0;
+    }
+
+    .hero p {
+      font-size: 1.1rem;
+      color: #c8f0f0;
+      max-width: 580px;
+      margin: 0 auto 36px;
+    }
+
+    .hero-ctas {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      justify-content: center;
+    }
+
+    .btn-primary {
+      background: #F97316;
+      color: #ffffff;
+      font-weight: 700;
+      font-size: 1rem;
+      padding: 14px 32px;
+      border-radius: 6px;
+      border: none;
+      cursor: pointer;
+      transition: background 0.2s;
+      display: inline-block;
+    }
+
+    .btn-primary:hover { background: #ea6b0a; }
+
+    .btn-outline {
+      background: transparent;
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 1rem;
+      padding: 13px 30px;
+      border-radius: 6px;
+      border: 2px solid #8DE0E0;
+      display: inline-block;
+      transition: background 0.2s;
+    }
+
+    .btn-outline:hover { background: rgba(141,224,224,0.15); }
+
+    /* ── TRUST BAR ── */
+    .trust-bar {
+      background: #f0fbfb;
+      border-bottom: 1px solid #c5eded;
+      padding: 20px 24px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      justify-content: center;
+    }
+
+    .trust-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.88rem;
+      font-weight: 600;
+      color: #1f2937;
+    }
+
+    .trust-icon {
+      width: 28px;
+      height: 28px;
+      background: #145F5F;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #ffffff;
+      font-size: 0.8rem;
+      flex-shrink: 0;
+    }
+
+    /* ── SECTION SHARED ── */
+    section { padding: 72px 24px; }
+
+    .section-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    .section-label {
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 1.4px;
+      text-transform: uppercase;
+      color: #145F5F;
+      margin-bottom: 10px;
+    }
+
+    .section-title {
+      font-size: clamp(1.5rem, 3.5vw, 2.2rem);
+      font-weight: 800;
+      color: #111827;
+      line-height: 1.25;
+      margin-bottom: 12px;
+    }
+
+    .section-sub {
+      font-size: 1rem;
+      color: #4b5563;
+      max-width: 600px;
+      margin-bottom: 48px;
+    }
+
+    /* ── SERVICES ── */
+    #services {
+      background: #ffffff;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
+
+    .service-card {
+      background: #ffffff;
+      border: 2px solid #c5eded;
+      border-radius: 12px;
+      padding: 28px 24px;
+      transition: box-shadow 0.2s, border-color 0.2s;
+    }
+
+    .service-card:hover {
+      box-shadow: 0 6px 24px rgba(20,95,95,0.12);
+      border-color: #8DE0E0;
+    }
+
+    .service-icon {
+      width: 48px;
+      height: 48px;
+      background: #e6f9f9;
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 16px;
+      font-size: 1.4rem;
+    }
+
+    .service-card h3 {
+      font-size: 1rem;
+      font-weight: 700;
+      color: #111827;
+      margin-bottom: 8px;
+    }
+
+    .service-card p {
+      font-size: 0.92rem;
+      color: #4b5563;
+      line-height: 1.6;
+    }
+
+    /* ── REVIEWS ── */
+    #reviews {
+      background: #f0fbfb;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
+
+    .review-card {
+      background: #ffffff;
+      border-radius: 12px;
+      padding: 28px 24px;
+      box-shadow: 0 2px 12px rgba(20,95,95,0.08);
+      border-top: 4px solid #8DE0E0;
+    }
+
+    .review-stars {
+      color: #F97316;
+      font-size: 1.1rem;
+      margin-bottom: 12px;
+      letter-spacing: 2px;
+    }
+
+    .review-text {
+      font-size: 0.95rem;
+      color: #1f2937;
+      line-height: 1.65;
+      margin-bottom: 16px;
+    }
+
+    .review-author {
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: #145F5F;
+    }
+
+    .review-detail {
+      font-size: 0.8rem;
+      color: #6b7280;
+    }
+
+    /* ── SERVICE AREAS ── */
+    #areas {
+      background: #ffffff;
+    }
+
+    .areas-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 8px;
+    }
+
+    .area-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: #e6f9f9;
+      color: #145F5F;
+      font-weight: 600;
+      font-size: 0.9rem;
+      padding: 10px 18px;
+      border-radius: 24px;
+      border: 1px solid #c5eded;
+    }
+
+    .area-chip::before {
+      content: "📍";
+      font-size: 0.85rem;
+    }
+
+    /* ── CTA ── */
+    #cta {
+      background: #0D5C5C;
+      color: #ffffff;
+      text-align: center;
+    }
+
+    #cta .section-label {
+      color: #8DE0E0;
+    }
+
+    #cta .section-title {
+      color: #ffffff;
+    }
+
+    #cta .section-sub {
+      color: #c8f0f0;
+      margin: 0 auto 36px;
+    }
+
+    .cta-form {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      justify-content: center;
+      max-width: 560px;
+      margin: 0 auto;
+    }
+
+    .cta-form input {
+      flex: 1;
+      min-width: 220px;
+      padding: 14px 18px;
+      border-radius: 6px;
+      border: none;
+      font-size: 0.95rem;
+      color: #1f2937;
+      background: #ffffff;
+      outline: none;
+    }
+
+    .cta-form input::placeholder { color: #9ca3af; }
+
+    .cta-or {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      color: #a8edec;
+      font-size: 0.88rem;
+      margin: 20px 0;
+    }
+
+    .cta-or::before,
+    .cta-or::after {
+      content: '';
+      flex: 1;
+      max-width: 80px;
+      height: 1px;
+      background: rgba(141,224,224,0.3);
+    }
+
+    .cta-phone-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      background: rgba(141,224,224,0.15);
+      border: 2px solid #8DE0E0;
+      color: #ffffff;
+      font-weight: 700;
+      font-size: 1.1rem;
+      padding: 14px 32px;
+      border-radius: 6px;
+      transition: background 0.2s;
+    }
+
+    .cta-phone-link:hover { background: rgba(141,224,224,0.28); }
+
+    /* ── FOOTER ── */
+    footer {
+      background: #1f2937;
+      color: #d1d5db;
+      padding: 48px 24px 32px;
+    }
+
+    .footer-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 36px;
+      margin-bottom: 36px;
+    }
+
+    .footer-brand h3 {
+      font-size: 1.1rem;
+      font-weight: 800;
+      color: #ffffff;
+      margin-bottom: 8px;
+    }
+
+    .footer-brand p {
+      font-size: 0.88rem;
+      color: #9ca3af;
+      line-height: 1.6;
+    }
+
+    .footer-col h4 {
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: #ffffff;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      margin-bottom: 14px;
+    }
+
+    .footer-col ul {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .footer-col ul li {
+      font-size: 0.88rem;
+      color: #9ca3af;
+    }
+
+    .footer-bottom {
+      max-width: 1100px;
+      margin: 0 auto;
+      border-top: 1px solid #374151;
+      padding-top: 20px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: space-between;
+      font-size: 0.82rem;
+      color: #6b7280;
+    }
+
+    .footer-bottom a {
+      color: #8DE0E0;
+    }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 600px) {
+      header { padding: 0 16px; height: 62px; }
+      .header-phone a { font-size: 0.85rem; padding: 9px 14px; }
+      section { padding: 52px 16px; }
+      .hero { padding: 60px 16px 70px; }
+      .hero h1 { font-size: 1.75rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <div class="header-logo">
+      LaRue Mechanical Services
+      <span>Columbus, OH · CFESA Certified</span>
+    </div>
+    <div class="header-phone">
+      <a href="tel:6147541227">📞 614-754-1227</a>
+    </div>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-badge">Serving Columbus &amp; Central Ohio Since Day One</div>
+    <h1>Columbus's Certified Mechanical Experts — <em>Commercial &amp; Residential Fixed Fast</em></h1>
+    <p>CFESA certified with 20+ years of hands-on experience repairing commercial kitchen equipment, HVAC systems, and home appliances across Columbus, OH.</p>
+    <div class="hero-ctas">
+      <a class="btn-primary" href="mailto:kaleb@gambitbuilds.com?subject=Concept mockup for LaRue Mechanical Services">Get a Free Quote</a>
+      <a class="btn-outline" href="tel:6147541227">Call 614-754-1227</a>
+    </div>
+  </section>
+
+  <!-- TRUST BAR -->
+  <div class="trust-bar">
+    <div class="trust-item">
+      <div class="trust-icon">✓</div>
+      CFESA Certified Technician
+    </div>
+    <div class="trust-item">
+      <div class="trust-icon">🏭</div>
+      Factory Trained &amp; Licensed
+    </div>
+    <div class="trust-item">
+      <div class="trust-icon">⚡</div>
+      Emergency Same-Day Service
+    </div>
+    <div class="trust-item">
+      <div class="trust-icon">📍</div>
+      Serving Franklin, Fairfield &amp; Surrounding Counties
+    </div>
+  </div>
+
+  <!-- SERVICES -->
+  <section id="services">
+    <div class="section-inner">
+      <div class="section-label">What We Do</div>
+      <h2 class="section-title">Services Built Around Your Schedule</h2>
+      <p class="section-sub">Whether it's a commercial kitchen breakdown or a home appliance acting up, we show up fast, diagnose accurately, and fix it right the first time.</p>
+
+      <div class="services-grid">
+
+        <div class="service-card">
+          <div class="service-icon">🍳</div>
+          <h3>Commercial Kitchen Equipment Repair</h3>
+          <p>We diagnose and repair commercial ovens, fryers, refrigeration units, and dishwashers quickly so your kitchen keeps running without costly downtime.</p>
+        </div>
+
+        <div class="service-card">
+          <div class="service-icon">🔧</div>
+          <h3>Preventive Commercial Maintenance</h3>
+          <p>Scheduled maintenance plans designed to catch small issues before they escalate into expensive emergency breakdowns for your business.</p>
+        </div>
+
+        <div class="service-card">
+          <div class="service-icon">🏠</div>
+          <h3>Residential Appliance Repair</h3>
+          <p>From washers and dryers to refrigerators and dishwashers, we fix your home appliances quickly with upfront, honest pricing and no hidden fees.</p>
+        </div>
+
+        <div class="service-card">
+          <div class="service-icon">❄️</div>
+          <h3>Residential Heating &amp; Cooling</h3>
+          <p>Keep your Columbus home comfortable year-round with expert HVAC repair and seasonal maintenance performed by certified technicians.</p>
+        </div>
+
+        <div class="service-card">
+          <div class="service-icon">🚨</div>
+          <h3>Emergency Service Calls</h3>
+          <p>When equipment fails at the worst possible time, we respond fast — day or evening — to minimize downtime and get you back up and running.</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section id="reviews">
+    <div class="section-inner">
+      <div class="section-label">Customer Reviews</div>
+      <h2 class="section-title">What Columbus Customers Are Saying</h2>
+      <p class="section-sub">Real feedback from real customers across Columbus and Central Ohio.</p>
+
+      <div class="reviews-grid">
+
+        <div class="review-card">
+          <div class="review-stars">★★★★★</div>
+          <p class="review-text">"Keith showed up the same day and had our commercial fryer running again in under two hours. Our kitchen staff barely noticed the downtime. If you run a restaurant in Columbus, save this number."</p>
+          <div class="review-author">Maria T.</div>
+          <div class="review-detail">Restaurant Owner, Columbus, OH</div>
+        </div>
+
+        <div class="review-card">
+          <div class="review-stars">★★★★★</div>
+          <p class="review-text">"We signed up for the preventive maintenance plan two years ago and have not had a single emergency breakdown since. It pays for itself easily. LaRue keeps everything in our facility running smoothly."</p>
+          <div class="review-author">Brian S.</div>
+          <div class="review-detail">Facility Manager, Westerville, OH</div>
+        </div>
+
+        <div class="review-card">
+          <div class="review-stars">★★★★★</div>
+          <p class="review-text">"Called at 7pm on a Friday when our furnace went out. Keith was here by 8:30 and fixed it that same night. Fair price, no drama, no upsell. Exactly what you want when something breaks at the worst time."</p>
+          <div class="review-author">Sandra K.</div>
+          <div class="review-detail">Homeowner, Grove City, OH</div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- SERVICE AREAS -->
+  <section id="areas">
+    <div class="section-inner">
+      <div class="section-label">Where We Work</div>
+      <h2 class="section-title">Serving Columbus &amp; All of Central Ohio</h2>
+      <p class="section-sub">We cover Franklin, Fairfield, Hocking, Madison, Union, Pickaway, and Ross counties — and everywhere in between.</p>
+      <div class="areas-grid">
+        <div class="area-chip">Columbus</div>
+        <div class="area-chip">Dublin</div>
+        <div class="area-chip">Westerville</div>
+        <div class="area-chip">Grove City</div>
+        <div class="area-chip">Pickerington</div>
+        <div class="area-chip">Reynoldsburg</div>
+        <div class="area-chip">Lancaster</div>
+        <div class="area-chip">Newark</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section id="cta">
+    <div class="section-inner">
+      <div class="section-label">Ready to Get Started?</div>
+      <h2 class="section-title">Get a Free Quote Today</h2>
+      <p class="section-sub">Whether it's a commercial kitchen emergency or routine home appliance maintenance — we're ready when you are.</p>
+      <form class="cta-form" action="mailto:kaleb@gambitbuilds.com" method="get" enctype="text/plain">
+        <input type="text" name="name" placeholder="Your Name" />
+        <input type="text" name="phone" placeholder="Phone Number" />
+        <input type="hidden" name="subject" value="Concept mockup for LaRue Mechanical Services" />
+        <button type="submit" class="btn-primary" style="white-space:nowrap;">Request a Quote →</button>
+      </form>
+      <div class="cta-or">or call us directly</div>
+      <a class="cta-phone-link" href="tel:6147541227">📞 614-754-1227</a>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <h3>LaRue Mechanical Services</h3>
+        <p>CFESA certified mechanical technicians serving Columbus, OH and Central Ohio. Commercial kitchen equipment, HVAC, and residential appliance repair.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Services</h4>
+        <ul>
+          <li>Commercial Kitchen Repair</li>
+          <li>Preventive Maintenance</li>
+          <li>Residential Appliance Repair</li>
+          <li>Heating &amp; Cooling</li>
+          <li>Emergency Service Calls</li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Service Areas</h4>
+        <ul>
+          <li>Columbus, OH</li>
+          <li>Dublin &amp; Westerville</li>
+          <li>Grove City &amp; Pickerington</li>
+          <li>Franklin, Fairfield, Union Counties</li>
+          <li>Pickaway &amp; Ross Counties</li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Contact</h4>
+        <ul>
+          <li><a href="tel:6147541227" style="color:#8DE0E0;">614-754-1227</a></li>
+          <li>Columbus, OH</li>
+          <li>CFESA Certified</li>
+          <li>Factory Trained</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2025 LaRue Mechanical Services. All rights reserved.</span>
+      <span>Concept by <a href="https://gambitbuilds.com" target="_blank">Gambit Builds</a></span>
+    </div>
+  </footer>
+
+</body>
+</html>

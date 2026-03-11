@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Roman Electric LLC | Charlotte NC Electrician | Licensed & Insured</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Inter', sans-serif; color: #1f2937; background: #ffffff; }
+
+  /* HEADER */
+  .site-header {
+    position: sticky; top: 0; z-index: 100;
+    background: #1A8FC4; padding: 0 24px;
+    display: flex; align-items: center; justify-content: space-between;
+    height: 64px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  }
+  .site-header .brand { font-size: 1.1rem; font-weight: 800; color: #ffffff; letter-spacing: -0.3px; }
+  .site-header .header-phone a {
+    color: #ffffff; text-decoration: none; font-size: 1.02rem; font-weight: 700;
+    background: rgba(255,255,255,0.15); padding: 8px 16px; border-radius: 6px;
+  }
+  .site-header .header-phone a:hover { background: rgba(255,255,255,0.25); }
+
+  /* HERO */
+  .hero {
+    background: linear-gradient(135deg, #0F5F8F 0%, #1A8FC4 60%, #2AA7E0 100%);
+    color: #ffffff; padding: 80px 24px 70px; text-align: center;
+  }
+  .hero .badge {
+    display: inline-block; background: rgba(255,255,255,0.15);
+    color: #ffffff; font-size: 0.78rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 1.2px; padding: 6px 14px; border-radius: 20px; margin-bottom: 20px;
+  }
+  .hero h1 { font-size: clamp(1.9rem, 4vw, 2.9rem); font-weight: 800; line-height: 1.2; margin-bottom: 16px; color: #ffffff; }
+  .hero h1 span { color: #FFD4A3; }
+  .hero p { font-size: 1.12rem; color: rgba(255,255,255,0.9); max-width: 540px; margin: 0 auto 32px; line-height: 1.6; }
+  .hero-cta { display: flex; gap: 14px; justify-content: center; flex-wrap: wrap; }
+  .btn-primary {
+    background: #E8601C; color: #ffffff; font-weight: 800; font-size: 1rem;
+    padding: 14px 28px; border-radius: 8px; text-decoration: none;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2); display: inline-block;
+  }
+  .btn-primary:hover { background: #D14D0B; }
+  .btn-outline {
+    border: 2px solid #ffffff; color: #ffffff; font-weight: 700; font-size: 1rem;
+    padding: 12px 26px; border-radius: 8px; text-decoration: none; display: inline-block;
+  }
+  .btn-outline:hover { background: rgba(255,255,255,0.1); }
+
+  /* TRUST BAR */
+  .trust-bar {
+    background: #0F3A4F; color: #ffffff;
+    display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;
+    padding: 18px 24px; font-size: 0.88rem; font-weight: 600;
+  }
+  .trust-bar span { display: flex; align-items: center; gap: 8px; color: #ffffff; }
+
+  /* SERVICES */
+  .section { padding: 64px 24px; }
+  .section-inner { max-width: 1100px; margin: 0 auto; }
+  .section-label { font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.2px; color: #1A8FC4; margin-bottom: 10px; }
+  .section-title { font-size: clamp(1.5rem, 3vw, 2.1rem); font-weight: 800; color: #1f2937; margin-bottom: 14px; }
+  .section-sub { color: #4b5563; font-size: 1rem; max-width: 520px; line-height: 1.6; margin-bottom: 40px; }
+  .services-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 24px; }
+  .service-card {
+    background: #f0f7fc; border: 1px solid #d1e3f3; border-radius: 12px;
+    padding: 28px 24px; transition: box-shadow 0.2s; border-left: 4px solid #1A8FC4;
+  }
+  .service-card:hover { box-shadow: 0 6px 20px rgba(26,143,196,0.1); }
+  .service-icon { font-size: 2rem; margin-bottom: 14px; }
+  .service-card h3 { font-size: 1.05rem; font-weight: 700; color: #1f2937; margin-bottom: 8px; }
+  .service-card p { font-size: 0.91rem; color: #4b5563; line-height: 1.55; }
+
+  /* REVIEWS */
+  .reviews-section { background: #f0f7fc; padding: 64px 24px; }
+  .reviews-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 24px; margin-top: 36px; }
+  .review-card { background: #ffffff; border-radius: 12px; padding: 28px 24px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); border-top: 3px solid #E8601C; }
+  .stars { color: #f59e0b; font-size: 1.1rem; margin-bottom: 12px; }
+  .review-card p { font-size: 0.93rem; color: #374151; line-height: 1.6; margin-bottom: 16px; font-style: italic; }
+  .reviewer { font-size: 0.85rem; font-weight: 700; color: #1f2937; }
+  .reviewer span { font-weight: 400; color: #6b7280; }
+
+  /* SERVICE AREAS */
+  .areas-section { background: #1A8FC4; padding: 56px 24px; text-align: center; }
+  .areas-section .section-label { color: rgba(255,255,255,0.7); }
+  .areas-section .section-title { color: #ffffff; }
+  .areas-grid { display: flex; gap: 16px; flex-wrap: wrap; justify-content: center; margin-top: 28px; }
+  .area-pill {
+    background: rgba(255,255,255,0.15); color: #ffffff;
+    padding: 10px 22px; border-radius: 30px; font-size: 0.92rem; font-weight: 600;
+    border: 1px solid rgba(255,255,255,0.3);
+  }
+
+  /* CTA */
+  .cta-section { background: #1f2937; color: #ffffff; padding: 72px 24px; text-align: center; }
+  .cta-section h2 { font-size: clamp(1.5rem, 3vw, 2.2rem); font-weight: 800; color: #ffffff; margin-bottom: 16px; }
+  .cta-section p { color: rgba(255,255,255,0.8); font-size: 1rem; margin-bottom: 32px; max-width: 480px; margin-left: auto; margin-right: auto; }
+  .btn-cta {
+    background: #E8601C; color: #ffffff; font-weight: 800; font-size: 1.05rem;
+    padding: 16px 36px; border-radius: 8px; text-decoration: none;
+    display: inline-block; box-shadow: 0 4px 14px rgba(0,0,0,0.3);
+    margin-bottom: 16px;
+  }
+  .btn-cta:hover { background: #D14D0B; }
+  .cta-phone { display: block; color: rgba(255,255,255,0.7); font-size: 0.9rem; margin-top: 8px; }
+  .cta-phone a { color: #FFD4A3; font-weight: 700; text-decoration: none; }
+
+  /* FOOTER */
+  footer { background: #111827; padding: 32px 24px; text-align: center; }
+  footer p { color: rgba(255,255,255,0.5); font-size: 0.82rem; }
+  footer .footer-logo { color: #ffffff; font-weight: 800; font-size: 1rem; margin-bottom: 8px; }
+  footer .footer-note { color: #6b7280; font-size: 0.78rem; margin-top: 8px; }
+
+  @media (max-width: 600px) {
+    .trust-bar { gap: 16px; }
+    .hero-cta { flex-direction: column; align-items: center; }
+  }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="site-header">
+  <div class="brand">Roman Electric LLC</div>
+  <div class="header-phone"><a href="tel:7049571512">📞 (704) 957-1512</a></div>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="badge">⚡ Trusted Local Electrician Since 2018</div>
+  <h1>Fast, Honest Electrical Service in Charlotte —<br><span>No Hidden Fees, Just Results</span></h1>
+  <p>Whether it's a flickering light, a full panel upgrade, or a rewire, we diagnose it quickly and quote fair pricing before we touch a wire.</p>
+  <div class="hero-cta">
+    <a href="tel:7049571512" class="btn-primary">Call (704) 957-1512</a>
+    <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Roman%20Electric%20LLC" class="btn-outline">Get a Free Quote</a>
+  </div>
+</section>
+
+<!-- TRUST BAR -->
+<div class="trust-bar">
+  <span><span>✅</span> Licensed & Insured</span>
+  <span><span>⚙️</span> Family-Owned Operation</span>
+  <span><span>📍</span> Charlotte, NC</span>
+  <span><span>⭐</span> 5-Star Rated</span>
+</div>
+
+<!-- SERVICES -->
+<section class="section">
+  <div class="section-inner">
+    <div class="section-label">What We Do</div>
+    <h2 class="section-title">Residential & Commercial Electrical</h2>
+    <p class="section-sub">From emergency repairs to new construction wiring, we handle every electrical need with licensed expertise and transparent pricing.</p>
+    <div class="services-grid">
+      <div class="service-card">
+        <div class="service-icon">🔌</div>
+        <h3>Residential Repairs</h3>
+        <p>Outlets that don't work, switches that flicker, or breakers that trip — we diagnose and fix it fast with code-compliant work.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">📦</div>
+        <h3>Panel Upgrades</h3>
+        <p>Outdated service panels causing issues? We upgrade safely to modern capacity with proper permitting and inspection.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🏗️</div>
+        <h3>New Construction Wiring</h3>
+        <p>Ground-up electrical installs for new builds with full rough-in, permanent power, and code compliance inspection.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🏢</div>
+        <h3>Commercial Electrical</h3>
+        <p>Retail buildouts, office wiring, and commercial maintenance — we work with contractors and property managers.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🔧</div>
+        <h3>Troubleshooting & Diagnostics</h3>
+        <p>Not sure what's wrong? We locate the issue, explain what needs fixing, and give you honest pricing before we start.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- REVIEWS -->
+<section class="reviews-section">
+  <div class="section-inner">
+    <div class="section-label">Customer Feedback</div>
+    <h2 class="section-title">Trusted by Charlotte Homes & Businesses</h2>
+    <div class="reviews-grid">
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p>"Our new construction was rough-in wiring done fast and clean. Roman's team stayed on schedule and the inspector had zero comments. Definitely recommend if you're building or remodeling."</p>
+        <div class="reviewer">Tom H. <span>— Contractor, Charlotte</span></div>
+      </div>
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p>"Had an outlet issue that two other electricians said was a big problem. Roman came out, tested it, and it was actually just a loose connection. Honest service like that is hard to find. Great pricing too."</p>
+        <div class="reviewer">Linda C. <span>— Matthews, NC</span></div>
+      </div>
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p>"Our panel was old and undersized. Roman explained the safety issue, quoted a panel upgrade, and coordinated the inspection. Professional from start to finish. They got power back to us same day."</p>
+        <div class="reviewer">Robert J. <span>— Pineville, NC</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SERVICE AREAS -->
+<section class="areas-section">
+  <div class="section-inner">
+    <div class="section-label">Coverage Area</div>
+    <h2 class="section-title">Serving Charlotte & Surrounding Communities</h2>
+    <div class="areas-grid">
+      <div class="area-pill">Charlotte, NC</div>
+      <div class="area-pill">Mint Hill</div>
+      <div class="area-pill">Matthews</div>
+      <div class="area-pill">Pineville</div>
+      <div class="area-pill">Ballantyne</div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta-section">
+  <div class="section-inner">
+    <h2>Electrical Issue? We're Ready to Help.</h2>
+    <p>Call now for a free, no-pressure quote. We'll diagnose the problem, explain the solution, and give you honest pricing.</p>
+    <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Roman%20Electric%20LLC" class="btn-cta">Get Your Free Quote</a>
+    <div class="cta-phone">Or call: <a href="tel:7049571512">(704) 957-1512</a></div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-logo">Roman Electric LLC</div>
+  <p>Charlotte, NC 28202 · (704) 957-1512 · office@romanelectricllc.com</p>
+  <p class="footer-note">Concept mockup by <strong>Gambit Builds</strong> · gambitbuilds.com</p>
+</footer>
+
+</body>
+</html>

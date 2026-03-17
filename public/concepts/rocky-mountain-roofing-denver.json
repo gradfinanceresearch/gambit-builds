@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "Rocky Mountain Roofing",
+    "phone": "(720) 555-0350",
+    "email": "info@rockymountainroofing.com",
+    "city": "Denver",
+    "state": "CO",
+    "industry": "Roofing",
+    "tagline": "Built to last, backed by warranty"
+  },
+  "hero": {
+    "headline": "Denver Roofing Experts — *20-Year Warranty* on Every Job",
+    "subheadline": "From minor repairs to complete replacements, we deliver transparent pricing and guaranteed quality that protects your investment.",
+    "cta_primary": "Get Free Inspection",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "🏅",
+      "text": "20-Year Warranty"
+    },
+    {
+      "emoji": "✅",
+      "text": "Licensed & Insured"
+    },
+    {
+      "emoji": "💎",
+      "text": "Expert Diagnostics"
+    },
+    {
+      "emoji": "💰",
+      "text": "Transparent Pricing"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete Roofing Solutions for Colorado Homes",
+    "subheading": "Professional service backed by decades of experience in Denver's unique climate conditions"
+  },
+  "services": [
+    {
+      "title": "Emergency Roof Repair",
+      "description": "Fast response for storm damage, missing shingles, and urgent leaks. Available 24/7 for Denver area emergencies with same-day diagnostics.",
+      "emoji": "🔧"
+    },
+    {
+      "title": "Complete Roof Replacement",
+      "description": "Full tear-off and installation with premium materials rated for Colorado weather. Includes debris removal and 20-year warranty coverage.",
+      "emoji": "🏠"
+    },
+    {
+      "title": "Advanced Leak Detection",
+      "description": "Thermal imaging and moisture meters locate hidden leaks before they cause major damage. Detailed diagnostic reports included with every inspection.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "Preventive Maintenance",
+      "description": "Seasonal inspections, gutter cleaning, and minor repairs to extend roof life. Customized maintenance plans for residential and commercial properties.",
+      "emoji": "🛡️"
+    },
+    {
+      "title": "Storm Damage Assessment",
+      "description": "Insurance claim support with detailed damage documentation. We work directly with adjusters to ensure proper repair coverage.",
+      "emoji": "⛈️"
+    }
+  ],
+  "about": {
+    "heading": "Protecting Denver Homes for Over Two Decades",
+    "body": "Rocky Mountain Roofing has weathered every storm alongside Denver homeowners since 2003. Our crew understands Colorado's harsh climate — from hailstorms to temperature swings — and uses only materials proven to last in these conditions. Every project comes with transparent upfront pricing and our industry-leading 20-year warranty."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Denver Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Sarah M.",
+      "location": "Highlands, CO",
+      "text": "After the hailstorm last spring, Rocky Mountain came out within 24 hours for inspection. They found damage I couldn't see and walked me through the entire insurance process. New roof installed in 3 days with zero cleanup issues.",
+      "rating": 5
+    },
+    {
+      "name": "Mike R.",
+      "location": "Lakewood, CO",
+      "text": "Had a persistent leak for months that two other companies couldn't find. Their thermal imaging equipment located the exact spot in 30 minutes. Fixed same day and hasn't leaked since — that was 8 months ago.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer K.",
+      "location": "Arvada, CO",
+      "text": "Impressed with their upfront pricing — no surprises or hidden fees. The crew arrived exactly when promised and completed our roof replacement ahead of schedule. Quality work and great communication throughout.",
+      "rating": 5
+    },
+    {
+      "name": "Tom H.",
+      "location": "Westminster, CO",
+      "text": "Emergency repair during that February blizzard. They had someone on my roof the next morning patching things up so we could wait for better weather for the full repair. Really appreciated their quick response.",
+      "rating": 4
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Serving the Greater Denver Area",
+    "subheading": "Professional roofing services throughout the Front Range communities",
+    "areas": [
+      "Denver",
+      "Aurora",
+      "Lakewood",
+      "Thornton",
+      "Arvada",
+      "Westminster",
+      "Centennial",
+      "Boulder",
+      "Broomfield",
+      "Englewood"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Protect Your Home?",
+    "body": "Get your free inspection and transparent pricing estimate. No pressure, just honest assessment of your roof's condition.",
+    "cta_primary": "Schedule Free Inspection",
+    "cta_secondary": "Call (720) 555-0350"
+  },
+  "design": {
+    "primary_color": "#1E40AF",
+    "accent_color": "#7C3AED",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Merriweather",
+    "font_body": "Source Sans Pro"
+  }
+}

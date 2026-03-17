@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ron Steele Plumbing | Charlotte NC Plumber | Same-Day Service</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Inter', sans-serif; color: #1f2937; background: #ffffff; }
+
+  /* HEADER */
+  .site-header {
+    position: sticky; top: 0; z-index: 100;
+    background: #CC0000; padding: 0 24px;
+    display: flex; align-items: center; justify-content: space-between;
+    height: 64px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  }
+  .site-header .brand { font-size: 1.15rem; font-weight: 800; color: #ffffff; letter-spacing: -0.3px; }
+  .site-header .header-phone a {
+    color: #ffffff; text-decoration: none; font-size: 1.05rem; font-weight: 700;
+    background: rgba(255,255,255,0.15); padding: 8px 16px; border-radius: 6px;
+  }
+  .site-header .header-phone a:hover { background: rgba(255,255,255,0.25); }
+
+  /* HERO */
+  .hero {
+    background: linear-gradient(135deg, #9B0000 0%, #CC0000 60%, #E03000 100%);
+    color: #ffffff; padding: 80px 24px 70px; text-align: center;
+  }
+  .hero .badge {
+    display: inline-block; background: rgba(255,255,255,0.15);
+    color: #ffffff; font-size: 0.78rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 1.2px; padding: 6px 14px; border-radius: 20px; margin-bottom: 20px;
+  }
+  .hero h1 { font-size: clamp(1.9rem, 4vw, 2.9rem); font-weight: 800; line-height: 1.2; margin-bottom: 16px; color: #ffffff; }
+  .hero h1 span { color: #FFD0D0; }
+  .hero p { font-size: 1.12rem; color: rgba(255,255,255,0.9); max-width: 540px; margin: 0 auto 32px; line-height: 1.6; }
+  .hero-cta { display: flex; gap: 14px; justify-content: center; flex-wrap: wrap; }
+  .btn-primary {
+    background: #ffffff; color: #CC0000; font-weight: 800; font-size: 1rem;
+    padding: 14px 28px; border-radius: 8px; text-decoration: none;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2); display: inline-block;
+  }
+  .btn-primary:hover { background: #f5f5f5; }
+  .btn-outline {
+    border: 2px solid #ffffff; color: #ffffff; font-weight: 700; font-size: 1rem;
+    padding: 12px 26px; border-radius: 8px; text-decoration: none; display: inline-block;
+  }
+  .btn-outline:hover { background: rgba(255,255,255,0.1); }
+
+  /* TRUST BAR */
+  .trust-bar {
+    background: #1f2937; color: #ffffff;
+    display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;
+    padding: 18px 24px; font-size: 0.88rem; font-weight: 600;
+  }
+  .trust-bar span { display: flex; align-items: center; gap: 8px; color: #ffffff; }
+  .trust-bar .icon { font-size: 1.1rem; }
+
+  /* SERVICES */
+  .section { padding: 64px 24px; }
+  .section-inner { max-width: 1100px; margin: 0 auto; }
+  .section-label { font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.2px; color: #CC0000; margin-bottom: 10px; }
+  .section-title { font-size: clamp(1.5rem, 3vw, 2.1rem); font-weight: 800; color: #1f2937; margin-bottom: 14px; }
+  .section-sub { color: #4b5563; font-size: 1rem; max-width: 520px; line-height: 1.6; margin-bottom: 40px; }
+  .services-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 24px; }
+  .service-card {
+    background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 12px;
+    padding: 28px 24px; transition: box-shadow 0.2s;
+  }
+  .service-card:hover { box-shadow: 0 6px 20px rgba(0,0,0,0.09); }
+  .service-icon { font-size: 2rem; margin-bottom: 14px; }
+  .service-card h3 { font-size: 1.05rem; font-weight: 700; color: #1f2937; margin-bottom: 8px; }
+  .service-card p { font-size: 0.91rem; color: #4b5563; line-height: 1.55; }
+
+  /* REVIEWS */
+  .reviews-section { background: #f3f4f6; padding: 64px 24px; }
+  .reviews-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 24px; margin-top: 36px; }
+  .review-card { background: #ffffff; border-radius: 12px; padding: 28px 24px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+  .stars { color: #f59e0b; font-size: 1.1rem; margin-bottom: 12px; }
+  .review-card p { font-size: 0.93rem; color: #374151; line-height: 1.6; margin-bottom: 16px; font-style: italic; }
+  .reviewer { font-size: 0.85rem; font-weight: 700; color: #1f2937; }
+  .reviewer span { font-weight: 400; color: #6b7280; }
+
+  /* SERVICE AREAS */
+  .areas-section { background: #CC0000; padding: 56px 24px; text-align: center; }
+  .areas-section .section-label { color: rgba(255,255,255,0.7); }
+  .areas-section .section-title { color: #ffffff; }
+  .areas-grid { display: flex; gap: 16px; flex-wrap: wrap; justify-content: center; margin-top: 28px; }
+  .area-pill {
+    background: rgba(255,255,255,0.15); color: #ffffff;
+    padding: 10px 22px; border-radius: 30px; font-size: 0.92rem; font-weight: 600;
+    border: 1px solid rgba(255,255,255,0.3);
+  }
+
+  /* CTA */
+  .cta-section { background: #1f2937; color: #ffffff; padding: 72px 24px; text-align: center; }
+  .cta-section h2 { font-size: clamp(1.5rem, 3vw, 2.2rem); font-weight: 800; color: #ffffff; margin-bottom: 16px; }
+  .cta-section p { color: rgba(255,255,255,0.8); font-size: 1rem; margin-bottom: 32px; max-width: 480px; margin-left: auto; margin-right: auto; }
+  .btn-cta {
+    background: #CC0000; color: #ffffff; font-weight: 800; font-size: 1.05rem;
+    padding: 16px 36px; border-radius: 8px; text-decoration: none;
+    display: inline-block; box-shadow: 0 4px 14px rgba(0,0,0,0.3);
+    margin-bottom: 16px;
+  }
+  .btn-cta:hover { background: #a00000; }
+  .cta-phone { display: block; color: rgba(255,255,255,0.7); font-size: 0.9rem; margin-top: 8px; }
+  .cta-phone a { color: #FFD0D0; font-weight: 700; text-decoration: none; }
+
+  /* FOOTER */
+  footer { background: #111827; padding: 32px 24px; text-align: center; }
+  footer p { color: rgba(255,255,255,0.5); font-size: 0.82rem; }
+  footer .footer-logo { color: #ffffff; font-weight: 800; font-size: 1rem; margin-bottom: 8px; }
+  footer .footer-note { color: #6b7280; font-size: 0.78rem; margin-top: 8px; }
+
+  @media (max-width: 600px) {
+    .trust-bar { gap: 16px; }
+    .hero-cta { flex-direction: column; align-items: center; }
+  }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="site-header">
+  <div class="brand">Ron Steele Plumbing</div>
+  <div class="header-phone"><a href="tel:7043381385">📞 (704) 338-1385</a></div>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="badge">⚡ Serving Charlotte Since 1995</div>
+  <h1>Same-Day Plumbing in Charlotte —<br><span>Fast Fixes, No Runaround</span></h1>
+  <p>Clogged drain at midnight? Water heater on the fritz? We answer the phone and show up — licensed, experienced, and straightforward about what it'll cost.</p>
+  <div class="hero-cta">
+    <a href="tel:7043381385" class="btn-primary">Call (704) 338-1385</a>
+    <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Ron%20Steele%20Plumbing" class="btn-outline">Request a Quote</a>
+  </div>
+</section>
+
+<!-- TRUST BAR -->
+<div class="trust-bar">
+  <span><span class="icon">✅</span> Licensed & Insured</span>
+  <span><span class="icon">🕐</span> 30+ Years Experience</span>
+  <span><span class="icon">📍</span> Charlotte, NC Based</span>
+  <span><span class="icon">⭐</span> 5-Star Rated</span>
+</div>
+
+<!-- SERVICES -->
+<section class="section">
+  <div class="section-inner">
+    <div class="section-label">What We Fix</div>
+    <h2 class="section-title">Full-Service Plumbing, Done Right</h2>
+    <p class="section-sub">From emergency drain clogs to complete bathroom plumbing installs — we handle it all with upfront pricing and no surprise charges.</p>
+    <div class="services-grid">
+      <div class="service-card">
+        <div class="service-icon">🚿</div>
+        <h3>Drain Cleaning</h3>
+        <p>Stubborn clogs cleared fast — kitchen, bath, and main line — so your drains flow freely again without repeated callbacks.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🔥</div>
+        <h3>Water Heater Service</h3>
+        <p>Whether it needs a repair, flush, or full replacement, we get your hot water back on the same day in most cases.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🏠</div>
+        <h3>Bathroom Plumbing</h3>
+        <p>New supply lines, drain rough-in, fixture installs — we handle full bathroom plumbing for remodels and new builds.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">💧</div>
+        <h3>Leak Repair</h3>
+        <p>Hidden leaks behind walls or under slabs tracked down and fixed before they cause expensive water damage to your home.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🔧</div>
+        <h3>Pipe Installation</h3>
+        <p>New construction or replacement — we install supply and drain lines to code with clean workmanship that lasts.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- REVIEWS -->
+<section class="reviews-section">
+  <div class="section-inner">
+    <div class="section-label">What Customers Say</div>
+    <h2 class="section-title">Trusted by Charlotte Homeowners</h2>
+    <div class="reviews-grid">
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p>"Called Ron on a Friday afternoon after our water heater gave out. He came out within two hours and had a new unit installed before dinner. Price was exactly what he quoted — no extras tacked on at the end."</p>
+        <div class="reviewer">Michael T. <span>— Matthews, NC</span></div>
+      </div>
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p>"We had a stubborn drain backup that another plumber couldn't solve. Ron diagnosed it in ten minutes and cleared it completely. He's the only plumber we'll call now. Highly recommend for anyone in the Charlotte area."</p>
+        <div class="reviewer">Sandra K. <span>— Mint Hill, NC</span></div>
+      </div>
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p>"Used Ron Steele during our master bath remodel. Professional, showed up on time, and the work was clean. The tile contractor even commented on how solid the rough-in plumbing was. Worth every penny."</p>
+        <div class="reviewer">David R. <span>— Ballantyne, NC</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SERVICE AREAS -->
+<section class="areas-section">
+  <div class="section-inner">
+    <div class="section-label">Where We Work</div>
+    <h2 class="section-title">Serving Charlotte & Surrounding Areas</h2>
+    <div class="areas-grid">
+      <div class="area-pill">Charlotte, NC</div>
+      <div class="area-pill">Mint Hill</div>
+      <div class="area-pill">Matthews</div>
+      <div class="area-pill">Pineville</div>
+      <div class="area-pill">Ballantyne</div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta-section">
+  <div class="section-inner">
+    <h2>Plumbing Problem? Let's Fix It Today.</h2>
+    <p>Call now for a free estimate — we pick up the phone, show up on time, and tell you exactly what it'll cost before we start.</p>
+    <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Ron%20Steele%20Plumbing" class="btn-cta">Get a Free Estimate</a>
+    <div class="cta-phone">Or call us directly: <a href="tel:7043381385">(704) 338-1385</a></div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-logo">Ron Steele Plumbing</div>
+  <p>413 Enterprise Dr, Charlotte, NC 28206 · (704) 338-1385 · ron@ronsteeleplumbing.com</p>
+  <p class="footer-note">Concept mockup by <strong>Gambit Builds</strong> · gambitbuilds.com</p>
+</footer>
+
+</body>
+</html>

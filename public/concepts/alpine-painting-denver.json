@@ -1,0 +1,125 @@
+{
+  "business": {
+    "name": "Alpine Painting Co",
+    "phone": "(720) 555-0560",
+    "email": "info@alpinepaintingco.com",
+    "city": "Denver",
+    "state": "CO",
+    "industry": "Painting",
+    "tagline": "Elevating Denver homes, one brushstroke at a time"
+  },
+  "hero": {
+    "headline": "Denver's Premier Painting — *Beautiful Finishes Guaranteed*",
+    "subheadline": "Transform your home with our professional crew's expertise. Free estimates, 10-year warranty, and flawless results that last.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "emoji": "✅",
+      "text": "10-Year Warranty"
+    },
+    {
+      "emoji": "🎯",
+      "text": "Free Estimates"
+    },
+    {
+      "emoji": "👥",
+      "text": "Professional Crew"
+    },
+    {
+      "emoji": "🏆",
+      "text": "Beautiful Finish Guaranteed"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete Painting Solutions",
+    "subheading": "From interior transformations to exterior protection, we handle every detail with precision and care."
+  },
+  "services": [
+    {
+      "title": "Interior Painting",
+      "description": "Complete room makeovers with premium paints, precise cut lines, and thorough prep work. We protect your furniture and leave your space spotless.",
+      "emoji": "🏠"
+    },
+    {
+      "title": "Exterior Painting",
+      "description": "Weather-resistant coatings that protect and beautify your home's exterior. Includes power washing, scraping, and primer application.",
+      "emoji": "🏡"
+    },
+    {
+      "title": "Deck Staining & Sealing",
+      "description": "Restore and protect your deck with professional staining services. We sand, clean, and apply premium stains that withstand Colorado weather.",
+      "emoji": "🪵"
+    },
+    {
+      "title": "Custom Finishes",
+      "description": "Specialty techniques including faux finishes, textured walls, and decorative painting to create unique, personalized spaces.",
+      "emoji": "🎨"
+    }
+  ],
+  "about": {
+    "heading": "Trusted Throughout the Denver Metro Area",
+    "body": "Alpine Painting Co has been transforming Denver homes for over a decade. Our skilled team combines traditional craftsmanship with modern techniques, ensuring every project exceeds expectations. We use only premium materials and stand behind our work with a comprehensive 10-year warranty."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Our Clients Say"
+  },
+  "reviews": [
+    {
+      "name": "Sarah M.",
+      "location": "Highlands, Denver CO",
+      "text": "Alpine painted our entire first floor in just 3 days. The crew was incredibly professional, cleaned up perfectly each day, and the finish quality is amazing. Six months later and it still looks perfect.",
+      "rating": 5
+    },
+    {
+      "name": "Mike R.",
+      "location": "Cherry Creek, Denver CO",
+      "text": "Had them stain our deck last spring before a big party. They worked around our timeline, the color match was exactly what we wanted, and it's held up beautifully through the harsh winter.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer L.",
+      "location": "Capitol Hill, Denver CO",
+      "text": "The custom faux finish in our dining room turned out incredible. They took time to show us samples and really listened to our vision. Worth every penny for the artistic quality.",
+      "rating": 5
+    },
+    {
+      "name": "David K.",
+      "location": "Lakewood, CO",
+      "text": "Exterior painting job was completed ahead of schedule despite some weather delays. Great communication throughout and the house looks brand new. Highly recommend Alpine.",
+      "rating": 4
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Serving Denver & Surrounding Areas",
+    "subheading": "Professional painting services throughout the Denver metro region.",
+    "areas": [
+      "Denver",
+      "Lakewood",
+      "Arvada",
+      "Westminster",
+      "Thornton",
+      "Englewood",
+      "Littleton",
+      "Aurora"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Transform Your Space?",
+    "body": "Get your free, detailed estimate today. Our experienced team is ready to bring your vision to life with guaranteed beautiful results.",
+    "cta_primary": "Schedule Estimate",
+    "cta_secondary": "Call (720) 555-0560"
+  },
+  "design": {
+    "primary_color": "#8B5A3C",
+    "accent_color": "#D4A574",
+    "bg_color": "#E8DCC8",
+    "text_color": "#2D1810",
+    "font_heading": "Playfair Display",
+    "font_body": "Source Sans Pro"
+  }
+}

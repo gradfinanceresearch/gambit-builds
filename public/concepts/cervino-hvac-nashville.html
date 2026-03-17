@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cervino Heating & Air LLC — Nashville HVAC Experts Available 24/7</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@700;800&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --primary: #6600dd;
+      --primary-dark: #4a009e;
+      --accent: #0ea5e9;
+      --accent-dark: #0284c7;
+      --text: #1f2937;
+      --text-light: #4b5563;
+      --bg: #ffffff;
+      --bg-gray: #f5f3ff;
+      --border: #ddd6fe;
+    }
+    body { font-family: 'Inter', sans-serif; color: var(--text); background: var(--bg); line-height: 1.6; }
+
+    /* HEADER */
+    header {
+      position: sticky; top: 0; z-index: 100;
+      background: var(--primary); color: #ffffff;
+      padding: 0 24px;
+      display: flex; align-items: center; justify-content: space-between;
+      box-shadow: 0 2px 8px rgba(102,0,221,0.3);
+      min-height: 64px;
+    }
+    .header-logo { font-family: 'Montserrat', sans-serif; font-size: 1.2rem; font-weight: 800; color: #ffffff; text-decoration: none; }
+    .header-logo span { color: #93c5fd; }
+    .header-phone a {
+      color: #ffffff; text-decoration: none; font-weight: 700; font-size: 1.05rem;
+      background: var(--accent); padding: 8px 18px; border-radius: 6px;
+      transition: background 0.2s;
+    }
+    .header-phone a:hover { background: var(--accent-dark); }
+
+    /* HERO — urgency-driven layout */
+    .hero {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 80px 24px;
+      text-align: center;
+    }
+    .hero .urgency-bar {
+      display: inline-flex; align-items: center; gap: 10px;
+      background: rgba(255,255,255,0.15); color: #a5f3fc;
+      border: 1px solid rgba(165,243,252,0.4);
+      padding: 8px 20px; border-radius: 20px; font-size: 0.85rem; font-weight: 700;
+      margin-bottom: 24px; letter-spacing: 0.5px;
+    }
+    .pulse { width: 8px; height: 8px; background: #4ade80; border-radius: 50%; animation: pulse 1.5s infinite; }
+    @keyframes pulse { 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:0.6;transform:scale(1.4)} }
+    .hero h1 {
+      font-family: 'Montserrat', sans-serif; font-size: clamp(1.8rem, 4vw, 2.8rem);
+      font-weight: 800; line-height: 1.2; color: #ffffff; margin-bottom: 16px;
+      max-width: 840px; margin-left: auto; margin-right: auto;
+    }
+    .hero h1 em { font-style: normal; color: #93c5fd; }
+    .hero p {
+      font-size: 1.1rem; color: rgba(255,255,255,0.9); max-width: 600px;
+      margin: 0 auto 32px;
+    }
+    /* Big phone CTA */
+    .hero-phone-cta {
+      display: inline-flex; align-items: center; gap: 12px;
+      background: #ffffff; color: var(--primary); font-weight: 800;
+      padding: 16px 36px; border-radius: 10px; text-decoration: none;
+      font-size: 1.3rem; transition: transform 0.2s, box-shadow 0.2s;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+      font-family: 'Montserrat', sans-serif;
+      margin-bottom: 16px;
+    }
+    .hero-phone-cta:hover { transform: translateY(-2px); box-shadow: 0 6px 24px rgba(0,0,0,0.3); }
+    .hero-secondary { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-top: 8px; }
+    .btn-outline {
+      background: transparent; color: #ffffff; font-weight: 600;
+      padding: 12px 24px; border-radius: 8px; text-decoration: none;
+      font-size: 0.95rem; border: 2px solid rgba(255,255,255,0.5);
+    }
+    .btn-outline:hover { border-color: #ffffff; }
+    .hero-trust {
+      display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;
+      margin-top: 36px; padding-top: 32px; border-top: 1px solid rgba(255,255,255,0.2);
+    }
+    .hero-trust-item { color: rgba(255,255,255,0.9); font-size: 0.9rem; font-weight: 500; display: flex; align-items: center; gap: 8px; }
+    .hero-trust-item::before { content: "✓"; color: #93c5fd; font-weight: 700; }
+
+    /* TRUST BAND */
+    .trust-band { background: #1e1b4b; padding: 28px 24px; }
+    .trust-band-inner { max-width: 1100px; margin: 0 auto; display: flex; gap: 32px; justify-content: center; flex-wrap: wrap; align-items: center; }
+    .trust-stat { text-align: center; }
+    .trust-stat .number { font-family: 'Montserrat', sans-serif; font-size: 2rem; font-weight: 800; color: #93c5fd; }
+    .trust-stat .label { font-size: 0.85rem; color: rgba(255,255,255,0.75); font-weight: 500; }
+
+    /* SECTION */
+    .section { padding: 64px 24px; }
+    .section-inner { max-width: 1100px; margin: 0 auto; }
+    .section-label { font-size: 0.8rem; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; color: var(--primary); margin-bottom: 10px; }
+    .section-title { font-family: 'Montserrat', sans-serif; font-size: clamp(1.5rem, 3vw, 2rem); font-weight: 800; color: var(--text); margin-bottom: 12px; }
+    .section-subtitle { font-size: 1rem; color: var(--text-light); max-width: 560px; }
+
+    /* SERVICES */
+    .services-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 40px; }
+    .service-card {
+      background: var(--bg); border: 1px solid var(--border); border-radius: 10px;
+      padding: 24px; transition: box-shadow 0.2s, border-color 0.2s;
+    }
+    .service-card:hover { box-shadow: 0 4px 16px rgba(102,0,221,0.1); border-color: var(--primary); }
+    .service-icon { font-size: 1.8rem; margin-bottom: 12px; }
+    .service-card h3 { font-weight: 700; font-size: 1rem; color: var(--text); margin-bottom: 8px; }
+    .service-card p { font-size: 0.9rem; color: var(--text-light); line-height: 1.6; }
+
+    /* REVIEWS */
+    .reviews-section { background: var(--bg-gray); }
+    .reviews-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 40px; }
+    .review-card { background: #ffffff; border-radius: 10px; padding: 24px; box-shadow: 0 2px 8px rgba(102,0,221,0.08); border-top: 4px solid var(--primary); }
+    .review-stars { color: #f59e0b; font-size: 1.1rem; margin-bottom: 10px; }
+    .review-text { font-size: 0.95rem; color: var(--text); line-height: 1.65; margin-bottom: 14px; }
+    .review-author { font-size: 0.85rem; font-weight: 600; color: var(--text-light); }
+    .review-author span { color: var(--primary); }
+
+    /* SERVICE AREAS */
+    .areas-grid { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 32px; }
+    .area-pill {
+      background: var(--bg); border: 2px solid var(--primary);
+      color: var(--primary); font-weight: 600; font-size: 0.9rem;
+      padding: 10px 22px; border-radius: 30px; transition: all 0.2s;
+    }
+    .area-pill:hover { background: var(--primary); color: #ffffff; }
+
+    /* CTA */
+    .cta-section { background: var(--primary-dark); color: #ffffff; }
+    .cta-inner { max-width: 700px; margin: 0 auto; text-align: center; }
+    .cta-inner h2 { font-family: 'Montserrat', sans-serif; font-size: clamp(1.5rem, 3vw, 2rem); font-weight: 800; color: #ffffff; margin-bottom: 14px; }
+    .cta-inner p { font-size: 1rem; color: rgba(255,255,255,0.85); margin-bottom: 28px; }
+    .cta-phone-big {
+      display: inline-flex; align-items: center; gap: 10px;
+      background: #ffffff; color: var(--primary-dark); font-weight: 800;
+      padding: 16px 32px; border-radius: 10px; text-decoration: none;
+      font-size: 1.2rem; font-family: 'Montserrat', sans-serif;
+      transition: transform 0.2s;
+    }
+    .cta-phone-big:hover { transform: translateY(-2px); }
+    .cta-email { display: block; margin-top: 16px; color: rgba(255,255,255,0.7); text-decoration: none; font-size: 0.95rem; }
+    .cta-email:hover { color: #ffffff; }
+
+    /* FOOTER */
+    footer { background: #0f0826; color: #9ca3af; padding: 32px 24px; text-align: center; font-size: 0.9rem; }
+    footer a { color: #93c5fd; text-decoration: none; }
+    footer a:hover { color: #ffffff; }
+    footer .footer-name { color: #ffffff; font-weight: 600; }
+    .footer-disclaimer { margin-top: 12px; font-size: 0.75rem; color: #6b7280; }
+
+    @media (max-width: 640px) {
+      .hero { padding: 60px 20px; }
+      .hero-phone-cta { font-size: 1.1rem; padding: 14px 24px; }
+      .section { padding: 48px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <a href="#" class="header-logo">❄️ Cervino <span>Heating &amp; Air</span></a>
+    <div class="header-phone"><a href="tel:6155049397">(615) 504-9397</a></div>
+  </header>
+
+  <!-- HERO — urgency-driven -->
+  <section class="hero">
+    <div class="urgency-bar"><span class="pulse"></span>Technicians Available Now — 24/7 Emergency Service</div>
+    <h1>Same-Day HVAC Repair in Nashville —<br><em>Upfront Pricing,</em> 24/7 Emergency Response</h1>
+    <p>Cervino Heating &amp; Air LLC serves Nashville and Antioch with honest HVAC service, clear pricing, and technicians who answer the phone when you need them most.</p>
+    <a href="tel:6155049397" class="hero-phone-cta">📞 (615) 504-9397 — Call Now</a>
+    <div class="hero-secondary">
+      <a href="mailto:kaleb@gambitbuilds.com?subject=Concept mockup for Cervino Heating and Air" class="btn-outline">Schedule a Service Online</a>
+    </div>
+    <div class="hero-trust">
+      <div class="hero-trust-item">10+ Years HVAC Experience</div>
+      <div class="hero-trust-item">24/7 Emergency Calls</div>
+      <div class="hero-trust-item">Upfront, Honest Pricing</div>
+      <div class="hero-trust-item">Nashville Family-Owned</div>
+    </div>
+  </section>
+
+  <!-- TRUST BAND -->
+  <div class="trust-band">
+    <div class="trust-band-inner">
+      <div class="trust-stat"><div class="number">24/7</div><div class="label">Emergency Service</div></div>
+      <div class="trust-stat"><div class="number">10+</div><div class="label">Years of Experience</div></div>
+      <div class="trust-stat"><div class="number">★ 4.8</div><div class="label">Google Rating</div></div>
+      <div class="trust-stat"><div class="number">$0</div><div class="label">Cost to Get a Quote</div></div>
+    </div>
+  </div>
+
+  <!-- SERVICES -->
+  <section class="section">
+    <div class="section-inner">
+      <div class="section-label">HVAC Services</div>
+      <h2 class="section-title">Heating &amp; Cooling Solutions for Nashville Homes</h2>
+      <p class="section-subtitle">From emergency AC repairs to full system installations, Cervino covers all your HVAC needs with expert technicians and fair pricing.</p>
+      <div class="services-grid">
+        <div class="service-card">
+          <div class="service-icon">❄️</div>
+          <h3>AC Repair &amp; Diagnostics</h3>
+          <p>Fast diagnosis and repair of all AC brands — get your air conditioning back online the same day you call, even in peak summer heat.</p>
+        </div>
+        <div class="service-card">
+          <div class="service-icon">🔥</div>
+          <h3>Heating System Repair</h3>
+          <p>Furnace, heat pump, or electric heating system not working? We diagnose and fix heating failures quickly so your family stays warm.</p>
+        </div>
+        <div class="service-card">
+          <div class="service-icon">🏗️</div>
+          <h3>HVAC Installation &amp; Replacement</h3>
+          <p>New system installs and equipment replacements done right — with proper sizing and brand-matched components for long-term reliability.</p>
+        </div>
+        <div class="service-card">
+          <div class="service-icon">📋</div>
+          <h3>Preventive Maintenance</h3>
+          <p>Regular tune-ups extend system life, cut energy bills, and catch small problems before they become costly breakdowns.</p>
+        </div>
+        <div class="service-card">
+          <div class="service-icon">🌬️</div>
+          <h3>Mini-Split Systems</h3>
+          <p>Ductless mini-split installation and service for additions, garages, and spaces where traditional HVAC isn't an option.</p>
+        </div>
+        <div class="service-card">
+          <div class="service-icon">🌡️</div>
+          <h3>Air Quality &amp; Ventilation</h3>
+          <p>Improve indoor air quality with proper ventilation, filter upgrades, and humidity control — especially important in Middle Tennessee summers.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="section reviews-section">
+    <div class="section-inner">
+      <div class="section-label">Customer Reviews</div>
+      <h2 class="section-title">Nashville Homeowners Love Cervino</h2>
+      <p class="section-subtitle">Honest service, fast response, and real results — hear from our neighbors.</p>
+      <div class="reviews-grid">
+        <div class="review-card">
+          <div class="review-stars">★★★★★</div>
+          <p class="review-text">"My AC went out on the hottest day of the summer. I called Cervino at 8am and had a technician at my door by 10. He found the problem, had the part on his truck, and we were cool again by noon. Absolutely outstanding service."</p>
+          <div class="review-author">— <span>Rachel P.</span>, Antioch, TN</div>
+        </div>
+        <div class="review-card">
+          <div class="review-stars">★★★★★</div>
+          <p class="review-text">"Very professional team. They replaced my entire HVAC system and walked me through exactly what I was getting and why. Pricing was upfront with no surprise add-ons. Will definitely use Cervino again."</p>
+          <div class="review-author">— <span>Carlos M.</span>, Nashville, TN</div>
+        </div>
+        <div class="review-card">
+          <div class="review-stars">★★★★★</div>
+          <p class="review-text">"I've used three different HVAC companies over the years — Cervino is the first one I actually trust. They told me my old unit was repairable when another company tried to sell me a full replacement. Honest and skilled."</p>
+          <div class="review-author">— <span>Barbara L.</span>, Brentwood, TN</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SERVICE AREAS -->
+  <section class="section">
+    <div class="section-inner">
+      <div class="section-label">Service Area</div>
+      <h2 class="section-title">Serving Nashville &amp; Middle Tennessee</h2>
+      <p class="section-subtitle">Cervino Heating &amp; Air covers the greater Nashville area including Antioch and surrounding communities.</p>
+      <div class="areas-grid">
+        <div class="area-pill">Nashville</div>
+        <div class="area-pill">Antioch</div>
+        <div class="area-pill">Brentwood</div>
+        <div class="area-pill">Smyrna</div>
+        <div class="area-pill">Murfreesboro</div>
+        <div class="area-pill">La Vergne</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="section cta-section">
+    <div class="section-inner cta-inner">
+      <h2>HVAC Emergency? We Answer 24/7.</h2>
+      <p>Don't suffer through a broken AC or heat outage. Call Cervino Heating &amp; Air and get a same-day technician with upfront pricing and no pressure.</p>
+      <a href="tel:6155049397" class="cta-phone-big">📞 (615) 504-9397</a>
+      <a href="mailto:kaleb@gambitbuilds.com?subject=Concept mockup for Cervino Heating and Air" class="cta-email">Or send us a message → kaleb@gambitbuilds.com</a>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <div><span class="footer-name">Cervino Heating &amp; Air LLC</span> · Nashville, TN · <a href="tel:6155049397">(615) 504-9397</a></div>
+    <div>Serving Nashville · Antioch · Brentwood · Smyrna · Murfreesboro · 24/7 Emergency Service</div>
+    <div class="footer-disclaimer">This concept page was created by <a href="https://gambitbuilds.com">Gambit Builds</a> to demonstrate what a modernized website could look like for Cervino Heating &amp; Air LLC.</div>
+  </footer>
+
+</body>
+</html>

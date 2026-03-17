@@ -1,0 +1,121 @@
+{
+  "business": {
+    "name": "Phoenix Home Restoration",
+    "phone": "(480) 555-1010",
+    "email": "help@phoenixhomerestoration.com",
+    "city": "Phoenix",
+    "state": "AZ",
+    "industry": "Water Damage",
+    "tagline": "Arizona's Emergency Response Experts"
+  },
+  "hero": {
+    "headline": "Water Damage Emergency? We're On-Site in 60 Minutes — Guaranteed",
+    "subheadline": "Phoenix's certified restoration experts handle insurance claims directly, saving you thousands while restoring your home to better-than-before condition.",
+    "cta_primary": "Get Emergency Help",
+    "cta_secondary": "Call (480) 555-1010"
+  },
+  "trust_badges": [
+    {
+      "emoji": "🚨",
+      "text": "24/7 Emergency Response"
+    },
+    {
+      "emoji": "🏆",
+      "text": "IICRC Certified Technicians"
+    },
+    {
+      "emoji": "💰",
+      "text": "Direct Insurance Billing"
+    },
+    {
+      "emoji": "🔬",
+      "text": "EPA Approved Mold Removal"
+    }
+  ],
+  "services_section": {
+    "label": "EMERGENCY SERVICES",
+    "heading": "Complete Water Damage Solutions",
+    "subheading": "From initial assessment to final restoration, we handle every step with precision and care"
+  },
+  "services": [
+    {
+      "title": "Emergency Water Extraction",
+      "description": "24/7 rapid response with industrial-grade pumps and dehumidifiers. We arrive within 60 minutes to prevent further damage and begin immediate water removal.",
+      "emoji": "💧"
+    },
+    {
+      "title": "Mold Remediation & Testing",
+      "description": "EPA-certified mold removal with air quality testing before and after treatment. Complete containment protocols protect your family's health throughout the process.",
+      "emoji": "🧪"
+    },
+    {
+      "title": "Structural Drying & Restoration",
+      "description": "Advanced moisture detection technology ensures complete drying of walls, floors, and hidden areas. Full reconstruction services return your home to pre-loss condition.",
+      "emoji": "🏠"
+    },
+    {
+      "title": "Insurance Claims Management",
+      "description": "We work directly with your insurance company, handling all paperwork and negotiations. Our expertise maximizes your settlement while minimizing your out-of-pocket costs.",
+      "emoji": "📋"
+    }
+  ],
+  "about": {
+    "heading": "Phoenix's Most Trusted Water Damage Specialists",
+    "body": "For over 15 years, Phoenix Home Restoration has been Arizona's go-to emergency response team. Our IICRC-certified technicians combine cutting-edge equipment with old-fashioned customer service, ensuring every Phoenix-area family gets their life back on track quickly and affordably."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Phoenix Families Are Saying"
+  },
+  "reviews": [
+    {
+      "name": "Maria S.",
+      "location": "Scottsdale, AZ",
+      "text": "Pipe burst at 2 AM and they were here by 3:15. The crew worked through the night and had everything dried out in 3 days. Insurance covered everything thanks to their documentation. Incredible service when we needed it most.",
+      "rating": 5
+    },
+    {
+      "name": "David R.",
+      "location": "Tempe, AZ",
+      "text": "Discovered mold behind our kitchen wall during renovation. Phoenix Home came out same day, contained the area, and completed removal in 48 hours. Air quality test came back clean and they rebuilt the wall perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer K.",
+      "location": "Phoenix, AZ",
+      "text": "Water heater flooded our entire first floor. They handled everything - extraction, drying, repairs, even dealing with our insurance company. We didn't pay a dime out of pocket. Highly recommend for any water emergency.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Greater Phoenix Metropolitan Area",
+    "subheading": "Emergency response available 24/7 throughout Maricopa County",
+    "areas": [
+      "Phoenix",
+      "Scottsdale",
+      "Tempe",
+      "Mesa",
+      "Chandler",
+      "Glendale",
+      "Paradise Valley",
+      "Ahwatukee",
+      "Carefree",
+      "Fountain Hills"
+    ]
+  },
+  "cta": {
+    "heading": "Don't Wait — Water Damage Gets Worse Every Hour",
+    "body": "Our certified emergency response team is standing by 24/7. Call now for immediate assistance or request a free damage assessment.",
+    "cta_primary": "Get Emergency Response",
+    "cta_secondary": "Call (480) 555-1010"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#0F766E",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Playfair Display",
+    "font_body": "Source Sans Pro"
+  }
+}

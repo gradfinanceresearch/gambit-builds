@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "Arizona Premium Roofing",
+    "phone": "(480) 555-0840",
+    "email": "info@azpremiumroofing.com",
+    "city": "Phoenix",
+    "state": "AZ",
+    "industry": "Roofing",
+    "tagline": "Protecting Arizona homes, one roof at a time"
+  },
+  "hero": {
+    "headline": "Storm-Tested Roofing *Built for Arizona's Extreme Weather*",
+    "subheadline": "From monsoons to 120° heat — we've protected Phoenix homes for over a decade with lifetime warranties and free storm damage inspections.",
+    "cta_primary": "Free Roof Inspection",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "🛡️",
+      "text": "Lifetime Warranty"
+    },
+    {
+      "emoji": "⛈️",
+      "text": "Storm Damage Specialist"
+    },
+    {
+      "emoji": "📋",
+      "text": "Free Inspections"
+    },
+    {
+      "emoji": "🏆",
+      "text": "Arizona Roofing Expert"
+    }
+  ],
+  "services_section": {
+    "label": "ROOFING SERVICES",
+    "heading": "Complete Roofing Solutions",
+    "subheading": "From emergency repairs to full replacements, we handle every aspect of your roof"
+  },
+  "services": [
+    {
+      "title": "Storm Damage Repair & Insurance Claims",
+      "description": "Expert assessment and restoration of hail, wind, and monsoon damage. We work directly with your insurance company to maximize your claim and restore your roof.",
+      "emoji": "⛈️"
+    },
+    {
+      "title": "Complete Roof Replacement",
+      "description": "Premium materials built to withstand Arizona's harsh climate. Tile, shingle, and metal roofing options with lifetime warranties and energy-efficient designs.",
+      "emoji": "🏠"
+    },
+    {
+      "title": "Comprehensive Roof Inspections",
+      "description": "Detailed 50-point inspection identifying potential issues before they become costly problems. Includes thermal imaging and drone assessment at no charge.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "Emergency Roof Repairs",
+      "description": "24/7 emergency response for leaks and storm damage. Temporary protection and permanent solutions to prevent further damage to your home.",
+      "emoji": "🚨"
+    },
+    {
+      "title": "Preventive Maintenance Programs",
+      "description": "Annual maintenance plans to extend your roof's lifespan. Includes gutter cleaning, seal replacement, and seasonal inspections.",
+      "emoji": "🔧"
+    }
+  ],
+  "about": {
+    "heading": "Arizona's Most Trusted Roofing Contractors",
+    "body": "For over 15 years, we've specialized in roofing solutions designed for the Valley's unique challenges. From scorching summers to monsoon seasons, our team understands what Phoenix-area homes need to stay protected. Every project comes with our signature lifetime warranty."
+  },
+  "reviews_section": {
+    "label": "CUSTOMER REVIEWS",
+    "heading": "What Our Neighbors Are Saying"
+  },
+  "reviews": [
+    {
+      "name": "Sarah M.",
+      "location": "Scottsdale, AZ",
+      "text": "After last year's monsoon damaged our tile roof, Arizona Premium came out the same day for inspection. They handled everything with our insurance and the new roof looks incredible. The lifetime warranty gave us complete peace of mind.",
+      "rating": 5
+    },
+    {
+      "name": "Mike R.",
+      "location": "Tempe, AZ",
+      "text": "Needed emergency repair after a leak during monsoon season. They had someone here within 2 hours and completed permanent repairs the next day. Professional crew and fair pricing.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer K.",
+      "location": "Chandler, AZ",
+      "text": "Their free inspection caught several issues I had no idea about. Prevented what could have been major damage. The maintenance plan has been worth every penny over the past 3 years.",
+      "rating": 4
+    },
+    {
+      "name": "Carlos D.",
+      "location": "Phoenix, AZ",
+      "text": "Full roof replacement completed in just 2 days despite the summer heat. Crew was professional, cleaned up perfectly, and the new metal roof has already reduced our cooling costs significantly.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE AREAS",
+    "heading": "Serving the Greater Phoenix Area",
+    "subheading": "Professional roofing services throughout the Valley",
+    "areas": [
+      "Phoenix",
+      "Scottsdale",
+      "Tempe",
+      "Mesa",
+      "Chandler",
+      "Glendale",
+      "Peoria",
+      "Gilbert",
+      "Surprise",
+      "Avondale"
+    ]
+  },
+  "cta": {
+    "heading": "Protect Your Home Before the Next Storm",
+    "body": "Don't wait for damage to find out your roof needs attention. Our comprehensive inspection identifies issues early, saving you thousands in repairs.",
+    "cta_primary": "Schedule Free Inspection",
+    "cta_secondary": "Call (480) 555-0840"
+  },
+  "design": {
+    "primary_color": "#7C3AED",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FAFAFF",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans Pro"
+  }
+}

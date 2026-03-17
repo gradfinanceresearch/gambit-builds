@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Warrior Plumbing | Baltimore Plumbing Concept</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --primary:#1A1A1A;
+      --accent:#C8A84B;
+      --light:#f7f7f8;
+      --text:#1f2937;
+      --muted:#6b7280;
+      --max:1140px;
+      --radius:14px;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;font-family:Inter,system-ui,sans-serif;color:var(--text);background:#fff;line-height:1.55}
+    .wrap{width:min(var(--max),92%);margin:0 auto}
+    .top{background:var(--primary);color:#fff;padding:.5rem 0;font-weight:700;text-align:center}
+    .top a{color:#fff;text-decoration:none;border-bottom:1px solid rgba(255,255,255,.5)}
+    header{position:sticky;top:0;z-index:30;background:#fff;border-bottom:1px solid #e5e7eb}
+    .nav{display:flex;justify-content:space-between;align-items:center;padding:.85rem 0;gap:1rem}
+    .brand{display:flex;align-items:center;gap:.75rem;text-decoration:none;color:#111}
+    .brand img{height:42px;width:auto}
+    .brand span{font:800 1.15rem Barlow,sans-serif;letter-spacing:.02em}
+    .call{font-weight:800;color:var(--primary);text-decoration:none}
+    .hero{background:linear-gradient(120deg,rgba(0,0,0,.86),rgba(26,26,26,.72)),url('https://warriorplumbing.com/wp-content/uploads/2024/11/BrentHeroFinal4-1.png') center/cover no-repeat;color:#fff;padding:5rem 0}
+    h1,h2,h3{font-family:Barlow,sans-serif;line-height:1.15}
+    h1{font-size:clamp(2rem,4.7vw,3.2rem);margin:.2rem 0 .8rem}
+    .sub{max-width:62ch;color:#ececec;margin:0 0 1.4rem}
+    .btns{display:flex;flex-wrap:wrap;gap:.7rem}
+    .btn{display:inline-block;padding:.85rem 1.1rem;border-radius:999px;font-weight:800;text-decoration:none}
+    .btn-primary{background:var(--accent);color:#111}
+    .btn-ghost{border:2px solid rgba(255,255,255,.7);color:#fff}
+    .hero-grid{display:grid;grid-template-columns:1.2fr .8fr;gap:1.2rem;align-items:center}
+    .panel{background:#fff;color:#111;border-radius:var(--radius);padding:1rem;box-shadow:0 10px 28px rgba(0,0,0,.2)}
+    section{padding:3.7rem 0}
+    h2{font-size:clamp(1.6rem,3.2vw,2.2rem);margin:0 0 1rem}
+    .services{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem}
+    .card{background:var(--light);border:1px solid #e5e7eb;border-radius:12px;padding:1rem}
+    .card h3{color:var(--primary);margin:.2rem 0 .45rem}
+    .reviews{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem}
+    .review{border:1px solid #e5e7eb;border-left:4px solid var(--accent);border-radius:12px;padding:1rem;background:#fff}
+    .areas{display:flex;flex-wrap:wrap;gap:.55rem}
+    .pill{padding:.45rem .8rem;border-radius:999px;background:#f5f2e4;border:1px solid #e6ddbf;font-weight:700;font-size:.9rem}
+    .cta{background:#fafafa;border-top:1px solid #eee;border-bottom:1px solid #eee}
+    footer{background:#111;color:#ddd;text-align:center;padding:1.1rem}
+    @media (max-width:920px){.hero-grid,.services,.reviews{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <div class="top">24/7 Emergency Plumbing in Baltimore • <a href="tel:4439673736">(443) 967-3736</a></div>
+  <header>
+    <div class="wrap nav">
+      <a class="brand" href="#">
+        <img src="https://warriorplumbing.com/wp-content/uploads/2022/04/WarriorLogoNew2022.png" alt="Warrior Plumbing logo" />
+        <span>WARRIOR PLUMBING</span>
+      </a>
+      <a class="call" href="tel:4439673736">(443) 967-3736</a>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <h1>Baltimore’s Fastest Route to Emergency Plumbing Help</h1>
+        <p class="sub">Warrior Plumbing already has strong trust signals — this concept fixes the clutter and makes service categories, emergency calls, and booking actions instantly clear for mobile homeowners.</p>
+        <div class="btns">
+          <a class="btn btn-primary" href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Warrior%20Plumbing">Request This Concept</a>
+          <a class="btn btn-ghost" href="tel:4439673736">Call Now</a>
+        </div>
+      </div>
+      <aside class="panel">
+        <h3 style="margin:.2rem 0 .5rem;">What this improves</h3>
+        <ul style="margin:0;padding-left:1rem;">
+          <li>Cleaner above-the-fold emergency CTA flow</li>
+          <li>Faster service discovery on mobile</li>
+          <li>Trust and awards visible without visual overload</li>
+        </ul>
+      </aside>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <h2>Plumbing Services Built for Real-World Urgency</h2>
+      <div class="services">
+        <article class="card"><h3>Emergency Plumbing</h3><p>Rapid dispatch for leaks, burst pipes, and urgent system failures so damage stays controlled.</p></article>
+        <article class="card"><h3>Water Heaters</h3><p>Repair and replacement options clearly explained so you can restore hot water without guesswork.</p></article>
+        <article class="card"><h3>Drain Cleaning</h3><p>Professional drain clearing that removes stubborn blockages and helps prevent repeat backups.</p></article>
+        <article class="card"><h3>Remodel Plumbing</h3><p>Kitchen and bathroom plumbing support coordinated with your remodel timeline and layout goals.</p></article>
+        <article class="card"><h3>Sump Pump Service</h3><p>Protect your basement with pump installs, repairs, and backup solutions before storms hit.</p></article>
+        <article class="card"><h3>Boiler Service</h3><p>Keep heating reliable with diagnostics and repairs from technicians experienced in older Baltimore homes.</p></article>
+      </div>
+    </div>
+  </section>
+
+  <section style="background:#fcfcfc; border-top:1px solid #eee; border-bottom:1px solid #eee;">
+    <div class="wrap">
+      <h2>Trusted by Baltimore Homeowners</h2>
+      <div class="reviews">
+        <article class="review"><p>“Called with an emergency leak and they answered immediately. Tech arrived fast, explained everything, and fixed it in one visit.”</p><strong>— Meg F., Baltimore</strong></article>
+        <article class="review"><p>“They replaced our water heater quickly and professionally. Communication was great and pricing was clear from the start.”</p><strong>— Molly B., Towson</strong></article>
+        <article class="review"><p>“Family-run, respectful, and reliable. We’ve used Warrior multiple times and every experience has been smooth.”</p><strong>— Jessica S., Catonsville</strong></article>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <h2>Service Areas</h2>
+      <div class="areas">
+        <span class="pill">Baltimore</span><span class="pill">Towson</span><span class="pill">Catonsville</span><span class="pill">Parkville</span><span class="pill">Dundalk</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta">
+    <div class="wrap" style="display:grid;grid-template-columns:1fr auto;gap:1rem;align-items:center;">
+      <div>
+        <h2 style="margin-bottom:.4rem;">Want this live for Warrior Plumbing?</h2>
+        <p style="margin:0;color:#4b5563;">We can convert this concept into a production-ready homepage optimized for calls and booked jobs.</p>
+      </div>
+      <a class="btn btn-primary" href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Warrior%20Plumbing">Email About This Concept</a>
+    </div>
+  </section>
+
+  <footer>© Warrior Plumbing Concept Mockup • Baltimore, MD • <a href="tel:4439673736" style="color:#ddd;">(443) 967-3736</a></footer>
+</body>
+</html>

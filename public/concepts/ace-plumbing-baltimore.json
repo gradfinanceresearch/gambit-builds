@@ -1,0 +1,125 @@
+{
+  "business": {
+    "name": "Ace Plumbing Co",
+    "phone": "(410) 555-1234",
+    "email": "service@aceplumbingbaltimore.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "industry": "Plumbing",
+    "tagline": "Baltimore's trusted plumbing experts since 1995"
+  },
+  "hero": {
+    "headline": "Fast Plumbing Fixes — *Baltimore's Emergency Response Team*",
+    "subheadline": "Licensed plumbers ready 24/7 for drain clogs, water heater failures, and sewer emergencies throughout Baltimore County.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "✅",
+      "text": "Licensed & Insured"
+    },
+    {
+      "emoji": "🚨",
+      "text": "24/7 Emergency Service"
+    },
+    {
+      "emoji": "⚡",
+      "text": "Same-Day Response"
+    },
+    {
+      "emoji": "🛡️",
+      "text": "100% Satisfaction Guarantee"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete Plumbing Services",
+    "subheading": "From minor repairs to major emergencies, we handle every plumbing challenge with expert care."
+  },
+  "services": [
+    {
+      "title": "Emergency Drain Cleaning",
+      "description": "Hydro-jetting and snake services to clear tough blockages in sinks, tubs, and main lines. Available 24/7 for urgent situations that can't wait until morning.",
+      "emoji": "🌊"
+    },
+    {
+      "title": "Water Heater Repair & Replacement",
+      "description": "Expert diagnosis and repair of gas, electric, and tankless water heaters. Same-day installation available for emergency replacements when your unit fails.",
+      "emoji": "🔥"
+    },
+    {
+      "title": "Sewer Line Inspection & Repair",
+      "description": "Camera inspections to locate breaks, roots, and clogs. Trenchless repair options minimize yard damage while restoring proper flow to your main sewer line.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "24/7 Emergency Plumbing",
+      "description": "Burst pipes, gas leaks, and major water damage situations. Our emergency crews respond within 1 hour throughout Baltimore with fully-stocked service vehicles.",
+      "emoji": "🚨"
+    },
+    {
+      "title": "Fixture Installation & Repair",
+      "description": "Professional installation of toilets, faucets, garbage disposals, and bathroom fixtures. Warranty-backed work that meets all Baltimore City plumbing codes.",
+      "emoji": "🔧"
+    }
+  ],
+  "about": {
+    "heading": "Serving Baltimore Families for Nearly 30 Years",
+    "body": "Ace Plumbing Co has been Baltimore's go-to plumbing contractor since 1995. Our master plumbers handle everything from routine maintenance to complex sewer repairs throughout the greater Baltimore area. We're locally owned, fully licensed, and committed to honest pricing with no surprise fees."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Baltimore Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Sarah M.",
+      "location": "Towson, MD",
+      "text": "Called at 11pm when our basement started flooding from a burst pipe. Mike arrived within 45 minutes and had it fixed by 1am. Saved our finished basement from major damage. Fair pricing even for emergency service.",
+      "rating": 5
+    },
+    {
+      "name": "David L.",
+      "location": "Federal Hill, Baltimore",
+      "text": "Our 15-year-old water heater died on a Sunday morning. Ace had a new unit installed by Tuesday and cleaned up everything perfectly. The technician explained all our options without any pressure tactics.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer K.",
+      "location": "Catonsville, MD",
+      "text": "Main sewer line was backing up into our laundry room. They used a camera to find tree roots and fixed it with trenchless repair. No digging up our driveway! Work was completed in one day.",
+      "rating": 4
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Baltimore Area Service",
+    "subheading": "Fast response times to homes and businesses throughout Baltimore County.",
+    "areas": [
+      "Baltimore",
+      "Towson",
+      "Catonsville",
+      "Dundalk",
+      "Essex",
+      "Parkville",
+      "Owings Mills",
+      "Columbia",
+      "Glen Burnie"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fix Your Plumbing Problem?",
+    "body": "Don't let plumbing issues disrupt your life. Our experienced team provides fast, reliable service with upfront pricing and guaranteed satisfaction.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (410) 555-1234"
+  },
+  "design": {
+    "primary_color": "#1a3e6e",
+    "accent_color": "#e8792f",
+    "bg_color": "#ffffff",
+    "text_color": "#2c3e50",
+    "font_heading": "Playfair Display",
+    "font_body": "Source Sans Pro"
+  }
+}

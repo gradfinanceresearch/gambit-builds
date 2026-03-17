@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "Complete Plumbing Denver",
+    "phone": "(303) 555-0290",
+    "email": "service@completeplumbingdenver.com",
+    "city": "Denver",
+    "state": "CO",
+    "industry": "Plumbing",
+    "tagline": "Fast Response. Fair Prices. Done Right."
+  },
+  "hero": {
+    "headline": "Same-Day Plumbing Repairs — *No Overtime Charges*",
+    "subheadline": "Denver's trusted plumbers fix pipes, drains, and water heaters fast. Licensed professionals with upfront pricing and guaranteed satisfaction.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "⚡",
+      "text": "Same-Day Service"
+    },
+    {
+      "emoji": "✅",
+      "text": "Licensed & Insured"
+    },
+    {
+      "emoji": "💰",
+      "text": "No Overtime Charges"
+    },
+    {
+      "emoji": "🛡️",
+      "text": "100% Satisfaction Guaranteed"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete Plumbing Solutions",
+    "subheading": "From emergency repairs to routine maintenance, we handle every plumbing challenge with professional expertise."
+  },
+  "services": [
+    {
+      "title": "Emergency Plumbing Repairs",
+      "description": "Burst pipes, major leaks, and plumbing emergencies fixed fast. Available 24/7 with rapid response times and no surprise overtime fees for evenings or weekends.",
+      "emoji": "🚨"
+    },
+    {
+      "title": "Pipe Repair & Replacement",
+      "description": "Expert diagnosis and repair of leaking, frozen, or damaged pipes. We use quality materials and proven techniques to ensure long-lasting solutions.",
+      "emoji": "🔧"
+    },
+    {
+      "title": "Drain Cleaning & Unclogging",
+      "description": "Professional drain cleaning removes stubborn clogs and buildup. Advanced equipment clears kitchen sinks, bathroom drains, and main sewer lines effectively.",
+      "emoji": "🌊"
+    },
+    {
+      "title": "Water Heater Service",
+      "description": "Complete water heater repair, maintenance, and replacement. We work on all brands and types including tankless systems, ensuring reliable hot water.",
+      "emoji": "🔥"
+    },
+    {
+      "title": "Leak Detection & Repair",
+      "description": "Advanced leak detection finds hidden problems before they cause major damage. Fast repairs protect your property and prevent costly water damage.",
+      "emoji": "🔍"
+    }
+  ],
+  "about": {
+    "heading": "Denver's Reliable Plumbing Professionals",
+    "body": "Complete Plumbing Denver has served the Metro area for over 15 years with honest, dependable service. Our licensed plumbers deliver quality workmanship on every job, from simple repairs to complex installations. We believe in transparent pricing, same-day service, and treating every home like our own."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Denver Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Sarah M.",
+      "location": "Highlands, CO",
+      "text": "Called at 8pm with a burst pipe flooding my basement. They were here within 45 minutes and had it fixed by 10pm. No extra charges for the emergency call - exactly as promised.",
+      "rating": 5
+    },
+    {
+      "name": "Mike R.",
+      "location": "Capitol Hill, CO",
+      "text": "Water heater died on a Sunday morning. Complete Plumbing had a new one installed by noon the same day. Professional crew, fair price, and they cleaned up everything perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer K.",
+      "location": "Lakewood, CO",
+      "text": "Tried to snake my kitchen drain myself for weeks. Their tech found tree roots in the main line and cleared it completely in 30 minutes. Should have called them first!",
+      "rating": 5
+    },
+    {
+      "name": "David L.",
+      "location": "Aurora, CO",
+      "text": "Honest assessment of my old pipes and reasonable quote for replacement. Work was completed on schedule and they were careful not to damage my landscaping. Great experience.",
+      "rating": 4
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Serving Greater Denver",
+    "subheading": "Fast response times to neighborhoods throughout the Denver Metro area.",
+    "areas": [
+      "Denver",
+      "Aurora",
+      "Lakewood",
+      "Thornton",
+      "Arvada",
+      "Westminster",
+      "Centennial",
+      "Boulder",
+      "Broomfield",
+      "Englewood"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fix Your Plumbing Problem?",
+    "body": "Get fast, professional plumbing service with upfront pricing and no overtime charges. Licensed plumbers available for same-day repairs throughout Denver.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (303) 555-0290"
+  },
+  "design": {
+    "primary_color": "#DC2626",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Merriweather",
+    "font_body": "Source Sans Pro"
+  }
+}

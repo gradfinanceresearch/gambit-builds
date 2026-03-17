@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Expert HVAC Services — Phoenix, AZ</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Inter', sans-serif; background: #ffffff; color: #1f2937; }
+
+    /* ANNOUNCEMENT BAR */
+    .announcement {
+      background: #FFFF00;
+      color: #1A1A2E;
+      text-align: center;
+      padding: 9px 16px;
+      font-size: 0.875rem;
+      font-weight: 600;
+    }
+
+    /* STICKY HEADER */
+    .header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: #1A1A2E;
+      padding: 14px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.5);
+    }
+    .header-brand { color: #ffffff; font-size: 1.15rem; font-weight: 800; letter-spacing: -0.3px; }
+    .header-brand span { color: #FFFF00; }
+    .header-phone a {
+      color: #FFFF00;
+      font-size: 1.05rem;
+      font-weight: 700;
+      text-decoration: none;
+    }
+    .header-phone a:hover { text-decoration: underline; }
+
+    /* HERO */
+    .hero {
+      background: #1A1A2E;
+      color: #ffffff;
+      padding: 80px 24px 64px;
+      text-align: center;
+    }
+    .hero-badge {
+      display: inline-block;
+      background: #FFFF00;
+      color: #1A1A2E;
+      font-size: 0.72rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      padding: 5px 16px;
+      border-radius: 20px;
+      margin-bottom: 22px;
+    }
+    .hero h1 {
+      font-size: clamp(1.75rem, 4.5vw, 2.9rem);
+      font-weight: 800;
+      color: #ffffff;
+      line-height: 1.2;
+      margin-bottom: 18px;
+      max-width: 720px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .hero h1 .accent { color: #FFFF00; }
+    .hero p {
+      font-size: 1.05rem;
+      color: #d1d5db;
+      max-width: 560px;
+      margin: 0 auto 38px;
+      line-height: 1.65;
+    }
+    .hero-ctas {
+      display: flex;
+      gap: 16px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .btn-primary {
+      background: #FFFF00;
+      color: #1A1A2E;
+      padding: 15px 30px;
+      border-radius: 6px;
+      font-weight: 800;
+      font-size: 1rem;
+      text-decoration: none;
+      display: inline-block;
+      transition: opacity 0.2s;
+    }
+    .btn-primary:hover { opacity: 0.88; }
+    .btn-secondary {
+      background: transparent;
+      color: #ffffff;
+      padding: 14px 28px;
+      border-radius: 6px;
+      font-weight: 600;
+      font-size: 1rem;
+      text-decoration: none;
+      display: inline-block;
+      border: 2px solid rgba(255,255,255,0.6);
+      transition: border-color 0.2s, background 0.2s;
+    }
+    .btn-secondary:hover { border-color: #ffffff; background: rgba(255,255,255,0.08); }
+
+    /* TRUST BAR */
+    .trust-bar {
+      background: #f8f9fa;
+      border-bottom: 3px solid #FFFF00;
+      padding: 22px 24px;
+    }
+    .trust-bar-inner {
+      max-width: 1040px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 44px;
+      flex-wrap: wrap;
+    }
+    .trust-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .trust-icon { font-size: 1.4rem; }
+    .trust-item strong { font-size: 0.9rem; font-weight: 700; color: #1f2937; display: block; }
+    .trust-item span { font-size: 0.78rem; color: #6b7280; display: block; }
+    .stars-row { color: #f59e0b; font-size: 0.85rem; line-height: 1; margin-top: 2px; }
+
+    /* INTENT SPLIT */
+    .intent-section {
+      background: #ffffff;
+      padding: 64px 24px;
+    }
+    .intent-inner { max-width: 960px; margin: 0 auto; }
+    .intent-heading {
+      text-align: center;
+      font-size: 1.65rem;
+      font-weight: 800;
+      color: #1f2937;
+      margin-bottom: 36px;
+    }
+    .intent-cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 24px;
+    }
+    .intent-card {
+      border: 2px solid #e5e7eb;
+      border-radius: 12px;
+      padding: 32px 26px;
+      text-align: center;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+    .intent-card:hover { border-color: #FFFF00; box-shadow: 0 4px 16px rgba(0,0,0,0.08); }
+    .intent-card .card-icon { font-size: 2.4rem; margin-bottom: 14px; }
+    .intent-card h3 { font-size: 1.1rem; font-weight: 700; color: #1f2937; margin-bottom: 10px; }
+    .intent-card p { font-size: 0.88rem; color: #6b7280; line-height: 1.65; margin-bottom: 22px; }
+    .btn-card {
+      background: #1A1A2E;
+      color: #ffffff;
+      padding: 12px 22px;
+      border-radius: 6px;
+      font-weight: 700;
+      font-size: 0.88rem;
+      text-decoration: none;
+      display: inline-block;
+      transition: background 0.2s;
+    }
+    .btn-card:hover { background: #2d2d50; }
+
+    /* SERVICES */
+    .services {
+      background: #f9fafb;
+      padding: 72px 24px;
+    }
+    .section-label {
+      text-align: center;
+      font-size: 0.72rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 2.5px;
+      color: #1A1A2E;
+      margin-bottom: 10px;
+    }
+    .section-title {
+      text-align: center;
+      font-size: clamp(1.5rem, 3vw, 2rem);
+      font-weight: 800;
+      color: #1f2937;
+      margin-bottom: 8px;
+    }
+    .section-sub {
+      text-align: center;
+      font-size: 0.95rem;
+      color: #6b7280;
+      max-width: 480px;
+      margin: 0 auto 48px;
+    }
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 24px;
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+    .service-card {
+      background: #ffffff;
+      border-radius: 10px;
+      padding: 28px 24px;
+      border-top: 4px solid #FFFF00;
+      box-shadow: 0 1px 6px rgba(0,0,0,0.06);
+    }
+    .service-card h3 { font-size: 1rem; font-weight: 700; color: #1f2937; margin-bottom: 10px; }
+    .service-card p { font-size: 0.875rem; color: #6b7280; line-height: 1.65; }
+
+    /* REVIEWS */
+    .reviews {
+      background: #1A1A2E;
+      padding: 72px 24px;
+    }
+    .reviews .section-label { color: #FFFF00; }
+    .reviews .section-title { color: #ffffff; }
+    .reviews .section-sub { color: #9ca3af; }
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1040px;
+      margin: 0 auto;
+    }
+    .review-card {
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.10);
+      border-radius: 10px;
+      padding: 28px 24px;
+    }
+    .review-stars { color: #f59e0b; font-size: 1rem; margin-bottom: 14px; letter-spacing: 1px; }
+    .review-text { font-size: 0.9rem; color: #e5e7eb; line-height: 1.7; margin-bottom: 16px; font-style: italic; }
+    .review-author { font-size: 0.82rem; font-weight: 600; color: #9ca3af; }
+
+    /* SERVICE AREAS */
+    .areas {
+      background: #ffffff;
+      padding: 60px 24px;
+    }
+    .areas-list {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      justify-content: center;
+      max-width: 680px;
+      margin: 0 auto;
+    }
+    .area-tag {
+      background: #f3f4f6;
+      color: #1f2937;
+      padding: 9px 22px;
+      border-radius: 24px;
+      font-size: 0.9rem;
+      font-weight: 500;
+      border: 1px solid #e5e7eb;
+    }
+
+    /* CTA SECTION */
+    .cta-section {
+      background: #FFFF00;
+      padding: 72px 24px;
+      text-align: center;
+    }
+    .cta-section h2 {
+      font-size: clamp(1.5rem, 3.5vw, 2.2rem);
+      font-weight: 800;
+      color: #1A1A2E;
+      margin-bottom: 12px;
+    }
+    .cta-section p {
+      font-size: 1rem;
+      color: #374151;
+      margin-bottom: 36px;
+      max-width: 480px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .cta-buttons { display: flex; gap: 14px; justify-content: center; flex-wrap: wrap; }
+    .btn-dark {
+      background: #1A1A2E;
+      color: #ffffff;
+      padding: 16px 34px;
+      border-radius: 6px;
+      font-weight: 700;
+      font-size: 1rem;
+      text-decoration: none;
+      display: inline-block;
+      transition: background 0.2s;
+    }
+    .btn-dark:hover { background: #2d2d50; }
+    .btn-outline-dark {
+      background: transparent;
+      color: #1A1A2E;
+      padding: 14px 30px;
+      border-radius: 6px;
+      font-weight: 700;
+      font-size: 1rem;
+      text-decoration: none;
+      display: inline-block;
+      border: 2px solid #1A1A2E;
+      transition: background 0.2s;
+    }
+    .btn-outline-dark:hover { background: rgba(26,26,46,0.08); }
+
+    /* FOOTER */
+    .footer {
+      background: #0f0f1a;
+      color: #9ca3af;
+      padding: 40px 24px;
+      text-align: center;
+    }
+    .footer-name { color: #ffffff; font-weight: 700; font-size: 1.05rem; margin-bottom: 6px; }
+    .footer-phone a { color: #FFFF00; text-decoration: none; font-weight: 600; }
+    .footer-phone a:hover { text-decoration: underline; }
+    .footer-note { margin-top: 22px; font-size: 0.76rem; color: #4b5563; }
+    .footer-note a { color: #6b7280; }
+
+    @media (max-width: 620px) {
+      .trust-bar-inner { gap: 22px; }
+      .hero-ctas, .cta-buttons { flex-direction: column; align-items: center; }
+      .header { padding: 12px 18px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ANNOUNCEMENT BAR -->
+<div class="announcement">
+  ☀️ Phoenix Heat Alert — Same-Day Emergency AC Repair Available &nbsp;·&nbsp; Call <strong>623-594-2488</strong>
+</div>
+
+<!-- STICKY HEADER -->
+<header class="header">
+  <div class="header-brand">Expert <span>HVAC</span> Services</div>
+  <div class="header-phone">
+    <a href="tel:6235942488">📞 623-594-2488</a>
+  </div>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-badge">⭐ 5-Star Rated · Phoenix, AZ</div>
+  <h1>Trusted HVAC Repair &amp; Installation in Phoenix —<br><span class="accent">Clear Quotes, No Runaround</span></h1>
+  <p>Whether you need an emergency fix or a brand-new system, Expert HVAC Services delivers fast, honest service you can count on — with upfront pricing every time.</p>
+  <div class="hero-ctas">
+    <a href="tel:6235942488" class="btn-primary">🔧 Emergency Repair — Call Now</a>
+    <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Expert%20HVAC%20Services" class="btn-secondary">🏠 Request a New Installation Quote</a>
+  </div>
+</section>
+
+<!-- TRUST BAR -->
+<div class="trust-bar">
+  <div class="trust-bar-inner">
+    <div class="trust-item">
+      <span class="trust-icon">⭐</span>
+      <div>
+        <strong>5-Star Rated</strong>
+        <span class="stars-row">★★★★★</span>
+      </div>
+    </div>
+    <div class="trust-item">
+      <span class="trust-icon">⚡</span>
+      <div>
+        <strong>Same-Day Response</strong>
+        <span>Emergency calls welcome</span>
+      </div>
+    </div>
+    <div class="trust-item">
+      <span class="trust-icon">🏢</span>
+      <div>
+        <strong>Residential &amp; Commercial</strong>
+        <span>Any size job, any system</span>
+      </div>
+    </div>
+    <div class="trust-item">
+      <span class="trust-icon">💰</span>
+      <div>
+        <strong>Upfront Pricing</strong>
+        <span>No hidden fees, ever</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- INTENT SPLIT -->
+<section class="intent-section">
+  <div class="intent-inner">
+    <h2 class="intent-heading">What Do You Need Today?</h2>
+    <div class="intent-cards">
+      <div class="intent-card">
+        <div class="card-icon">🚨</div>
+        <h3>Emergency Repair</h3>
+        <p>AC broke down in the Phoenix heat? We dispatch fast — most emergency calls are resolved same day with fully transparent repair pricing.</p>
+        <a href="tel:6235942488" class="btn-card">Call Now for Repair</a>
+      </div>
+      <div class="intent-card">
+        <div class="card-icon">❄️</div>
+        <h3>New System Installation</h3>
+        <p>Ready for a high-efficiency upgrade? We assess your space, recommend the right system, and install it cleanly — no mess, no surprises.</p>
+        <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Expert%20HVAC%20Services" class="btn-card">Get a Free Quote</a>
+      </div>
+      <div class="intent-card">
+        <div class="card-icon">🔍</div>
+        <h3>Routine Maintenance</h3>
+        <p>Keep your system running at peak performance with a seasonal tune-up — before Arizona summer pushes it to the absolute limit.</p>
+        <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Expert%20HVAC%20Services" class="btn-card">Schedule a Tune-Up</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SERVICES -->
+<section class="services">
+  <p class="section-label">What We Do</p>
+  <h2 class="section-title">Full-Service HVAC for Phoenix Homes &amp; Businesses</h2>
+  <p class="section-sub">From routine tune-ups to complete system replacements — we handle it all.</p>
+  <div class="services-grid">
+    <div class="service-card">
+      <h3>HVAC Installation</h3>
+      <p>We size and install high-efficiency systems for your home or business with transparent pricing from day one — no surprise charges at the finish line.</p>
+    </div>
+    <div class="service-card">
+      <h3>Emergency Repair</h3>
+      <p>AC down in Phoenix heat? We offer rapid-response emergency service so you're never left sweating it out in a 110° house waiting for a callback.</p>
+    </div>
+    <div class="service-card">
+      <h3>Routine Maintenance</h3>
+      <p>Seasonal tune-ups keep your system running at peak efficiency and catch small issues before they turn into costly breakdowns mid-summer.</p>
+    </div>
+    <div class="service-card">
+      <h3>System Upgrades</h3>
+      <p>Upgrade to a modern, energy-efficient unit and start reducing your monthly utility bills — we'll walk you through every option without the pressure.</p>
+    </div>
+    <div class="service-card">
+      <h3>Residential &amp; Commercial HVAC</h3>
+      <p>From single-family homes to large commercial properties, we handle systems of any size with the same level of care, expertise, and attention to detail.</p>
+    </div>
+  </div>
+</section>
+
+<!-- REVIEWS -->
+<section class="reviews">
+  <p class="section-label">Customer Reviews</p>
+  <h2 class="section-title">What Phoenix Homeowners Are Saying</h2>
+  <p class="section-sub">Real customers. Real results. No fluff.</p>
+  <div class="reviews-grid">
+    <div class="review-card">
+      <div class="review-stars">★★★★★</div>
+      <p class="review-text">"Called Expert HVAC on a Friday afternoon when my AC went out. They had a tech at my house by 5pm and it was fixed the same day. Honest pricing too — no hidden fees. Will absolutely use them again."</p>
+      <div class="review-author">— Mike T., Glendale</div>
+    </div>
+    <div class="review-card">
+      <div class="review-stars">★★★★★</div>
+      <p class="review-text">"I've used Expert HVAC for three years running for my annual tune-up. Always on time, always thorough — and they never try to upsell you on things you don't actually need. That kind of honesty is genuinely hard to find."</p>
+      <div class="review-author">— Sandra L., Phoenix</div>
+    </div>
+    <div class="review-card">
+      <div class="review-stars">★★★★★</div>
+      <p class="review-text">"Had them install a completely new system last spring. The crew was professional, left the house spotless, and my electric bill has dropped noticeably since. Genuinely worth every penny."</p>
+      <div class="review-author">— James R., Peoria</div>
+    </div>
+  </div>
+</section>
+
+<!-- SERVICE AREAS -->
+<section class="areas">
+  <p class="section-label">Service Areas</p>
+  <h2 class="section-title">Proudly Serving the Greater Phoenix Area</h2>
+  <p class="section-sub">Local to you — fast to you.</p>
+  <div class="areas-list">
+    <span class="area-tag">Phoenix</span>
+    <span class="area-tag">Glendale</span>
+    <span class="area-tag">Peoria</span>
+    <span class="area-tag">Scottsdale</span>
+    <span class="area-tag">Surprise</span>
+  </div>
+</section>
+
+<!-- CTA SECTION -->
+<section class="cta-section">
+  <h2>Ready for Honest, Fast HVAC Service?</h2>
+  <p>Don't sweat it out. Call us directly or request a free quote online — we'll respond fast, no runaround.</p>
+  <div class="cta-buttons">
+    <a href="tel:6235942488" class="btn-dark">📞 Call 623-594-2488</a>
+    <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Expert%20HVAC%20Services" class="btn-outline-dark">Get a Free Quote Online</a>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <p class="footer-name">Expert HVAC Services, Inc.</p>
+  <p>Phoenix, AZ &nbsp;·&nbsp; <span class="footer-phone"><a href="tel:6235942488">623-594-2488</a></span></p>
+  <p class="footer-note">This is a concept mockup created by <a href="https://gambitbuilds.com">Gambit Builds</a> — not the live site.</p>
+</footer>
+
+</body>
+</html>

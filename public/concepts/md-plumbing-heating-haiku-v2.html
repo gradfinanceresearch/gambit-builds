@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Easy to Reach Plumbing & Heating in Baltimore | Same-Day Service</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        html, body {
+            font-family: 'Inter', sans-serif;
+            background-color: #ffffff;
+            color: #1f2937;
+            line-height: 1.6;
+        }
+        
+        /* HEADER */
+        header {
+            position: sticky;
+            top: 0;
+            background-color: #ffffff;
+            border-bottom: 2px solid #E8A317;
+            padding: 1rem 2rem;
+            z-index: 1000;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        
+        .header-logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #1f2937;
+        }
+        
+        .header-phone {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .header-phone a {
+            background-color: #4A7FB5;
+            color: #ffffff;
+            padding: 0.75rem 1.5rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1rem;
+            transition: background-color 0.3s;
+        }
+        
+        .header-phone a:hover {
+            background-color: #3a6fa5;
+        }
+        
+        @media (max-width: 600px) {
+            header {
+                flex-direction: column;
+                gap: 1rem;
+            }
+            .header-phone a {
+                font-size: 0.9rem;
+                padding: 0.6rem 1rem;
+            }
+        }
+        
+        /* HERO */
+        .hero {
+            background-color: #E8A317;
+            color: #1f2937;
+            padding: 4rem 2rem;
+            text-align: center;
+        }
+        
+        .hero h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            font-weight: 700;
+            line-height: 1.2;
+        }
+        
+        .hero p {
+            font-size: 1.2rem;
+            margin-bottom: 2rem;
+            max-width: 700px;
+            margin-left: auto;
+            margin-right: auto;
+            color: #1f2937;
+        }
+        
+        .hero-cta {
+            background-color: #4A7FB5;
+            color: #ffffff;
+            padding: 1rem 2rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1.1rem;
+            display: inline-block;
+            transition: background-color 0.3s;
+        }
+        
+        .hero-cta:hover {
+            background-color: #3a6fa5;
+        }
+        
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2rem;
+            }
+            .hero p {
+                font-size: 1rem;
+            }
+        }
+        
+        /* SERVICES */
+        .services {
+            padding: 4rem 2rem;
+            background-color: #ffffff;
+        }
+        
+        .services-container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .services h2 {
+            text-align: center;
+            font-size: 2rem;
+            margin-bottom: 3rem;
+            color: #1f2937;
+        }
+        
+        .services-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+        
+        .service-card {
+            background-color: #f9fafb;
+            padding: 1.5rem;
+            border-radius: 8px;
+            border-left: 4px solid #E8A317;
+        }
+        
+        .service-card h3 {
+            color: #1f2937;
+            margin-bottom: 0.75rem;
+            font-size: 1.2rem;
+        }
+        
+        .service-card p {
+            color: #4b5563;
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+        
+        /* REVIEWS */
+        .reviews {
+            padding: 4rem 2rem;
+            background-color: #f3f4f6;
+        }
+        
+        .reviews-container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .reviews h2 {
+            text-align: center;
+            font-size: 2rem;
+            margin-bottom: 3rem;
+            color: #1f2937;
+        }
+        
+        .reviews-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 2rem;
+        }
+        
+        .review-card {
+            background-color: #ffffff;
+            padding: 1.5rem;
+            border-radius: 8px;
+            border-top: 4px solid #4A7FB5;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+        }
+        
+        .review-card p:first-child {
+            color: #1f2937;
+            font-style: italic;
+            margin-bottom: 1rem;
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+        
+        .review-detail {
+            color: #6b7280;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+        
+        /* SERVICE AREAS */
+        .areas {
+            padding: 4rem 2rem;
+            background-color: #ffffff;
+        }
+        
+        .areas-container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .areas h2 {
+            text-align: center;
+            font-size: 2rem;
+            margin-bottom: 2rem;
+            color: #1f2937;
+        }
+        
+        .areas-list {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 2rem;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        .area-item {
+            text-align: center;
+            font-size: 1.1rem;
+            color: #1f2937;
+            padding: 1rem;
+            border-bottom: 2px solid #E8A317;
+            flex: 1;
+            min-width: 120px;
+        }
+        
+        /* CTA SECTION */
+        .cta {
+            background-color: #4A7FB5;
+            color: #ffffff;
+            padding: 4rem 2rem;
+            text-align: center;
+        }
+        
+        .cta h2 {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            color: #ffffff;
+        }
+        
+        .cta p {
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+            color: #ffffff;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .cta-button {
+            background-color: #E8A317;
+            color: #1f2937;
+            padding: 1rem 2.5rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 1.1rem;
+            display: inline-block;
+            transition: background-color 0.3s;
+        }
+        
+        .cta-button:hover {
+            background-color: #d4931d;
+        }
+        
+        /* FOOTER */
+        footer {
+            background-color: #1f2937;
+            color: #ffffff;
+            padding: 2rem;
+            text-align: center;
+            font-size: 0.9rem;
+        }
+        
+        footer a {
+            color: #E8A317;
+            text-decoration: none;
+        }
+        
+        footer a:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            .services h2, .reviews h2, .areas h2, .cta h2 {
+                font-size: 1.6rem;
+            }
+            
+            .areas-list {
+                flex-direction: column;
+                gap: 1rem;
+            }
+            
+            .area-item {
+                min-width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- HEADER -->
+    <header>
+        <div class="header-logo">MD Plumbing & Heating</div>
+        <div class="header-phone">
+            <a href="tel:888.273.1969">Call: 888.273.1969</a>
+        </div>
+    </header>
+    
+    <!-- HERO -->
+    <section class="hero">
+        <h1>Easy to Reach Plumbing & Heating in Baltimore</h1>
+        <p>Same-Day Service, Honest Quotes — No Hidden Fees, No Runaround</p>
+        <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20MD%20Plumbing%20%26%20Heating" class="hero-cta">Get a Free Quote</a>
+    </section>
+    
+    <!-- SERVICES -->
+    <section class="services">
+        <div class="services-container">
+            <h2>Our Services</h2>
+            <div class="services-grid">
+                <div class="service-card">
+                    <h3>Residential Plumbing</h3>
+                    <p>Full-service plumbing repairs for your home completed with care so you don't face water damage or emergency leaks.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Emergency Plumbing</h3>
+                    <p>Emergency plumbing response whenever you need it — nights, weekends, holidays — so a burst pipe doesn't turn into a disaster.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Drain Cleaning</h3>
+                    <p>Professional drain clearing using modern equipment that solves the problem on the first visit without the guesswork.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Water Heater Services</h3>
+                    <p>Water heater installation and repair completed same-day so you have hot water when you need it, backed by warranty.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Heating System Repair</h3>
+                    <p>Complete heating diagnostics and repair on the first call — we carry common parts on every truck to avoid return visits.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Sewer Line Services</h3>
+                    <p>Sewer line inspection and repair using camera technology so we find the real problem fast and fix it right the first time.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- REVIEWS -->
+    <section class="reviews">
+        <div class="reviews-container">
+            <h2>What Baltimore Homeowners Say</h2>
+            <div class="reviews-grid">
+                <div class="review-card">
+                    <p>"Called at 10 PM on a Friday when our basement flooded. They had someone at our door by 10:45 PM. Fixed the burst pipe before midnight. These guys are absolute lifesavers."</p>
+                    <div class="review-detail">— Marcus T., Baltimore</div>
+                </div>
+                <div class="review-card">
+                    <p>"Finally found a plumber who actually answers the phone. Got a fair quote, showed up exactly when they said, and didn't try to upsell me. Fair price and real service."</p>
+                    <div class="review-detail">— Jennifer L., Towson</div>
+                </div>
+                <div class="review-card">
+                    <p>"Had my heating system fixed same-day in the middle of January. The tech explained everything, answered all my questions, and didn't pressure me. Professional and honest."</p>
+                    <div class="review-detail">— Robert K., Catonsville</div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- SERVICE AREAS -->
+    <section class="areas">
+        <div class="areas-container">
+            <h2>Service Areas</h2>
+            <div class="areas-list">
+                <div class="area-item">Baltimore</div>
+                <div class="area-item">Towson</div>
+                <div class="area-item">Columbia</div>
+                <div class="area-item">Glen Burnie</div>
+                <div class="area-item">Catonsville</div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- CTA -->
+    <section class="cta">
+        <h2>Ready for Service You Can Count On?</h2>
+        <p>Stop waiting for callbacks. Call us now, and we'll walk you through your options with no pressure and no surprises.</p>
+        <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20MD%20Plumbing%20%26%20Heating" class="cta-button">Get Your Free Estimate</a>
+    </section>
+    
+    <!-- FOOTER -->
+    <footer>
+        <p>&copy; 2025 MD Plumbing & Heating | <a href="tel:888.273.1969">888.273.1969</a></p>
+        <p>Same-Day Response. Honest Pricing. No Runaround.</p>
+    </footer>
+</body>
+</html>

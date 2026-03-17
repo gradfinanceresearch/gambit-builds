@@ -1,0 +1,22 @@
+{
+  "slug": "roofing-atlanta-inc-atlanta",
+  "business": "Roofing Atlanta Inc.",
+  "city": "Atlanta",
+  "headline": "Commercial Roofing Experts in Atlanta",
+  "subheadline": "Fast, reliable service for homeowners and businesses.",
+  "services": [
+    "Commercial Roof Repair",
+    "TPO Roofing",
+    "EPDM Roofing",
+    "PVC Roofing",
+    "Single-Ply Roofing",
+    "Roof Inspections"
+  ],
+  "phone": "770-248-5787",
+  "logo": "",
+  "colors": {
+    "primary": "#1F2937",
+    "accent": "#F97316"
+  },
+  "cta": "Get a Free Estimate"
+}

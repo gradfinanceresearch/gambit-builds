@@ -1,0 +1,15 @@
+{
+  "slug": "bell-roofing-atlanta",
+  "business": "Bell Roofing",
+  "city": "Atlanta",
+  "headline": "Roofing Experts in Atlanta",
+  "subheadline": "Fast, reliable service for homeowners and businesses.",
+  "services": ["Roof Repairs", "Roof Installation", "Flat Roofs", "Steep Roofs", "Shingle Roofs", "Solar Roofs", "TPO & PVC Systems", "EPDM Roofing"],
+  "phone": "(404) 874-7663",
+  "logo": "https://www.bellroofingco.com/logo.png",
+  "colors": {
+    "primary": "#003366",
+    "accent": "#F97316"
+  },
+  "cta": "Get a Free Estimate"
+}

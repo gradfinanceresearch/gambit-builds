@@ -1,0 +1,61 @@
+{
+  "slug": "md-plumbing-heating",
+  "business": "MD Plumbing & Heating",
+  "city": "Baltimore",
+  "tagline": "Maryland's Trusted Plumbing & Heating Network",
+  "headline": "Baltimore's Go-To Plumber — Fast, Reliable, No Runaround",
+  "subheadline": "Finding a trustworthy plumber shouldn't be a gamble. MD Plumbing & Heating connects Maryland homeowners with vetted local pros who show up on time and get it done right.",
+  "services": [
+    "Residential Plumbing",
+    "Drain Cleaning",
+    "Water Heater Services",
+    "Emergency Plumbing",
+    "Heating System Repair",
+    "Sewer Line Services"
+  ],
+  "service_descriptions": [
+    "From leaky pipes and fixture replacements to whole-house re-pipes, we solve every plumbing issue under your roof.",
+    "Clogged drains cleared the same day with professional-grade equipment — no guesswork, no recurring blockages.",
+    "Installation, repair, and replacement of tank and tankless water heaters with minimal disruption to your home.",
+    "Burst pipe at midnight? Flooded basement on a Sunday? We dispatch fast because plumbing emergencies don't wait.",
+    "Furnace, boiler, or heat pump giving you trouble? Our heating techs diagnose fast and restore warmth to your home.",
+    "Camera inspections and full sewer line repair or replacement — we find the problem before it becomes a disaster."
+  ],
+  "service_areas": [
+    "Baltimore City",
+    "Towson",
+    "Catonsville",
+    "Dundalk",
+    "Pikesville",
+    "Glen Burnie",
+    "Columbia",
+    "Anne Arundel County"
+  ],
+  "reviews": [
+    {
+      "text": "I had a pipe burst in my basement on a Friday night. Called MD Plumbing and someone was at my door within 90 minutes. The tech was calm, explained everything clearly, and had it fixed before midnight. Absolute lifesaver.",
+      "detail": "Thomas R. — Baltimore, MD"
+    },
+    {
+      "text": "Used them twice now — once for a water heater replacement and again for a stubborn clog. Both times the guys were on time, kept the work area clean, and the pricing was exactly what they quoted. No surprise charges. I'll keep using them.",
+      "detail": "Maria C. — Towson, MD"
+    },
+    {
+      "text": "Good service, honest pricing, showed up when they said they would. Diagnosed my heating issue in 20 minutes when two other companies told me I needed a full replacement — just needed a part.",
+      "detail": "David K. — Catonsville, MD"
+    }
+  ],
+  "issues_addressed": [
+    "No specific differentiator on current site",
+    "No phone number prominently displayed",
+    "Generic directory-style site with no trust signals"
+  ],
+  "phone": "888.273.1969",
+  "logo": "",
+  "colors": {
+    "primary": "#E8A317",
+    "accent": "#4A7FB5"
+  },
+  "cta": "Get a Free Estimate",
+  "layout": "clean-modern"
+}

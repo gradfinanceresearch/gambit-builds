@@ -1,0 +1,121 @@
+{
+  "business": {
+    "name": "Sparks Heating and Air",
+    "phone": "(720) 555-0140",
+    "email": "info@sparksheatingair.com",
+    "city": "Denver",
+    "state": "CO",
+    "industry": "HVAC",
+    "tagline": "Reliable comfort when you need it most"
+  },
+  "hero": {
+    "headline": "Same-Day HVAC Service — *No Runaround*, Just Results",
+    "subheadline": "Denver's 5-star HVAC team fixes heating & cooling fast. 24/7 emergency response, upfront pricing, and maintenance plans that prevent breakdowns.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "⚡",
+      "text": "Same-Day Response"
+    },
+    {
+      "emoji": "🛡️",
+      "text": "Licensed & Insured"
+    },
+    {
+      "emoji": "⭐",
+      "text": "5-Star Rated Service"
+    },
+    {
+      "emoji": "🕐",
+      "text": "24/7 Emergency Available"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete HVAC Solutions for Denver Homes",
+    "subheading": "From emergency repairs to preventive maintenance — we keep your family comfortable year-round."
+  },
+  "services": [
+    {
+      "title": "Emergency AC & Heating Repair",
+      "description": "Same-day service when your system fails. Our certified technicians diagnose fast and fix it right the first time — no return trips needed.",
+      "emoji": "🚨"
+    },
+    {
+      "title": "Complete System Installation",
+      "description": "Energy-efficient furnaces, AC units, and heat pumps installed properly. We help you choose the right system for your home and budget.",
+      "emoji": "🏠"
+    },
+    {
+      "title": "Preventive Maintenance Plans",
+      "description": "Seasonal tune-ups that catch problems before they become expensive repairs. Members get priority scheduling and exclusive discounts.",
+      "emoji": "🔧"
+    },
+    {
+      "title": "Indoor Air Quality Solutions",
+      "description": "Air purifiers, humidifiers, and ductwork cleaning that improve your family's health and comfort while reducing energy costs.",
+      "emoji": "🌬️"
+    }
+  ],
+  "about": {
+    "heading": "Denver's Trusted HVAC Experts Since 2015",
+    "body": "We built Sparks Heating and Air on a simple promise: honest service, fair pricing, and solutions that last. Our certified technicians serve the entire Denver metro with same-day response and 24/7 emergency availability. No runaround, no surprises — just reliable comfort when you need it most."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "Why Denver Families Choose Sparks"
+  },
+  "reviews": [
+    {
+      "name": "Sarah M.",
+      "location": "Lakewood, CO",
+      "text": "Furnace died on a Sunday morning in January. Called Sparks and they had someone here within 2 hours. Fixed it fast and the price was exactly what they quoted — no hidden fees.",
+      "rating": 5
+    },
+    {
+      "name": "Mike D.",
+      "location": "Highlands Ranch, CO",
+      "text": "Been using their maintenance plan for 3 years. They caught a small issue last spring that could have been a huge expensive problem. Their techs actually explain what they're doing.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer L.",
+      "location": "Westminster, CO",
+      "text": "AC went out during the heat wave last summer. Sparks came same day, diagnosed the problem quickly, and had it running by evening. Professional and friendly service.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Serving the Greater Denver Metro",
+    "subheading": "Same-day service available throughout the Front Range communities.",
+    "areas": [
+      "Denver",
+      "Aurora",
+      "Lakewood",
+      "Westminster",
+      "Thornton",
+      "Arvada",
+      "Highlands Ranch",
+      "Littleton",
+      "Centennial",
+      "Broomfield"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Reliable HVAC Service?",
+    "body": "Don't wait for your system to fail. Get same-day service or schedule preventive maintenance that keeps your family comfortable year-round.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (720) 555-0140"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#0F766E",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Merriweather",
+    "font_body": "Source Sans Pro"
+  }
+}

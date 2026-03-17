@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Maxalea | Premium Landscape Design in Baltimore</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --primary: #2D5A1B;
+      --accent: #6B8F3E;
+      --dark: #10210e;
+      --text: #1f2937;
+      --muted: #6b7280;
+      --bg: #f7faf7;
+      --white: #ffffff;
+      --shadow: 0 10px 30px rgba(16, 33, 14, 0.12);
+      --radius: 14px;
+      --maxw: 1120px;
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      color: var(--text);
+      background: var(--white);
+      line-height: 1.6;
+    }
+
+    .container {
+      width: min(var(--maxw), 92%);
+      margin: 0 auto;
+    }
+
+    .topbar {
+      background: var(--primary);
+      color: #e9f7e6;
+      text-align: center;
+      padding: 0.55rem 1rem;
+      font-weight: 600;
+      font-size: 0.95rem;
+    }
+
+    .topbar a { color: #e9f7e6; text-decoration: none; border-bottom: 1px solid rgba(233,247,230,.5); }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(255,255,255,0.96);
+      backdrop-filter: blur(7px);
+      border-bottom: 1px solid #e5e7eb;
+    }
+
+    .nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      padding: 0.85rem 0;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: .8rem;
+      text-decoration: none;
+      color: var(--dark);
+    }
+
+    .brand img { height: 46px; width: auto; }
+
+    .brand .name {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.45rem;
+      letter-spacing: .02em;
+    }
+
+    .phone {
+      font-weight: 700;
+      color: var(--primary);
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .hero {
+      background: linear-gradient(120deg, rgba(45,90,27,.92), rgba(16,33,14,.82)),
+      url('https://maxalea.com/wp-content/uploads/2024/11/homepage-slider-with-badge.jpg') center/cover no-repeat;
+      color: var(--white);
+      padding: 5.5rem 0 4.5rem;
+    }
+
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1.2fr .8fr;
+      gap: 2rem;
+      align-items: center;
+    }
+
+    h1 {
+      margin: 0 0 .9rem;
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(2rem, 4.7vw, 3.35rem);
+      line-height: 1.15;
+    }
+
+    .sub {
+      font-size: clamp(1rem, 2.1vw, 1.2rem);
+      max-width: 58ch;
+      color: #e7f4e1;
+      margin-bottom: 1.6rem;
+    }
+
+    .btns { display: flex; flex-wrap: wrap; gap: .8rem; }
+
+    .btn {
+      display: inline-block;
+      text-decoration: none;
+      padding: .82rem 1.15rem;
+      border-radius: 999px;
+      font-weight: 700;
+      transition: .2s ease;
+      border: 2px solid transparent;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: var(--dark);
+    }
+
+    .btn-primary:hover { transform: translateY(-1px); filter: brightness(1.05); }
+
+    .btn-ghost {
+      border-color: rgba(255,255,255,.7);
+      color: #fff;
+    }
+
+    .hero-card {
+      background: rgba(255,255,255,.95);
+      color: var(--dark);
+      padding: 1.1rem;
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
+
+    .hero-card h3 { margin: .25rem 0 .35rem; }
+
+    section { padding: 4rem 0; }
+
+    h2 {
+      margin: 0 0 1.2rem;
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.55rem, 3.2vw, 2.1rem);
+      color: var(--dark);
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0,1fr));
+      gap: 1rem;
+    }
+
+    .card {
+      background: var(--bg);
+      border: 1px solid #e5e7eb;
+      border-radius: var(--radius);
+      padding: 1rem 1rem 1.1rem;
+    }
+
+    .card h3 { margin: .2rem 0 .45rem; color: var(--primary); font-size: 1.04rem; }
+    .card p { margin: 0; color: #374151; }
+
+    .reviews {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0,1fr));
+      gap: 1rem;
+    }
+
+    .review {
+      background: #fff;
+      border: 1px solid #e5e7eb;
+      border-left: 4px solid var(--accent);
+      border-radius: 10px;
+      padding: 1rem;
+    }
+
+    .review p { margin: 0 0 .7rem; font-size: .97rem; }
+    .review strong { color: var(--primary); }
+
+    .areas {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .6rem;
+    }
+
+    .pill {
+      background: #eff8ec;
+      color: var(--dark);
+      border: 1px solid #d6e8cf;
+      border-radius: 999px;
+      padding: .5rem .85rem;
+      font-weight: 600;
+      font-size: .9rem;
+    }
+
+    .cta {
+      background: linear-gradient(160deg, #f6fbf4, #ecf6e8);
+      border-top: 1px solid #dce9d7;
+      border-bottom: 1px solid #dce9d7;
+    }
+
+    .cta-wrap {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    footer {
+      background: #0f1d0e;
+      color: #d5e6d0;
+      text-align: center;
+      padding: 1.2rem;
+      font-size: .92rem;
+    }
+
+    @media (max-width: 900px) {
+      .hero-grid, .cta-wrap { grid-template-columns: 1fr; }
+      .reviews { grid-template-columns: 1fr; }
+      .services-grid { grid-template-columns: 1fr; }
+      .nav { flex-wrap: wrap; }
+    }
+  </style>
+</head>
+<body>
+  <div class="topbar">Award-Winning Baltimore Landscaping Since 1929 • Call <a href="tel:4103777500">410.377.7500</a></div>
+
+  <header>
+    <div class="container nav">
+      <a class="brand" href="#">
+        <img src="https://maxalea.com/wp-content/uploads/2015/05/logo-shadow.gif" alt="Maxalea logo" />
+        <span class="name">Maxalea</span>
+      </a>
+      <a class="phone" href="tel:4103777500">410.377.7500</a>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container hero-grid">
+      <div>
+        <h1>Baltimore’s Legacy Landscape Team — Design, Build & Care Without the Chaos</h1>
+        <p class="sub">Your current site proves your craftsmanship, but this concept makes it easier for homeowners to understand your services fast and contact you immediately — with a cleaner modern experience built for today’s clients.</p>
+        <div class="btns">
+          <a class="btn btn-primary" href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Maxalea">Request This Concept</a>
+          <a class="btn btn-ghost" href="tel:4103777500">Call 410.377.7500</a>
+        </div>
+      </div>
+      <aside class="hero-card">
+        <h3>Why this concept works</h3>
+        <p>Cleaner structure, clearer service messaging, and stronger calls to action that help serious Baltimore homeowners reach your team faster.</p>
+      </aside>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <h2>Landscape Services Built Around Lasting Quality</h2>
+      <div class="services-grid">
+        <article class="card">
+          <h3>Landscape Design</h3>
+          <p>We translate your goals into a complete outdoor plan that balances aesthetics, function, and long-term plant health.</p>
+        </article>
+        <article class="card">
+          <h3>Landscape Build & Installation</h3>
+          <p>From grading and planting to full outdoor transformations, our crews execute your project with clean timelines and precise workmanship.</p>
+        </article>
+        <article class="card">
+          <h3>Hardscapes & Outdoor Living</h3>
+          <p>Patios, walkways, and gathering spaces are crafted to feel cohesive with your home while standing up to Maryland weather.</p>
+        </article>
+        <article class="card">
+          <h3>Seasonal Maintenance Programs</h3>
+          <p>Year-round maintenance keeps your property polished, healthy, and guest-ready without you managing multiple vendors.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section style="background:#fbfdfb; border-top:1px solid #ecf1ea; border-bottom:1px solid #ecf1ea;">
+    <div class="container">
+      <h2>Trusted by Homeowners Across Greater Baltimore</h2>
+      <div class="reviews">
+        <article class="review">
+          <p>“From concept sketches to the final planting day, every detail was handled professionally. The front and backyard now feel like an intentional extension of our home.”</p>
+          <strong>— B. K., Roland Park</strong>
+        </article>
+        <article class="review">
+          <p>“We hired Maxalea for a full patio and planting refresh, and the communication alone set them apart. The team showed up on time, kept the site clean, and delivered exactly what they promised.”</p>
+          <strong>— William S., Baltimore County</strong>
+        </article>
+        <article class="review">
+          <p>“Four seasons later, everything still looks incredible. Their design decisions were practical, beautiful, and clearly built to last.”</p>
+          <strong>— R. F., Ruxton</strong>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <h2>Proudly Serving</h2>
+      <div class="areas">
+        <span class="pill">Baltimore City</span>
+        <span class="pill">Baltimore County</span>
+        <span class="pill">Towson</span>
+        <span class="pill">Pikesville</span>
+        <span class="pill">Roland Park</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta">
+    <div class="container cta-wrap">
+      <div>
+        <h2 style="margin-bottom:.5rem;">Ready to modernize Maxalea’s web presence?</h2>
+        <p style="margin:0; color:#374151;">This outreach concept keeps your brand heritage while making it dramatically easier for new clients to book a consultation.</p>
+      </div>
+      <a class="btn btn-primary" href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Maxalea">Email About This Concept</a>
+    </div>
+  </section>
+
+  <footer>
+    © Maxalea Concept Mockup • Baltimore, MD • <a href="tel:4103777500" style="color:#d5e6d0;">410.377.7500</a>
+  </footer>
+</body>
+</html>

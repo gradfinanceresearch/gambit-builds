@@ -1,0 +1,767 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JB HVAC Services — Charlotte, NC</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: #ffffff;
+      color: #1f2937;
+      line-height: 1.6;
+    }
+
+    a { text-decoration: none; }
+
+    /* ── STICKY HEADER ── */
+    .header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: #ffffff;
+      border-bottom: 3px solid #2D4A3E;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 5%;
+      height: 70px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+    }
+
+    .header-logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .header-logo .logo-mark {
+      background: #2D4A3E;
+      color: #ffffff;
+      font-weight: 800;
+      font-size: 1.4rem;
+      padding: 6px 12px;
+      border-radius: 6px;
+      letter-spacing: -0.5px;
+    }
+
+    .header-logo .logo-text {
+      font-size: 1rem;
+      font-weight: 700;
+      color: #1f2937;
+      line-height: 1.2;
+    }
+
+    .header-logo .logo-text span {
+      display: block;
+      font-size: 0.75rem;
+      font-weight: 500;
+      color: #4b5563;
+    }
+
+    .header-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .header-phone {
+      font-weight: 700;
+      font-size: 1.05rem;
+      color: #2D4A3E;
+    }
+
+    .header-phone:hover { color: #1a2e26; }
+
+    .header-cta {
+      background: #E8901A;
+      color: #ffffff;
+      font-weight: 700;
+      font-size: 0.9rem;
+      padding: 10px 20px;
+      border-radius: 6px;
+      transition: background 0.2s;
+    }
+
+    .header-cta:hover { background: #c97a14; }
+
+    /* ── URGENCY BAR ── */
+    .urgency-bar {
+      background: #2D4A3E;
+      color: #ffffff;
+      text-align: center;
+      padding: 10px 5%;
+      font-size: 0.9rem;
+      font-weight: 600;
+      letter-spacing: 0.3px;
+    }
+
+    .urgency-bar a {
+      color: #fbbf24;
+      font-weight: 700;
+    }
+
+    /* ── HERO ── */
+    .hero {
+      background: #2D4A3E;
+      color: #ffffff;
+      padding: 80px 5% 90px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero::after {
+      content: '';
+      position: absolute;
+      right: -60px;
+      top: -60px;
+      width: 400px;
+      height: 400px;
+      background: rgba(255,255,255,0.04);
+      border-radius: 50%;
+      pointer-events: none;
+    }
+
+    .hero-inner {
+      max-width: 780px;
+    }
+
+    .hero-badge {
+      display: inline-block;
+      background: #E8901A;
+      color: #ffffff;
+      font-size: 0.8rem;
+      font-weight: 700;
+      padding: 5px 14px;
+      border-radius: 4px;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      margin-bottom: 20px;
+    }
+
+    .hero h1 {
+      font-size: clamp(2rem, 4.5vw, 3.2rem);
+      font-weight: 800;
+      line-height: 1.15;
+      color: #ffffff;
+      margin-bottom: 20px;
+    }
+
+    .hero p {
+      font-size: 1.15rem;
+      color: #d1fae5;
+      max-width: 580px;
+      margin-bottom: 36px;
+    }
+
+    .hero-ctas {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .btn-primary {
+      background: #E8901A;
+      color: #ffffff;
+      font-weight: 700;
+      font-size: 1.05rem;
+      padding: 16px 32px;
+      border-radius: 8px;
+      display: inline-block;
+      transition: background 0.2s, transform 0.1s;
+    }
+
+    .btn-primary:hover { background: #c97a14; transform: translateY(-1px); }
+
+    .btn-secondary {
+      background: transparent;
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 1rem;
+      padding: 14px 28px;
+      border-radius: 8px;
+      border: 2px solid rgba(255,255,255,0.6);
+      display: inline-block;
+      transition: border-color 0.2s, background 0.2s;
+    }
+
+    .btn-secondary:hover {
+      border-color: #ffffff;
+      background: rgba(255,255,255,0.08);
+    }
+
+    .hero-trust {
+      display: flex;
+      gap: 32px;
+      margin-top: 44px;
+      flex-wrap: wrap;
+    }
+
+    .hero-trust-item {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .hero-trust-item strong {
+      font-size: 1.6rem;
+      font-weight: 800;
+      color: #ffffff;
+    }
+
+    .hero-trust-item span {
+      font-size: 0.82rem;
+      color: #a7f3d0;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    /* ── SERVICES ── */
+    .section-services {
+      background: #ffffff;
+      padding: 80px 5%;
+    }
+
+    .section-label {
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: #2D4A3E;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 10px;
+    }
+
+    .section-title {
+      font-size: clamp(1.6rem, 3vw, 2.4rem);
+      font-weight: 800;
+      color: #1f2937;
+      margin-bottom: 12px;
+    }
+
+    .section-sub {
+      font-size: 1rem;
+      color: #4b5563;
+      max-width: 540px;
+      margin-bottom: 48px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 24px;
+    }
+
+    .service-card {
+      background: #f9fafb;
+      border: 1px solid #e5e7eb;
+      border-radius: 10px;
+      padding: 28px 24px;
+      transition: box-shadow 0.2s, transform 0.2s;
+    }
+
+    .service-card:hover {
+      box-shadow: 0 8px 24px rgba(0,0,0,0.09);
+      transform: translateY(-2px);
+    }
+
+    .service-icon {
+      font-size: 2rem;
+      margin-bottom: 14px;
+    }
+
+    .service-card h3 {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: #1f2937;
+      margin-bottom: 8px;
+    }
+
+    .service-card p {
+      font-size: 0.9rem;
+      color: #4b5563;
+      line-height: 1.55;
+    }
+
+    /* ── WHY US ── */
+    .section-why {
+      background: #f0fdf4;
+      padding: 70px 5%;
+    }
+
+    .why-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 28px;
+      margin-top: 44px;
+    }
+
+    .why-item {
+      display: flex;
+      gap: 16px;
+      align-items: flex-start;
+    }
+
+    .why-icon {
+      flex-shrink: 0;
+      width: 46px;
+      height: 46px;
+      border-radius: 10px;
+      background: #2D4A3E;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.3rem;
+    }
+
+    .why-item h4 {
+      font-size: 1rem;
+      font-weight: 700;
+      color: #1f2937;
+      margin-bottom: 4px;
+    }
+
+    .why-item p {
+      font-size: 0.875rem;
+      color: #4b5563;
+    }
+
+    /* ── REVIEWS ── */
+    .section-reviews {
+      background: #ffffff;
+      padding: 80px 5%;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 24px;
+      margin-top: 44px;
+    }
+
+    .review-card {
+      background: #f9fafb;
+      border: 1px solid #e5e7eb;
+      border-radius: 10px;
+      padding: 28px 24px;
+    }
+
+    .review-stars {
+      color: #E8901A;
+      font-size: 1rem;
+      margin-bottom: 14px;
+    }
+
+    .review-text {
+      font-size: 0.95rem;
+      color: #1f2937;
+      line-height: 1.6;
+      margin-bottom: 18px;
+    }
+
+    .review-author {
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: #2D4A3E;
+    }
+
+    .review-location {
+      font-size: 0.8rem;
+      color: #6b7280;
+      font-weight: 400;
+    }
+
+    /* ── SERVICE AREAS ── */
+    .section-areas {
+      background: #2D4A3E;
+      color: #ffffff;
+      padding: 70px 5%;
+    }
+
+    .section-areas .section-label { color: #a7f3d0; }
+    .section-areas .section-title { color: #ffffff; }
+    .section-areas .section-sub { color: #d1fae5; }
+
+    .areas-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      margin-top: 36px;
+    }
+
+    .area-chip {
+      background: rgba(255,255,255,0.12);
+      color: #ffffff;
+      font-size: 0.9rem;
+      font-weight: 600;
+      padding: 10px 22px;
+      border-radius: 100px;
+      border: 1px solid rgba(255,255,255,0.25);
+    }
+
+    /* ── CTA SECTION ── */
+    .section-cta {
+      background: #f9fafb;
+      padding: 80px 5%;
+      text-align: center;
+    }
+
+    .cta-box {
+      background: #2D4A3E;
+      color: #ffffff;
+      border-radius: 16px;
+      padding: 60px 40px;
+      max-width: 780px;
+      margin: 0 auto;
+    }
+
+    .cta-box h2 {
+      font-size: clamp(1.6rem, 3vw, 2.4rem);
+      font-weight: 800;
+      color: #ffffff;
+      margin-bottom: 14px;
+    }
+
+    .cta-box p {
+      font-size: 1.05rem;
+      color: #d1fae5;
+      margin-bottom: 36px;
+    }
+
+    .cta-actions {
+      display: flex;
+      gap: 16px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .btn-cta-primary {
+      background: #E8901A;
+      color: #ffffff;
+      font-weight: 700;
+      font-size: 1.05rem;
+      padding: 16px 34px;
+      border-radius: 8px;
+      display: inline-block;
+      transition: background 0.2s;
+    }
+
+    .btn-cta-primary:hover { background: #c97a14; }
+
+    .btn-cta-secondary {
+      background: transparent;
+      color: #ffffff;
+      font-weight: 700;
+      font-size: 1.05rem;
+      padding: 14px 30px;
+      border-radius: 8px;
+      border: 2px solid rgba(255,255,255,0.5);
+      display: inline-block;
+      transition: border-color 0.2s;
+    }
+
+    .btn-cta-secondary:hover { border-color: #ffffff; }
+
+    /* ── FOOTER ── */
+    .footer {
+      background: #1a2e26;
+      color: #ffffff;
+      padding: 48px 5% 28px;
+    }
+
+    .footer-top {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 32px;
+      padding-bottom: 36px;
+      border-bottom: 1px solid rgba(255,255,255,0.12);
+      margin-bottom: 28px;
+    }
+
+    .footer-brand .logo-mark {
+      background: rgba(255,255,255,0.15);
+      color: #ffffff;
+      font-weight: 800;
+      font-size: 1.3rem;
+      padding: 5px 10px;
+      border-radius: 5px;
+      display: inline-block;
+      margin-bottom: 8px;
+    }
+
+    .footer-brand p {
+      font-size: 0.875rem;
+      color: #a7f3d0;
+      max-width: 260px;
+      margin-top: 8px;
+    }
+
+    .footer-links h4 {
+      font-size: 0.9rem;
+      font-weight: 700;
+      color: #ffffff;
+      margin-bottom: 14px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .footer-links ul { list-style: none; }
+    .footer-links li { margin-bottom: 8px; }
+    .footer-links a {
+      font-size: 0.875rem;
+      color: #d1fae5;
+      transition: color 0.2s;
+    }
+    .footer-links a:hover { color: #ffffff; }
+
+    .footer-bottom {
+      font-size: 0.8rem;
+      color: #6b7280;
+      text-align: center;
+    }
+
+    .footer-bottom a { color: #a7f3d0; }
+
+    /* ── GAMBIT BADGE ── */
+    .gambit-badge {
+      display: block;
+      text-align: center;
+      margin-top: 14px;
+      font-size: 0.75rem;
+      color: #6b7280;
+    }
+
+    .gambit-badge a {
+      color: #E8901A;
+      font-weight: 600;
+    }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 640px) {
+      .header { padding: 0 4%; }
+      .header-logo .logo-text { display: none; }
+      .header-phone { font-size: 0.9rem; }
+      .header-cta { padding: 8px 14px; font-size: 0.85rem; }
+      .hero { padding: 56px 4% 64px; }
+      .section-services, .section-reviews, .section-cta, .section-why, .section-areas { padding: 56px 4%; }
+      .cta-box { padding: 40px 24px; }
+      .footer { padding: 40px 4% 24px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- URGENCY BAR -->
+  <div class="urgency-bar">
+    🔧 24/7 Emergency HVAC Service Available — <a href="tel:7046193162">Call (704) 619-3162</a> Now
+  </div>
+
+  <!-- STICKY HEADER -->
+  <header class="header">
+    <div class="header-logo">
+      <div class="logo-mark">JB</div>
+      <div class="logo-text">
+        HVAC Services
+        <span>Charlotte, NC</span>
+      </div>
+    </div>
+    <div class="header-right">
+      <a href="tel:7046193162" class="header-phone">📞 (704) 619-3162</a>
+      <a href="mailto:kaleb@gambitbuilds.com?subject=Concept mockup for JB HVAC Services" class="header-cta">Get a Free Quote</a>
+    </div>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <div class="hero-badge">Charlotte's HVAC Specialists</div>
+      <h1>Charlotte's Go-To HVAC Team — Fast Response, Zero Hidden Fees</h1>
+      <p>Same-day repairs, new system installs, and preventive maintenance across Charlotte. Local technicians you can actually trust — no runaround, no surprises.</p>
+      <div class="hero-ctas">
+        <a href="tel:7046193162" class="btn-primary">Call Now — (704) 619-3162</a>
+        <a href="mailto:kaleb@gambitbuilds.com?subject=Concept mockup for JB HVAC Services" class="btn-secondary">Request a Free Quote</a>
+      </div>
+      <div class="hero-trust">
+        <div class="hero-trust-item">
+          <strong>24/7</strong>
+          <span>Emergency Service</span>
+        </div>
+        <div class="hero-trust-item">
+          <strong>Same-Day</strong>
+          <span>Availability</span>
+        </div>
+        <div class="hero-trust-item">
+          <strong>$0</strong>
+          <span>Hidden Fees</span>
+        </div>
+        <div class="hero-trust-item">
+          <strong>Local</strong>
+          <span>Charlotte Experts</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SERVICES -->
+  <section class="section-services">
+    <div class="section-label">What We Do</div>
+    <h2 class="section-title">Full HVAC Services in Charlotte, NC</h2>
+    <p class="section-sub">From emergency breakdowns to planned installs, we handle it all — quickly and at a fair price.</p>
+    <div class="services-grid">
+      <div class="service-card">
+        <div class="service-icon">🚨</div>
+        <h3>Emergency HVAC Repair</h3>
+        <p>Broken system at midnight in July? We respond fast so your family isn't left sweating through the night — 24/7, no overtime upcharge.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">❄️</div>
+        <h3>AC Installation</h3>
+        <p>We size, install, and commission new air conditioning systems correctly the first time — so you get maximum efficiency and the manufacturer's full warranty.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🔥</div>
+        <h3>Heating Repair</h3>
+        <p>Whether it's a furnace acting up or a heat pump that stopped cycling, our techs diagnose fast and carry the parts to get your heat back on the same visit.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🛠️</div>
+        <h3>HVAC Maintenance</h3>
+        <p>Annual tune-ups that extend equipment life, lower your energy bill, and catch small problems before they become expensive emergencies.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🔄</div>
+        <h3>System Replacement</h3>
+        <p>When repair no longer makes sense, we provide honest recommendations and install high-efficiency replacements sized perfectly for your Charlotte home or business.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- WHY US -->
+  <section class="section-why">
+    <div class="section-label">Why JB HVAC</div>
+    <h2 class="section-title">We Do Things Differently</h2>
+    <div class="why-grid">
+      <div class="why-item">
+        <div class="why-icon">⚡</div>
+        <div>
+          <h4>Same-Day Service</h4>
+          <p>We know HVAC problems can't wait. We prioritize urgent calls and offer flexible scheduling.</p>
+        </div>
+      </div>
+      <div class="why-item">
+        <div class="why-icon">💬</div>
+        <div>
+          <h4>Upfront Pricing</h4>
+          <p>You'll know the cost before we start. No surprises on your invoice — ever.</p>
+        </div>
+      </div>
+      <div class="why-item">
+        <div class="why-icon">🏡</div>
+        <div>
+          <h4>Locally Owned</h4>
+          <p>Charlotte-based and community-focused. We treat your home the way we'd treat our own.</p>
+        </div>
+      </div>
+      <div class="why-item">
+        <div class="why-icon">🏆</div>
+        <div>
+          <h4>Licensed &amp; Insured</h4>
+          <p>Fully licensed HVAC technicians, background-checked and insured for your peace of mind.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="section-reviews">
+    <div class="section-label">Real Customers</div>
+    <h2 class="section-title">Charlotte Homeowners Trust JB HVAC</h2>
+    <p class="section-sub">Don't take our word for it — here's what our customers have to say.</p>
+    <div class="reviews-grid">
+      <div class="review-card">
+        <div class="review-stars">★★★★★</div>
+        <p class="review-text">"Called JB at 7pm on a Friday when our AC went out mid-summer. The tech was at our door within two hours and fixed it the same night. Completely saved us — we have two young kids at home. Absolutely the best call I've made."</p>
+        <div class="review-author">Mike T. <span class="review-location">— South End, Charlotte</span></div>
+      </div>
+      <div class="review-card">
+        <div class="review-stars">★★★★★</div>
+        <p class="review-text">"Got three quotes for a new system last fall. JB wasn't just the best price — they actually explained what size I needed and why. Install was clean, on-time, and the crew left the place spotless. Zero surprises on the invoice."</p>
+        <div class="review-author">Amanda K. <span class="review-location">— Ballantyne, Charlotte</span></div>
+      </div>
+      <div class="review-card">
+        <div class="review-stars">★★★★★</div>
+        <p class="review-text">"Signed up for their annual maintenance plan after they fixed a heating issue in January. Honest assessment — they told me what could wait and what needed attention now. Haven't had a problem since. Trustworthy, fair, and efficient."</p>
+        <div class="review-author">David R. <span class="review-location">— NoDa, Charlotte</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SERVICE AREAS -->
+  <section class="section-areas">
+    <div class="section-label">Coverage</div>
+    <h2 class="section-title">Serving Charlotte &amp; Surrounding Areas</h2>
+    <p class="section-sub">We cover the greater Charlotte metro — fast response times, no distance surcharges.</p>
+    <div class="areas-list">
+      <span class="area-chip">Charlotte</span>
+      <span class="area-chip">Matthews</span>
+      <span class="area-chip">Concord</span>
+      <span class="area-chip">Huntersville</span>
+      <span class="area-chip">Mint Hill</span>
+      <span class="area-chip">Pineville</span>
+    </div>
+  </section>
+
+  <!-- CTA SECTION -->
+  <section class="section-cta">
+    <div class="cta-box">
+      <h2>Ready for Fast, Honest HVAC Service in Charlotte?</h2>
+      <p>Give us a call or request a free quote online. We'll get back to you fast — no automated runaround.</p>
+      <div class="cta-actions">
+        <a href="tel:7046193162" class="btn-cta-primary">📞 Call (704) 619-3162</a>
+        <a href="mailto:kaleb@gambitbuilds.com?subject=Concept mockup for JB HVAC Services" class="btn-cta-secondary">Get a Free Quote</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <div class="logo-mark">JB HVAC Services</div>
+        <p>Charlotte's trusted heating and cooling team. Fast. Honest. Local.</p>
+        <p style="margin-top: 10px;"><a href="tel:7046193162" style="color:#a7f3d0; font-weight:700;">(704) 619-3162</a></p>
+      </div>
+      <div class="footer-links">
+        <h4>Services</h4>
+        <ul>
+          <li><a href="#">Emergency HVAC Repair</a></li>
+          <li><a href="#">AC Installation</a></li>
+          <li><a href="#">Heating Repair</a></li>
+          <li><a href="#">HVAC Maintenance</a></li>
+          <li><a href="#">System Replacement</a></li>
+        </ul>
+      </div>
+      <div class="footer-links">
+        <h4>Service Areas</h4>
+        <ul>
+          <li><a href="#">Charlotte</a></li>
+          <li><a href="#">Matthews</a></li>
+          <li><a href="#">Concord</a></li>
+          <li><a href="#">Huntersville</a></li>
+          <li><a href="#">Mint Hill</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      © 2025 JB HVAC Services — Charlotte, NC. All rights reserved.
+      <div class="gambit-badge">
+        Concept by <a href="https://gambitbuilds.com" target="_blank">GambitBuilds.com</a> — Modern websites for local businesses
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>

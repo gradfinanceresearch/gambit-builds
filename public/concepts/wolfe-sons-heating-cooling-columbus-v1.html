@@ -1,0 +1,904 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wolfe &amp; Sons Heating and Cooling | Columbus, OH HVAC</title>
+  <meta name="description" content="Wolfe & Sons Heating and Cooling — Columbus's trusted family HVAC company. Heating repair, AC repair, furnace installation, and 24/7 emergency service across Columbus, Hilliard, Worthington, Dublin, and Gahanna." />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --primary: #243B6B;
+      --primary-dark: #152344;
+      --primary-mid: #1e3261;
+      --accent: #C0392B;
+      --accent-hover: #a93226;
+      --white: #ffffff;
+      --light-gray: #F4F6FA;
+      --border: #E2E8F0;
+      --mid-gray: #64748B;
+      --dark-text: #0F172A;
+    }
+
+    body {
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      color: var(--dark-text);
+      background: var(--white);
+      line-height: 1.65;
+    }
+
+    /* ── TOPBAR ── */
+    .topbar {
+      background: var(--primary-dark);
+      color: #94A3B8;
+      padding: 10px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 8px;
+      font-size: 0.85rem;
+    }
+    .topbar-left { display: flex; gap: 20px; flex-wrap: wrap; }
+    .topbar-item { display: flex; align-items: center; gap: 6px; }
+    .topbar a {
+      color: var(--white);
+      text-decoration: none;
+      font-weight: 700;
+    }
+
+    /* ── NAV ── */
+    nav {
+      background: var(--primary);
+      padding: 0 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 72px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 3px 12px rgba(0,0,0,0.25);
+    }
+    .nav-brand {
+      color: var(--white);
+      font-size: 1.2rem;
+      font-weight: 800;
+      line-height: 1.2;
+    }
+    .nav-brand em {
+      font-style: normal;
+      color: #93C5FD;
+    }
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 28px;
+    }
+    .nav-links a {
+      color: #CBD5E1;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: color 0.2s;
+    }
+    .nav-links a:hover { color: var(--white); }
+    .nav-cta {
+      background: var(--accent);
+      color: var(--white) !important;
+      padding: 10px 22px;
+      border-radius: 6px;
+      font-weight: 700 !important;
+      font-size: 0.95rem !important;
+      transition: background 0.2s !important;
+    }
+    .nav-cta:hover { background: var(--accent-hover) !important; }
+
+    /* ── HERO ── */
+    .hero {
+      background: var(--primary);
+      color: var(--white);
+      padding: 88px 24px 80px;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::after {
+      content: '';
+      position: absolute;
+      right: -80px;
+      top: -80px;
+      width: 500px;
+      height: 500px;
+      background: radial-gradient(circle, rgba(192,57,43,0.12) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .hero-inner {
+      max-width: 820px;
+      margin: 0 auto;
+      position: relative;
+      z-index: 1;
+    }
+    .hero-eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(255,255,255,0.1);
+      border: 1px solid rgba(255,255,255,0.2);
+      border-radius: 30px;
+      padding: 6px 16px;
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: #CBD5E1;
+      margin-bottom: 24px;
+      letter-spacing: 0.04em;
+    }
+    .hero h1 {
+      font-size: clamp(2.1rem, 5vw, 3.3rem);
+      font-weight: 900;
+      line-height: 1.12;
+      margin-bottom: 22px;
+    }
+    .hero h1 span { color: #FCA5A5; }
+    .hero-sub {
+      font-size: clamp(1rem, 2.2vw, 1.18rem);
+      color: #CBD5E1;
+      max-width: 580px;
+      margin-bottom: 40px;
+    }
+    .hero-cta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      align-items: center;
+    }
+    .btn-accent {
+      background: var(--accent);
+      color: var(--white);
+      padding: 15px 34px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 800;
+      font-size: 1.05rem;
+      transition: background 0.2s, transform 0.15s;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .btn-accent:hover { background: var(--accent-hover); transform: translateY(-2px); }
+    .btn-ghost {
+      background: transparent;
+      color: var(--white);
+      border: 2px solid rgba(255,255,255,0.35);
+      padding: 13px 28px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1rem;
+      transition: border-color 0.2s, background 0.2s;
+    }
+    .btn-ghost:hover { border-color: var(--white); background: rgba(255,255,255,0.07); }
+
+    .hero-trust-row {
+      margin-top: 44px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 28px;
+    }
+    .hero-trust-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .trust-num {
+      font-size: 1.5rem;
+      font-weight: 900;
+      color: var(--white);
+      line-height: 1;
+    }
+    .trust-label {
+      font-size: 0.8rem;
+      color: #94A3B8;
+      line-height: 1.3;
+    }
+    .trust-divider {
+      width: 1px;
+      height: 36px;
+      background: rgba(255,255,255,0.15);
+      align-self: center;
+    }
+
+    /* ── SECTION SHARED ── */
+    section { padding: 76px 24px; }
+    .section-inner { max-width: 1060px; margin: 0 auto; }
+    .section-label {
+      font-size: 0.77rem;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 10px;
+    }
+    h2 {
+      font-size: clamp(1.7rem, 3.5vw, 2.5rem);
+      font-weight: 800;
+      color: var(--primary);
+      line-height: 1.2;
+      margin-bottom: 14px;
+    }
+    .section-sub {
+      font-size: 1.03rem;
+      color: var(--mid-gray);
+      max-width: 600px;
+      margin-bottom: 48px;
+    }
+
+    /* ── WHY US ── */
+    .why-bg { background: var(--light-gray); }
+    .why-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: 20px;
+    }
+    .why-card {
+      background: var(--white);
+      border-radius: 12px;
+      padding: 28px 22px;
+      border-left: 4px solid var(--primary);
+      box-shadow: 0 1px 6px rgba(0,0,0,0.06);
+    }
+    .why-icon { font-size: 1.8rem; margin-bottom: 12px; }
+    .why-card h3 { font-size: 1rem; font-weight: 700; color: var(--primary); margin-bottom: 8px; }
+    .why-card p { font-size: 0.88rem; color: var(--mid-gray); line-height: 1.55; }
+
+    /* ── SERVICES ── */
+    .services-bg { background: var(--white); }
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 24px;
+    }
+    .service-card {
+      border: 1.5px solid var(--border);
+      border-radius: 12px;
+      padding: 30px 26px;
+      transition: border-color 0.2s, box-shadow 0.2s, transform 0.2s;
+      background: var(--white);
+      position: relative;
+    }
+    .service-card:hover {
+      border-color: var(--primary);
+      box-shadow: 0 6px 24px rgba(36,59,107,0.1);
+      transform: translateY(-3px);
+    }
+    .svc-icon-wrap {
+      width: 54px; height: 54px;
+      background: var(--primary);
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+      margin-bottom: 18px;
+    }
+    .service-card h3 {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: var(--primary);
+      margin-bottom: 8px;
+    }
+    .service-card p {
+      font-size: 0.92rem;
+      color: var(--mid-gray);
+      line-height: 1.55;
+    }
+    .svc-emergency {
+      border-color: var(--accent);
+      background: #FEF2F2;
+    }
+    .svc-emergency .svc-icon-wrap { background: var(--accent); }
+    .svc-emergency h3 { color: var(--accent); }
+    .svc-badge {
+      position: absolute;
+      top: 16px; right: 16px;
+      background: var(--accent);
+      color: var(--white);
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 3px 10px;
+      border-radius: 14px;
+    }
+
+    /* ── PROCESS ── */
+    .process-bg { background: var(--primary); }
+    .process-bg h2 { color: var(--white); }
+    .process-bg .section-sub { color: #94A3B8; }
+    .process-steps {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 24px;
+      counter-reset: steps;
+    }
+    .process-step {
+      background: rgba(255,255,255,0.07);
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 12px;
+      padding: 28px 22px;
+      counter-increment: steps;
+      position: relative;
+    }
+    .step-num {
+      width: 38px; height: 38px;
+      border-radius: 50%;
+      background: var(--accent);
+      color: var(--white);
+      font-weight: 800;
+      font-size: 0.95rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 14px;
+    }
+    .process-step h3 { color: var(--white); font-size: 1rem; font-weight: 700; margin-bottom: 8px; }
+    .process-step p { color: #94A3B8; font-size: 0.88rem; line-height: 1.55; }
+
+    /* ── REVIEWS ── */
+    .reviews-bg { background: var(--light-gray); }
+    .review-header-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      flex-wrap: wrap;
+      gap: 16px;
+      margin-bottom: 40px;
+    }
+    .review-score {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      background: var(--white);
+      border-radius: 12px;
+      padding: 16px 24px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.07);
+    }
+    .big-score { font-size: 2.8rem; font-weight: 900; color: var(--primary); line-height: 1; }
+    .score-stars { color: #FBBF24; font-size: 1.1rem; margin-bottom: 4px; }
+    .score-label { font-size: 0.82rem; color: var(--mid-gray); }
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 22px;
+    }
+    .review-card {
+      background: var(--white);
+      border-radius: 12px;
+      padding: 26px 22px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+      border-bottom: 4px solid var(--primary);
+    }
+    .stars { color: #FBBF24; letter-spacing: 2px; margin-bottom: 12px; font-size: 1rem; }
+    .review-text {
+      font-size: 0.94rem;
+      color: #374151;
+      line-height: 1.6;
+      font-style: italic;
+      margin-bottom: 18px;
+    }
+    .reviewer { display: flex; align-items: center; gap: 12px; }
+    .reviewer-avatar {
+      width: 42px; height: 42px;
+      border-radius: 50%;
+      font-weight: 700;
+      font-size: 0.95rem;
+      color: var(--white);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .av-1 { background: var(--primary); }
+    .av-2 { background: #065F46; }
+    .av-3 { background: #7C3AED; }
+    .reviewer-name { font-weight: 700; font-size: 0.9rem; color: var(--dark-text); }
+    .reviewer-loc { font-size: 0.8rem; color: var(--mid-gray); }
+
+    /* ── SERVICE AREAS ── */
+    .areas-bg { background: var(--white); }
+    .areas-map-row {
+      display: flex;
+      gap: 40px;
+      flex-wrap: wrap;
+      align-items: flex-start;
+    }
+    .areas-list { flex: 1 1 300px; }
+    .area-item {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      padding: 16px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .area-item:last-child { border-bottom: none; }
+    .area-dot {
+      width: 12px; height: 12px;
+      border-radius: 50%;
+      background: var(--accent);
+      flex-shrink: 0;
+    }
+    .area-info { flex: 1; }
+    .area-name { font-weight: 700; font-size: 0.98rem; color: var(--primary); }
+    .area-desc { font-size: 0.82rem; color: var(--mid-gray); margin-top: 2px; }
+    .area-tag {
+      background: var(--light-gray);
+      color: var(--primary);
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 3px 10px;
+      border-radius: 12px;
+    }
+    .areas-callout {
+      flex: 1 1 280px;
+      background: var(--primary);
+      border-radius: 16px;
+      padding: 36px 28px;
+      color: var(--white);
+    }
+    .areas-callout h3 { font-size: 1.3rem; font-weight: 800; margin-bottom: 12px; }
+    .areas-callout p { color: #CBD5E1; font-size: 0.92rem; margin-bottom: 24px; line-height: 1.6; }
+    .btn-callout {
+      background: var(--accent);
+      color: var(--white);
+      padding: 13px 26px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 0.95rem;
+      display: inline-block;
+      transition: background 0.2s;
+    }
+    .btn-callout:hover { background: var(--accent-hover); }
+
+    /* ── CTA ── */
+    .cta-section {
+      background: linear-gradient(140deg, var(--primary-dark) 0%, var(--primary) 100%);
+      padding: 88px 24px;
+      text-align: center;
+      color: var(--white);
+    }
+    .cta-section h2 { color: var(--white); font-size: clamp(1.9rem, 4vw, 2.9rem); margin-bottom: 16px; }
+    .cta-section p { color: #CBD5E1; font-size: 1.05rem; max-width: 540px; margin: 0 auto 40px; }
+    .cta-actions { display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; }
+    .btn-accent-lg {
+      background: var(--accent);
+      color: var(--white);
+      padding: 16px 40px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 800;
+      font-size: 1.1rem;
+      transition: background 0.2s, transform 0.15s;
+    }
+    .btn-accent-lg:hover { background: var(--accent-hover); transform: translateY(-2px); }
+    .btn-outline-white {
+      border: 2px solid rgba(255,255,255,0.4);
+      color: var(--white);
+      padding: 14px 30px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1rem;
+      transition: background 0.2s, border-color 0.2s;
+    }
+    .btn-outline-white:hover { background: rgba(255,255,255,0.08); border-color: var(--white); }
+
+    /* ── FOOTER ── */
+    footer {
+      background: var(--primary-dark);
+      color: #94A3B8;
+      padding: 56px 24px 28px;
+    }
+    .footer-inner { max-width: 960px; margin: 0 auto; }
+    .footer-grid {
+      display: grid;
+      grid-template-columns: 2fr 1fr 1fr 1fr;
+      gap: 40px;
+      margin-bottom: 40px;
+    }
+    .footer-brand-name {
+      font-size: 1.1rem;
+      font-weight: 800;
+      color: var(--white);
+      margin-bottom: 12px;
+    }
+    .footer-brand-name em { font-style: normal; color: #FCA5A5; }
+    .footer-brand p { font-size: 0.86rem; line-height: 1.65; margin-bottom: 16px; }
+    .footer-col h4 { color: var(--white); font-size: 0.88rem; font-weight: 700; margin-bottom: 16px; letter-spacing: 0.05em; }
+    .footer-col ul { list-style: none; }
+    .footer-col ul li { margin-bottom: 9px; font-size: 0.85rem; }
+    .footer-col ul li a { color: #94A3B8; text-decoration: none; transition: color 0.2s; }
+    .footer-col ul li a:hover { color: #FCA5A5; }
+    .footer-divider { border: none; border-top: 1px solid rgba(255,255,255,0.08); margin-bottom: 20px; }
+    .footer-bottom {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 10px;
+      font-size: 0.82rem;
+    }
+    .footer-bottom a { color: #FCA5A5; text-decoration: none; }
+
+    /* ── CONCEPT BANNER ── */
+    .concept-banner {
+      background: #0F172A;
+      border-top: 3px solid var(--accent);
+      color: #64748B;
+      text-align: center;
+      padding: 14px 24px;
+      font-size: 0.82rem;
+    }
+    .concept-banner strong { color: var(--accent); }
+
+    @media (max-width: 768px) {
+      .footer-grid { grid-template-columns: 1fr 1fr; }
+      .nav-links { display: none; }
+    }
+    @media (max-width: 480px) {
+      .footer-grid { grid-template-columns: 1fr; }
+      nav { padding: 0 16px; }
+      .topbar { flex-direction: column; align-items: flex-start; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- TOPBAR -->
+  <div class="topbar">
+    <div class="topbar-left">
+      <div class="topbar-item">📞 <a href="tel:6144510846">(614) 451-0846</a></div>
+      <div class="topbar-item">📍 Columbus, OH &amp; Surrounding Areas</div>
+    </div>
+    <div>🔴 24/7 Emergency HVAC — <a href="tel:6144510846">Call Anytime</a></div>
+  </div>
+
+  <!-- NAV -->
+  <nav>
+    <div class="nav-brand">Wolfe &amp; <em>Sons</em><br>Heating and Cooling</div>
+    <div class="nav-links">
+      <a href="#services">Services</a>
+      <a href="#reviews">Reviews</a>
+      <a href="#areas">Areas</a>
+      <a class="nav-cta" href="tel:6144510846">📞 Call Now</a>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <div class="hero-eyebrow">🏠 Family-Owned · Columbus, OH Since Day One</div>
+      <h1>Columbus Families Have Trusted<br><span>Wolfe &amp; Sons</span> for Generations</h1>
+      <p class="hero-sub">Honest heating and cooling service with the reliability of a family name on the line. From Hilliard to Gahanna — we show up, we do it right, and we stand behind our work.</p>
+      <div class="hero-cta-row">
+        <a class="btn-accent" href="tel:6144510846">📞 (614) 451-0846</a>
+        <a class="btn-ghost" href="#services">Our Services ↓</a>
+      </div>
+      <div class="hero-trust-row">
+        <div class="hero-trust-item">
+          <div>
+            <div class="trust-num">24/7</div>
+            <div class="trust-label">Emergency<br>Response</div>
+          </div>
+        </div>
+        <div class="trust-divider"></div>
+        <div class="hero-trust-item">
+          <div>
+            <div class="trust-num">5★</div>
+            <div class="trust-label">Average<br>Rating</div>
+          </div>
+        </div>
+        <div class="trust-divider"></div>
+        <div class="hero-trust-item">
+          <div>
+            <div class="trust-num">5</div>
+            <div class="trust-label">Columbus<br>Communities</div>
+          </div>
+        </div>
+        <div class="trust-divider"></div>
+        <div class="hero-trust-item">
+          <div>
+            <div class="trust-num">100%</div>
+            <div class="trust-label">Licensed &amp;<br>Insured</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- WHY US -->
+  <section class="why-bg">
+    <div class="section-inner">
+      <div class="section-label">Why Wolfe &amp; Sons</div>
+      <h2>What a Family Business Means for You</h2>
+      <p class="section-sub">When your name is on the truck, every job matters. We've built our reputation one Columbus home at a time.</p>
+      <div class="why-grid">
+        <div class="why-card">
+          <div class="why-icon">🤝</div>
+          <h3>Our Name, Our Reputation</h3>
+          <p>Wolfe &amp; Sons isn't a franchise — it's our family name. That means every technician we send represents us personally.</p>
+        </div>
+        <div class="why-card">
+          <div class="why-icon">💬</div>
+          <h3>Straight Talk, No Pressure</h3>
+          <p>We tell you what your system actually needs — not the most profitable option. No scare tactics, no overselling.</p>
+        </div>
+        <div class="why-card">
+          <div class="why-icon">🔧</div>
+          <h3>Skilled, Certified Techs</h3>
+          <p>Every technician is fully trained, licensed, and experienced with all major HVAC brands and system types.</p>
+        </div>
+        <div class="why-card">
+          <div class="why-icon">🕐</div>
+          <h3>We Actually Show Up On Time</h3>
+          <p>We respect your schedule. When we say we'll be there at 2 PM, we're there — not in a 4-hour window.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SERVICES -->
+  <section class="services-bg" id="services">
+    <div class="section-inner">
+      <div class="section-label">Services</div>
+      <h2>Full-Service Heating &amp; Cooling for Columbus Homes</h2>
+      <p class="section-sub">Whether you need a quick fix or a complete system overhaul, Wolfe &amp; Sons handles it all — properly, the first time.</p>
+      <div class="services-grid">
+
+        <div class="service-card">
+          <div class="svc-icon-wrap">🔥</div>
+          <h3>Heating Repair</h3>
+          <p>Fast diagnosis and repair on all heating systems — boilers, heat pumps, and forced-air — so a cold Columbus night doesn't catch you off guard.</p>
+        </div>
+
+        <div class="service-card">
+          <div class="svc-icon-wrap">❄️</div>
+          <h3>AC Repair</h3>
+          <p>We troubleshoot refrigerant leaks, failed compressors, and airflow problems to restore cool air before Ohio humidity becomes unbearable.</p>
+        </div>
+
+        <div class="service-card">
+          <div class="svc-icon-wrap">🏗️</div>
+          <h3>Furnace Installation</h3>
+          <p>Expert furnace selection and installation matched to your home's layout and heating load — done right the first time with full testing before we leave.</p>
+        </div>
+
+        <div class="service-card">
+          <div class="svc-icon-wrap">🔄</div>
+          <h3>System Replacement</h3>
+          <p>When repair no longer makes sense, we help you choose the right replacement system for your budget and install it with zero shortcuts.</p>
+        </div>
+
+        <div class="service-card svc-emergency">
+          <span class="svc-badge">24/7</span>
+          <div class="svc-icon-wrap">🚨</div>
+          <h3>24/7 Emergency HVAC</h3>
+          <p>Heating failure at 2 AM during a Columbus cold snap? We're on call around the clock — real technicians, not an answering service.</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- PROCESS -->
+  <section class="process-bg">
+    <div class="section-inner">
+      <div class="section-label" style="color: #FCA5A5;">How It Works</div>
+      <h2>Simple, Transparent Process Every Time</h2>
+      <p class="section-sub">No surprises. Here's exactly what happens when you call Wolfe &amp; Sons.</p>
+      <div class="process-steps">
+        <div class="process-step">
+          <div class="step-num">1</div>
+          <h3>Call or Text Us</h3>
+          <p>Reach a real person at (614) 451-0846 — no hold music, no bots. We listen to your problem first.</p>
+        </div>
+        <div class="process-step">
+          <div class="step-num">2</div>
+          <h3>We Schedule Fast</h3>
+          <p>Same-day or next-day slots for most calls. Emergency? We're on our way immediately.</p>
+        </div>
+        <div class="process-step">
+          <div class="step-num">3</div>
+          <h3>Upfront Diagnosis</h3>
+          <p>We explain exactly what's wrong and what it'll cost before any work begins. No surprise invoices.</p>
+        </div>
+        <div class="process-step">
+          <div class="step-num">4</div>
+          <h3>Fixed &amp; Verified</h3>
+          <p>We do the work, test the system thoroughly, and walk you through what was done before we leave.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="reviews-bg" id="reviews">
+    <div class="section-inner">
+      <div class="review-header-row">
+        <div>
+          <div class="section-label">Customer Reviews</div>
+          <h2>Trusted by Columbus Homeowners</h2>
+        </div>
+        <div class="review-score">
+          <div class="big-score">5.0</div>
+          <div>
+            <div class="score-stars">★★★★★</div>
+            <div class="score-label">Average Rating<br>Verified Customers</div>
+          </div>
+        </div>
+      </div>
+      <div class="reviews-grid">
+
+        <div class="review-card">
+          <div class="stars">★★★★★</div>
+          <p class="review-text">"Our furnace died on a Sunday morning in December. Wolfe &amp; Sons had a tech at our Worthington house by noon. He was knowledgeable, didn't rush, and charged us a fair price. Real professionals."</p>
+          <div class="reviewer">
+            <div class="reviewer-avatar av-1">DA</div>
+            <div>
+              <div class="reviewer-name">Dave A.</div>
+              <div class="reviewer-loc">Worthington, OH</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="review-card">
+          <div class="stars">★★★★★</div>
+          <p class="review-text">"They replaced our entire HVAC system. From the quote to the install day, everything was exactly as discussed. The crew was clean, courteous, and finished ahead of schedule. Highly recommend to any Hilliard homeowner."</p>
+          <div class="reviewer">
+            <div class="reviewer-avatar av-2">PT</div>
+            <div>
+              <div class="reviewer-name">Patricia T.</div>
+              <div class="reviewer-loc">Hilliard, OH</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="review-card">
+          <div class="stars">★★★★★</div>
+          <p class="review-text">"I've used several HVAC companies in Gahanna and Wolfe &amp; Sons is the only one I've called back twice. They fixed our AC issue the first time — no repeat visits, no excuses."</p>
+          <div class="reviewer">
+            <div class="reviewer-avatar av-3">LM</div>
+            <div>
+              <div class="reviewer-name">Lisa M.</div>
+              <div class="reviewer-loc">Gahanna, OH</div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- SERVICE AREAS -->
+  <section class="areas-bg" id="areas">
+    <div class="section-inner">
+      <div class="section-label">Where We Work</div>
+      <h2>Serving Columbus &amp; the Western/Northern Suburbs</h2>
+      <p class="section-sub">Based in Columbus and dispatching across the region — fast response wherever you are in our service zone.</p>
+      <div class="areas-map-row">
+        <div class="areas-list">
+          <div class="area-item">
+            <div class="area-dot"></div>
+            <div class="area-info">
+              <div class="area-name">Columbus</div>
+              <div class="area-desc">Full service coverage — all neighborhoods</div>
+            </div>
+            <span class="area-tag">Primary</span>
+          </div>
+          <div class="area-item">
+            <div class="area-dot"></div>
+            <div class="area-info">
+              <div class="area-name">Hilliard</div>
+              <div class="area-desc">Fast response, all HVAC services</div>
+            </div>
+            <span class="area-tag">Full Service</span>
+          </div>
+          <div class="area-item">
+            <div class="area-dot"></div>
+            <div class="area-info">
+              <div class="area-name">Worthington</div>
+              <div class="area-desc">Emergency &amp; scheduled service</div>
+            </div>
+            <span class="area-tag">Full Service</span>
+          </div>
+          <div class="area-item">
+            <div class="area-dot"></div>
+            <div class="area-info">
+              <div class="area-name">Dublin</div>
+              <div class="area-desc">Installation, repair, maintenance</div>
+            </div>
+            <span class="area-tag">Full Service</span>
+          </div>
+          <div class="area-item">
+            <div class="area-dot"></div>
+            <div class="area-info">
+              <div class="area-name">Gahanna</div>
+              <div class="area-desc">All services including 24/7 emergency</div>
+            </div>
+            <span class="area-tag">Full Service</span>
+          </div>
+        </div>
+        <div class="areas-callout">
+          <h3>Outside Our Listed Areas?</h3>
+          <p>Call us anyway — we regularly serve clients just outside these zones and can often still help. When it comes to an emergency, we go the extra mile.</p>
+          <a class="btn-callout" href="tel:6144510846">📞 (614) 451-0846</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="cta-section">
+    <div class="section-inner">
+      <h2>Let a Columbus Family Solve Your HVAC Problem</h2>
+      <p>Wolfe &amp; Sons has been earning trust one Columbus home at a time. We'd be honored to earn yours.</p>
+      <div class="cta-actions">
+        <a class="btn-accent-lg" href="tel:6144510846">📞 Call (614) 451-0846</a>
+        <a class="btn-outline-white" href="#services">View All Services</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-grid">
+        <div>
+          <div class="footer-brand-name">Wolfe &amp; <em>Sons</em> Heating and Cooling</div>
+          <p>Family-owned HVAC contractor serving Columbus and the surrounding communities. Honest work, fair prices, and a reputation we're proud to stand behind.</p>
+        </div>
+        <div class="footer-col">
+          <h4>Services</h4>
+          <ul>
+            <li><a href="#">Heating Repair</a></li>
+            <li><a href="#">AC Repair</a></li>
+            <li><a href="#">Furnace Installation</a></li>
+            <li><a href="#">System Replacement</a></li>
+            <li><a href="#">24/7 Emergency</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Service Areas</h4>
+          <ul>
+            <li><a href="#">Columbus</a></li>
+            <li><a href="#">Hilliard</a></li>
+            <li><a href="#">Worthington</a></li>
+            <li><a href="#">Dublin</a></li>
+            <li><a href="#">Gahanna</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Contact</h4>
+          <ul>
+            <li><a href="tel:6144510846">(614) 451-0846</a></li>
+            <li>Columbus, OH</li>
+            <li>24/7 Emergency Line</li>
+            <li>Licensed &amp; Insured</li>
+          </ul>
+        </div>
+      </div>
+      <hr class="footer-divider" />
+      <div class="footer-bottom">
+        <span>© 2026 Wolfe &amp; Sons Heating and Cooling. All rights reserved.</span>
+        <span>Columbus, OH | Family-Owned &amp; Operated</span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- CONCEPT BANNER -->
+  <div class="concept-banner">
+    <strong>Concept Preview</strong> — Built by <strong>Gambit Builds</strong> · This is a free mockup, not a live site.
+  </div>
+
+</body>
+</html>

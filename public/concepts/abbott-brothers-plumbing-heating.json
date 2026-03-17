@@ -1,0 +1,65 @@
+{
+  "slug": "abbott-brothers-plumbing-heating",
+  "business": "Abbott Brothers Plumbing & Heating",
+  "city": "Baltimore",
+  "tagline": "Family Owned · Licensed & Insured · Baltimore, MD",
+  "headline": "Plumbing Services in Baltimore, MD — Done Right the First Time",
+  "subheadline": "Abbott Brothers is a small, family-run plumbing company providing high-quality residential and commercial services throughout Baltimore City and surrounding counties. We charge a flat $69 service call, stand behind every repair, and put your time first.",
+  "services": [
+    "Plumbing Services",
+    "Water Heaters",
+    "Drain Cleaning",
+    "Heating Services",
+    "Pipe Repair & Replacement",
+    "Commercial Plumbing"
+  ],
+  "service_descriptions": [
+    "Fixture repairs, pipe replacements, leak detection, and full system renovations — backed by our 1-year warranty.",
+    "Installation and repair of tank and tankless water heaters. Free estimates on replacements with same-day availability when possible.",
+    "From everyday kitchen and bathroom clogs to full sewer line replacements, we clear the blockage fast and diagnose the root cause.",
+    "Boiler and heating system repairs and maintenance to keep your home warm through Baltimore winters.",
+    "Old galvanized, corroded, or burst pipes replaced efficiently with minimal disruption — from small sections to full re-pipes.",
+    "Fast dispatch, proper licensing, and the same upfront pricing for commercial properties throughout Baltimore metro."
+  ],
+  "service_areas": [
+    "Baltimore City",
+    "Baltimore County",
+    "Towson",
+    "Dundalk",
+    "Catonsville",
+    "Essex",
+    "Harford County",
+    "Anne Arundel County"
+  ],
+  "reviews": [
+    {
+      "text": "I've been burned by big plumbing companies charging $300 just to show up. Abbott Brothers charged $69, diagnosed a cracked drain pipe, and quoted me fairly to fix it. Clean work, honest pricing — they've earned every future job at my house.",
+      "detail": "Patricia W. — Baltimore City, MD"
+    },
+    {
+      "text": "Used the military discount for a water heater install. The tech was on time, explained the options clearly, and had it running in two hours. The 1-year warranty gives real peace of mind.",
+      "detail": "Marcus J. — Dundalk, MD"
+    },
+    {
+      "text": "Had a nasty sewer backup on a Saturday morning. Abbott Brothers picked up, showed up within two hours, and cleared the whole main line. Didn't try to upsell me or scare me into unnecessary work. Refreshingly straightforward.",
+      "detail": "Linda A. — Towson, MD"
+    }
+  ],
+  "issues_addressed": [
+    "Site lacks two-tier header with utility bar (phone, reviews, discounts) like the real site",
+    "Hero needed diagonal red-to-gold color treatment matching actual brand palette",
+    "Maryland/local identity (badge logo with state flag colors) not represented",
+    "Needed two-column hero with conversion card for desktop visitors"
+  ],
+  "phone": "(410) 256-2027",
+  "logo": "",
+  "colors": {
+    "primary": "#D42027",
+    "accent": "#F5A623",
+    "dark": "#1A1A1A"
+  },
+  "cta": "Request a Free Estimate",
+  "layout": "two-tier-header-diagonal-hero",
+  "regenerated": "2026-03-06",
+  "quality_reference": "gb-services-hvac-atlanta"
+}

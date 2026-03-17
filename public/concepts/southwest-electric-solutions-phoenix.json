@@ -1,0 +1,137 @@
+{
+  "business": {
+    "name": "Southwest Electric Solutions",
+    "phone": "(602) 555-0920",
+    "email": "info@southwestelectricsolutions.com",
+    "city": "Phoenix",
+    "state": "AZ",
+    "industry": "Electrical",
+    "tagline": "Powering Arizona with Expert Electrical Solutions"
+  },
+  "hero": {
+    "headline": "Phoenix's Premier *Electrical Experts* — Same-Day Service Guaranteed",
+    "subheadline": "From emergency repairs to complete panel upgrades, our certified electricians deliver safe, reliable solutions with transparent flat-rate pricing throughout the Valley.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (602) 555-0920"
+  },
+  "trust_badges": [
+    {
+      "emoji": "⚡",
+      "text": "24/7 Emergency Response"
+    },
+    {
+      "emoji": "🏆",
+      "text": "Master Certified Electricians"
+    },
+    {
+      "emoji": "💰",
+      "text": "Transparent Flat-Rate Pricing"
+    },
+    {
+      "emoji": "🛡️",
+      "text": "Fully Licensed & Insured"
+    }
+  ],
+  "services_section": {
+    "label": "OUR EXPERTISE",
+    "heading": "Complete Electrical Services for Arizona Homes & Businesses",
+    "subheading": "From routine maintenance to complex installations, we handle every electrical need with precision and safety."
+  },
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "description": "24/7 rapid response for power outages, sparking outlets, tripped breakers, and electrical hazards. Our certified technicians diagnose and fix problems fast to restore your safety.",
+      "emoji": "🚨"
+    },
+    {
+      "title": "Electrical Panel Upgrades",
+      "description": "Replace outdated fuse boxes and panels with modern circuit breaker systems. Increase capacity, improve safety, and meet current electrical codes for today's power demands.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "Complete Home Rewiring",
+      "description": "Full-service rewiring for older homes, additions, and renovations. We install modern copper wiring, GFCI outlets, and code-compliant electrical systems that last decades.",
+      "emoji": "🔌"
+    },
+    {
+      "title": "Commercial Electrical Solutions",
+      "description": "Lighting installations, machinery wiring, electrical maintenance, and code compliance for Arizona businesses. Minimize downtime with professional commercial electrical services.",
+      "emoji": "🏢"
+    },
+    {
+      "title": "Ceiling Fan & Light Installation",
+      "description": "Professional installation of ceiling fans, chandeliers, recessed lighting, and outdoor fixtures. Proper wiring and secure mounting for optimal performance and safety.",
+      "emoji": "💡"
+    },
+    {
+      "title": "Electrical Safety Inspections",
+      "description": "Comprehensive electrical system evaluations to identify hazards, code violations, and potential problems before they become expensive emergencies or safety risks.",
+      "emoji": "🔍"
+    }
+  ],
+  "about": {
+    "heading": "Arizona's Trusted Electrical Contractors Since 2008",
+    "body": "Southwest Electric Solutions has been keeping Phoenix Valley homes and businesses safely powered for over 15 years. Our master electricians combine decades of experience with the latest electrical technologies to deliver reliable, code-compliant solutions that protect your property and family."
+  },
+  "reviews_section": {
+    "label": "CLIENT TESTIMONIALS",
+    "heading": "What Our Customers Say About Our Electrical Work"
+  },
+  "reviews": [
+    {
+      "name": "Maria G.",
+      "location": "Scottsdale, AZ",
+      "text": "Called Southwest Electric at 11 PM when our main breaker kept tripping. Tech arrived within 45 minutes, diagnosed a faulty panel connection, and had us back up safely by 1 AM. Fair pricing even for emergency service.",
+      "rating": 5
+    },
+    {
+      "name": "David L.",
+      "location": "Tempe, AZ",
+      "text": "Needed our entire upstairs rewired for a kitchen renovation. They provided a detailed flat-rate quote upfront, finished exactly on schedule, and passed city inspection on the first try. True professionals.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer R.",
+      "location": "Mesa, AZ",
+      "text": "Had them install recessed lighting throughout our living room and dining area. The electrician was meticulous about placement, cleaned up perfectly, and the lights look amazing. Great attention to detail.",
+      "rating": 4
+    },
+    {
+      "name": "Carlos M.",
+      "location": "Phoenix, AZ",
+      "text": "Southwest Electric upgraded our old fuse box to a modern 200-amp panel. They explained everything clearly, pulled proper permits, and the whole job took just one day. Highly recommend their panel services.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE COVERAGE",
+    "heading": "Serving the Greater Phoenix Metropolitan Area",
+    "subheading": "Our certified electricians provide same-day service throughout the Valley of the Sun.",
+    "areas": [
+      "Phoenix",
+      "Scottsdale",
+      "Mesa",
+      "Tempe",
+      "Chandler",
+      "Glendale",
+      "Peoria",
+      "Gilbert",
+      "Ahwatukee",
+      "Paradise Valley"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Solve Your Electrical Problems?",
+    "body": "Don't let electrical issues put your safety at risk. Our certified electricians are standing by 24/7 to provide fast, professional solutions with upfront flat-rate pricing.",
+    "cta_primary": "Schedule Service Now",
+    "cta_secondary": "Call (602) 555-0920"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#374151",
+    "font_heading": "Montserrat",
+    "font_body": "Source Sans Pro"
+  }
+}

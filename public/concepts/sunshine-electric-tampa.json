@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "Sunshine Electric",
+    "phone": "(813) 555-1410",
+    "email": "info@sunshineelectrictampa.com",
+    "city": "Tampa",
+    "state": "FL",
+    "industry": "Electrical",
+    "tagline": "Brightening Tampa — One Connection at a Time"
+  },
+  "hero": {
+    "headline": "*Fast & Reliable* Electrical Service — Tampa's Trusted Experts",
+    "subheadline": "Licensed electricians ready 24/7 with upfront flat-rate pricing. No surprises, no delays — just professional electrical solutions for your home or business.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (813) 555-1410"
+  },
+  "trust_badges": [
+    {
+      "emoji": "⚡",
+      "text": "Licensed & Insured"
+    },
+    {
+      "emoji": "🕐",
+      "text": "24/7 Emergency Service"
+    },
+    {
+      "emoji": "💰",
+      "text": "Upfront Flat Rates"
+    },
+    {
+      "emoji": "🏆",
+      "text": "Tampa Local Experts"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete Electrical Solutions",
+    "subheading": "From quick repairs to major upgrades, we handle all your electrical needs with precision and care."
+  },
+  "services": [
+    {
+      "title": "Emergency Electrical Repair",
+      "description": "24/7 response for power outages, sparking outlets, tripped breakers, and urgent electrical issues. Our certified electricians arrive fast with fully-stocked trucks.",
+      "emoji": "🚨"
+    },
+    {
+      "title": "Electrical Panel Upgrades",
+      "description": "Modernize outdated panels to handle today's electrical demands. We install 200-amp panels, GFCI protection, and code-compliant upgrades for safety and efficiency.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "Complete Wiring Services",
+      "description": "New construction wiring, rewiring old homes, outlet installation, ceiling fans, and lighting circuits. All work meets Florida electrical codes with permits pulled.",
+      "emoji": "🔌"
+    },
+    {
+      "title": "Lighting Installation",
+      "description": "Indoor and outdoor lighting design, LED upgrades, recessed lighting, landscape lighting, and smart home lighting systems. Transform your space with modern fixtures.",
+      "emoji": "💡"
+    },
+    {
+      "title": "Electrical Safety Inspections",
+      "description": "Comprehensive electrical system evaluations for home buyers, insurance requirements, or peace of mind. We identify hazards and provide detailed repair recommendations.",
+      "emoji": "🔍"
+    }
+  ],
+  "about": {
+    "heading": "Tampa's Most Trusted Electrical Contractors",
+    "body": "Since 2015, Sunshine Electric has been Tampa Bay's go-to electrical contractor for reliable, honest service. Our master electricians bring decades of experience to every job — from quick repairs in Westchase to major renovations in Hyde Park. We're fully licensed, insured, and committed to keeping your family safe with code-compliant work that lasts."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Tampa Says About Our Work"
+  },
+  "reviews": [
+    {
+      "name": "Maria S.",
+      "location": "South Tampa, FL",
+      "text": "Called Sunshine Electric when our panel kept tripping during a storm. Mike arrived within 2 hours on a Sunday night and had everything working safely by midnight. Fair pricing and excellent work — highly recommend!",
+      "rating": 5
+    },
+    {
+      "name": "David K.",
+      "location": "Westchase, FL",
+      "text": "Needed our entire home rewired before closing. The team worked efficiently over 3 days, passed inspection on first try, and cleaned up perfectly. Worth every penny for the peace of mind.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer M.",
+      "location": "Hyde Park, FL",
+      "text": "Upgraded our 1960s panel to 200-amp service. They explained everything clearly, pulled permits properly, and the city inspector complimented their clean work. Professional from start to finish.",
+      "rating": 5
+    },
+    {
+      "name": "Robert T.",
+      "location": "Temple Terrace, FL",
+      "text": "Fast response for a kitchen outlet that wasn't working. Turned out to be a GFCI issue they fixed in 15 minutes. Could have charged more but kept it honest. These guys have integrity.",
+      "rating": 4
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Serving Tampa Bay & Surrounding Areas",
+    "subheading": "Fast, reliable electrical service throughout Hillsborough County and beyond.",
+    "areas": [
+      "Tampa",
+      "South Tampa",
+      "Hyde Park",
+      "Westchase",
+      "Town 'n' Country",
+      "Temple Terrace",
+      "Brandon",
+      "Valrico",
+      "Plant City",
+      "Carrollwood"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Solve Your Electrical Problem?",
+    "body": "Don't wait for electrical issues to get worse. Our licensed electricians are standing by with upfront pricing and guaranteed workmanship. Call now for same-day service!",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (813) 555-1410"
+  },
+  "design": {
+    "primary_color": "#F59E0B",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans Pro"
+  }
+}

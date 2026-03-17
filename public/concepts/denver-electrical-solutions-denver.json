@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "Denver Electrical Solutions",
+    "phone": "(303) 555-0410",
+    "email": "info@denverelectricalsolutions.com",
+    "city": "Denver",
+    "state": "CO",
+    "industry": "Electrical",
+    "tagline": "Powering Denver with reliable electrical expertise"
+  },
+  "hero": {
+    "headline": "Emergency Electrical Repairs — *Same Day Service* in Denver",
+    "subheadline": "Licensed electricians available 24/7 for urgent repairs, panel upgrades, and complete rewiring. Transparent pricing, no surprises.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Emergency Line"
+  },
+  "trust_badges": [
+    {
+      "emoji": "⚡",
+      "text": "24/7 Emergency Service"
+    },
+    {
+      "emoji": "✅",
+      "text": "Licensed & Insured"
+    },
+    {
+      "emoji": "💰",
+      "text": "Transparent Pricing"
+    },
+    {
+      "emoji": "🕐",
+      "text": "Same-Day Service"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete Electrical Services for Denver Homes & Businesses",
+    "subheading": "From emergency repairs to full electrical upgrades, we handle every job with precision and care."
+  },
+  "services": [
+    {
+      "title": "Emergency Electrical Repair",
+      "description": "Power outages, sparking outlets, and electrical emergencies resolved fast. Available 24/7 with same-day service guarantee throughout Denver metro.",
+      "emoji": "🚨"
+    },
+    {
+      "title": "Electrical Panel Upgrades",
+      "description": "Upgrade outdated breaker panels to modern standards. Increase capacity, improve safety, and meet current electrical codes for your property.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "Complete Home Rewiring",
+      "description": "Full electrical system overhauls for older homes. Replace outdated wiring, add modern outlets, and ensure your electrical system meets today's demands.",
+      "emoji": "🔌"
+    },
+    {
+      "title": "Outlet & Switch Installation",
+      "description": "Install new outlets, switches, and GFCI protection. Perfect for kitchen remodels, bathroom upgrades, and adding convenience throughout your home.",
+      "emoji": "💡"
+    },
+    {
+      "title": "Commercial Electrical Work",
+      "description": "Office lighting, equipment installation, and electrical maintenance for Denver businesses. Licensed for commercial projects of any size.",
+      "emoji": "🏢"
+    }
+  ],
+  "about": {
+    "heading": "Denver's Most Trusted Electrical Contractors Since 2015",
+    "body": "We've been serving Denver and surrounding communities with reliable electrical services for nearly a decade. Our licensed electricians specialize in emergency repairs, panel upgrades, and complete electrical installations. Every job comes with transparent upfront pricing and a satisfaction guarantee."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Denver Homeowners Say About Our Work"
+  },
+  "reviews": [
+    {
+      "name": "Sarah M.",
+      "location": "Highlands, CO",
+      "text": "Called at 9 PM when half our house lost power. They had someone here within an hour and fixed the issue with our main panel. Professional and reasonably priced for emergency service.",
+      "rating": 5
+    },
+    {
+      "name": "Mike R.",
+      "location": "Capitol Hill, CO",
+      "text": "Upgraded our 1960s electrical panel to handle our new electric car charger. They explained everything clearly and finished the job in one day. No hidden fees like other companies quoted.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer L.",
+      "location": "Lakewood, CO",
+      "text": "Rewired our kitchen during remodel. They worked around our contractor's schedule and were incredibly neat and organized. Would definitely hire again for future electrical work.",
+      "rating": 4
+    },
+    {
+      "name": "David K.",
+      "location": "Cherry Creek, CO",
+      "text": "Sparking outlet in our bathroom had us worried. They came out same day, replaced the GFCI, and checked all our other outlets for safety. Great peace of mind.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Electrical Services Throughout Denver Metro",
+    "subheading": "Same-day service available in these communities and surrounding areas.",
+    "areas": [
+      "Denver",
+      "Lakewood",
+      "Arvada",
+      "Westminster",
+      "Thornton",
+      "Northglenn",
+      "Wheat Ridge",
+      "Edgewater",
+      "Mountain View",
+      "Glendale"
+    ]
+  },
+  "cta": {
+    "heading": "Need Electrical Work? Get Your Free Estimate Today",
+    "body": "Licensed electricians ready to handle your emergency repairs, panel upgrades, or complete electrical projects. Transparent pricing with no hidden fees.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#374151",
+    "font_heading": "Playfair Display",
+    "font_body": "Source Sans Pro"
+  }
+}

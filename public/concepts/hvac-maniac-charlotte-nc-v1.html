@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HVAC Maniac | Charlotte, NC</title>
+  <style>
+    :root {
+      --primary: #4A4A4A;
+      --accent: #76FF03;
+      --ink: #1f2937;
+      --muted: #374151;
+      --line: #d1d5db;
+      --bg: #ffffff;
+      --dark: #222222;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--ink);
+      line-height: 1.6;
+    }
+    .wrap { width: min(1120px, 92%); margin: 0 auto; }
+    .topbar {
+      background: var(--dark);
+      color: #fff;
+      font-weight: 700;
+      font-size: 14px;
+    }
+    .topbar .wrap {
+      display: flex;
+      justify-content: space-between;
+      padding: 10px 0;
+      gap: 12px;
+    }
+    .topbar a { color: #fff; text-decoration: none; }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: #fff;
+      border-bottom: 1px solid var(--line);
+    }
+    header .wrap {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 12px 0;
+      gap: 12px;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      min-width: 0;
+    }
+    .brand img { height: 46px; width: auto; display: block; }
+    .brand-name { font-weight: 800; color: #111827; }
+
+    .btn {
+      display: inline-block;
+      padding: 11px 16px;
+      border-radius: 10px;
+      text-decoration: none;
+      font-weight: 800;
+      border: none;
+    }
+    .btn-dark { background: #111827; color: #fff; }
+    .btn-accent { background: #2f7a00; color: #fff; }
+
+    .hero {
+      background: linear-gradient(140deg, #4A4A4A, #2f2f2f);
+      color: #fff;
+      padding: 72px 0;
+    }
+    .hero h1 {
+      margin: 0 0 12px;
+      font-size: clamp(2rem, 4.8vw, 3.1rem);
+      line-height: 1.1;
+      color: #fff;
+    }
+    .hero p {
+      margin: 0 0 18px;
+      max-width: 760px;
+      color: #f3f4f6;
+      font-size: 1.05rem;
+    }
+    .hero-actions { display: flex; flex-wrap: wrap; gap: 10px; }
+    .hero-chips {
+      margin-top: 18px;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .hero-chips span {
+      background: #d9f99d;
+      color: #14532d;
+      padding: 6px 10px;
+      border-radius: 999px;
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    section { padding: 58px 0; }
+    .head h2 {
+      margin: 0 0 8px;
+      font-size: clamp(1.6rem, 3vw, 2.2rem);
+      color: #111827;
+    }
+    .head p { margin: 0 0 20px; color: var(--muted); }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 14px;
+    }
+    .card {
+      background: #fff;
+      border: 1px solid var(--line);
+      border-top: 4px solid var(--accent);
+      border-radius: 12px;
+      padding: 16px;
+    }
+    .card h3 { margin: 0 0 8px; color: #111827; }
+    .card p { margin: 0; color: #1f2937; }
+
+    .reviews { background: #f8fafc; }
+    .review {
+      background: #fff;
+      border: 1px solid #dbe3ee;
+      border-left: 4px solid #111827;
+      border-radius: 12px;
+      padding: 16px;
+    }
+    .review p { margin: 0 0 8px; color: #111827; }
+    .review small { color: #374151; font-weight: 700; }
+
+    .areas {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .areas span {
+      background: #e5e7eb;
+      color: #111827;
+      padding: 8px 12px;
+      border-radius: 999px;
+      font-weight: 700;
+    }
+
+    .cta {
+      background: #2f2f2f;
+      color: #fff;
+      text-align: center;
+      padding: 58px 0;
+    }
+    .cta h2 { margin: 0 0 8px; color: #fff; }
+    .cta p { margin: 0 0 16px; color: #e5e7eb; }
+
+    footer {
+      background: #111111;
+      color: #d1d5db;
+      text-align: center;
+      padding: 22px 0;
+      font-size: 14px;
+    }
+
+    @media (max-width: 900px) {
+      .grid { grid-template-columns: 1fr; }
+      header .wrap { flex-wrap: wrap; }
+    }
+  </style>
+</head>
+<body>
+  <div class="topbar">
+    <div class="wrap">
+      <div>Charlotte's Trusted HVAC Specialists</div>
+      <a href="tel:9808087090">980-808-7090</a>
+    </div>
+  </div>
+
+  <header>
+    <div class="wrap">
+      <div class="brand">
+        <img src="https://static.wixstatic.com/media/daff63_940f49d442b04ee08b6a2b6084312f05~mv2.png/v1/fill/w_378,h_103,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/FullLogo_Transparent_NoBuffer.png" alt="HVAC Maniac logo" />
+        <span class="brand-name">HVAC Maniac</span>
+      </div>
+      <div>
+        <a class="btn btn-accent" href="tel:9808087090">Call Now</a>
+      </div>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="wrap">
+      <h1>Same-Day HVAC Repair in Charlotte — Call Now, Skip the Form</h1>
+      <p>Fast, upfront heating and cooling service with real pricing before we start. We pick up the phone — no contact form, no runaround.</p>
+      <div class="hero-actions">
+        <a class="btn btn-accent" href="tel:9808087090">Call 980-808-7090</a>
+        <a class="btn btn-dark" href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20HVAC%20Maniac">Get a Free Quote</a>
+      </div>
+      <div class="hero-chips">
+        <span>Same-Day Response</span>
+        <span>Upfront Pricing</span>
+        <span>Commercial + Residential</span>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <div class="head">
+        <h2>Services</h2>
+        <p>Clear service hierarchy with specific outcomes and no fluff.</p>
+      </div>
+      <div class="grid">
+        <article class="card"><h3>HVAC Repair</h3><p>Fast diagnosis and same-day repair for broken heating or cooling systems — because a dead AC in Charlotte summer can't wait until next week.</p></article>
+        <article class="card"><h3>System Installation</h3><p>Full HVAC system installation with proper load sizing and a locked-in price before we ever touch your equipment — no surprise charges on the final invoice.</p></article>
+        <article class="card"><h3>Preventive Maintenance</h3><p>Seasonal tune-ups designed to catch small issues before they become expensive emergencies, keeping your system reliable all year long.</p></article>
+        <article class="card"><h3>Indoor Air Quality</h3><p>Air filtration, purification, and humidity control solutions that cut down on allergens and pollutants so your home's air is actually clean to breathe.</p></article>
+        <article class="card"><h3>Commercial HVAC Service</h3><p>Scheduled maintenance and emergency repair for commercial systems — fast response times so your business stays comfortable and your customers don't notice a thing.</p></article>
+        <article class="card"><h3>Gas Piping</h3><p>Safe, code-compliant gas line installation and repair for stoves, water heaters, dryers, and other natural gas appliances throughout your home or business.</p></article>
+      </div>
+    </div>
+  </section>
+
+  <section class="reviews">
+    <div class="wrap">
+      <div class="head">
+        <h2>5-Star Reviews</h2>
+        <p>Real customer outcomes, attributed and specific.</p>
+      </div>
+      <div class="grid">
+        <article class="review">
+          <p>“HVAC Maniac showed up the same day I called and had my AC running in under two hours. Other companies wanted me to schedule a week out — these guys actually answered the phone and came through.”</p>
+          <small>Marcus T. — South Charlotte</small>
+        </article>
+        <article class="review">
+          <p>“What got me was the pricing transparency. They told me exactly what the repair would cost before touching anything. No upsells halfway through, no shock at the end. I'll be calling them every single time.”</p>
+          <small>Jennifer R. — Ballantyne</small>
+        </article>
+        <article class="review">
+          <p>“Had my whole system replaced last fall. The crew was professional, got it done fast, and cleaned up behind themselves. I've already sent three of my neighbors their way. Seriously, look no further.”</p>
+          <small>Darnell K. — NoDa</small>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <div class="head"><h2>Service Areas</h2></div>
+      <div class="areas">
+        <span>Charlotte</span><span>Ballantyne</span><span>Matthews</span><span>Concord</span><span>Huntersville</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta">
+    <div class="wrap">
+      <h2>Need HVAC Help Now?</h2>
+      <p>Call now for same-day response or request rollout details for this concept.</p>
+      <a class="btn btn-accent" href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20HVAC%20Maniac">Get a Free Quote</a>
+    </div>
+  </section>
+
+  <footer>
+    © HVAC Maniac concept • Charlotte, NC
+  </footer>
+</body>
+</html>

@@ -1,0 +1,125 @@
+{
+  "business": {
+    "name": "Tampa Painters Guild",
+    "phone": "(813) 555-1520",
+    "email": "info@tampapaintorsguild.com",
+    "city": "Tampa",
+    "state": "FL",
+    "industry": "Painting",
+    "tagline": "Transforming Tampa homes with expert craftsmanship"
+  },
+  "hero": {
+    "headline": "*Premium Painting* — Transforming Tampa Homes Since Day One",
+    "subheadline": "Professional interior & exterior painting with a 10-year warranty. Free estimates, expert color matching, and crews that treat your home like their own.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "🎨",
+      "text": "Expert Color Matching"
+    },
+    {
+      "emoji": "✅",
+      "text": "Licensed & Insured"
+    },
+    {
+      "emoji": "🛡️",
+      "text": "10-Year Warranty"
+    },
+    {
+      "emoji": "📋",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "OUR EXPERTISE",
+    "heading": "Professional Painting Services",
+    "subheading": "From interior refreshes to complete exterior makeovers"
+  },
+  "services": [
+    {
+      "title": "Interior Painting",
+      "description": "Transform your living spaces with precision brushwork, premium paints, and careful attention to trim, ceilings, and accent walls.",
+      "emoji": "🏠"
+    },
+    {
+      "title": "Exterior Painting",
+      "description": "Weather-resistant finishes that protect and beautify your home's exterior, including siding, shutters, and architectural details.",
+      "emoji": "🏡"
+    },
+    {
+      "title": "Deck Staining & Sealing",
+      "description": "Professional deck restoration and protection using premium stains that enhance wood grain while providing long-lasting durability.",
+      "emoji": "🪵"
+    },
+    {
+      "title": "Custom Finishes",
+      "description": "Specialty techniques including faux finishes, texture work, and decorative painting to create unique focal points in your home.",
+      "emoji": "✨"
+    }
+  ],
+  "about": {
+    "heading": "Master Craftsmen Serving the Greater Tampa Area",
+    "body": "Tampa Painters Guild brings decades of combined experience to every project. Our professional crews use premium materials and proven techniques to deliver flawless results. From Westchase to Ybor City, we've earned our reputation through quality workmanship and exceptional customer service."
+  },
+  "reviews_section": {
+    "label": "CUSTOMER STORIES",
+    "heading": "Real Reviews from Tampa Homeowners"
+  },
+  "reviews": [
+    {
+      "name": "Maria R.",
+      "location": "Hyde Park, FL",
+      "text": "They painted our entire house interior in 3 days, including the vaulted ceiling in our living room. The crew was incredibly neat and the color matching for our existing trim was perfect.",
+      "rating": 5
+    },
+    {
+      "name": "David K.",
+      "location": "Westchase, FL",
+      "text": "Our deck looked terrible after years of Florida weather. Tampa Painters Guild stripped, stained, and sealed it beautifully. Two years later it still looks brand new.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer M.",
+      "location": "South Tampa, FL",
+      "text": "Exceptional exterior work on our 1920s bungalow. They took extra care with the historical details and the paint has held up perfectly through multiple hurricane seasons.",
+      "rating": 5
+    },
+    {
+      "name": "Robert T.",
+      "location": "Carrollwood, FL",
+      "text": "The faux finish work in our dining room exceeded our expectations. The team was professional, punctual, and left everything spotless. Highly recommend.",
+      "rating": 4
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE COVERAGE",
+    "heading": "Proudly Serving Greater Tampa",
+    "subheading": "Professional painting services throughout the Tampa Bay area",
+    "areas": [
+      "Hyde Park",
+      "Westchase",
+      "South Tampa",
+      "Carrollwood",
+      "Town 'n' Country",
+      "Brandon",
+      "Temple Terrace",
+      "Ybor City"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Transform Your Home?",
+    "body": "Join hundreds of satisfied Tampa homeowners who trust us with their painting projects. Free estimates, professional results, 10-year warranty.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (813) 555-1520"
+  },
+  "design": {
+    "primary_color": "#8B5A3C",
+    "accent_color": "#D4A574",
+    "bg_color": "#E8DCC8",
+    "text_color": "#2D2D2D",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans Pro"
+  }
+}

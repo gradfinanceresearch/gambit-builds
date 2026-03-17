@@ -1,0 +1,120 @@
+{
+  "business": {
+    "name": "Florida Roof Specialists",
+    "phone": "(813) 555-1300",
+    "email": "info@floridaroofspecialists.com",
+    "city": "Tampa",
+    "state": "FL",
+    "industry": "Roofing",
+    "tagline": "Hurricane-Ready Roofing Since 1998"
+  },
+  "hero": {
+    "headline": "Storm-Tested Roofing — *Built for Florida's Fiercest Weather*",
+    "subheadline": "From hurricane prep to emergency repairs, we've protected Tampa Bay homes for 25+ years with our industry-leading warranty.",
+    "cta_primary": "Free Roof Inspection",
+    "cta_secondary": "Call (813) 555-1300"
+  },
+  "trust_badges": [
+    {
+      "emoji": "🌪️",
+      "text": "Hurricane Certified"
+    },
+    {
+      "emoji": "✅",
+      "text": "25-Year Warranty"
+    },
+    {
+      "emoji": "⚡",
+      "text": "24/7 Storm Response"
+    },
+    {
+      "emoji": "🏆",
+      "text": "Licensed & Insured"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete Roofing Solutions",
+    "subheading": "From routine maintenance to hurricane recovery — we handle every roofing challenge"
+  },
+  "services": [
+    {
+      "title": "Storm Damage Restoration",
+      "description": "24/7 emergency response for hurricane and wind damage. Insurance claim assistance included with detailed documentation and direct billing options.",
+      "emoji": "⛈️"
+    },
+    {
+      "title": "Leak Detection & Repair",
+      "description": "Advanced thermal imaging and moisture detection to find hidden leaks before they cause structural damage. Same-day emergency repairs available.",
+      "emoji": "💧"
+    },
+    {
+      "title": "Preventive Maintenance",
+      "description": "Quarterly inspections and tune-ups to extend roof life. Includes gutter cleaning, seal replacement, and detailed condition reports.",
+      "emoji": "🔧"
+    },
+    {
+      "title": "Complete Roof Replacement",
+      "description": "Full tear-off and installation with hurricane-rated materials. GAF Master Elite certification ensures premium workmanship and extended warranties.",
+      "emoji": "🏠"
+    }
+  ],
+  "about": {
+    "heading": "Protecting Tampa Bay Since 1998",
+    "body": "We've weathered every major storm that's hit Tampa Bay — from Charley to Ian. Our team knows Florida roofing inside and out, using only hurricane-rated materials and proven installation techniques. Every job comes with our 25-year warranty because we build roofs that last."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Tampa Neighbors Say"
+  },
+  "reviews": [
+    {
+      "name": "Maria S.",
+      "location": "Westchase, FL",
+      "text": "Called them after Hurricane Ian damaged our tile roof. They had tarps up within 4 hours and completed the full repair in 3 days. Insurance approved everything thanks to their detailed photos and reports.",
+      "rating": 5
+    },
+    {
+      "name": "David K.",
+      "location": "South Tampa, FL",
+      "text": "Found a leak in our master bedroom during heavy rains. Their thermal imaging located the exact problem area in the valley. Fixed it properly the first time - no more stains on our ceiling.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer R.",
+      "location": "Carrollwood, FL",
+      "text": "Replaced our entire shingle roof last year. The crew was professional, cleaned up perfectly every day, and finished ahead of schedule. The 25-year warranty gave us great peace of mind.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Serving Greater Tampa Bay",
+    "subheading": "Emergency storm response available 24/7 throughout our service area",
+    "areas": [
+      "Tampa",
+      "St. Petersburg",
+      "Clearwater",
+      "Brandon",
+      "Westchase",
+      "Carrollwood",
+      "Town 'n' Country",
+      "Lutz",
+      "Wesley Chapel"
+    ]
+  },
+  "cta": {
+    "heading": "Get Your Free Roof Assessment",
+    "body": "Don't wait for the next storm. Our certified inspectors will evaluate your roof's condition and provide a detailed report with photos — completely free.",
+    "cta_primary": "Schedule Inspection",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#7C3AED",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans Pro"
+  }
+}

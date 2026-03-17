@@ -1,0 +1,126 @@
+{
+  "business": {
+    "name": "Desert Plumbing Phoenix",
+    "phone": "(602) 555-0790",
+    "email": "info@desertplumbingphx.com",
+    "city": "Phoenix",
+    "state": "AZ",
+    "industry": "Plumbing",
+    "tagline": "Fast. Fair. Always There."
+  },
+  "hero": {
+    "headline": "Phoenix Emergency Plumbing — *Same Day*, No Overtime Fees",
+    "subheadline": "Licensed plumbers respond in 30 minutes or less. Transparent pricing, quality repairs, and we never charge overtime rates for evenings or weekends.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "⚡",
+      "text": "30-Min Response Time"
+    },
+    {
+      "emoji": "✅",
+      "text": "Licensed & Insured"
+    },
+    {
+      "emoji": "💰",
+      "text": "No Overtime Fees"
+    },
+    {
+      "emoji": "🛡️",
+      "text": "100% Satisfaction Guarantee"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Phoenix Plumbing Services",
+    "subheading": "From burst pipes to slow drains, we handle it all with same-day service"
+  },
+  "services": [
+    {
+      "title": "Emergency Plumbing Repair",
+      "description": "24/7 emergency response for burst pipes, water heater failures, and major leaks. Our licensed plumbers arrive within 30 minutes with fully stocked trucks.",
+      "emoji": "🚨"
+    },
+    {
+      "title": "Advanced Leak Detection",
+      "description": "State-of-the-art equipment locates hidden leaks in walls, slabs, and underground lines without destructive digging. Save thousands in water damage.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "Professional Drain Cleaning",
+      "description": "High-pressure hydro jetting and camera inspections clear stubborn clogs in kitchen sinks, toilets, and main sewer lines. Same-day service available.",
+      "emoji": "🌊"
+    },
+    {
+      "title": "Pipe Repair & Replacement",
+      "description": "Expert repair of copper, PVC, and PEX pipes. Trenchless sewer line replacement saves your landscaping. Licensed work with permits handled.",
+      "emoji": "🔧"
+    },
+    {
+      "title": "Water Heater Service",
+      "description": "Installation, repair, and maintenance of tankless and traditional water heaters. Energy-efficient upgrades available with manufacturer warranties.",
+      "emoji": "🔥"
+    }
+  ],
+  "about": {
+    "heading": "Trusted Phoenix Plumbers Since 2015",
+    "body": "Desert Plumbing Phoenix has served the Valley for nearly a decade. Our licensed, insured team specializes in fast emergency response and honest pricing. We never charge overtime fees because plumbing problems don't wait for business hours. Every job comes with our satisfaction guarantee."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Phoenix Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Maria R.",
+      "location": "Ahwatukee, AZ",
+      "text": "Water heater died on Sunday morning and these guys were at my house in 25 minutes! No weekend upcharge either. Mike was professional and had it fixed same day. Highly recommend.",
+      "rating": 5
+    },
+    {
+      "name": "David K.",
+      "location": "Tempe, AZ",
+      "text": "Slab leak was costing us $400/month in water bills. Desert Plumbing found it fast with their camera equipment and repaired it without tearing up our floors. Saved us thousands.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer M.",
+      "location": "Scottsdale, AZ",
+      "text": "Main line backed up into our garage at 11pm. Called and they answered immediately, had someone here within the hour. Fair pricing and cleaned up everything perfectly.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Serving Greater Phoenix",
+    "subheading": "Fast response times across the Valley of the Sun",
+    "areas": [
+      "Phoenix",
+      "Scottsdale",
+      "Tempe",
+      "Mesa",
+      "Chandler",
+      "Glendale",
+      "Peoria",
+      "Ahwatukee",
+      "Paradise Valley",
+      "Fountain Hills"
+    ]
+  },
+  "cta": {
+    "heading": "Need Plumbing Help Right Now?",
+    "body": "Don't wait for a small problem to become expensive water damage. Our licensed plumbers respond in 30 minutes with transparent pricing and no overtime fees.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (602) 555-0790"
+  },
+  "design": {
+    "primary_color": "#DC2626",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Playfair Display",
+    "font_body": "Source Sans Pro"
+  }
+}

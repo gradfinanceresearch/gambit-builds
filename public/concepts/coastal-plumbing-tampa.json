@@ -1,0 +1,130 @@
+{
+  "business": {
+    "name": "Coastal Plumbing Tampa",
+    "phone": "(813) 555-1210",
+    "email": "info@coastalplumbingtampa.com",
+    "city": "Tampa",
+    "state": "FL",
+    "industry": "Plumbing",
+    "tagline": "Fast. Fair. No Overtime Fees."
+  },
+  "hero": {
+    "headline": "Tampa's *Same-Day* Plumbing Experts — No Overtime Charges",
+    "subheadline": "Licensed plumbers ready 24/7. Emergency repairs, leak detection, and drain cleaning with upfront pricing and fast response times.",
+    "cta_primary": "Get Same-Day Service",
+    "cta_secondary": "Call (813) 555-1210"
+  },
+  "trust_badges": [
+    {
+      "emoji": "⚡",
+      "text": "Same-Day Service"
+    },
+    {
+      "emoji": "🚫",
+      "text": "No Overtime Fees"
+    },
+    {
+      "emoji": "✅",
+      "text": "Licensed & Insured"
+    },
+    {
+      "emoji": "⏱️",
+      "text": "Fast Response Time"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete Plumbing Solutions",
+    "subheading": "From emergency repairs to routine maintenance, we handle all your plumbing needs"
+  },
+  "services": [
+    {
+      "title": "24/7 Emergency Plumbing",
+      "description": "Burst pipes, water heater failures, and urgent repairs handled immediately. No overtime charges for after-hours service calls.",
+      "emoji": "🚨"
+    },
+    {
+      "title": "Professional Drain Cleaning",
+      "description": "High-pressure water jetting and snake services to clear stubborn clogs in kitchen sinks, bathrooms, and main lines.",
+      "emoji": "🌊"
+    },
+    {
+      "title": "Advanced Leak Detection",
+      "description": "Electronic leak detection technology to find hidden water leaks behind walls and under slabs before they cause damage.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "Pipe Repair & Replacement",
+      "description": "Expert repairs on copper, PVC, and galvanized pipes. Full repiping services for older Tampa Bay area homes.",
+      "emoji": "🔧"
+    },
+    {
+      "title": "Water Heater Service",
+      "description": "Installation, repair, and maintenance of traditional and tankless water heaters. Same-day service available.",
+      "emoji": "🔥"
+    }
+  ],
+  "about": {
+    "heading": "Serving Tampa Bay With Honest Plumbing",
+    "body": "For over 15 years, Coastal Plumbing has been Tampa's trusted choice for reliable plumbing services. Our licensed technicians provide upfront pricing, same-day service, and never charge overtime fees. We're proud to serve homeowners and businesses throughout the Tampa Bay area with quality workmanship and honest service."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Tampa Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Maria R.",
+      "location": "Tampa, FL",
+      "text": "Called at 9pm with a burst pipe flooding my kitchen. They arrived in 45 minutes and fixed everything without any overtime charges. Saved my weekend!",
+      "rating": 5
+    },
+    {
+      "name": "David K.",
+      "location": "Brandon, FL",
+      "text": "These guys found a hidden leak behind our bathroom wall that three other plumbers missed. Used some electronic equipment and saved us thousands in damage.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer M.",
+      "location": "Temple Terrace, FL",
+      "text": "Same-day water heater replacement when ours died on Monday morning. Fair price, clean work, and they explained everything. Highly recommend.",
+      "rating": 4
+    },
+    {
+      "name": "Robert T.",
+      "location": "Carrollwood, FL",
+      "text": "Professional drain cleaning service cleared our kitchen sink that was backing up for weeks. Quick, efficient, and reasonably priced.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Serving Greater Tampa Bay",
+    "subheading": "Fast response times to all surrounding communities",
+    "areas": [
+      "Tampa",
+      "Brandon",
+      "Temple Terrace",
+      "Carrollwood",
+      "Westchase",
+      "Town 'n' Country",
+      "Plant City",
+      "Riverview"
+    ]
+  },
+  "cta": {
+    "heading": "Need Plumbing Service Today?",
+    "body": "Licensed plumbers standing by for same-day service. No overtime fees, upfront pricing, and fast response times guaranteed.",
+    "cta_primary": "Schedule Service Now",
+    "cta_secondary": "Call (813) 555-1210"
+  },
+  "design": {
+    "primary_color": "#DC2626",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Playfair Display",
+    "font_body": "Source Sans Pro"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "Tampa Bay HVAC Pro",
+    "phone": "(813) 555-1120",
+    "email": "info@tampabay-hvac.com",
+    "city": "Tampa",
+    "state": "FL",
+    "industry": "HVAC",
+    "tagline": "Keeping Tampa Bay Cool — Rain or Shine"
+  },
+  "hero": {
+    "headline": "Same-Day HVAC Service *Built for Florida* — Hurricane-Ready Systems",
+    "subheadline": "Local Tampa Bay experts specializing in AC repair, maintenance plans, and storm-resistant installations. Emergency service available 24/7.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (813) 555-1120"
+  },
+  "trust_badges": [
+    {
+      "emoji": "⚡",
+      "text": "Same-Day Service"
+    },
+    {
+      "emoji": "🏆",
+      "text": "Licensed & Insured"
+    },
+    {
+      "emoji": "🌪️",
+      "text": "Hurricane-Ready Systems"
+    },
+    {
+      "emoji": "📞",
+      "text": "24/7 Emergency Response"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete HVAC Solutions for Tampa Bay",
+    "subheading": "From emergency repairs to preventive maintenance, we keep your home comfortable year-round"
+  },
+  "services": [
+    {
+      "title": "Emergency AC Repair",
+      "description": "24/7 same-day service for system breakdowns. Our technicians carry parts for most major brands and can diagnose issues quickly to get you cool fast.",
+      "emoji": "🚨"
+    },
+    {
+      "title": "Preventive Maintenance Plans",
+      "description": "Seasonal tune-ups, filter changes, and system inspections to prevent costly breakdowns. Plans start at $129/year with priority scheduling.",
+      "emoji": "🔧"
+    },
+    {
+      "title": "Heat Pump Service & Repair",
+      "description": "Complete heat pump diagnostics, repairs, and replacements. We service all major brands and can upgrade to more efficient models.",
+      "emoji": "♨️"
+    },
+    {
+      "title": "Hurricane-Ready Installations",
+      "description": "Storm-resistant HVAC systems designed for Florida weather. Impact-rated units and surge protection to keep you comfortable through severe weather.",
+      "emoji": "🌪️"
+    },
+    {
+      "title": "Air Quality Solutions",
+      "description": "Indoor air quality testing, duct cleaning, and UV sanitization systems to combat Florida humidity and allergens.",
+      "emoji": "💨"
+    }
+  ],
+  "about": {
+    "heading": "Tampa Bay HVAC Experts Since 2015",
+    "body": "We're local Tampa Bay residents who understand Florida's unique climate challenges. Our team specializes in humid subtropical conditions, hurricane preparedness, and energy-efficient cooling solutions. We've helped thousands of families stay comfortable through Florida's toughest summers and unexpected weather events."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Tampa Bay Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Maria S.",
+      "location": "Westchase, FL",
+      "text": "Our AC died during the heat wave in July and they came out the same day! Technician was professional, explained everything, and had us cool within 2 hours. Definitely using them for maintenance going forward.",
+      "rating": 5
+    },
+    {
+      "name": "Robert K.",
+      "location": "South Tampa, FL",
+      "text": "Been on their maintenance plan for 3 years now. They caught a refrigerant leak early last spring that could have been a $3,000 repair. Plan pays for itself and gives me peace of mind.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer L.",
+      "location": "Brandon, FL",
+      "text": "Installed a new hurricane-rated system before last season. When Hurricane Ian came through, we never lost cooling while neighbors were without power for days. Worth every penny.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos M.",
+      "location": "Carrollwood, FL",
+      "text": "Called them for emergency service on Sunday morning. Tech arrived within 3 hours, diagnosed the issue, and fixed it on the spot. Fair pricing and excellent service.",
+      "rating": 4
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Serving Greater Tampa Bay",
+    "subheading": "Fast, reliable HVAC service throughout Hillsborough County and surrounding areas",
+    "areas": [
+      "Tampa",
+      "Brandon",
+      "Westchase",
+      "Carrollwood",
+      "South Tampa",
+      "Riverview",
+      "Plant City",
+      "Temple Terrace",
+      "Town 'n' Country",
+      "Valrico"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Beat the Florida Heat?",
+    "body": "Get same-day service from Tampa Bay's most trusted HVAC professionals. Free estimates on all installations and repairs.",
+    "cta_primary": "Schedule Service",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#0F766E",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Merriweather",
+    "font_body": "Source Sans Pro"
+  }
+}

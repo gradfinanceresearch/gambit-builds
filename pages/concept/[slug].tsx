@@ -5,7 +5,6 @@ import path from "path";
 export const getServerSideProps: GetServerSideProps = async (ctx) => {
   const slug = String(ctx.params?.slug || "");
 
-  // Prevent path traversal
   if (slug.includes("..") || slug.includes("/")) {
     return { notFound: true };
   }
@@ -21,15 +20,32 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
     return { notFound: true };
   }
 
-  const html = fs.readFileSync(htmlPath, "utf-8");
-  return { props: { html } };
+  return { props: { slug } };
 };
 
-export default function Concept({ html }: { html: string }) {
+export default function Concept({ slug }: { slug: string }) {
   return (
-    <div
-      style={{ all: "initial" }}
-      dangerouslySetInnerHTML={{ __html: html }}
-    />
+    <>
+      <style>{`
+        html, body, #__next {
+          margin: 0 !important;
+          padding: 0 !important;
+          height: 100% !important;
+          width: 100% !important;
+          background: transparent !important;
+          overflow: hidden !important;
+        }
+      `}</style>
+      <iframe
+        src={`/concepts/${slug}.html`}
+        style={{
+          width: "100%",
+          height: "100vh",
+          border: "none",
+          display: "block",
+        }}
+        title="Concept preview"
+      />
+    </>
   );
 }

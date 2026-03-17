@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "Sonoran HVAC Services",
+    "phone": "(480) 555-0680",
+    "email": "info@sonoranHVAC.com",
+    "city": "Phoenix",
+    "state": "AZ",
+    "industry": "HVAC",
+    "tagline": "Keeping Phoenix Cool Since Day One"
+  },
+  "hero": {
+    "headline": "Phoenix AC Repair & HVAC — *Fast Response, Flat Rates*",
+    "subheadline": "Certified technicians fix your Phoenix HVAC emergency fast. Upfront pricing, no surprises. 5-star rated by Valley homeowners.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "⚡",
+      "text": "Same-Day Emergency Service"
+    },
+    {
+      "emoji": "💰",
+      "text": "Upfront Flat-Rate Pricing"
+    },
+    {
+      "emoji": "🏆",
+      "text": "5-Star Valley Rated"
+    },
+    {
+      "emoji": "🔧",
+      "text": "EPA Certified Technicians"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete HVAC Solutions for Phoenix Homes",
+    "subheading": "From emergency AC repairs to new heat pump installations, we handle every Phoenix HVAC need with certified expertise."
+  },
+  "services": [
+    {
+      "title": "Emergency AC Repair",
+      "description": "Phoenix AC broke down? We respond fast with same-day emergency repairs. Flat-rate pricing means no surprises on your bill.",
+      "emoji": "🚨"
+    },
+    {
+      "title": "Heat Pump Installation",
+      "description": "Energy-efficient heat pump installation perfect for Phoenix weather. Professional sizing and installation with manufacturer warranties.",
+      "emoji": "🔥"
+    },
+    {
+      "title": "Seasonal HVAC Maintenance",
+      "description": "Keep your Phoenix HVAC running efficiently year-round. Our maintenance plans prevent breakdowns and extend system life.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Complete System Replacement",
+      "description": "New HVAC system installation with energy-efficient models sized perfectly for Phoenix homes. Financing options available.",
+      "emoji": "🏠"
+    },
+    {
+      "title": "Ductwork Services",
+      "description": "Duct cleaning, sealing, and replacement to improve Phoenix home air quality and HVAC efficiency.",
+      "emoji": "🌬️"
+    }
+  ],
+  "about": {
+    "heading": "Phoenix HVAC Experts You Can Trust",
+    "body": "Sonoran HVAC Services has kept Phoenix Valley families comfortable for years. Our EPA-certified technicians know desert HVAC challenges inside out. We're locally owned, 5-star rated, and committed to honest flat-rate pricing. When Phoenix heats up or rare cold snaps hit, we respond fast with the right solution."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Phoenix Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Maria R.",
+      "location": "Scottsdale, AZ",
+      "text": "AC died at 2pm on a 115-degree day. Called Sonoran and they had someone here within 3 hours. Fixed it fast and the flat-rate price was exactly what they quoted. Lifesavers!",
+      "rating": 5
+    },
+    {
+      "name": "David K.",
+      "location": "Tempe, AZ",
+      "text": "Needed a new heat pump installed before winter. The tech explained everything clearly and the installation was clean and professional. System works perfectly and much more efficient than our old unit.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer L.",
+      "location": "Chandler, AZ",
+      "text": "Been using Sonoran for seasonal maintenance for 3 years now. They always show up on time, do thorough work, and catch small issues before they become big problems. Highly recommend.",
+      "rating": 5
+    },
+    {
+      "name": "Robert M.",
+      "location": "Mesa, AZ",
+      "text": "Called for an estimate expecting the usual sales pitch. Instead got honest advice about whether repair or replacement made sense. Ended up saving money with their repair recommendation. Trustworthy company.",
+      "rating": 4
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Serving the Greater Phoenix Valley",
+    "subheading": "Fast, reliable HVAC service throughout Phoenix and surrounding communities",
+    "areas": [
+      "Phoenix",
+      "Scottsdale",
+      "Tempe",
+      "Mesa",
+      "Chandler",
+      "Glendale",
+      "Peoria",
+      "Gilbert",
+      "Ahwatukee",
+      "Paradise Valley"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fix Your Phoenix HVAC?",
+    "body": "Don't sweat another day with broken AC or inefficient heating. Our certified technicians are standing by with flat-rate pricing and fast Phoenix Valley response.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (480) 555-0680"
+  },
+  "design": {
+    "primary_color": "#EF4444",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Playfair Display",
+    "font_body": "Source Sans Pro"
+  }
+}

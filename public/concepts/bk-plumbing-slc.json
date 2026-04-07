@@ -1,0 +1,125 @@
+{
+  "business": {
+    "name": "BK Plumbing",
+    "phone": "unknown",
+    "email": "info@bkplumbingslc.com",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "industry": "plumbing",
+    "tagline": "8+ Years of Trusted Plumbing Excellence",
+    "logo_url": ""
+  },
+  "hero": {
+    "headline": "*Fast, Reliable* Plumbing Solutions for Salt Lake City Homes",
+    "subheadline": "From emergency repairs to complete installations, our experienced team delivers quality workmanship that keeps your home's plumbing running smoothly.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "🛡️",
+      "text": "Licensed & Insured"
+    },
+    {
+      "emoji": "⏰",
+      "text": "24/7 Emergency Service"
+    },
+    {
+      "emoji": "⭐",
+      "text": "8+ Years Experience"
+    },
+    {
+      "emoji": "💯",
+      "text": "Satisfaction Guaranteed"
+    }
+  ],
+  "services_section": {
+    "label": "OUR SERVICES",
+    "heading": "Complete Plumbing Solutions",
+    "subheading": "Professional residential plumbing services you can count on"
+  },
+  "services": [
+    {
+      "title": "Emergency Plumbing Repair",
+      "description": "24/7 response for burst pipes, clogged drains, water heater failures, and other urgent plumbing issues that can't wait until morning.",
+      "emoji": "🚨"
+    },
+    {
+      "title": "Pipe Installation & Replacement",
+      "description": "Complete repiping services using modern materials. We handle everything from single pipe repairs to whole-house plumbing upgrades.",
+      "emoji": "🔧"
+    },
+    {
+      "title": "Water Heater Services",
+      "description": "Installation, repair, and maintenance of traditional and tankless water heaters. Get hot water flowing again with expert service.",
+      "emoji": "🔥"
+    },
+    {
+      "title": "Drain Cleaning & Repair",
+      "description": "Professional drain cleaning and repair services to eliminate clogs, slow drains, and recurring blockages throughout your home.",
+      "emoji": "🌊"
+    },
+    {
+      "title": "Bathroom & Kitchen Plumbing",
+      "description": "Complete plumbing installation for remodels, fixture upgrades, and new construction. Quality work that meets code requirements.",
+      "emoji": "🏠"
+    }
+  ],
+  "about": {
+    "heading": "Your Local Salt Lake City Plumbing Experts",
+    "body": "For over 8 years, BK Plumbing has been the trusted choice for homeowners throughout the Salt Lake Valley. Our experienced team combines old-school craftsmanship with modern techniques to deliver plumbing solutions that last. We take pride in our reputation for honest pricing, reliable service, and treating every home like our own."
+  },
+  "reviews_section": {
+    "label": "CUSTOMER REVIEWS",
+    "heading": "What Our Neighbors Say"
+  },
+  "reviews": [
+    {
+      "name": "Sarah M.",
+      "location": "Murray, UT",
+      "text": "Had a water heater emergency on a Sunday morning and BK Plumbing was at my house within 2 hours. New unit installed by afternoon and everything works perfectly. Really saved our weekend!",
+      "rating": 5
+    },
+    {
+      "name": "Mike R.",
+      "location": "West Valley City, UT",
+      "text": "Needed our master bathroom completely replumbed during a remodel. The team was professional, stayed on schedule, and the work passed inspection on the first try. Highly recommend.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer L.",
+      "location": "Cottonwood Heights, UT",
+      "text": "Called about a persistent kitchen drain issue that two other plumbers couldn't fix. BK figured out the problem in 20 minutes and had it running like new. Fair pricing too.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE AREAS",
+    "heading": "Serving the Greater Salt Lake Valley",
+    "subheading": "Professional plumbing services throughout Salt Lake County",
+    "areas": [
+      "Salt Lake City",
+      "West Valley City",
+      "Murray",
+      "Millcreek",
+      "Cottonwood Heights",
+      "South Salt Lake",
+      "Holladay",
+      "Taylorsville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fix Your Plumbing Issues?",
+    "body": "Don't let plumbing problems disrupt your day. Contact BK Plumbing for fast, professional service from Salt Lake City's trusted plumbing experts.",
+    "cta_primary": "Get Your Free Estimate",
+    "cta_secondary": "Call (801) 555-0123"
+  },
+  "design": {
+    "primary_color": "#003366",
+    "accent_color": "#006699",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Oswald",
+    "font_body": "Nunito Sans"
+  }
+}

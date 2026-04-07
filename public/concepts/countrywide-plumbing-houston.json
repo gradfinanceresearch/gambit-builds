@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Countrywide Plumbing",
+    "phone": "1-818-717-8806",
+    "email": "service@countrywideplumbing.com",
+    "city": "Houston",
+    "state": "TX",
+    "industry": "plumbing",
+    "tagline": "24/7 Emergency Service • No Job Too Small",
+    "logo_url": ""
+  },
+  "hero": {
+    "headline": "*Emergency Plumbing* Solutions When Houston Needs Them Most",
+    "subheadline": "Licensed master plumbers available 24/7 for burst pipes, sewer backups, and gas line emergencies. Same-day service guaranteed across Greater Houston.",
+    "cta_primary": "Get Emergency Help",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "🔧",
+      "text": "Licensed #894975"
+    },
+    {
+      "emoji": "⚡",
+      "text": "24/7 Emergency Service"
+    },
+    {
+      "emoji": "🏆",
+      "text": "15+ Years Experience"
+    },
+    {
+      "emoji": "💯",
+      "text": "Same-Day Repairs"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete Plumbing Solutions",
+    "subheading": "From emergency repairs to major installations, we handle every plumbing need"
+  },
+  "services": [
+    {
+      "title": "Emergency Plumbing Repairs",
+      "description": "Burst pipes, sewer backups, and gas leaks don't wait. Our emergency team responds within 60 minutes to minimize damage and restore your plumbing fast.",
+      "emoji": "🚨"
+    },
+    {
+      "title": "Water Heater Installation & Repair",
+      "description": "Complete water heater services including tankless upgrades, traditional replacements, and emergency repairs. All major brands serviced with warranty.",
+      "emoji": "🔥"
+    },
+    {
+      "title": "Sewer Line & Gas Line Work",
+      "description": "Professional sewer line installation, repairs, and gas line installations. Licensed for all residential and commercial gas work with safety inspections.",
+      "emoji": "🔧"
+    },
+    {
+      "title": "Copper Re-piping & Upgrades",
+      "description": "Complete copper re-piping services for older homes. Replace galvanized pipes with modern copper or PEX for better water pressure and quality.",
+      "emoji": "🏠"
+    },
+    {
+      "title": "Toilet & Fixture Repairs",
+      "description": "Fast toilet repairs, garbage disposal installations, and all plumbing fixture services. No job too small - we handle everything from leaks to full replacements.",
+      "emoji": "🚽"
+    }
+  ],
+  "about": {
+    "heading": "Houston's Most Reliable Plumbing Team",
+    "body": "For over 15 years, Countrywide Plumbing has served Houston families and businesses with honest, professional plumbing services. Our licensed master plumbers believe no job is too small, from simple toilet repairs to complex sewer line installations. Available 24/7 for emergencies."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Houston Says About Us"
+  },
+  "reviews": [
+    {
+      "name": "Maria L.",
+      "location": "Katy, TX",
+      "text": "Called at 2am with a burst pipe flooding my kitchen. Tech arrived in 45 minutes, fixed everything, and helped with insurance paperwork. Saved my hardwood floors!",
+      "rating": 5
+    },
+    {
+      "name": "Robert K.",
+      "location": "Spring, TX",
+      "text": "Replaced our 20-year-old water heater with a tankless unit. Fair pricing, clean work, explained everything. Been working perfectly for 8 months now.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer M.",
+      "location": "The Woodlands, TX",
+      "text": "Gas line installation for our new outdoor kitchen. Permits, inspections, everything handled professionally. Other companies wouldn't even quote such a small job.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Serving Greater Houston",
+    "subheading": "Emergency and scheduled plumbing services throughout the Houston metro area",
+    "areas": [
+      "Houston",
+      "Katy",
+      "Sugar Land",
+      "The Woodlands",
+      "Spring",
+      "Cypress",
+      "Pearland",
+      "Pasadena",
+      "Richmond",
+      "Humble"
+    ]
+  },
+  "cta": {
+    "heading": "Need Plumbing Help Right Now?",
+    "body": "Don't let plumbing problems get worse. Our licensed technicians are standing by 24/7 for emergencies, or schedule convenient service for non-urgent repairs.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Emergency Line"
+  },
+  "design": {
+    "primary_color": "#0066cc",
+    "accent_color": "#ff6600",
+    "bg_color": "#ffffff",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans"
+  }
+}

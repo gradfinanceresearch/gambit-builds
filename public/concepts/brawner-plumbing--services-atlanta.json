@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Brawner Plumbing & Services",
+    "phone": "(404) 555-7829",
+    "email": "brawnert@aol.com",
+    "city": "Atlanta",
+    "state": "GA",
+    "industry": "plumbing",
+    "tagline": "Atlanta's Most Reliable Plumbing Experts",
+    "logo_url": ""
+  },
+  "hero": {
+    "headline": "*Fast Response* Plumbing Solutions for Atlanta Homes & Businesses",
+    "subheadline": "Emergency repairs, drain cleaning, water heater installation & more. Licensed plumbers with 15+ years serving Atlanta neighborhoods.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "🔧",
+      "text": "Licensed Master Plumbers"
+    },
+    {
+      "emoji": "⚡",
+      "text": "24/7 Emergency Service"
+    },
+    {
+      "emoji": "💯",
+      "text": "100% Work Guarantee"
+    },
+    {
+      "emoji": "⭐",
+      "text": "15+ Years Experience"
+    }
+  ],
+  "services_section": {
+    "label": "OUR SERVICES",
+    "heading": "Complete Plumbing Solutions",
+    "subheading": "From emergency repairs to full installations, we handle every plumbing challenge"
+  },
+  "services": [
+    {
+      "title": "Emergency Plumbing Repairs",
+      "description": "Burst pipes, severe leaks, clogged drains, and urgent plumbing failures. Available 24/7 with rapid response times throughout Atlanta metro area.",
+      "emoji": "🚨"
+    },
+    {
+      "title": "Water Heater Services",
+      "description": "Installation, repair, and replacement of traditional and tankless water heaters. Energy-efficient solutions with manufacturer warranties included.",
+      "emoji": "🔥"
+    },
+    {
+      "title": "Drain Cleaning & Sewer Lines",
+      "description": "Professional drain cleaning, sewer line inspection with camera technology, and hydro jetting services to clear stubborn blockages completely.",
+      "emoji": "🌊"
+    },
+    {
+      "title": "Fixture Installation & Repair",
+      "description": "Faucets, toilets, sinks, garbage disposals, and bathroom fixtures. Professional installation with proper connections and leak-free results.",
+      "emoji": "🛁"
+    },
+    {
+      "title": "Pipe Repair & Repiping",
+      "description": "Leak detection, pipe repairs, and complete repiping for older homes. Modern materials including PEX and copper for long-lasting performance.",
+      "emoji": "🔧"
+    }
+  ],
+  "about": {
+    "heading": "Serving Atlanta with Honest Plumbing Since 2008",
+    "body": "Brawner Plumbing & Services has been Atlanta's trusted plumbing partner for over 15 years. We're a family-owned business committed to transparent pricing, quality workmanship, and treating every customer like family. Our licensed master plumbers handle everything from small repairs to major installations across the Atlanta metro area."
+  },
+  "reviews_section": {
+    "label": "CUSTOMER REVIEWS",
+    "heading": "What Atlanta Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Marcus T.",
+      "location": "Buckhead, GA",
+      "text": "Had a water heater emergency on Sunday morning. Brawner came out within 2 hours and had us back up with hot water by lunch. Fair pricing and excellent work - highly recommend.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer K.",
+      "location": "Decatur, GA",
+      "text": "Called about a kitchen sink leak that was getting worse. They diagnosed the issue quickly and fixed it the same day. Clean work area when finished - true professionals.",
+      "rating": 5
+    },
+    {
+      "name": "David R.",
+      "location": "Midtown Atlanta, GA",
+      "text": "Needed our main sewer line cleared after multiple failed attempts with other companies. Brawner used camera inspection and hydro jetting - problem solved permanently.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE AREAS",
+    "heading": "Plumbing Services Throughout Metro Atlanta",
+    "subheading": "Fast response times to neighborhoods across the Atlanta metro area",
+    "areas": [
+      "Buckhead",
+      "Midtown Atlanta",
+      "Decatur",
+      "Sandy Springs",
+      "Roswell",
+      "Marietta",
+      "Alpharetta",
+      "Dunwoody",
+      "Brookhaven",
+      "East Point"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fix Your Plumbing Problem?",
+    "body": "Don't let plumbing issues disrupt your day. Get professional service from Atlanta's most trusted plumbers with upfront pricing and guaranteed results.",
+    "cta_primary": "Schedule Service",
+    "cta_secondary": "Call (404) 555-7829"
+  },
+  "design": {
+    "primary_color": "#1B365D",
+    "accent_color": "#FF6B35",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Nunito Sans"
+  }
+}

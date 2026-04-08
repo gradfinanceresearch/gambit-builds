@@ -1,0 +1,122 @@
+{
+  "business": {
+    "name": "Metal Roof Experts",
+    "phone": "(704) 555-0147",
+    "email": "info@metalroofexperts.com",
+    "city": "Charlotte",
+    "state": "NC",
+    "industry": "Roofing",
+    "tagline": "Charlotte's Metal Roofing Specialists Since 2015",
+    "logo_url": ""
+  },
+  "hero": {
+    "headline": "*Premium Metal Roofing* That Protects Charlotte Homes for Decades",
+    "subheadline": "Professional installation, transparent pricing, and lifetime warranties on all metal roof systems. Get your detailed estimate within 24 hours.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "emoji": "🏆",
+      "text": "GAF Master Elite Certified"
+    },
+    {
+      "emoji": "⚡",
+      "text": "24-Hour Response Time"
+    },
+    {
+      "emoji": "💰",
+      "text": "Transparent Fixed Pricing"
+    },
+    {
+      "emoji": "🛡️",
+      "text": "Lifetime Warranty Available"
+    }
+  ],
+  "services_section": {
+    "label": "ROOFING SERVICES",
+    "heading": "Complete Metal Roofing Solutions",
+    "subheading": "From new installations to emergency repairs, we handle every aspect of metal roofing with precision and expertise."
+  },
+  "services": [
+    {
+      "title": "Metal Roof Installation",
+      "description": "Complete new metal roof systems including standing seam, corrugated panels, and architectural metal. All installations backed by manufacturer and workmanship warranties.",
+      "emoji": "🏗️"
+    },
+    {
+      "title": "Roof Replacement",
+      "description": "Full roof tear-off and replacement services. We handle permits, disposal, and coordinate with insurance companies for seamless project completion.",
+      "emoji": "🔄"
+    },
+    {
+      "title": "Emergency Roof Repair",
+      "description": "Storm damage, leak repairs, and panel replacement. 24-hour emergency response with temporary protection while permanent repairs are scheduled.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "Professional Inspections",
+      "description": "Detailed roof condition assessments with photo documentation and repair recommendations. Perfect for home purchases, insurance claims, and maintenance planning.",
+      "emoji": "🔍"
+    }
+  ],
+  "about": {
+    "heading": "Charlotte's Trusted Metal Roofing Contractors",
+    "body": "Metal Roof Experts has protected Charlotte area homes with premium metal roofing systems since 2015. Our certified installers specialize in standing seam, corrugated, and architectural metal roofing, delivering superior craftsmanship and transparent pricing on every project."
+  },
+  "reviews_section": {
+    "label": "CLIENT REVIEWS",
+    "heading": "What Charlotte Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Michael R.",
+      "location": "Myers Park, NC",
+      "text": "Had our standing seam metal roof installed last month. The crew finished in 3 days despite rain delays, and the cleanup was spotless. Love the sound dampening they added.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer K.",
+      "location": "Ballantyne, NC",
+      "text": "Called Friday evening about storm damage, they had tarps up by Saturday morning and permanent repairs done within the week. Insurance covered everything smoothly.",
+      "rating": 5
+    },
+    {
+      "name": "David M.",
+      "location": "Huntersville, NC",
+      "text": "Estimate was detailed and fair - no surprises. The metal roof looks amazing and we're already seeing lower energy bills after just 2 months.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE AREAS",
+    "heading": "Serving Charlotte & Surrounding Areas",
+    "subheading": "Professional metal roofing services throughout the greater Charlotte metro area.",
+    "areas": [
+      "Charlotte",
+      "Huntersville",
+      "Matthews",
+      "Pineville",
+      "Mint Hill",
+      "Cornelius",
+      "Davidson",
+      "Ballantyne",
+      "Myers Park",
+      "Dilworth"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a Superior Metal Roof?",
+    "body": "Get your detailed estimate with material options, timeline, and transparent pricing. Most estimates delivered within 24 hours.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (704) 555-0147"
+  },
+  "design": {
+    "primary_color": "#1e293b",
+    "accent_color": "#ea580c",
+    "bg_color": "#ffffff",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans"
+  }
+}

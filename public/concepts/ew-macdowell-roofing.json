@@ -1,0 +1,131 @@
+{
+  "business": {
+    "name": "E.W. MacDowell Roofing",
+    "phone": "(704) 555-0147",
+    "email": "info@ewmacdowellroofing.com",
+    "city": "Charlotte",
+    "state": "NC",
+    "industry": "Roofing",
+    "tagline": "Charlotte's trusted roofing experts since day one",
+    "logo_url": ""
+  },
+  "hero": {
+    "headline": "*Fast, reliable roofing* solutions for Charlotte homeowners",
+    "subheadline": "From storm damage repairs to complete roof replacements, we deliver quality workmanship with transparent pricing and same-day estimates.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "🛡️",
+      "text": "Licensed & Insured"
+    },
+    {
+      "emoji": "⚡",
+      "text": "Same-Day Estimates"
+    },
+    {
+      "emoji": "🏆",
+      "text": "20+ Years Experience"
+    },
+    {
+      "emoji": "💯",
+      "text": "Warranty Backed"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete Roofing Services",
+    "subheading": "Professional solutions for every roofing need in Charlotte"
+  },
+  "services": [
+    {
+      "title": "Complete Roof Replacement",
+      "description": "Full tear-off and installation with premium materials. We handle permits, inspections, and cleanup so you don't have to worry about a thing.",
+      "emoji": "🏠"
+    },
+    {
+      "title": "Storm Damage Repair",
+      "description": "Emergency repairs and insurance claim assistance. Available 24/7 for urgent leaks and weather damage throughout the Charlotte area.",
+      "emoji": "⛈️"
+    },
+    {
+      "title": "New Roof Installation",
+      "description": "Custom roof systems for new construction and additions. We work with builders and homeowners to deliver on-time, on-budget results.",
+      "emoji": "🔨"
+    },
+    {
+      "title": "Gutter System Upgrades",
+      "description": "Seamless gutters, downspouts, and leaf protection systems. Properly sized and installed to protect your foundation and landscaping.",
+      "emoji": "🌧️"
+    },
+    {
+      "title": "Roof Maintenance & Inspections",
+      "description": "Annual inspections and preventive maintenance to extend your roof's life. Includes detailed reports with photos and repair recommendations.",
+      "emoji": "🔍"
+    }
+  ],
+  "about": {
+    "heading": "Locally Owned, Locally Trusted",
+    "body": "E.W. MacDowell Roofing has been protecting Charlotte homes for over two decades. We're not a franchise or national chain—we're your neighbors, committed to quality workmanship and honest pricing. Every job is owner-supervised with a focus on long-term relationships, not quick sales."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Charlotte Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Sarah M.",
+      "location": "Myers Park, NC",
+      "text": "Called E.W. MacDowell after the April storms damaged our shingles. They had someone out the same day for an estimate and started repairs within 48 hours. Professional crew and fair pricing.",
+      "rating": 5
+    },
+    {
+      "name": "Mike R.",
+      "location": "Dilworth, NC",
+      "text": "Complete roof replacement on our 1920s home. They matched the original slate look perfectly and finished ahead of schedule. Outstanding attention to detail and cleanup was immaculate.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer K.",
+      "location": "South End, NC",
+      "text": "Gutters were overflowing every rain. E.W. MacDowell upgraded our entire system with leaf guards. No more ladder climbing for me! Great communication throughout the project.",
+      "rating": 5
+    },
+    {
+      "name": "Robert T.",
+      "location": "University Area, NC",
+      "text": "Insurance claim was a nightmare until E.W. MacDowell stepped in. They handled all the paperwork and fought for proper coverage. Roof looks amazing and process was stress-free.",
+      "rating": 4
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Serving Charlotte & Surrounding Areas",
+    "subheading": "Fast response times throughout the greater Charlotte region",
+    "areas": [
+      "Charlotte",
+      "Matthews",
+      "Mint Hill",
+      "Pineville",
+      "Cornelius",
+      "Huntersville",
+      "Concord",
+      "Gastonia"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Your Free Roof Estimate?",
+    "body": "Don't wait for small problems to become big expenses. Get your fast, accurate estimate today and discover why Charlotte trusts E.W. MacDowell Roofing.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (704) 555-0147"
+  },
+  "design": {
+    "primary_color": "#111827",
+    "accent_color": "#f97316",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans"
+  }
+}

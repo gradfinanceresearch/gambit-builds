@@ -1,0 +1,122 @@
+{
+  "business": {
+    "name": "AG Roofing",
+    "phone": "(704) 555-0198",
+    "email": "info@agroofingcharlotte.com",
+    "city": "Charlotte",
+    "state": "NC",
+    "industry": "Roofing",
+    "tagline": "Charlotte's most trusted roofing professionals",
+    "logo_url": ""
+  },
+  "hero": {
+    "headline": "*Same-Day Response* Roofing Repair & Replacement",
+    "subheadline": "5-star rated Charlotte roofers fix leaks fast and install premium roofing systems. No runaround, just honest estimates and quality work you can count on.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "⭐",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "emoji": "🛡️",
+      "text": "Licensed & Insured"
+    },
+    {
+      "emoji": "⚡",
+      "text": "Same-Day Response"
+    },
+    {
+      "emoji": "📋",
+      "text": "Free Roof Inspections"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete Roofing Services",
+    "subheading": "From emergency repairs to full replacements, we handle every roofing need with precision and care"
+  },
+  "services": [
+    {
+      "title": "Emergency Roof Repair",
+      "description": "Fast response to storm damage, leaks, and missing shingles. We'll secure your home and provide permanent repairs that last.",
+      "emoji": "🚨"
+    },
+    {
+      "title": "Complete Roof Replacement",
+      "description": "Premium shingle, metal, and tile roofing systems installed by certified professionals. Includes warranty and comprehensive cleanup.",
+      "emoji": "🏠"
+    },
+    {
+      "title": "Gutter Installation & Repair",
+      "description": "Seamless gutters, downspouts, and gutter guards to protect your foundation. Proper drainage prevents costly water damage.",
+      "emoji": "💧"
+    },
+    {
+      "title": "Free Roof Inspections",
+      "description": "Thorough assessment of your roof's condition with detailed photos and honest recommendations. No pressure, just facts.",
+      "emoji": "🔍"
+    }
+  ],
+  "about": {
+    "heading": "Charlotte's Most Trusted Roofing Contractors",
+    "body": "AG Roofing has protected Charlotte-area homes for over 15 years. Our certified team combines old-school craftsmanship with modern materials, ensuring every roof we touch stands strong against Carolina weather. We're the neighbors you can trust with your biggest investment."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Charlotte Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Sarah M.",
+      "location": "Myers Park, NC",
+      "text": "Called AG Roofing after storm damage and they were at my house within 3 hours. Fixed the leak the same day and gave me a fair estimate for full replacement. Professional crew, clean work site.",
+      "rating": 5
+    },
+    {
+      "name": "Mike R.",
+      "location": "Dilworth, NC",
+      "text": "Complete roof replacement took 2 days. They protected my landscaping, cleaned up perfectly, and the new roof looks amazing. Price was $3k less than other quotes.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer K.",
+      "location": "SouthPark, NC",
+      "text": "Free inspection caught problems I didn't know existed. They could have oversold me but recommended repairs instead of replacement. Saved me thousands. Honest company.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Serving Greater Charlotte",
+    "subheading": "Fast response times to homes and businesses throughout the Charlotte metro area",
+    "areas": [
+      "Myers Park",
+      "Dilworth",
+      "SouthPark",
+      "Ballantyne",
+      "Huntersville",
+      "Matthews",
+      "Pineville",
+      "Cornelius",
+      "Davidson",
+      "Mint Hill"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fix Your Roof?",
+    "body": "Don't wait for small problems to become big expenses. Get your free inspection and honest estimate today.",
+    "cta_primary": "Schedule Free Inspection",
+    "cta_secondary": "Call (704) 555-0198"
+  },
+  "design": {
+    "primary_color": "#1f2937",
+    "accent_color": "#f59e0b",
+    "bg_color": "#ffffff",
+    "text_color": "#1f2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans"
+  }
+}

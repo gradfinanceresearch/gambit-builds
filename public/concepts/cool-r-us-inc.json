@@ -1,0 +1,120 @@
+{
+  "business": {
+    "name": "Cool R Us Inc",
+    "phone": "(904) 555-COOL",
+    "email": "service@coolrusjax.com",
+    "city": "Jacksonville",
+    "state": "FL",
+    "industry": "HVAC",
+    "tagline": "Fast fixes, cool comfort, every time",
+    "logo_url": ""
+  },
+  "hero": {
+    "headline": "Same-Day AC Repair & HVAC Service in *Jacksonville*",
+    "subheadline": "Licensed technicians, upfront pricing, and emergency service when you need it most. Get your system running in hours, not days.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "⚡",
+      "text": "Same-Day Emergency Service"
+    },
+    {
+      "emoji": "🏆",
+      "text": "Licensed & Insured Techs"
+    },
+    {
+      "emoji": "💰",
+      "text": "Upfront Pricing Guarantee"
+    },
+    {
+      "emoji": "🛡️",
+      "text": "100% Satisfaction Warranty"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete HVAC Solutions",
+    "subheading": "From emergency repairs to new installations, we keep Jacksonville cool year-round"
+  },
+  "services": [
+    {
+      "title": "Emergency AC Repair",
+      "description": "Same-day service for broken AC units. Our licensed technicians diagnose and fix most issues on the first visit with upfront pricing.",
+      "emoji": "🚨"
+    },
+    {
+      "title": "HVAC System Installation",
+      "description": "Complete system replacements with energy-efficient units. Free in-home estimates and flexible financing options available.",
+      "emoji": "🔧"
+    },
+    {
+      "title": "Preventive Maintenance",
+      "description": "Annual tune-ups to prevent breakdowns and extend system life. Scheduled maintenance plans available with priority service.",
+      "emoji": "⚙️"
+    },
+    {
+      "title": "Duct Cleaning & Sealing",
+      "description": "Improve air quality and system efficiency with professional duct services. Reduce energy bills and allergens in your home.",
+      "emoji": "💨"
+    }
+  ],
+  "about": {
+    "heading": "Trusted HVAC Experts Since 2015",
+    "body": "Cool R Us has been keeping Jacksonville families comfortable through Florida's toughest weather. Our team of licensed, experienced technicians provides honest service with transparent pricing. We're not just repair specialists—we're your neighbors, committed to fast solutions and long-term relationships."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Our Neighbors Say"
+  },
+  "reviews": [
+    {
+      "name": "Maria S.",
+      "location": "Riverside, FL",
+      "text": "AC died on a 95-degree Saturday afternoon. Cool R Us had someone here within 3 hours and got it running by evening. Fair pricing and no surprise fees.",
+      "rating": 5
+    },
+    {
+      "name": "David K.",
+      "location": "Mandarin, FL",
+      "text": "Replaced our 15-year-old system last month. They explained all options clearly and finished the installation in one day. House stays so much cooler now.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer M.",
+      "location": "Orange Park, FL",
+      "text": "Been using them for maintenance for 2 years. Always on time, thorough inspections, and they caught a potential issue before it became expensive.",
+      "rating": 4
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Serving Jacksonville & Surrounding Areas",
+    "subheading": "Fast, reliable HVAC service throughout Northeast Florida",
+    "areas": [
+      "Jacksonville",
+      "Orange Park",
+      "Mandarin",
+      "Riverside",
+      "Avondale",
+      "Fleming Island",
+      "Green Cove Springs",
+      "Middleburg"
+    ]
+  },
+  "cta": {
+    "heading": "Need HVAC Service Today?",
+    "body": "Don't wait in the heat. Our licensed technicians are ready with same-day service and upfront pricing.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (904) 555-COOL"
+  },
+  "design": {
+    "primary_color": "#0c4a6e",
+    "accent_color": "#22c55e",
+    "bg_color": "#ffffff",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Nunito Sans"
+  }
+}

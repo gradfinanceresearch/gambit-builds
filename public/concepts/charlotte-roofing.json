@@ -1,0 +1,122 @@
+{
+  "business": {
+    "name": "Charlotte Roofing",
+    "phone": "(704) 555-ROOF",
+    "email": "info@charlotteroofing.com",
+    "city": "Charlotte",
+    "state": "NC",
+    "industry": "Roofing",
+    "tagline": "Charlotte's Storm Damage Specialists Since 2008",
+    "logo_url": ""
+  },
+  "hero": {
+    "headline": "Storm Damage? We're On Your Roof *Within 24 Hours*",
+    "subheadline": "Charlotte's fastest response team for emergency roof repairs. Free inspections, insurance claim assistance, and same-day temporary protection for your home.",
+    "cta_primary": "Get Emergency Inspection",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "⚡",
+      "text": "24-Hour Emergency Response"
+    },
+    {
+      "emoji": "🛡️",
+      "text": "Licensed & Fully Insured"
+    },
+    {
+      "emoji": "📋",
+      "text": "Insurance Claim Experts"
+    },
+    {
+      "emoji": "🏆",
+      "text": "15+ Years Local Experience"
+    }
+  ],
+  "services_section": {
+    "label": "OUR EXPERTISE",
+    "heading": "Complete Roofing Solutions for Charlotte Homes",
+    "subheading": "From storm damage to scheduled replacements, we handle every aspect of your roofing needs"
+  },
+  "services": [
+    {
+      "title": "Emergency Storm Damage Repair",
+      "description": "Fast response to wind, hail, and fallen tree damage. Temporary protection within hours, permanent repairs scheduled immediately with full insurance documentation.",
+      "emoji": "⛈️"
+    },
+    {
+      "title": "Complete Roof Replacement",
+      "description": "Full tear-off and installation using premium materials. GAF Master Elite certified with extended warranties on workmanship and materials.",
+      "emoji": "🏠"
+    },
+    {
+      "title": "Insurance Claim Support",
+      "description": "We handle the paperwork, meet with adjusters, and ensure you get maximum coverage. No upfront costs when insurance approves your claim.",
+      "emoji": "📄"
+    },
+    {
+      "title": "Seamless Gutter Systems",
+      "description": "Custom-fit gutters and downspouts to protect your foundation. Leaf guards available to reduce maintenance and prevent clogging issues.",
+      "emoji": "🌊"
+    }
+  ],
+  "about": {
+    "heading": "Serving Charlotte Families Through Every Storm",
+    "body": "For over 15 years, we've been Charlotte's go-to roofing contractor when storms hit. Our team lives in the community we serve, responding faster than national chains because your neighbors are our neighbors. We've restored hundreds of roofs across Mecklenburg County, working directly with every major insurance carrier to make the process seamless for homeowners."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Charlotte Homeowners Say About Us"
+  },
+  "reviews": [
+    {
+      "name": "Sarah M.",
+      "location": "Myers Park, NC",
+      "text": "After the April hailstorm, they were on my roof the same day I called. Had temporary tarps up within 2 hours and walked me through the entire insurance process. New roof looks incredible.",
+      "rating": 5
+    },
+    {
+      "name": "Mike R.",
+      "location": "Dilworth, NC",
+      "text": "Tree fell on our roof during that big storm in March. Charlotte Roofing had it completely repaired in 3 days and dealt with State Farm directly. Saved us thousands in hassle.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer K.",
+      "location": "NoDa, NC",
+      "text": "Replaced our 20-year-old roof last fall. They finished in 2 days, cleaned up perfectly, and the price beat two other local companies. Very professional crew.",
+      "rating": 4
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE COVERAGE",
+    "heading": "Roofing Services Across Charlotte Metro",
+    "subheading": "Fast emergency response and scheduled services throughout Mecklenburg County",
+    "areas": [
+      "Uptown Charlotte",
+      "South End",
+      "Myers Park",
+      "Dilworth",
+      "NoDa",
+      "Plaza Midwood",
+      "Ballantyne",
+      "Matthews",
+      "Mint Hill",
+      "Huntersville"
+    ]
+  },
+  "cta": {
+    "heading": "Don't Wait - Storm Damage Gets Worse Fast",
+    "body": "Every day you delay roof repairs costs more money and risks interior damage. Get your free inspection scheduled now.",
+    "cta_primary": "Schedule Inspection",
+    "cta_secondary": "Call Emergency Line"
+  },
+  "design": {
+    "primary_color": "#111827",
+    "accent_color": "#dc2626",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans"
+  }
+}

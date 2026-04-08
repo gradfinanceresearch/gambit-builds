@@ -1,0 +1,122 @@
+{
+  "business": {
+    "name": "C.J. Deans Roofing",
+    "phone": "(704) 555-7663",
+    "email": "info@cjdeansroofing.com",
+    "city": "Charlotte",
+    "state": "NC",
+    "industry": "Roofing",
+    "tagline": "Charlotte's trusted roofing professionals since 2009",
+    "logo_url": ""
+  },
+  "hero": {
+    "headline": "*Same-Day Response* for Your Charlotte Roofing Emergency",
+    "subheadline": "Licensed roofing contractors serving Charlotte with 24/7 storm damage response, complete roof installations, and preventive maintenance programs.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "🛡️",
+      "text": "Licensed & Insured"
+    },
+    {
+      "emoji": "⚡",
+      "text": "Same-Day Emergency Response"
+    },
+    {
+      "emoji": "📋",
+      "text": "Free Detailed Inspections"
+    },
+    {
+      "emoji": "🏆",
+      "text": "15+ Years Local Experience"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete Roofing Solutions for Charlotte Homes",
+    "subheading": "From emergency storm repairs to full roof replacements, we handle every aspect of residential roofing."
+  },
+  "services": [
+    {
+      "title": "Emergency Storm Damage Repair",
+      "description": "24/7 response for wind, hail, and tree damage. We secure your home immediately and work directly with insurance adjusters to streamline your claim process.",
+      "emoji": "⛈️"
+    },
+    {
+      "title": "Complete Roof Installation",
+      "description": "New construction and full replacement roofs using premium materials. GAF Master Elite certified with extended warranties on all installations.",
+      "emoji": "🏠"
+    },
+    {
+      "title": "Preventive Maintenance Programs",
+      "description": "Annual inspection and maintenance plans to extend your roof's life. Includes gutter cleaning, minor repairs, and seasonal weatherproofing.",
+      "emoji": "🔧"
+    },
+    {
+      "title": "Professional Roof Inspections",
+      "description": "Comprehensive 32-point inspections with detailed photo reports. Perfect for home purchases, insurance claims, or routine maintenance planning.",
+      "emoji": "🔍"
+    }
+  ],
+  "about": {
+    "heading": "Charlotte Roofing Experts You Can Trust",
+    "body": "C.J. Deans has been protecting Charlotte-area homes since 2009. Our crew of licensed professionals combines old-school craftsmanship with modern materials and techniques. We're not just roofers — we're your neighbors, committed to keeping our community's homes safe and dry through every Carolina storm season."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Charlotte Homeowners Say About Us"
+  },
+  "reviews": [
+    {
+      "name": "Michael R.",
+      "location": "Ballantyne, NC",
+      "text": "Called C.J. Deans after a tree branch punched through during the ice storm. They had tarps up within 3 hours and finished the repair in two days. Insurance adjuster said their documentation was the best he'd seen.",
+      "rating": 5
+    },
+    {
+      "name": "Sarah M.",
+      "location": "Matthews, NC",
+      "text": "Our 20-year roof was starting to leak around the chimney. C.J. came out same day for inspection, explained exactly what needed fixing, and had it waterproofed by Friday. No more stains on the ceiling!",
+      "rating": 5
+    },
+    {
+      "name": "David K.",
+      "location": "Huntersville, NC",
+      "text": "Full roof replacement took 4 days start to finish. Crew cleaned up every nail and left our landscaping untouched. Three months later and still looks perfect. Worth every penny.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Serving Greater Charlotte",
+    "subheading": "We provide professional roofing services throughout Mecklenburg County and surrounding areas.",
+    "areas": [
+      "Charlotte",
+      "Matthews",
+      "Huntersville",
+      "Cornelius",
+      "Pineville",
+      "Mint Hill",
+      "Indian Trail",
+      "Weddington",
+      "Ballantyne",
+      "Concord"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Protect Your Home?",
+    "body": "Don't wait for the next storm. Get your free inspection and estimate today. Same-day emergency service available 24/7.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (704) 555-7663"
+  },
+  "design": {
+    "primary_color": "#0f172a",
+    "accent_color": "#dc2626",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans"
+  }
+}

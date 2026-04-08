@@ -1,0 +1,125 @@
+{
+  "business": {
+    "name": "AAA Plumbing Service LLC",
+    "phone": "(912) 555-0123",
+    "email": "americanplumbing@bellsouth.net",
+    "city": "Savannah",
+    "state": "GA",
+    "industry": "plumber",
+    "tagline": "First-Class Plumbing Solutions for Savannah Homes",
+    "logo_url": ""
+  },
+  "hero": {
+    "headline": "*Emergency Plumbing* Fixed Fast in Savannah",
+    "subheadline": "24/7 licensed plumbers ready to tackle your toughest leaks, clogs, and repairs with same-day service and upfront pricing.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "🔧",
+      "text": "Licensed & Insured"
+    },
+    {
+      "emoji": "⏰",
+      "text": "24/7 Emergency Service"
+    },
+    {
+      "emoji": "💰",
+      "text": "Upfront Pricing"
+    },
+    {
+      "emoji": "✅",
+      "text": "Same-Day Repairs"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete Plumbing Services",
+    "subheading": "From emergency repairs to full installations, we handle every plumbing challenge"
+  },
+  "services": [
+    {
+      "title": "Emergency Drain Cleaning",
+      "description": "Stubborn clogs cleared fast with professional hydro-jetting and drain snaking equipment. Available 24/7 for urgent backups and overflows.",
+      "emoji": "🚿"
+    },
+    {
+      "title": "Water Heater Repair & Replacement",
+      "description": "Expert diagnosis and repair of gas, electric, and tankless water heaters. Quick replacement when repairs aren't cost-effective.",
+      "emoji": "🔥"
+    },
+    {
+      "title": "Leak Detection & Pipe Repair",
+      "description": "Advanced leak detection technology to find hidden problems. Professional pipe repair and replacement using quality materials.",
+      "emoji": "💧"
+    },
+    {
+      "title": "Toilet & Fixture Installation",
+      "description": "Professional installation of toilets, sinks, faucets, and garbage disposals. Proper connections and water-tight seals guaranteed.",
+      "emoji": "🚽"
+    },
+    {
+      "title": "Sewer Line Services",
+      "description": "Camera inspection, cleaning, and repair of main sewer lines. Trenchless options available for minimal yard disruption.",
+      "emoji": "🔍"
+    }
+  ],
+  "about": {
+    "heading": "Trusted Plumbing Experts Serving Greater Savannah",
+    "body": "AAA Plumbing Service has been solving plumbing emergencies and installations throughout Savannah and the Coastal Empire for years. Our licensed technicians arrive equipped with professional tools and quality parts to get your plumbing working right the first time."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Savannah Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Marcus T.",
+      "location": "Savannah, GA",
+      "text": "Called at 11pm with a major leak flooding my basement. They had someone here within an hour and fixed the burst pipe quickly. Professional work and fair emergency pricing.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer L.",
+      "location": "Richmond Hill, GA",
+      "text": "Replaced my 20-year-old water heater in one afternoon. Explained all my options clearly and the new unit works perfectly. Clean installation with no surprises on the bill.",
+      "rating": 5
+    },
+    {
+      "name": "David K.",
+      "location": "Pooler, GA",
+      "text": "Kitchen sink was completely clogged for days. They used some kind of pressure cleaning that cleared it instantly. Been working great for 3 months now.",
+      "rating": 4
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Serving Savannah & Surrounding Areas",
+    "subheading": "Fast response times throughout the Coastal Empire",
+    "areas": [
+      "Savannah",
+      "Pooler",
+      "Richmond Hill",
+      "Garden City",
+      "Port Wentworth",
+      "Rincon",
+      "Bloomingdale",
+      "Thunderbolt"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fix Your Plumbing Problem?",
+    "body": "Don't let plumbing issues get worse. Our experienced technicians are standing by with fully stocked trucks ready to solve your problem today.",
+    "cta_primary": "Schedule Service",
+    "cta_secondary": "Call (912) 555-0123"
+  },
+  "design": {
+    "primary_color": "#1B365D",
+    "accent_color": "#E67E22",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans"
+  }
+}

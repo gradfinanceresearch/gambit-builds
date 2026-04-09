@@ -1,0 +1,125 @@
+{
+  "business": {
+    "name": "Sanders Plumbing Service Inc.",
+    "phone": "(706) 555-0123",
+    "email": "info@sandersplumbingnv.com",
+    "city": "Augusta",
+    "state": "GA",
+    "industry": "plumber",
+    "tagline": "Fast, Reliable Plumbing Solutions Since Day One",
+    "logo_url": ""
+  },
+  "hero": {
+    "headline": "*24/7 Emergency Plumbing* - Augusta's Most Trusted Service",
+    "subheadline": "From burst pipes to clogged drains, we fix it right the first time. Licensed plumbers ready to respond when you need us most.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "🔧",
+      "text": "Licensed & Insured"
+    },
+    {
+      "emoji": "⚡",
+      "text": "24/7 Emergency Response"
+    },
+    {
+      "emoji": "💯",
+      "text": "Satisfaction Guaranteed"
+    },
+    {
+      "emoji": "🏆",
+      "text": "Local Family Owned"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete Plumbing Solutions",
+    "subheading": "Professional service for every plumbing need in your home or business"
+  },
+  "services": [
+    {
+      "title": "Emergency Plumbing Repairs",
+      "description": "Burst pipes, major leaks, and plumbing emergencies fixed fast. Our team responds 24/7 to prevent water damage and restore your plumbing system.",
+      "emoji": "🚨"
+    },
+    {
+      "title": "Drain Cleaning & Unclogging",
+      "description": "Professional drain cleaning for kitchen sinks, bathrooms, and main lines. We clear tough clogs and restore proper flow using advanced equipment.",
+      "emoji": "🌊"
+    },
+    {
+      "title": "Water Heater Service",
+      "description": "Installation, repair, and maintenance for all water heater types. From tankless to traditional units, we keep your hot water flowing reliably.",
+      "emoji": "🔥"
+    },
+    {
+      "title": "Fixture Installation",
+      "description": "Professional installation of faucets, toilets, sinks, and showers. Upgrade your bathroom or kitchen with quality fixtures installed properly.",
+      "emoji": "🚿"
+    },
+    {
+      "title": "Leak Detection & Repair",
+      "description": "Advanced leak detection services to find hidden water leaks. We locate and repair leaks quickly to prevent costly water damage.",
+      "emoji": "🔍"
+    }
+  ],
+  "about": {
+    "heading": "Serving Augusta Families Since Our Founding",
+    "body": "Sanders Plumbing Service Inc. has been Augusta's go-to plumbing contractor for residential and commercial needs. Our licensed plumbers combine years of experience with modern equipment to deliver reliable solutions across the CSRA region. We're committed to honest pricing, quality workmanship, and building lasting relationships with our neighbors."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Augusta Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Jennifer M.",
+      "location": "Augusta, GA",
+      "text": "Called Sanders at 11 PM when our main line backed up into the basement. They arrived within an hour and had everything cleared by 2 AM. Saved us from a nightmare cleanup situation.",
+      "rating": 5
+    },
+    {
+      "name": "Marcus T.",
+      "location": "Evans, GA",
+      "text": "Replaced our old water heater in December. The technician explained all our options and installed the new unit the same day. Hot showers never felt so good!",
+      "rating": 5
+    },
+    {
+      "name": "Linda K.",
+      "location": "Martinez, GA",
+      "text": "Kitchen faucet started leaking badly on Friday evening. Sanders came out Saturday morning, fixed it in 30 minutes, and charged exactly what they quoted. Professional service.",
+      "rating": 4
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Serving the Greater Augusta Area",
+    "subheading": "Fast, reliable plumbing service throughout the CSRA region",
+    "areas": [
+      "Augusta",
+      "Evans",
+      "Martinez",
+      "Grovetown",
+      "Hephzibah",
+      "Thomson",
+      "Waynesboro",
+      "Aiken"
+    ]
+  },
+  "cta": {
+    "heading": "Need Plumbing Service Today?",
+    "body": "Don't let plumbing problems disrupt your day. Our experienced team is ready to diagnose and fix your issue quickly.",
+    "cta_primary": "Request Service",
+    "cta_secondary": "Call (706) 555-0123"
+  },
+  "design": {
+    "primary_color": "#1e3a8a",
+    "accent_color": "#f59e0b",
+    "bg_color": "#ffffff",
+    "text_color": "#1f2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans"
+  }
+}

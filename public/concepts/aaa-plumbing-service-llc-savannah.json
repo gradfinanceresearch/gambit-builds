@@ -6,13 +6,13 @@
     "city": "Savannah",
     "state": "GA",
     "industry": "plumber",
-    "tagline": "First-Class Plumbing Solutions for Savannah Homes",
+    "tagline": "Fast fixes, fair prices — when you need us most",
     "logo_url": ""
   },
   "hero": {
-    "headline": "*Emergency Plumbing* Fixed Fast in Savannah",
-    "subheadline": "24/7 licensed plumbers ready to tackle your toughest leaks, clogs, and repairs with same-day service and upfront pricing.",
-    "cta_primary": "Get Free Estimate",
+    "headline": "*Emergency plumbing repairs* when Savannah calls — 24/7",
+    "subheadline": "Burst pipes, clogged drains, water heater failures — we're there in under 90 minutes with upfront pricing and guaranteed workmanship.",
+    "cta_primary": "Get Emergency Service",
     "cta_secondary": "Call Now"
   },
   "trust_badges": [
@@ -21,7 +21,7 @@
       "text": "Licensed & Insured"
     },
     {
-      "emoji": "⏰",
+      "emoji": "⚡",
       "text": "24/7 Emergency Service"
     },
     {
@@ -29,45 +29,45 @@
       "text": "Upfront Pricing"
     },
     {
-      "emoji": "✅",
-      "text": "Same-Day Repairs"
+      "emoji": "🛡️",
+      "text": "Workmanship Guarantee"
     }
   ],
   "services_section": {
-    "label": "WHAT WE DO",
-    "heading": "Complete Plumbing Services",
-    "subheading": "From emergency repairs to full installations, we handle every plumbing challenge"
+    "label": "WHAT WE FIX",
+    "heading": "Complete Plumbing Solutions",
+    "subheading": "From leaky faucets to major pipe repairs, we handle it all"
   },
   "services": [
     {
       "title": "Emergency Drain Cleaning",
-      "description": "Stubborn clogs cleared fast with professional hydro-jetting and drain snaking equipment. Available 24/7 for urgent backups and overflows.",
-      "emoji": "🚿"
+      "description": "Severe clogs, backed-up sinks, toilet blockages — we clear them fast with professional equipment and restore your flow within the hour.",
+      "emoji": "🌊"
     },
     {
-      "title": "Water Heater Repair & Replacement",
-      "description": "Expert diagnosis and repair of gas, electric, and tankless water heaters. Quick replacement when repairs aren't cost-effective.",
+      "title": "Water Heater Repair & Install",
+      "description": "No hot water? Leaking tank? We diagnose the issue, repair when possible, or install new units with same-day service throughout Savannah.",
       "emoji": "🔥"
     },
     {
-      "title": "Leak Detection & Pipe Repair",
-      "description": "Advanced leak detection technology to find hidden problems. Professional pipe repair and replacement using quality materials.",
-      "emoji": "💧"
+      "title": "Pipe Leak Detection & Repair",
+      "description": "Hidden leaks, burst pipes, low water pressure — we locate the problem with advanced tools and provide lasting repairs that won't fail again.",
+      "emoji": "🔍"
     },
     {
-      "title": "Toilet & Fixture Installation",
-      "description": "Professional installation of toilets, sinks, faucets, and garbage disposals. Proper connections and water-tight seals guaranteed.",
+      "title": "Toilet & Fixture Replacement",
+      "description": "Running toilets, dripping faucets, outdated fixtures — complete installation and repair services with quality parts and clean workmanship.",
       "emoji": "🚽"
     },
     {
       "title": "Sewer Line Services",
-      "description": "Camera inspection, cleaning, and repair of main sewer lines. Trenchless options available for minimal yard disruption.",
-      "emoji": "🔍"
+      "description": "Main line backups, tree root intrusion, old clay pipes — camera inspection and trenchless repair options to get your system flowing.",
+      "emoji": "⚠️"
     }
   ],
   "about": {
-    "heading": "Trusted Plumbing Experts Serving Greater Savannah",
-    "body": "AAA Plumbing Service has been solving plumbing emergencies and installations throughout Savannah and the Coastal Empire for years. Our licensed technicians arrive equipped with professional tools and quality parts to get your plumbing working right the first time."
+    "heading": "Serving Savannah's Plumbing Needs Since Day One",
+    "body": "AAA Plumbing Service has been Savannah's go-to emergency plumber for years. We know the unique challenges of coastal Georgia plumbing — from hurricane damage to aging Historic District pipes. Our team responds fast, works clean, and stands behind every repair with real guarantees."
   },
   "reviews_section": {
     "label": "REAL CUSTOMERS",
@@ -77,49 +77,49 @@
     {
       "name": "Marcus T.",
       "location": "Savannah, GA",
-      "text": "Called at 11pm with a major leak flooding my basement. They had someone here within an hour and fixed the burst pipe quickly. Professional work and fair emergency pricing.",
+      "text": "Called AAA at 2 AM when our main line backed up into the house. They were here in 45 minutes and had it cleared by sunrise. Pricing was exactly what they quoted over the phone.",
       "rating": 5
     },
     {
       "name": "Jennifer L.",
       "location": "Richmond Hill, GA",
-      "text": "Replaced my 20-year-old water heater in one afternoon. Explained all my options clearly and the new unit works perfectly. Clean installation with no surprises on the bill.",
+      "text": "Water heater died on a Friday — they came out same day and installed a new one for less than the big companies wanted. Clean work, no mess left behind.",
       "rating": 5
     },
     {
-      "name": "David K.",
+      "name": "Robert K.",
       "location": "Pooler, GA",
-      "text": "Kitchen sink was completely clogged for days. They used some kind of pressure cleaning that cleared it instantly. Been working great for 3 months now.",
+      "text": "Had a mysterious leak behind our kitchen wall. They found it with their camera equipment and fixed it without tearing up the whole wall. Impressive problem-solving.",
       "rating": 4
     }
   ],
   "service_areas": {
-    "label": "COVERAGE",
-    "heading": "Serving Savannah & Surrounding Areas",
-    "subheading": "Fast response times throughout the Coastal Empire",
+    "label": "SERVICE COVERAGE",
+    "heading": "Fast Response Across the Coastal Empire",
+    "subheading": "24/7 emergency service to these Savannah-area communities",
     "areas": [
       "Savannah",
-      "Pooler",
       "Richmond Hill",
-      "Garden City",
+      "Pooler",
       "Port Wentworth",
-      "Rincon",
-      "Bloomingdale",
-      "Thunderbolt"
+      "Garden City",
+      "Thunderbolt",
+      "Tybee Island",
+      "Bloomingdale"
     ]
   },
   "cta": {
-    "heading": "Ready to Fix Your Plumbing Problem?",
-    "body": "Don't let plumbing issues get worse. Our experienced technicians are standing by with fully stocked trucks ready to solve your problem today.",
-    "cta_primary": "Schedule Service",
+    "heading": "Plumbing Emergency? We're Ready Now",
+    "body": "Don't let a small leak become major damage. Call AAA Plumbing for immediate response and honest pricing throughout Savannah.",
+    "cta_primary": "Get Emergency Service",
     "cta_secondary": "Call (912) 555-0123"
   },
   "design": {
-    "primary_color": "#1B365D",
-    "accent_color": "#E67E22",
+    "primary_color": "#1E3A8A",
+    "accent_color": "#F59E0B",
     "bg_color": "#FFFFFF",
-    "text_color": "#1A1A2E",
+    "text_color": "#1F2937",
     "font_heading": "Oswald",
-    "font_body": "Work Sans"
+    "font_body": "Karla"
   }
 }

@@ -1,0 +1,125 @@
+{
+  "business": {
+    "name": "Davis and Tice Plumbing Company",
+    "phone": "(478) 555-0123",
+    "email": "sales@davisplumbingco.com",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "plumber",
+    "tagline": "Reliable plumbing solutions for Middle Georgia homes",
+    "logo_url": ""
+  },
+  "hero": {
+    "headline": "Macon's *Most Trusted* Plumbing Experts Since Day One",
+    "subheadline": "From emergency repairs to complete installations, we deliver professional plumbing services that keep your home running smoothly.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "🔧",
+      "text": "Licensed Master Plumbers"
+    },
+    {
+      "emoji": "⏰",
+      "text": "24/7 Emergency Service"
+    },
+    {
+      "emoji": "💯",
+      "text": "100% Satisfaction Guarantee"
+    },
+    {
+      "emoji": "🛡️",
+      "text": "Fully Bonded & Insured"
+    }
+  ],
+  "services_section": {
+    "label": "OUR EXPERTISE",
+    "heading": "Complete Plumbing Solutions",
+    "subheading": "Professional service for every plumbing challenge in your home"
+  },
+  "services": [
+    {
+      "title": "Emergency Plumbing Repairs",
+      "description": "Burst pipes, major leaks, and urgent plumbing issues fixed fast. We respond quickly to minimize damage and restore your plumbing system.",
+      "emoji": "🚨"
+    },
+    {
+      "title": "Water Heater Installation & Repair",
+      "description": "Expert installation of tankless and traditional water heaters. We service all major brands and help you choose the right system for your home.",
+      "emoji": "🔥"
+    },
+    {
+      "title": "Drain Cleaning & Sewer Lines",
+      "description": "Professional drain clearing using advanced equipment. We handle everything from kitchen sinks to main sewer line blockages and repairs.",
+      "emoji": "🌊"
+    },
+    {
+      "title": "Bathroom & Kitchen Plumbing",
+      "description": "Complete fixture installation and renovation plumbing. We handle sink replacements, toilet installation, and full bathroom remodeling projects.",
+      "emoji": "🚿"
+    },
+    {
+      "title": "Leak Detection & Pipe Repair",
+      "description": "Advanced leak detection technology to find hidden problems. We repair and replace pipes with minimal disruption to your property.",
+      "emoji": "🔍"
+    }
+  ],
+  "about": {
+    "heading": "Serving Middle Georgia with Pride",
+    "body": "Davis and Tice Plumbing Company has been the backbone of reliable plumbing service in Macon and surrounding communities. Our experienced team combines old-school craftsmanship with modern techniques to solve any plumbing challenge. We treat every home like our own and stand behind our work with solid guarantees."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Macon Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Jennifer M.",
+      "location": "Macon, GA",
+      "text": "Called Davis and Tice when our water heater died on a Sunday morning. They had someone here within 2 hours and installed a new unit the same day. Professional crew and fair pricing.",
+      "rating": 5
+    },
+    {
+      "name": "Robert K.",
+      "location": "Warner Robins, GA",
+      "text": "These guys saved our kitchen renovation timeline when we discovered old pipes that needed replacing. They worked around our contractor's schedule and finished everything perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "Maria L.",
+      "location": "Perry, GA",
+      "text": "Had a persistent drain issue that two other plumbers couldn't solve. Davis and Tice found the real problem in our main line and fixed it right the first time. Highly recommend.",
+      "rating": 4
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE COVERAGE",
+    "heading": "We Serve All of Middle Georgia",
+    "subheading": "Professional plumbing service throughout the region",
+    "areas": [
+      "Warner Robins",
+      "Perry",
+      "Forsyth",
+      "Gray",
+      "Milledgeville",
+      "Byron",
+      "Centerville",
+      "Kathleen"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fix Your Plumbing Problems?",
+    "body": "Don't let plumbing issues disrupt your daily routine. Our experienced team is ready to provide fast, professional service that gets your home back to normal.",
+    "cta_primary": "Schedule Service",
+    "cta_secondary": "Call (478) 555-0123"
+  },
+  "design": {
+    "primary_color": "#1B4332",
+    "accent_color": "#FF6B35",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Work Sans"
+  }
+}

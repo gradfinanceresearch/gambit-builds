@@ -1,0 +1,125 @@
+{
+  "business": {
+    "name": "Dify Electrical Contracting",
+    "phone": "(804) 555-0142",
+    "email": "info@difycontracting.com",
+    "city": "Richmond",
+    "state": "VA",
+    "industry": "electrician",
+    "tagline": "Powering Richmond's homes and businesses safely",
+    "logo_url": ""
+  },
+  "hero": {
+    "headline": "*Expert electrical work* you can trust in Richmond",
+    "subheadline": "Licensed master electricians providing safe, code-compliant installations and repairs for homes and businesses throughout the Richmond metro area.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "⚡",
+      "text": "Licensed Master Electricians"
+    },
+    {
+      "emoji": "🛡️",
+      "text": "Fully Insured & Bonded"
+    },
+    {
+      "emoji": "📋",
+      "text": "Code Compliant Work"
+    },
+    {
+      "emoji": "🕐",
+      "text": "24/7 Emergency Service"
+    }
+  ],
+  "services_section": {
+    "label": "ELECTRICAL SERVICES",
+    "heading": "Complete electrical solutions for your property",
+    "subheading": "From panel upgrades to outlet installation, we handle all your electrical needs"
+  },
+  "services": [
+    {
+      "title": "Panel Upgrades & Service Changes",
+      "description": "Upgrade outdated electrical panels to modern, code-compliant systems that can handle your power needs safely. Includes permit acquisition and inspection coordination.",
+      "emoji": "🔌"
+    },
+    {
+      "title": "Whole House Rewiring",
+      "description": "Complete electrical system overhauls for older homes. Replace outdated wiring with modern copper systems that meet current safety standards and building codes.",
+      "emoji": "🏠"
+    },
+    {
+      "title": "Outlet & Switch Installation",
+      "description": "Add new outlets, switches, and GFCI protection throughout your home. Perfect for kitchen remodels, home offices, and modernizing older electrical systems.",
+      "emoji": "💡"
+    },
+    {
+      "title": "Commercial Electrical Work",
+      "description": "Professional electrical services for businesses including lighting upgrades, machinery hookups, and electrical maintenance for retail and office spaces.",
+      "emoji": "🏢"
+    },
+    {
+      "title": "Emergency Electrical Repairs",
+      "description": "24/7 emergency service for power outages, electrical fires, and dangerous electrical issues. Fast response times to restore power and ensure safety.",
+      "emoji": "🚨"
+    }
+  ],
+  "about": {
+    "heading": "Richmond's trusted electrical contractors since 2010",
+    "body": "Dify Electrical Contracting has been serving Richmond and surrounding areas with professional electrical services for over a decade. Our team of licensed master electricians brings expertise and reliability to every project, from simple repairs to complex commercial installations. We pride ourselves on clean work, fair pricing, and exceeding safety standards."
+  },
+  "reviews_section": {
+    "label": "CUSTOMER REVIEWS",
+    "heading": "What our Richmond customers say"
+  },
+  "reviews": [
+    {
+      "name": "Sarah M.",
+      "location": "Richmond, VA",
+      "text": "Had my electrical panel upgraded last month. The team was professional, explained everything clearly, and cleaned up perfectly. Passed inspection on the first try. Would definitely use again.",
+      "rating": 5
+    },
+    {
+      "name": "Mike T.",
+      "location": "Glen Allen, VA",
+      "text": "Called for an emergency repair when half my house lost power. They came out within 2 hours and found the problem quickly. Fixed it same day and the price was very reasonable.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer K.",
+      "location": "Short Pump, VA",
+      "text": "Rewired our 1960s home during renovation. The electricians were respectful of our space, worked around our schedule, and the final result looks great. Very knowledgeable team.",
+      "rating": 4
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE AREAS",
+    "heading": "Serving Richmond and surrounding communities",
+    "subheading": "Professional electrical services throughout the greater Richmond metro area",
+    "areas": [
+      "Glen Allen",
+      "Short Pump",
+      "Henrico",
+      "Chesterfield",
+      "Midlothian",
+      "Mechanicsville",
+      "Ashland",
+      "Bon Air"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for professional electrical work?",
+    "body": "Contact Dify Electrical Contracting today for a free estimate on your electrical project. Licensed, insured, and committed to quality workmanship.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (804) 555-0142"
+  },
+  "design": {
+    "primary_color": "#1B365D",
+    "accent_color": "#F39C12",
+    "bg_color": "#FFFFFF",
+    "text_color": "#2D3748",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans"
+  }
+}

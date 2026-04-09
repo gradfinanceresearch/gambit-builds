@@ -1,0 +1,125 @@
+{
+  "business": {
+    "name": "Harvey's Plumbing Co",
+    "phone": "(423) 555-0142",
+    "email": "mail@harveys1.co.uk",
+    "city": "Chattanooga",
+    "state": "TN",
+    "industry": "plumber",
+    "tagline": "Fast fixes, fair prices, trusted locally",
+    "logo_url": ""
+  },
+  "hero": {
+    "headline": "*Emergency plumbing repairs* in Chattanooga — 24/7 response",
+    "subheadline": "Licensed plumbers ready to tackle your toughest leaks, clogs, and pipe problems. Same-day service available throughout the Tennessee Valley.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "🔧",
+      "text": "Licensed & Insured"
+    },
+    {
+      "emoji": "⚡",
+      "text": "24/7 Emergency Service"
+    },
+    {
+      "emoji": "💯",
+      "text": "100% Satisfaction Guarantee"
+    },
+    {
+      "emoji": "👨‍🔧",
+      "text": "15+ Years Experience"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete Plumbing Solutions",
+    "subheading": "From emergency repairs to full installations, we handle every plumbing challenge"
+  },
+  "services": [
+    {
+      "title": "Emergency Pipe Repair",
+      "description": "Burst pipes, major leaks, and water damage prevention. Our emergency crew responds within 60 minutes to minimize damage and restore your plumbing system.",
+      "emoji": "🚨"
+    },
+    {
+      "title": "Drain Cleaning & Unclogging",
+      "description": "Professional drain snaking, hydro-jetting, and root removal. We clear kitchen sinks, bathroom drains, and main sewer lines completely.",
+      "emoji": "🌊"
+    },
+    {
+      "title": "Water Heater Installation",
+      "description": "Tank and tankless water heater installation, repair, and maintenance. Energy-efficient upgrades that reduce your monthly utility bills.",
+      "emoji": "🔥"
+    },
+    {
+      "title": "Fixture Installation",
+      "description": "New faucets, toilets, sinks, and shower installations. We handle the plumbing connections and ensure everything functions perfectly.",
+      "emoji": "🚿"
+    },
+    {
+      "title": "Leak Detection & Repair",
+      "description": "Advanced leak detection technology finds hidden water leaks behind walls and under slabs. Stop wasting water and prevent costly damage.",
+      "emoji": "🔍"
+    }
+  ],
+  "about": {
+    "heading": "Chattanooga's Reliable Plumbing Experts",
+    "body": "Harvey's Plumbing Co has been serving the Tennessee Valley for over 15 years. Our experienced team handles everything from simple faucet repairs to complex re-piping projects. We're committed to honest pricing, quality workmanship, and treating every home like our own."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Chattanooga Says About Us"
+  },
+  "reviews": [
+    {
+      "name": "Jennifer R.",
+      "location": "Hixson, TN",
+      "text": "Called Harvey's at 11 PM when our main pipe burst in the basement. They were here within 45 minutes and had it fixed by 2 AM. Saved us thousands in water damage. Professional crew and fair emergency pricing.",
+      "rating": 5
+    },
+    {
+      "name": "Marcus T.",
+      "location": "Red Bank, TN",
+      "text": "Harvey's team installed our new tankless water heater last month. They explained everything clearly, cleaned up completely, and the installation looks perfect. Already seeing lower gas bills.",
+      "rating": 5
+    },
+    {
+      "name": "Sarah M.",
+      "location": "Chattanooga, TN",
+      "text": "Had a stubborn kitchen sink clog that three other plumbers couldn't fix. Harvey's brought in their hydro-jet equipment and cleared 20 years of buildup. Finally drains like new again.",
+      "rating": 4
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Serving Greater Chattanooga",
+    "subheading": "Fast response times throughout the Tennessee Valley region",
+    "areas": [
+      "Hixson",
+      "Red Bank",
+      "Signal Mountain",
+      "Soddy-Daisy",
+      "East Ridge",
+      "Collegedale",
+      "Ooltewah",
+      "Harrison"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fix Your Plumbing Problem?",
+    "body": "Don't let plumbing issues get worse. Our experienced team is standing by to provide fast, reliable service at honest prices.",
+    "cta_primary": "Schedule Service",
+    "cta_secondary": "Call (423) 555-0142"
+  },
+  "design": {
+    "primary_color": "#1B4D72",
+    "accent_color": "#FF6B35",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Nunito Sans"
+  }
+}

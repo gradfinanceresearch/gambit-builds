@@ -1,0 +1,125 @@
+{
+  "business": {
+    "name": "Landscaping On The Bay LLC",
+    "phone": "(813) 555-0147",
+    "email": "landscapingonthebay@gmail.com",
+    "city": "Tampa",
+    "state": "FL",
+    "industry": "landscaper",
+    "tagline": "Transforming Tampa's outdoor spaces since 2019",
+    "logo_url": ""
+  },
+  "hero": {
+    "headline": "*Transform Your Tampa Property* Into a Stunning Outdoor Paradise",
+    "subheadline": "Professional landscaping services that boost your curb appeal and property value with Florida-friendly designs that thrive year-round in our climate.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "emoji": "🌿",
+      "text": "Florida Native Plants Expert"
+    },
+    {
+      "emoji": "⚡",
+      "text": "Same-Day Estimates"
+    },
+    {
+      "emoji": "🛡️",
+      "text": "Fully Licensed & Insured"
+    },
+    {
+      "emoji": "💯",
+      "text": "Satisfaction Guaranteed"
+    }
+  ],
+  "services_section": {
+    "label": "OUR SERVICES",
+    "heading": "Complete Landscaping Solutions",
+    "subheading": "From design to installation to maintenance, we handle every aspect of your outdoor transformation"
+  },
+  "services": [
+    {
+      "title": "🌴 Landscape Design & Installation",
+      "description": "Custom landscape designs featuring Florida-friendly plants, palm trees, and tropical gardens that complement Tampa Bay's coastal climate and reduce water usage.",
+      "emoji": "🌴"
+    },
+    {
+      "title": "🌱 Lawn Care & Maintenance",
+      "description": "Weekly mowing, edging, fertilization, and weed control to keep your St. Augustine or Bermuda grass looking pristine in Florida's challenging growing conditions.",
+      "emoji": "🌱"
+    },
+    {
+      "title": "🌺 Flower Bed Design",
+      "description": "Colorful annual and perennial plantings with mulching and seasonal updates to create stunning focal points that bloom beautifully in Tampa's subtropical climate.",
+      "emoji": "🌺"
+    },
+    {
+      "title": "💧 Irrigation Systems",
+      "description": "Efficient sprinkler system installation and repair to ensure proper watering while conserving water and complying with local restrictions.",
+      "emoji": "💧"
+    },
+    {
+      "title": "🌿 Hardscape Installation",
+      "description": "Patios, walkways, retaining walls, and outdoor living spaces using materials that withstand Florida's heat, humidity, and occasional storms.",
+      "emoji": "🌿"
+    }
+  ],
+  "about": {
+    "heading": "Your Tampa Bay Landscaping Specialists",
+    "body": "Based right here in Tampa, we understand the unique challenges of Florida landscaping - from sandy soils to hurricane-force winds to water restrictions. Our team specializes in creating beautiful, sustainable outdoor spaces that thrive in our subtropical climate while adding lasting value to your property."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Tampa Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Maria G.",
+      "location": "South Tampa, FL",
+      "text": "They completely redesigned our front yard with gorgeous native plants and a new irrigation system. The crew finished in just 3 days and it looks amazing even after this summer's heat wave.",
+      "rating": 5
+    },
+    {
+      "name": "James R.",
+      "location": "Westchase, FL",
+      "text": "Been using them for monthly lawn service for over a year. My St. Augustine grass has never looked better and they always show up on schedule, even during rainy season.",
+      "rating": 5
+    },
+    {
+      "name": "Linda C.",
+      "location": "Hyde Park, FL",
+      "text": "Installed a beautiful flower bed with colorful plants that actually survive Florida summers. Great communication throughout the project and stayed within budget.",
+      "rating": 4
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Tampa Bay Communities",
+    "subheading": "Professional landscaping services throughout the greater Tampa area",
+    "areas": [
+      "South Tampa",
+      "Hyde Park",
+      "Westchase",
+      "Carrollwood",
+      "Town 'n' Country",
+      "Brandon",
+      "Riverview",
+      "Plant City"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Transform Your Outdoor Space?",
+    "body": "Get a free estimate for your landscaping project. We'll visit your property and provide detailed recommendations tailored to Tampa's climate.",
+    "cta_primary": "Schedule Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#F4A460",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Nunito Sans"
+  }
+}

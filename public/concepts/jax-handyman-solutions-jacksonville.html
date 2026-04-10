@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Jax Handyman Solutions — Jacksonville, FL</title>
+<meta name="description" content="From leaky faucets to deck repairs, we handle every home project with skill and care. Same-day service available throughout Duval County."/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black:wght@400;500;600;700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet"/>
+<style>
+:root {
+  --primary: #1B4332;
+  --accent: #F77F00;
+  --bg: #FFFFFF;
+  --text: #1A1A2E;
+  --text-on-primary: #ffffff;
+  --text-muted: color-mix(in srgb, #1A1A2E 65%, transparent);
+  --border: color-mix(in srgb, #1A1A2E 10%, transparent);
+  --card-bg: color-mix(in srgb, #1A1A2E 4%, #FFFFFF);
+  --font-heading: 'Archivo Black', sans-serif;
+  --font-body: 'Work Sans', sans-serif;
+}
+
+*, *::before, *::after { margin:0; padding:0; box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body {
+  font-family: var(--font-body);
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── NAV ─────────────────────────────────────── */
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 18px 48px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  backdrop-filter: blur(8px);
+}
+.nav-logo {
+  font-family: var(--font-heading);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--text);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.nav-logo-img {
+  height: 36px;
+  width: auto;
+  object-fit: contain;
+}
+.nav-phone {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--primary);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: opacity 0.2s;
+}
+.nav-phone:hover { opacity: 0.8; }
+
+/* ── HERO ────────────────────────────────────── */
+.hero {
+  padding: 80px 48px 60px;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+.hero-badge {
+  display: inline-block;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--primary);
+  margin-bottom: 24px;
+  letter-spacing: 0.03em;
+}
+.hero h1 {
+  font-family: var(--font-heading);
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  font-weight: 700;
+  line-height: 1.15;
+  margin-bottom: 20px;
+  color: var(--text);
+}
+.hero h1 em {
+  font-style: italic;
+  color: var(--primary);
+}
+.hero-sub {
+  font-size: 1.1rem;
+  color: var(--text-muted);
+  max-width: 580px;
+  margin: 0 auto 36px;
+  line-height: 1.7;
+}
+.hero-ctas {
+  display: flex;
+  gap: 14px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 48px;
+}
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--primary);
+  color: var(--text-on-primary);
+  padding: 14px 32px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px color-mix(in srgb, var(--primary) 30%, transparent);
+}
+.btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: transparent;
+  color: var(--text);
+  padding: 14px 32px;
+  border-radius: 8px;
+  border: 1.5px solid var(--border);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: border-color 0.2s, background 0.2s;
+}
+.btn-secondary:hover {
+  border-color: var(--primary);
+  background: color-mix(in srgb, var(--primary) 6%, transparent);
+}
+
+/* ── TRUST BADGES ────────────────────────────── */
+.trust-badges {
+  display: flex;
+  justify-content: center;
+  gap: 28px;
+  flex-wrap: wrap;
+  padding: 0 48px 64px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+.trust-badge {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--text-muted);
+}
+.trust-badge .emoji {
+  font-size: 1.1rem;
+}
+
+/* ── SECTION LABEL ───────────────────────────── */
+.section-label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--primary);
+  margin-bottom: 12px;
+}
+
+/* ── SERVICES ────────────────────────────────── */
+.services-section {
+  padding: 80px 48px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.services-header {
+  text-align: center;
+  margin-bottom: 52px;
+}
+.services-header h2 {
+  font-family: var(--font-heading);
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 14px;
+}
+.services-header p {
+  color: var(--text-muted);
+  max-width: 560px;
+  margin: 0 auto;
+  font-size: 1.02rem;
+}
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 24px;
+}
+.service-card {
+  padding: 32px;
+  border-radius: 14px;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.service-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 32px color-mix(in srgb, var(--primary) 10%, transparent);
+}
+.service-emoji {
+  font-size: 2rem;
+  margin-bottom: 16px;
+  display: block;
+}
+.service-card h3 {
+  font-family: var(--font-heading);
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+.service-card p {
+  font-size: 0.92rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+
+/* ── REVIEWS ─────────────────────────────────── */
+.reviews-section {
+  padding: 80px 48px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.reviews-header {
+  text-align: center;
+  margin-bottom: 52px;
+}
+.reviews-header h2 {
+  font-family: var(--font-heading);
+  font-size: 2rem;
+  font-weight: 700;
+}
+.reviews-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 24px;
+}
+.review-card {
+  padding: 32px;
+  border-radius: 14px;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+}
+.review-stars {
+  color: var(--accent);
+  font-size: 1.05rem;
+  letter-spacing: 2px;
+  margin-bottom: 16px;
+}
+.review-text {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  line-height: 1.7;
+  margin-bottom: 20px;
+  font-style: italic;
+}
+.review-author {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.review-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--primary);
+  color: var(--text-on-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.95rem;
+  flex-shrink: 0;
+}
+.review-name {
+  font-weight: 600;
+  font-size: 0.92rem;
+}
+.review-location {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+
+/* ── SERVICE AREAS ───────────────────────────── */
+.areas-section {
+  padding: 80px 48px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.areas-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+.areas-header h2 {
+  font-family: var(--font-heading);
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 14px;
+}
+.areas-header p {
+  color: var(--text-muted);
+  max-width: 560px;
+  margin: 0 auto;
+  font-size: 1.02rem;
+}
+.areas-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 14px;
+}
+.area-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 20px;
+  border-radius: 100px;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+.area-pill::before {
+  content: "📍";
+  font-size: 0.85rem;
+}
+
+/* ── CTA BANNER ──────────────────────────────── */
+.cta-section {
+  padding: 0 48px;
+  max-width: 1100px;
+  margin: 0 auto 80px;
+}
+.cta-banner {
+  padding: 64px 48px;
+  border-radius: 20px;
+  background: var(--primary);
+  color: var(--text-on-primary);
+  text-align: center;
+}
+.cta-banner h2 {
+  font-family: var(--font-heading);
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 14px;
+}
+.cta-banner p {
+  font-size: 1.02rem;
+  opacity: 0.9;
+  max-width: 500px;
+  margin: 0 auto 32px;
+}
+.cta-banner .cta-buttons {
+  display: flex;
+  gap: 14px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.btn-on-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--bg);
+  color: var(--text);
+  padding: 14px 32px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: transform 0.2s;
+}
+.btn-on-primary:hover { transform: translateY(-2px); }
+.btn-outline-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: transparent;
+  color: var(--text-on-primary);
+  padding: 14px 32px;
+  border-radius: 8px;
+  border: 1.5px solid color-mix(in srgb, var(--text-on-primary) 40%, transparent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: background 0.2s;
+}
+.btn-outline-primary:hover {
+  background: color-mix(in srgb, var(--text-on-primary) 10%, transparent);
+}
+
+/* ── FOOTER ──────────────────────────────────── */
+.footer {
+  border-top: 1px solid var(--border);
+  padding: 48px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.footer-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 32px;
+  margin-bottom: 32px;
+}
+.footer-brand {
+  max-width: 280px;
+}
+.footer-brand-name {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 1.15rem;
+  margin-bottom: 6px;
+}
+.footer-tagline {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+}
+.footer-links {
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+.footer-links a {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+.footer-links a:hover { color: var(--primary); }
+.footer-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding-top: 24px;
+  border-top: 1px solid var(--border);
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+.gambit-badge a {
+  color: var(--text-muted);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.gambit-badge a:hover { color: var(--primary); }
+
+/* ── RESPONSIVE ──────────────────────────────── */
+@media (max-width: 768px) {
+  .nav { padding: 16px 24px; }
+  .hero { padding: 60px 24px 40px; }
+  .trust-badges { padding: 0 24px 48px; gap: 16px; }
+  .services-section,
+  .reviews-section,
+  .areas-section { padding: 60px 24px; }
+  .cta-section { padding: 0 24px; }
+  .cta-banner { padding: 48px 28px; }
+  .footer { padding: 36px 24px; }
+  .footer-inner { flex-direction: column; }
+  .services-grid,
+  .reviews-grid { grid-template-columns: 1fr; }
+}
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="nav">
+  <a href="#" class="nav-logo">Jax Handyman Solutions</a>
+  <a href="tel:9045550147" class="nav-phone">📞 (904) 555-0147</a>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-badge">🔧 Serving Jacksonville, FL & Surrounding Areas</div>
+  <h1><em>One Call Fixes It All</em> — Jacksonville's Most Reliable Handyman</h1>
+  <p class="hero-sub">From leaky faucets to deck repairs, we handle every home project with skill and care. Same-day service available throughout Duval County.</p>
+  <div class="hero-ctas">
+    <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Jax%20Handyman%20Solutions" class="btn-primary">Get Free Estimate</a>
+    <a href="tel:9045550147" class="btn-secondary">Call Now</a>
+  </div>
+</section>
+
+<!-- TRUST BADGES -->
+<div class="trust-badges">
+  <div class="trust-badge"><span class="emoji">🔧</span> 20+ Years Experience</div>
+  <div class="trust-badge"><span class="emoji">✅</span> Licensed &amp; Insured</div>
+  <div class="trust-badge"><span class="emoji">⚡</span> Same-Day Service</div>
+  <div class="trust-badge"><span class="emoji">💯</span> Satisfaction Guaranteed</div>
+</div>
+
+<!-- SERVICES -->
+<section class="services-section">
+  <div class="services-header">
+    <div class="section-label">WHAT WE FIX</div>
+    <h2>Complete Home Repair Services</h2>
+    <p>No job too big or small — we're your go-to team for reliable home improvements</p>
+  </div>
+  <div class="services-grid">
+    <div class="service-card">
+      <span class="service-emoji">🚰</span>
+      <h3>Plumbing Repairs</h3>
+      <p>Fix leaky faucets, running toilets, clogged drains, and pipe repairs. Emergency plumbing calls welcome — we'll get your water flowing right.</p>
+    </div>
+    <div class="service-card">
+      <span class="service-emoji">💡</span>
+      <h3>Electrical Work</h3>
+      <p>Outlet installation, ceiling fan mounting, light fixture replacement, and switch repairs. All work meets Florida electrical codes.</p>
+    </div>
+    <div class="service-card">
+      <span class="service-emoji">🎨</span>
+      <h3>Drywall &amp; Painting</h3>
+      <p>Patch holes, texture matching, interior painting, and wall repairs. We'll make those dings and scratches disappear completely.</p>
+    </div>
+    <div class="service-card">
+      <span class="service-emoji">🏡</span>
+      <h3>Deck &amp; Fence Repairs</h3>
+      <p>Loose boards, broken rails, gate adjustments, and weatherproofing. Keep your outdoor spaces safe and looking great year-round.</p>
+    </div>
+    <div class="service-card">
+      <span class="service-emoji">🚪</span>
+      <h3>Door &amp; Window Service</h3>
+      <p>Squeaky hinges, sticky locks, weather stripping, and frame adjustments. Improve security and energy efficiency with proper repairs.</p>
+    </div>
+    <div class="service-card">
+      <span class="service-emoji">🔨</span>
+      <h3>Kitchen &amp; Bath Updates</h3>
+      <p>Cabinet hardware, countertop repairs, tile work, and fixture upgrades. Transform your space without the full renovation cost.</p>
+    </div>
+  </div>
+</section>
+
+<!-- REVIEWS -->
+<section class="reviews-section">
+  <div class="reviews-header">
+    <div class="section-label">REAL CUSTOMERS</div>
+    <h2>What Jacksonville Homeowners Say</h2>
+  </div>
+  <div class="reviews-grid">
+    <div class="review-card">
+      <div class="review-stars">★★★★★</div>
+      <div class="review-text">"Called Tuesday morning about a bathroom faucet that wouldn't shut off completely. Jake came out same day, had the right parts in his truck, and fixed it in 20 minutes. Saved me from a plumber's weekend emergency rate!"</div>
+      <div class="review-author">
+        <div class="review-avatar">M</div>
+        <div>
+          <div class="review-name">Maria T.</div>
+          <div class="review-location">Riverside, FL</div>
+        </div>
+      </div>
+    </div>
+    <div class="review-card">
+      <div class="review-stars">★★★★★</div>
+      <div class="review-text">"Needed three ceiling fans installed before a family gathering. Jax Handyman fit me in on short notice, arrived exactly on time, and all three fans work perfectly. Very reasonable price too."</div>
+      <div class="review-author">
+        <div class="review-avatar">R</div>
+        <div>
+          <div class="review-name">Robert K.</div>
+          <div class="review-location">Mandarin, FL</div>
+        </div>
+      </div>
+    </div>
+    <div class="review-card">
+      <div class="review-stars">★★★★☆</div>
+      <div class="review-text">"Had a deck board that was rotting and worried about safety with kids. They replaced the board, checked the whole deck structure, and gave me a full report. Professional and thorough work."</div>
+      <div class="review-author">
+        <div class="review-avatar">J</div>
+        <div>
+          <div class="review-name">Jennifer M.</div>
+          <div class="review-location">San Marco, FL</div>
+        </div>
+      </div>
+    </div>
+    <div class="review-card">
+      <div class="review-stars">★★★★★</div>
+      <div class="review-text">"Kitchen cabinet door kept falling off the hinges. Previous repair guy couldn't figure it out. Jake diagnosed the problem immediately and reinforced the whole cabinet. It's been solid for 8 months now."</div>
+      <div class="review-author">
+        <div class="review-avatar">D</div>
+        <div>
+          <div class="review-name">David L.</div>
+          <div class="review-location">Atlantic Beach, FL</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SERVICE AREAS -->
+<section class="areas-section">
+  <div class="areas-header">
+    <div class="section-label">SERVICE AREAS</div>
+    <h2>We Serve All of Jacksonville</h2>
+    <p>Fast, reliable handyman services throughout Duval County and surrounding areas</p>
+  </div>
+  <div class="areas-grid">
+    <span class="area-pill">Riverside</span>
+    <span class="area-pill">San Marco</span>
+    <span class="area-pill">Mandarin</span>
+    <span class="area-pill">Orange Park</span>
+    <span class="area-pill">Atlantic Beach</span>
+    <span class="area-pill">Neptune Beach</span>
+    <span class="area-pill">Ponte Vedra Beach</span>
+    <span class="area-pill">Fernandina Beach</span>
+    <span class="area-pill">Middleburg</span>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta-section">
+  <div class="cta-banner">
+    <h2>Ready to Cross That Project Off Your List?</h2>
+    <p>Don't let small repairs turn into big problems. Call Jax Handyman Solutions today for fast, professional service throughout Jacksonville.</p>
+    <div class="cta-buttons">
+      <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Jax%20Handyman%20Solutions" class="btn-on-primary">Schedule Service</a>
+      <a href="tel:9045550147" class="btn-outline-primary">(904) 555-0147</a>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="footer-brand-name">Jax Handyman Solutions</div>
+      <div class="footer-tagline">Your Home. Our Expertise. Problem Solved.</div>
+    </div>
+    <div class="footer-links">
+      <a href="#">Home</a>
+      <a href="#">Services</a>
+      <a href="#">Service Areas</a>
+      <a href="tel:9045550147">(904) 555-0147</a>
+      <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Jax%20Handyman%20Solutions">Contact</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>&copy; 2026 Jax Handyman Solutions. All rights reserved.</span>
+    <span class="gambit-badge">✨ Concept mockup by <a href="https://gambitbuilds.com" target="_blank">Gambit Builds</a></span>
+  </div>
+</footer>
+
+</body>
+</html>

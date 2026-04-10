@@ -1,0 +1,125 @@
+{
+  "business": {
+    "name": "Tennessee Roots Landscape Design and Installation, LLC",
+    "phone": "(865) 555-0142",
+    "email": "tennesseerootslandscape@outlook.com",
+    "city": "Knoxville",
+    "state": "TN",
+    "industry": "landscaper",
+    "tagline": "Deep roots. Beautiful results.",
+    "logo_url": ""
+  },
+  "hero": {
+    "headline": "*Transform Your Outdoor Space* with Tennessee Native Landscaping",
+    "subheadline": "Custom landscape design and installation using plants that thrive in East Tennessee's climate. Professional results that last.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "emoji": "🌱",
+      "text": "Native Plant Specialists"
+    },
+    {
+      "emoji": "✅",
+      "text": "Licensed & Insured"
+    },
+    {
+      "emoji": "🏆",
+      "text": "10+ Years Experience"
+    },
+    {
+      "emoji": "💚",
+      "text": "Eco-Friendly Methods"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete Landscape Solutions",
+    "subheading": "From design to installation, we handle every aspect of your outdoor transformation"
+  },
+  "services": [
+    {
+      "title": "Custom Landscape Design",
+      "description": "Personalized landscape plans featuring native Tennessee plants, hardscaping, and sustainable design principles tailored to your property and lifestyle.",
+      "emoji": "📐"
+    },
+    {
+      "title": "Native Plant Installation",
+      "description": "Professional installation of trees, shrubs, and perennials that are perfectly suited to East Tennessee's soil and climate conditions.",
+      "emoji": "🌿"
+    },
+    {
+      "title": "Hardscape Installation",
+      "description": "Stone patios, retaining walls, walkways, and outdoor living spaces built with quality materials and expert craftsmanship.",
+      "emoji": "🪨"
+    },
+    {
+      "title": "Garden Bed Creation",
+      "description": "Beautiful flower beds and planting areas designed for year-round interest using drought-tolerant native species and proper soil preparation.",
+      "emoji": "🌸"
+    },
+    {
+      "title": "Drainage Solutions",
+      "description": "French drains, rain gardens, and grading solutions to protect your landscape investment and prevent water damage to your property.",
+      "emoji": "💧"
+    }
+  ],
+  "about": {
+    "heading": "Rooted in East Tennessee Excellence",
+    "body": "Tennessee Roots brings over a decade of landscaping expertise to the greater Knoxville area. We specialize in sustainable landscape design using native plants that thrive in our unique climate. Our team understands East Tennessee's soil conditions, weather patterns, and local ecosystems."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Our Clients Say"
+  },
+  "reviews": [
+    {
+      "name": "Sarah M.",
+      "location": "Farragut, TN",
+      "text": "They transformed our sloped backyard into a beautiful terraced garden with native plants. The drainage issues we had for years are completely solved. Project took 3 weeks and they cleaned up perfectly each day.",
+      "rating": 5
+    },
+    {
+      "name": "David K.",
+      "location": "Oak Ridge, TN",
+      "text": "Tennessee Roots designed our front landscape with gorgeous native wildflowers and a stone walkway. Gets compliments from neighbors constantly. Plants are thriving after 18 months with minimal watering needed.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer L.",
+      "location": "Maryville, TN",
+      "text": "Professional crew installed our patio and surrounding plantings last spring. They recommended plants that bloom at different times so we have color all season. Very knowledgeable about what works here.",
+      "rating": 4
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Serving Greater Knoxville",
+    "subheading": "Professional landscape services throughout East Tennessee",
+    "areas": [
+      "Farragut",
+      "Oak Ridge",
+      "Maryville",
+      "Powell",
+      "Lenoir City",
+      "Alcoa",
+      "Seymour",
+      "Clinton"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Transform Your Landscape?",
+    "body": "Get a free consultation and custom design plan for your property. We'll show you how native Tennessee plants can create a beautiful, low-maintenance outdoor space.",
+    "cta_primary": "Schedule Consultation",
+    "cta_secondary": "Call (865) 555-0142"
+  },
+  "design": {
+    "primary_color": "#2D5016",
+    "accent_color": "#8B4513",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans"
+  }
+}

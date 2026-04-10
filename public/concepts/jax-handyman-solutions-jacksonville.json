@@ -1,0 +1,137 @@
+{
+  "business": {
+    "name": "Jax Handyman Solutions",
+    "phone": "(904) 555-0147",
+    "email": "jaxhs904@gmail.com",
+    "city": "Jacksonville",
+    "state": "FL",
+    "industry": "handyman",
+    "tagline": "Your Home. Our Expertise. Problem Solved.",
+    "logo_url": ""
+  },
+  "hero": {
+    "headline": "*One Call Fixes It All* — Jacksonville's Most Reliable Handyman",
+    "subheadline": "From leaky faucets to deck repairs, we handle every home project with skill and care. Same-day service available throughout Duval County.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "🔧",
+      "text": "20+ Years Experience"
+    },
+    {
+      "emoji": "✅",
+      "text": "Licensed & Insured"
+    },
+    {
+      "emoji": "⚡",
+      "text": "Same-Day Service"
+    },
+    {
+      "emoji": "💯",
+      "text": "Satisfaction Guaranteed"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Complete Home Repair Services",
+    "subheading": "No job too big or small — we're your go-to team for reliable home improvements"
+  },
+  "services": [
+    {
+      "title": "Plumbing Repairs",
+      "description": "Fix leaky faucets, running toilets, clogged drains, and pipe repairs. Emergency plumbing calls welcome — we'll get your water flowing right.",
+      "emoji": "🚰"
+    },
+    {
+      "title": "Electrical Work",
+      "description": "Outlet installation, ceiling fan mounting, light fixture replacement, and switch repairs. All work meets Florida electrical codes.",
+      "emoji": "💡"
+    },
+    {
+      "title": "Drywall & Painting",
+      "description": "Patch holes, texture matching, interior painting, and wall repairs. We'll make those dings and scratches disappear completely.",
+      "emoji": "🎨"
+    },
+    {
+      "title": "Deck & Fence Repairs",
+      "description": "Loose boards, broken rails, gate adjustments, and weatherproofing. Keep your outdoor spaces safe and looking great year-round.",
+      "emoji": "🏡"
+    },
+    {
+      "title": "Door & Window Service",
+      "description": "Squeaky hinges, sticky locks, weather stripping, and frame adjustments. Improve security and energy efficiency with proper repairs.",
+      "emoji": "🚪"
+    },
+    {
+      "title": "Kitchen & Bath Updates",
+      "description": "Cabinet hardware, countertop repairs, tile work, and fixture upgrades. Transform your space without the full renovation cost.",
+      "emoji": "🔨"
+    }
+  ],
+  "about": {
+    "heading": "Jacksonville's Trusted Repair Experts Since 2003",
+    "body": "As a born-and-raised Jacksonville resident, I understand Florida homes inside and out. From Riverside's historic charm to Mandarin's modern builds, every neighborhood has unique repair needs. We've fixed thousands of homes across Duval County, building lasting relationships one project at a time."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Jacksonville Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Maria T.",
+      "location": "Riverside, FL",
+      "text": "Called Tuesday morning about a bathroom faucet that wouldn't shut off completely. Jake came out same day, had the right parts in his truck, and fixed it in 20 minutes. Saved me from a plumber's weekend emergency rate!",
+      "rating": 5
+    },
+    {
+      "name": "Robert K.",
+      "location": "Mandarin, FL",
+      "text": "Needed three ceiling fans installed before a family gathering. Jax Handyman fit me in on short notice, arrived exactly on time, and all three fans work perfectly. Very reasonable price too.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer M.",
+      "location": "San Marco, FL",
+      "text": "Had a deck board that was rotting and worried about safety with kids. They replaced the board, checked the whole deck structure, and gave me a full report. Professional and thorough work.",
+      "rating": 4
+    },
+    {
+      "name": "David L.",
+      "location": "Atlantic Beach, FL",
+      "text": "Kitchen cabinet door kept falling off the hinges. Previous repair guy couldn't figure it out. Jake diagnosed the problem immediately and reinforced the whole cabinet. It's been solid for 8 months now.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE AREAS",
+    "heading": "We Serve All of Jacksonville",
+    "subheading": "Fast, reliable handyman services throughout Duval County and surrounding areas",
+    "areas": [
+      "Riverside",
+      "San Marco",
+      "Mandarin",
+      "Orange Park",
+      "Atlantic Beach",
+      "Neptune Beach",
+      "Ponte Vedra Beach",
+      "Fernandina Beach",
+      "Middleburg"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Cross That Project Off Your List?",
+    "body": "Don't let small repairs turn into big problems. Call Jax Handyman Solutions today for fast, professional service throughout Jacksonville.",
+    "cta_primary": "Schedule Service",
+    "cta_secondary": "(904) 555-0147"
+  },
+  "design": {
+    "primary_color": "#1B4332",
+    "accent_color": "#F77F00",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans"
+  }
+}

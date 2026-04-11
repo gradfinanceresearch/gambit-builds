@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Gocojohe HVAC Solutions Charleston",
+    "phone": "(843) 555-0147",
+    "email": "ramij.w.ork.pla.c.e@gmail.com",
+    "city": "Charleston",
+    "state": "SC",
+    "industry": "HVAC",
+    "tagline": "Charleston's Climate Control Experts",
+    "logo_url": ""
+  },
+  "hero": {
+    "headline": "Charleston's *Reliable* HVAC Repair & Installation Specialists",
+    "subheadline": "Emergency service, expert technicians, and honest pricing for all your heating and cooling needs in the Lowcountry.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "🔧",
+      "text": "Licensed & Insured"
+    },
+    {
+      "emoji": "⚡",
+      "text": "24/7 Emergency Service"
+    },
+    {
+      "emoji": "💰",
+      "text": "Upfront Pricing"
+    },
+    {
+      "emoji": "⭐",
+      "text": "10+ Years Experience"
+    }
+  ],
+  "services_section": {
+    "label": "OUR SERVICES",
+    "heading": "Complete HVAC Solutions",
+    "subheading": "From emergency repairs to new installations, we handle all your heating and cooling needs"
+  },
+  "services": [
+    {
+      "title": "AC Repair & Service",
+      "description": "Fast diagnosis and repair of air conditioning units. We service all major brands and handle everything from refrigerant leaks to compressor replacements.",
+      "emoji": "❄️"
+    },
+    {
+      "title": "Heating System Repair",
+      "description": "Expert repair of furnaces, heat pumps, and boilers. Quick response times to keep your family warm during Charleston's cooler months.",
+      "emoji": "🔥"
+    },
+    {
+      "title": "HVAC Installation",
+      "description": "Professional installation of new heating and cooling systems. We help you choose the right equipment for your home's size and budget.",
+      "emoji": "🏠"
+    },
+    {
+      "title": "Duct Cleaning & Repair",
+      "description": "Improve your indoor air quality with professional duct cleaning and repair services. Reduce allergens and increase system efficiency.",
+      "emoji": "🌪️"
+    },
+    {
+      "title": "Preventive Maintenance",
+      "description": "Regular tune-ups to prevent breakdowns and extend equipment life. Seasonal maintenance plans available to keep your system running smoothly.",
+      "emoji": "🛠️"
+    }
+  ],
+  "about": {
+    "heading": "Serving Charleston with Honest HVAC Service",
+    "body": "Gocojohe HVAC Solutions has been keeping Charleston families comfortable for over a decade. Our certified technicians provide reliable repairs, quality installations, and honest advice. We understand the unique climate challenges of the Lowcountry and deliver solutions that last."
+  },
+  "reviews_section": {
+    "label": "CUSTOMER REVIEWS",
+    "heading": "What Charleston Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Sarah M.",
+      "location": "Charleston, SC",
+      "text": "My AC went out on a 95-degree day and they had someone here within 2 hours. Fixed the issue with the capacitor quickly and didn't try to oversell me on anything else. Very honest pricing.",
+      "rating": 5
+    },
+    {
+      "name": "Mike T.",
+      "location": "Mount Pleasant, SC",
+      "text": "Installed a new heat pump system last month. The crew was professional, cleaned up everything, and explained how to maintain it properly. System is running great so far.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer L.",
+      "location": "North Charleston, SC",
+      "text": "Called them for a heating issue in February. Technician diagnosed a faulty thermostat and had it replaced same day. Fair price and excellent service.",
+      "rating": 4
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE AREAS",
+    "heading": "Proudly Serving the Charleston Area",
+    "subheading": "Fast, reliable HVAC service throughout the Lowcountry",
+    "areas": [
+      "Charleston",
+      "Mount Pleasant",
+      "North Charleston",
+      "Summerville",
+      "Goose Creek",
+      "Hanahan",
+      "Daniel Island",
+      "Johns Island",
+      "James Island",
+      "Folly Beach"
+    ]
+  },
+  "cta": {
+    "heading": "Need HVAC Service Today?",
+    "body": "Don't wait for your heating or cooling problem to get worse. Our certified technicians are ready to help with fast, honest service.",
+    "cta_primary": "Schedule Service",
+    "cta_secondary": "Call (843) 555-0147"
+  },
+  "design": {
+    "primary_color": "#1E3A8A",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "business": {
+    "name": "Virginia Electrical Contractors",
+    "phone": "",
+    "email": "voltaelectricva@gmail.com",
+    "city": "Richmond",
+    "state": "VA",
+    "industry": "electrician",
+    "tagline": "Richmond's reliable electrical solutions",
+    "logo_url": ""
+  },
+  "hero": {
+    "headline": "*Professional Electrical Services* in Richmond, VA",
+    "subheadline": "From residential wiring to commercial installations, we deliver safe and reliable electrical solutions for your property.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "emoji": "⚡",
+      "text": "Licensed Electricians"
+    },
+    {
+      "emoji": "🛡️",
+      "text": "Fully Insured"
+    },
+    {
+      "emoji": "📞",
+      "text": "Free Estimates"
+    },
+    {
+      "emoji": "✅",
+      "text": "Code Compliant"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete Electrical Services",
+    "subheading": "Professional electrical solutions for residential and commercial properties"
+  },
+  "services": [
+    {
+      "title": "Residential Wiring",
+      "description": "Complete home wiring services including new installations, upgrades, and repairs to keep your home safe and up to code.",
+      "emoji": "🏠"
+    },
+    {
+      "title": "Commercial Electrical",
+      "description": "Professional electrical installations and maintenance for offices, retail spaces, and commercial buildings.",
+      "emoji": "🏢"
+    },
+    {
+      "title": "Electrical Repairs",
+      "description": "Quick and reliable electrical repair services to restore power and ensure your electrical systems work properly.",
+      "emoji": "🔧"
+    },
+    {
+      "title": "Panel Upgrades",
+      "description": "Electrical panel upgrades and replacements to meet modern power demands and improve safety.",
+      "emoji": "⚡"
+    }
+  ],
+  "about": {
+    "heading": "Trusted Electrical Contractors in Richmond",
+    "body": "Virginia Electrical Contractors provides professional electrical services throughout the Richmond area. Our licensed electricians are committed to delivering safe, reliable, and code-compliant electrical solutions for both residential and commercial properties. We take pride in our workmanship and customer service."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Our Clients Say"
+  },
+  "reviews": [
+    {
+      "name": "Michael Chen",
+      "location": "Richmond, VA",
+      "text": "Had Virginia Electrical Contractors upgrade our electrical panel and install new outlets in our kitchen. The team was professional, cleaned up after themselves, and completed everything on schedule. Fair pricing and quality work - would definitely use them again.",
+      "rating": 5
+    },
+    {
+      "name": "Sarah Williams",
+      "location": "Henrico, VA",
+      "text": "Called them for an emergency electrical issue on a Sunday evening and they actually responded! Fixed our power outage quickly and explained what had happened. Really appreciated their prompt service when we needed it most.",
+      "rating": 5
+    },
+    {
+      "name": "Robert Martinez",
+      "location": "Glen Allen, VA",
+      "text": "Excellent work installing recessed lighting throughout our home. They were upfront about costs, arrived on time each day, and the finished product looks fantastic. Highly recommend for any electrical work in the Richmond area.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Serving Richmond & Surrounding Areas",
+    "subheading": "Professional electrical services throughout Central Virginia",
+    "areas": [
+      "Richmond",
+      "Henrico",
+      "Chesterfield",
+      "Glen Allen",
+      "Mechanicsville",
+      "Midlothian",
+      "Short Pump",
+      "Bon Air"
+    ]
+  },
+  "cta": {
+    "heading": "Need Electrical Work? Get Your Free Estimate Today",
+    "body": "Contact Virginia Electrical Contractors for professional electrical services. Licensed, insured, and committed to quality workmanship.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Email Us"
+  },
+  "design": {
+    "primary_color": "#1B365D",
+    "accent_color": "#FFB020",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans"
+  }
+}

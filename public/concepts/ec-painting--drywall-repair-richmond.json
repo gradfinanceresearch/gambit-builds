@@ -1,0 +1,115 @@
+{
+  "business": {
+    "name": "E.C. Painting / Drywall Repair",
+    "phone": "",
+    "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+    "city": "Richmond",
+    "state": "VA",
+    "industry": "painter",
+    "tagline": "Quality painting and drywall repair for Richmond homes",
+    "logo_url": ""
+  },
+  "hero": {
+    "headline": "*Professional Painting & Drywall* Solutions in Richmond",
+    "subheadline": "Transform your home with expert craftsmanship and reliable service you can count on",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "emoji": "🎨",
+      "text": "Expert Craftsmanship"
+    },
+    {
+      "emoji": "✅",
+      "text": "Quality Guaranteed"
+    },
+    {
+      "emoji": "📞",
+      "text": "Free Estimates"
+    },
+    {
+      "emoji": "🏠",
+      "text": "Residential Specialists"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete Painting & Drywall Services",
+    "subheading": "Professional solutions for all your interior and exterior painting needs"
+  },
+  "services": [
+    {
+      "title": "Interior Painting",
+      "description": "Transform your living spaces with professional interior painting services that bring new life to every room in your home.",
+      "emoji": "🏠"
+    },
+    {
+      "title": "Exterior Painting",
+      "description": "Protect and beautify your home's exterior with weather-resistant paints and expert application techniques.",
+      "emoji": "🏡"
+    },
+    {
+      "title": "Drywall Repair",
+      "description": "Expert drywall repair services to fix holes, cracks, and damage, preparing surfaces for flawless painting results.",
+      "emoji": "🔧"
+    }
+  ],
+  "about": {
+    "heading": "Serving Richmond with Pride",
+    "body": "E.C. Painting / Drywall Repair brings professional painting and repair services to homeowners throughout Richmond and surrounding areas. We're committed to delivering quality workmanship that enhances your home's beauty and value. From single rooms to complete home makeovers, we handle every project with care and attention to detail."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Our Customers Say"
+  },
+  "reviews": [
+    {
+      "name": "Sarah Mitchell",
+      "location": "Richmond, VA",
+      "text": "E.C. Painting transformed our living room and kitchen. The crew was professional, punctual, and left everything spotless. The drywall repair work was seamless - you can't even tell where the old holes were. Highly recommend for quality work at fair prices.",
+      "rating": 5
+    },
+    {
+      "name": "Mike Rodriguez",
+      "location": "Midlothian, VA",
+      "text": "Had E.C. Painting handle both interior painting and some drywall repair after a small water leak. They matched the existing texture perfectly and the paint job looks fantastic. Great communication throughout the project.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer Park",
+      "location": "Glen Allen, VA",
+      "text": "Used E.C. Painting for our home office renovation. They repaired several nail holes and cracks in the walls before painting. The attention to detail was impressive and the final result exceeded our expectations.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "We Serve Richmond & Beyond",
+    "subheading": "Professional painting services throughout the greater Richmond area",
+    "areas": [
+      "Richmond",
+      "Henrico",
+      "Chesterfield",
+      "Glen Allen",
+      "Short Pump",
+      "Mechanicsville",
+      "Midlothian",
+      "Chester"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Transform Your Home?",
+    "body": "Contact E.C. Painting / Drywall Repair today for your free estimate and discover the difference professional service makes.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Email Us"
+  },
+  "design": {
+    "primary_color": "#2D5AA0",
+    "accent_color": "#FFB347",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Nunito Sans"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "business": {
+    "name": "Tan the Handyman, LLC",
+    "phone": "",
+    "email": "wellmaintainedrva@gmail.com",
+    "city": "Richmond",
+    "state": "VA",
+    "industry": "handyman",
+    "tagline": "Your Richmond Home Repair Partner",
+    "logo_url": ""
+  },
+  "hero": {
+    "headline": "*Expert Handyman Services* in Richmond, VA",
+    "subheadline": "From small fixes to major repairs, we handle every home improvement project with skill and reliability you can count on.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "emoji": "🔧",
+      "text": "Professional Repairs"
+    },
+    {
+      "emoji": "⚡",
+      "text": "Quick Response"
+    },
+    {
+      "emoji": "💯",
+      "text": "Quality Guaranteed"
+    },
+    {
+      "emoji": "📋",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete Home Repair Solutions",
+    "subheading": "Professional handyman services for all your home improvement needs"
+  },
+  "services": [
+    {
+      "title": "General Repairs",
+      "description": "From leaky faucets to squeaky doors, we fix the small problems before they become big headaches for Richmond homeowners.",
+      "emoji": "🔨"
+    },
+    {
+      "title": "Home Maintenance",
+      "description": "Regular upkeep and preventive maintenance to keep your home in excellent condition year-round.",
+      "emoji": "🏠"
+    },
+    {
+      "title": "Minor Renovations",
+      "description": "Small-scale improvement projects that enhance your home's functionality and appearance.",
+      "emoji": "🔧"
+    }
+  ],
+  "about": {
+    "heading": "Reliable Handyman Services in Richmond",
+    "body": "Tan the Handyman, LLC provides professional home repair and maintenance services throughout Richmond, Virginia. We understand that your home is your biggest investment, and we're committed to helping you maintain it properly. Our experienced team tackles projects both big and small with attention to detail and fair pricing."
+  },
+  "reviews_section": {
+    "label": "REAL CUSTOMERS",
+    "heading": "What Richmond Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Sarah M.",
+      "location": "Fan District, Richmond",
+      "text": "Tan was incredibly reliable and did excellent work fixing our kitchen cabinets and installing new shelving. He showed up on time, cleaned up after himself, and his prices were very fair. Will definitely call him again for future projects!",
+      "rating": 5
+    },
+    {
+      "name": "Mike R.",
+      "location": "Forest Hill, Richmond",
+      "text": "Had Tan repair some drywall damage and paint our guest bathroom. Professional work, attention to detail, and he even helped us pick the right paint color. Great communication throughout the entire process.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer L.",
+      "location": "Northside, Richmond",
+      "text": "Tan helped us with multiple small repairs around our older home - fixing squeaky doors, replacing outlets, and patching holes. He's honest, skilled, and reasonably priced. Highly recommend for any handyman needs!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE",
+    "heading": "Serving Richmond & Surrounding Areas",
+    "subheading": "Professional handyman services throughout Central Virginia",
+    "areas": [
+      "Richmond",
+      "Henrico",
+      "Chesterfield",
+      "Glen Allen",
+      "Short Pump",
+      "Midlothian",
+      "Mechanicsville",
+      "Bon Air"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fix That Project?",
+    "body": "Don't let small repairs turn into big problems. Contact Tan the Handyman, LLC today for reliable service and fair pricing.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Email Us"
+  },
+  "design": {
+    "primary_color": "#2B5A31",
+    "accent_color": "#F4A261",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Nunito Sans"
+  }
+}

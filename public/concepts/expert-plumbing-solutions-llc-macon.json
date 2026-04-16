@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Expert Plumbing Solutions LLC",
+    "phone": "(478) 407-4014",
+    "email": "",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "plumber",
+    "tagline": "",
+    "logo_url": "",
+    "google_rating": "4.4 stars (25 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When Macon pipes quit, *we answer the phone*",
+    "subheadline": "Emergency calls, weekend breaks, holiday disasters — we show up when others don't. Ask anyone who's called us at midnight.",
+    "cta_primary": "Get Emergency Help",
+    "cta_secondary": "Call (478) 407-4014"
+  },
+  "trust_badges": [
+    {
+      "icon": "clock",
+      "text": "Emergency Response 24/7"
+    },
+    {
+      "icon": "phone",
+      "text": "Actually Answer When You Call"
+    },
+    {
+      "icon": "star",
+      "text": "4.4 Stars from Real Customers"
+    },
+    {
+      "icon": "shield",
+      "text": "12 Month Work Guarantee"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIXES",
+    "heading": "Every pipe problem, handled right",
+    "subheading": "From clogged drains to full property line replacements — we do the work that actually lasts"
+  },
+  "services": [
+    {
+      "title": "Emergency Drain Cleaning",
+      "description": "Completely blocked drain? We clear it fast, no matter what time you call. Most clogs handled same visit.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Pipe Replacement & Repairs",
+      "description": "Cast iron to PVC conversions, broken pipes under houses, full property line work. Done ahead of schedule.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Leak Detection & Fixes",
+      "description": "Find and fix leaks before they flood your home. Small sink drips to major breaks — all handled professionally.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Bathroom Plumbing Overhauls",
+      "description": "Complete bathroom remodel plumbing. New fixtures, updated lines, code-compliant work that passes inspection.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Michael Waters and the Expert team",
+    "body": "We're the plumbers Macon calls when everyone else is booked or no-shows. Been handling emergency calls, weekend breaks, and full property plumbing jobs across Middle Georgia. When your water's off and you need it fixed right, we're who you want coming to your door."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Tiffany S.",
+      "location": "Macon, GA",
+      "text": "Came within an hour for drain cleaning, then replaced all our property pipes at an amazing price — finished 2 days early!",
+      "rating": 5
+    },
+    {
+      "name": "Justin A.",
+      "location": "Macon, GA",
+      "text": "Michael unclogged our drain, replaced cast iron with PVC, and fixed a sink leak for free. Stayed late until everything was done right.",
+      "rating": 5
+    },
+    {
+      "name": "Janet E.",
+      "location": "Macon, GA",
+      "text": "Pipe broke under our house — Michael was here in an hour. Professional, polite, and had us running again fast.",
+      "rating": 5
+    },
+    {
+      "name": "Myderia B.",
+      "location": "Macon, GA",
+      "text": "After 5 plumbers no-showed on Easter weekend, Expert Plumbing came right out. They're absolutely the best in town.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Middle Georgia",
+    "subheading": "Emergency response throughout Bibb County and surrounding areas",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Centerville",
+      "Byron",
+      "Perry",
+      "Kathleen",
+      "Bonaire",
+      "Gray"
+    ]
+  },
+  "cta": {
+    "heading": "Pipe emergency? We're already on the way",
+    "body": "Don't wait for other plumbers to call back. We answer, we show up, we fix it right. Get your water running again today.",
+    "cta_primary": "Call Now: (478) 407-4014",
+    "cta_secondary": "Text for Fast Response"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

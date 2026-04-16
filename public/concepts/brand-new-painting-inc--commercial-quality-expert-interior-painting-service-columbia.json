@@ -1,0 +1,118 @@
+{
+  "business": {
+    "name": "Brand New Painting Inc - Commercial, Quality, Expert Interior Painting Service",
+    "phone": "(803) 253-1410",
+    "email": "janicesxn@yahoo.com",
+    "city": "Columbia",
+    "state": "SC",
+    "industry": "painter",
+    "tagline": "Commercial quality interior painting that speaks for itself",
+    "logo_url": "",
+    "google_rating": "5 stars (4 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Interior painting that *professionals* recommend",
+    "subheadline": "When interior designers choose us for their own projects, you know the work speaks for itself.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "users",
+      "text": "Designer Recommended"
+    },
+    {
+      "icon": "shield",
+      "text": "Commercial Quality"
+    },
+    {
+      "icon": "check",
+      "text": "Licensed & Insured"
+    }
+  ],
+  "services_section": {
+    "label": "THE CRAFT",
+    "heading": "Interior Painting Done Right",
+    "subheading": "Every wall, every room, every detail — handled with commercial-grade precision"
+  },
+  "services": [
+    {
+      "title": "Commercial Interior Painting",
+      "description": "Office buildings, retail spaces, and commercial properties painted with precision and minimal disruption to your business operations.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Residential Interior Projects",
+      "description": "Home interiors painted with the same commercial-grade attention to detail that professionals demand for their own spaces.",
+      "icon": "home"
+    },
+    {
+      "title": "Expert Color Consultation",
+      "description": "Professional guidance on color selection and finishes that complement your space and stand the test of time.",
+      "icon": "lightbulb"
+    }
+  ],
+  "about": {
+    "heading": "Trusted by Columbia's Design Professionals",
+    "body": "Brand New Painting Inc brings commercial-quality interior painting to Columbia, SC. When interior designers and industry professionals need painting work done, they choose our crew. Bobby and his team deliver the kind of precision and reliability that builds reputations — fast turnaround without cutting corners."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbia Says"
+  },
+  "reviews": [
+    {
+      "name": "Jodi G.",
+      "location": "Columbia, SC",
+      "text": "As an interior designer with years of experience, Bobby and his crew at Brand New Painting were truly a cut above their competitors. After interviewing many contractors, I knew I made the right choice.",
+      "rating": 5
+    },
+    {
+      "name": "Caroline C.",
+      "location": "Columbia, SC",
+      "text": "Bobby delivers both speed and high quality work. Already planning to use them again for our next project.",
+      "rating": 5
+    },
+    {
+      "name": "Cliff T.",
+      "location": "Columbia, SC",
+      "text": "These guys did a wonderful job from start to finish.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Columbia & Beyond",
+    "subheading": "Professional interior painting throughout the Midlands",
+    "areas": [
+      "Columbia",
+      "Forest Acres",
+      "West Columbia",
+      "Cayce",
+      "Irmo",
+      "Lexington",
+      "Blythewood",
+      "Elgin"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Professional Results?",
+    "body": "Get the same quality work that Columbia's interior designers trust. Call Bobby today for your free estimate.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (803) 253-1410"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "editorial"
+  }
+}

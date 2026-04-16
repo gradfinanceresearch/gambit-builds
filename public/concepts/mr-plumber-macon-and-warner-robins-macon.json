@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Mr. Plumber Macon and Warner Robins",
+    "phone": "(478) 284-1097",
+    "email": "info@maconblackpages.com",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "plumber",
+    "tagline": "Fast fixes, fair prices, zero drama",
+    "logo_url": "",
+    "google_rating": "4.3 stars (12 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Busted pipe? *We're already on the way*",
+    "subheadline": "Tim and Amanda handle everything from kitchen sinks to emergency leaks — and they actually answer the phone when you call.",
+    "cta_primary": "Get Fast Service",
+    "cta_secondary": "Call (478) 284-1097"
+  },
+  "trust_badges": [
+    {
+      "icon": "clock",
+      "text": "Same-Day Response"
+    },
+    {
+      "icon": "star",
+      "text": "4.3-Star Google Rating"
+    },
+    {
+      "icon": "heart",
+      "text": "Pet-Friendly Team"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "No Hidden Fees"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIXES",
+    "heading": "Every pipe, every problem",
+    "subheading": "From toilets that won't flush to mysterious kitchen leaks — we've seen it all"
+  },
+  "services": [
+    {
+      "title": "Emergency Pipe Repairs",
+      "description": "Burst pipes don't wait for business hours. Neither do we. Fast response when water is everywhere.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Toilet & Sink Installation",
+      "description": "New fixtures installed right the first time. We clean up after ourselves and haul away the old stuff.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Kitchen Plumbing",
+      "description": "Sink lines, garbage disposals, and those tricky under-cabinet connections that like to leak.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Leak Detection & Repair",
+      "description": "High water bills? Hidden leaks? We'll find the problem and fix it without tearing up your whole house.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "The husband-wife team Macon trusts",
+    "body": "Tim and Amanda are the faces behind Mr. Plumber. They've been fixing Macon's plumbing problems with honest pricing and careful work. No scratched cabinets, no forgotten messes — just professional service that treats your home like their own."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Regina R.",
+      "location": "Macon",
+      "text": "Justin installed my toilet and kitchen sink — super professional and left everything spotless. Even took the old boxes with him when he left.",
+      "rating": 5
+    },
+    {
+      "name": "Chris A.",
+      "location": "Warner Robins",
+      "text": "Called about a busted pipe, they had someone here in an hour. Fixed fast and didn't break the bank. Definitely calling them again.",
+      "rating": 5
+    },
+    {
+      "name": "Mary H.",
+      "location": "Macon",
+      "text": "Tim and Amanda are the cutest plumbing team ever! Super fast work and went above and beyond to help reduce my water bill after a leak.",
+      "rating": 5
+    },
+    {
+      "name": "Debbie S.",
+      "location": "Macon",
+      "text": "Fixed my kitchen lines and handled a few other minor issues without charging extra. Really attentive to the small details.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Central Georgia",
+    "subheading": "Fast response times throughout the area",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Perry",
+      "Centerville",
+      "Byron",
+      "Fort Valley",
+      "Kathleen",
+      "Bonaire"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix that plumbing problem?",
+    "body": "Don't let a small leak become a big headache. Call Tim and Amanda for honest estimates and fast, professional service.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call (478) 284-1097"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FEFCF9",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

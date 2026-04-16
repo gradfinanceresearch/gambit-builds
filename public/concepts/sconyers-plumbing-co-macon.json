@@ -1,0 +1,123 @@
+{
+  "business": {
+    "name": "Sconyers Plumbing Co",
+    "phone": "(478) 746-0858",
+    "email": "",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "plumber",
+    "tagline": "Fast fixes for Middle Georgia",
+    "logo_url": "",
+    "google_rating": "4.6 stars (13 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When your restaurant can't wait — *we don't either*",
+    "subheadline": "Walt and his crew know that timing matters. From main line breaks to water heater failures, we're the ones Macon calls first.",
+    "cta_primary": "Get Fast Service",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured Plumbers"
+    },
+    {
+      "icon": "clock",
+      "text": "Emergency Service Available"
+    },
+    {
+      "icon": "star",
+      "text": "Serving Macon Since 1970"
+    },
+    {
+      "icon": "truck",
+      "text": "Fully Equipped Service Vehicles"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every pipe, every problem",
+    "subheading": "From emergency repairs to full installations, we handle what breaks and what needs building"
+  },
+  "services": [
+    {
+      "title": "Emergency Drain Repairs",
+      "description": "When the kitchen backs up mid-rush or the main line decides to quit, we're already on our way. Fast diagnosis, fair pricing.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Water Heater Service",
+      "description": "No hot water? We'll get it running or recommend the right replacement. From diagnosis to installation, handled completely.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Main Water Line Repairs",
+      "description": "Leaks between your house and meter are serious business. We locate, diagnose, and fix them right the first time.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Kitchen & Bath Installations",
+      "description": "Dishwashers, garbage disposals, refrigerator lines — the connections that make your kitchen work. Installed clean and professional.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Walt and his crew — serving Middle Georgia",
+    "body": "We're the plumbers Macon restaurants call when every minute counts. Whether it's an emergency repair or a planned installation, our team works fast, fair, and professional. From drain clogs to water line breaks, we handle what needs fixing."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon says about us"
+  },
+  "reviews": [
+    {
+      "name": "Laurie T.",
+      "location": "Macon",
+      "text": "Walt and his crew are amazing — quick to respond and always helpful. They understand our restaurant needs prompt service, and they deliver every time.",
+      "rating": 5
+    },
+    {
+      "name": "Veronica",
+      "location": "Macon",
+      "text": "Brian and James were professional and kept me informed throughout the whole job. Dishwasher, water line, disposal — everything installed perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "Candace B.",
+      "location": "Macon",
+      "text": "Professional, respectful, and fair priced. They fixed our drain perfectly. Definitely referring them to others.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Middle Georgia",
+    "subheading": "Fast response across the region",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Milledgeville",
+      "Gray",
+      "Forsyth",
+      "Perry",
+      "Byron",
+      "Centerville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready when you need us",
+    "body": "Don't let plumbing problems slow you down. Call Walt and his crew for fast, professional service that gets it done right.",
+    "cta_primary": "Get Service Now",
+    "cta_secondary": "Call (478) 746-0858"
+  },
+  "design": {
+    "primary_color": "#1A5632",
+    "accent_color": "#D4A843",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "C3 Handyman Services",
+    "phone": "(904) 847-2606",
+    "email": "",
+    "city": "Tallahassee",
+    "state": "FL",
+    "industry": "handyman",
+    "tagline": "",
+    "logo_url": "",
+    "google_rating": "5 stars (14 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "The *fix-it crew* Tallahassee calls first",
+    "subheadline": "TV mounting, garage storage, bathroom remodels — we show up on time and get it done right",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "clock",
+      "text": "Always On Schedule"
+    },
+    {
+      "icon": "tool",
+      "text": "Every Job Done Right"
+    },
+    {
+      "icon": "phone",
+      "text": "Quick Response Time"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "From small repairs to full remodels",
+    "subheading": "No project too big or small for our Tallahassee team"
+  },
+  "services": [
+    {
+      "title": "TV Mounting & Electronics Setup",
+      "description": "Wall-mounted TVs that stay put and move smoothly. All angles covered, all wires hidden, zero wobble guaranteed.",
+      "icon": "zap"
+    },
+    {
+      "title": "Bathroom Remodeling",
+      "description": "Complete bathroom makeovers from tile to fixtures. We handle the mess so you get the results without the headache.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Garage Storage Solutions",
+      "description": "Overhead racks, wall systems, and organized storage that actually works. Get your garage back and your car inside.",
+      "icon": "home"
+    },
+    {
+      "title": "General Home Repairs",
+      "description": "Squeaky hinges, loose handles, patched drywall — all the little things that make your house feel like home again.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Installation Services",
+      "description": "Shelving, fixtures, appliances, and anything else that needs mounting, connecting, or setting up properly.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Built on getting it right the first time",
+    "body": "C3 Handyman Services has earned 14 five-star reviews by showing up when we say we will and finishing what we start. From TV mounting to full bathroom remodels, we guide you through every step and deliver work that lasts. Tallahassee homeowners know they can count on us."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Tallahassee neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Shachrisa B.",
+      "location": "Tallahassee",
+      "text": "Mounted all three TVs perfectly — sturdy, adjustable, and exactly what I wanted. Definitely calling them again.",
+      "rating": 5
+    },
+    {
+      "name": "Noah G.",
+      "location": "Tallahassee",
+      "text": "Professional and efficient. The owner walked me through each step and completed everything on time.",
+      "rating": 5
+    },
+    {
+      "name": "Trey W.",
+      "location": "Tallahassee",
+      "text": "Excellent work installing garage storage racks. Great quality, fair price, and I'll definitely use them again.",
+      "rating": 5
+    },
+    {
+      "name": "Jack J.",
+      "location": "Tallahassee",
+      "text": "Exceptional professionalism from quote to completion. The bathroom remodel came out remarkable.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Tallahassee and surrounding areas",
+    "subheading": "Quick response times throughout Leon County",
+    "areas": [
+      "Tallahassee",
+      "Crawfordville",
+      "Quincy",
+      "Monticello",
+      "Havana",
+      "Midway",
+      "Woodville",
+      "Capitola"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get that project finished?",
+    "body": "Call C3 Handyman Services today for a quick quote. We'll walk you through the work and get started when you're ready.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (904) 847-2606"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

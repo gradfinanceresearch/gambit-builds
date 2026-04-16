@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Shock-It Electric",
+    "phone": "(239) 229-1828",
+    "email": "",
+    "city": "Fort Myers",
+    "state": "FL",
+    "industry": "electrician",
+    "tagline": "Fort Myers electrical work done right",
+    "logo_url": "",
+    "google_rating": "5 stars (71 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*When the power goes out*, Fort Myers calls us",
+    "subheadline": "Ashley and his crew handle everything from complete rewiring to that one outlet that's been acting up for months.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5 Stars on Google"
+    },
+    {
+      "icon": "clock",
+      "text": "15-Minute Response"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "phone",
+      "text": "Answer Every Call"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every wire, every outlet, every panel",
+    "subheading": "From emergency repairs to complete home rewiring — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Complete Home Rewiring",
+      "description": "Bringing older Fort Myers homes up to code with safe, modern electrical systems that last decades.",
+      "icon": "zap"
+    },
+    {
+      "title": "Panel Upgrades & Repairs",
+      "description": "When your breaker box can't handle modern demands, we upgrade it to keep your power flowing smoothly.",
+      "icon": "plug"
+    },
+    {
+      "title": "Lighting Installation",
+      "description": "From safety lighting to comfort upgrades — we recommend and install fixtures that actually make sense.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Emergency Electrical Repair",
+      "description": "Power problems don't wait for business hours. Neither do we — call and we'll be there fast.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Ashley and the crew at Shock-It Electric",
+    "body": "We've been handling Fort Myers electrical work for years, building a reputation one satisfied customer at a time. From complete rewiring projects to quick repairs, we show up when we say we will and get the job done right. Our customers stick with us — some for over 6 years — because we answer our phone, arrive fast, and fix it properly the first time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Fort Myers homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Stephen A.",
+      "location": "Fort Myers",
+      "text": "Been using Shock-It for over 6 years. Ashley and Brad rewired our whole house and installed lighting upgrades — flawless work every time.",
+      "rating": 5
+    },
+    {
+      "name": "Irene R.",
+      "location": "Fort Myers",
+      "text": "Called Ashley and within 15 minutes he was at my door, identified the major issue immediately. His expertise made my family feel safe again.",
+      "rating": 5
+    },
+    {
+      "name": "Ryan R.",
+      "location": "Fort Myers",
+      "text": "This is my fifth time using them. Large projects, small repairs — Ashley is always responsive and knows his stuff. Highly recommend.",
+      "rating": 5
+    },
+    {
+      "name": "Gordon N.",
+      "location": "Fort Myers",
+      "text": "Called Friday, he responded over the weekend, sent his tech Tuesday morning. Complete satisfaction — this is how business should be done.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Southwest Florida",
+    "subheading": "Fast electrical service throughout the Fort Myers area",
+    "areas": [
+      "Fort Myers",
+      "Cape Coral",
+      "Bonita Springs",
+      "Estero",
+      "Lehigh Acres",
+      "North Fort Myers",
+      "Fort Myers Beach",
+      "Sanibel"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your electrical issue sorted?",
+    "body": "Call Ashley directly at (239) 229-1828 or request your free estimate online. We respond fast and fix it right.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (239) 229-1828"
+  },
+  "design": {
+    "primary_color": "#1A5632",
+    "accent_color": "#D4A843",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

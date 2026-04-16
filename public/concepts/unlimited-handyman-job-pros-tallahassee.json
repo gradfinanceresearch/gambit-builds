@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "Unlimited Handyman job Pros",
+    "phone": "(850) 601-4913",
+    "email": "",
+    "city": "Tallahassee",
+    "state": "FL",
+    "industry": "handyman",
+    "tagline": "",
+    "logo_url": "",
+    "google_rating": "5 stars (10 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*One call* fixes it all — that's the promise",
+    "subheadline": "From chicken coops to water heaters, Chris handles what breaks (and what you just can't figure out). Same guy, every job.",
+    "cta_primary": "Get Your Fix",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "phone",
+      "text": "Quick Response Times"
+    },
+    {
+      "icon": "tool",
+      "text": "All-in-One Solutions"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Goes Above & Beyond"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT GETS FIXED",
+    "heading": "Kitchen to garage — we handle it",
+    "subheading": "No job too weird, too urgent, or too tricky"
+  },
+  "services": [
+    {
+      "title": "Kitchen & Plumbing Repairs",
+      "description": "Sink backing up? Faucet dripping at 3am? We fix what flows and what doesn't flow when it should.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Water Heater Replacement",
+      "description": "From diagnosis to installation to cleanup — handled professionally and responsibly, every step.",
+      "icon": "flame"
+    },
+    {
+      "title": "Garage Door Solutions",
+      "description": "Stuck doors, broken springs, weird noises — often fixed in minutes with the right know-how.",
+      "icon": "home"
+    },
+    {
+      "title": "Custom Installation Projects",
+      "description": "Chicken coops, shelving, whatever you need built or mounted — we figure out the tricky parts.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Renovation Problem-Solving",
+      "description": "Hit a snag mid-project? We bring solutions you hadn't thought of and get you unstuck.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Chris keeps Tallahassee running smooth",
+    "body": "When something breaks, stops working, or just needs doing right — that's what we're here for. One handyman who shows up, communicates clearly, and doesn't leave until it's actually fixed. Your neighbors already know us."
+  },
+  "reviews_section": {
+    "label": "WHAT FOLKS SAY",
+    "heading": "Real work, real results"
+  },
+  "reviews": [
+    {
+      "name": "Ana C.",
+      "location": "Tallahassee, FL",
+      "text": "Amazing work — fixed my kitchen sink fast, then spotted my garage door issue and handled that too. True all-in-one service.",
+      "rating": 5
+    },
+    {
+      "name": "Josh M.",
+      "location": "Tallahassee, FL",
+      "text": "Water heater replacement was handled perfectly. Professional, responsible, and went above and beyond to make sure everything worked right.",
+      "rating": 5
+    },
+    {
+      "name": "Miki B.",
+      "location": "Tallahassee, FL",
+      "text": "Extremely professional and knowledgeable. Helped us solve renovation problems we couldn't figure out ourselves. Highly recommend.",
+      "rating": 5
+    },
+    {
+      "name": "Beryllium",
+      "location": "Tallahassee, FL",
+      "text": "Chris tackled our challenging chicken coop install efficiently and professionally. He'll always be our first call now.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Tallahassee and surrounding areas",
+    "subheading": "Fast response throughout Leon County",
+    "areas": [
+      "Tallahassee",
+      "Havana",
+      "Quincy",
+      "Monticello",
+      "Crawfordville",
+      "Woodville",
+      "Midway",
+      "Centerville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get it fixed right?",
+    "body": "No job too big, too small, or too strange. Call Chris and cross it off your list.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (850) 601-4913"
+  },
+  "design": {
+    "primary_color": "#065F46",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

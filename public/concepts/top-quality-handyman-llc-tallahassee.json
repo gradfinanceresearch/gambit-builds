@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "top quality handyman llc",
+    "phone": "(850) 756-0303",
+    "email": "",
+    "city": "Tallahassee",
+    "state": "FL",
+    "industry": "handyman",
+    "tagline": "",
+    "logo_url": "",
+    "google_rating": "5 stars (4 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When *Top Quality* isn't just the name — it's the work",
+    "subheadline": "From hurricane damage to kitchen cabinets, we handle what matters most to your home",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (850) 756-0303"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "phone",
+      "text": "Always Answer Calls"
+    },
+    {
+      "icon": "check",
+      "text": "No Job Too Big or Small"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Everything your home needs",
+    "subheading": "One call handles it all — from emergency repairs to complete room makeovers"
+  },
+  "services": [
+    {
+      "title": "Home Repairs & Maintenance",
+      "description": "From fixing leaky faucets to patching drywall, we handle all your home repair needs with professional expertise and attention to detail.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Electrical Services",
+      "description": "Safe and reliable electrical work including outlet installation, fixture replacement, ceiling fan installation, and basic wiring repairs.",
+      "icon": "zap"
+    },
+    {
+      "title": "Plumbing Solutions",
+      "description": "Complete plumbing services from unclogging drains to installing new fixtures, water heater maintenance, and pipe repairs.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Interior & Exterior Painting",
+      "description": "Transform your space with professional painting services for rooms, cabinets, fences, and exterior surfaces using premium materials.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Carpentry & Installation",
+      "description": "Custom carpentry work including trim installation, door hanging, shelving, deck repairs, and furniture assembly services.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Built on reputation in Tallahassee",
+    "body": "Will and the Top Quality team have been fixing what matters most to Tallahassee homeowners. From post-hurricane repairs to complete home makeovers, we handle every project with the same attention to detail. Our 5-star rating comes from doing the work right the first time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Dejan J.",
+      "location": "Tallahassee",
+      "text": "Will fixed our hurricane-damaged ceiling and painted our entire house. Professional, timely, and the work is just amazing.",
+      "rating": 5
+    },
+    {
+      "name": "Tania A.",
+      "location": "Tallahassee",
+      "text": "Went far beyond expectations. The tile flooring and kitchen backsplash were incredible. William's professionalism and expertise are exceptional.",
+      "rating": 5
+    },
+    {
+      "name": "Nancy H.",
+      "location": "Tallahassee",
+      "text": "Top quality is exactly right. His integrity and attention to detail are outstanding. Bamboo flooring, painting, everything perfect.",
+      "rating": 5
+    },
+    {
+      "name": "Robert S.",
+      "location": "Tallahassee",
+      "text": "Used him for everything from flooring to complete rehabbing. Totally transformed a trashed rental property — rewiring, plumbing, the works.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Tallahassee and surrounding areas",
+    "subheading": "Quality work throughout Leon County and beyond",
+    "areas": [
+      "Tallahassee",
+      "Woodville",
+      "Crawfordville",
+      "Havana",
+      "Quincy",
+      "Monticello",
+      "Thomasville",
+      "Cairo"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to see what top quality looks like?",
+    "body": "Call us today for your free estimate. No pressure, just straight talk about what your home needs.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#EF4444",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "editorial"
+  }
+}

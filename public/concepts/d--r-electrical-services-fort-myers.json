@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "D & R Electrical Services",
+    "phone": "(239) 541-2015",
+    "email": "",
+    "city": "Fort Myers",
+    "state": "FL",
+    "industry": "electrician",
+    "tagline": "When you need it done right the first time",
+    "logo_url": "",
+    "google_rating": "4.4 stars (24 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "The owner *still answers* the phone",
+    "subheadline": "Home inspectors only recommend us to their customers. That says everything you need to know about our work.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "phone",
+      "text": "Owner-Answered Calls"
+    },
+    {
+      "icon": "star",
+      "text": "Inspector Recommended"
+    },
+    {
+      "icon": "check",
+      "text": "Clean Work Guarantee"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every wire, outlet, and panel",
+    "subheading": "From kitchen upgrades to whole house rewiring, we handle it all"
+  },
+  "services": [
+    {
+      "title": "Kitchen Lighting & Outlets",
+      "description": "Can lights, under-cabinet lighting, and GFCI outlets. We'll stay within estimate and clean up after ourselves.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Panel Upgrades & Breakers",
+      "description": "Whole house circuit breaker installation explained in terms you'll actually understand before we start.",
+      "icon": "zap"
+    },
+    {
+      "title": "Home Electrical Repairs",
+      "description": "From flickering lights to dead outlets, we fix what's broken and explain what caused it.",
+      "icon": "wrench"
+    },
+    {
+      "title": "New Home Electrical Setup",
+      "description": "Complete electrical systems for new homeowners who want peace of mind from certified work.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Serving Fort Myers for over two decades",
+    "body": "We're the electrical contractor that home inspectors recommend to their customers. When you call, the owner picks up. When we give you a quote, we stick to it. When we finish the job, we clean up. That's just how we've always done business in Southwest Florida."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Fort Myers homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Larry H.",
+      "location": "Fort Myers",
+      "text": "Very knowledgeable crew that worked efficiently on my kitchen can lighting. Stayed within estimate and cleaned up perfectly.",
+      "rating": 4
+    },
+    {
+      "name": "Mary S.",
+      "location": "Fort Myers",
+      "text": "As a home inspector, I only recommend D & R to my customers. They're fast, courteous, and supremely knowledgeable.",
+      "rating": 5
+    },
+    {
+      "name": "Derek M.",
+      "location": "Fort Myers",
+      "text": "They explained our whole house circuit breaker setup in terms I could understand before starting. Professional work.",
+      "rating": 5
+    },
+    {
+      "name": "Diane H.",
+      "location": "Fort Myers",
+      "text": "We've used them for 2 years since buying our home. Friendly technicians and the peace of mind of certified work.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Southwest Florida",
+    "subheading": "Fast response times throughout Lee County",
+    "areas": [
+      "Fort Myers",
+      "Cape Coral",
+      "Naples",
+      "Bonita Springs",
+      "Estero",
+      "Lehigh Acres",
+      "North Fort Myers",
+      "Gateway"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get it done right?",
+    "body": "Call now and talk directly to the owner. We'll give you a straight quote and timeline — no runaround, no surprises.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (239) 541-2015"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

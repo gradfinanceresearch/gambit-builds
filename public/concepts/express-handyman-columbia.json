@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Express Handyman",
+    "phone": "(839) 228-4792",
+    "email": "handyman@remodelingdesmoines.com",
+    "city": "Columbia",
+    "state": "SC",
+    "industry": "handyman",
+    "tagline": "Fixed right, fixed fast",
+    "logo_url": "",
+    "google_rating": "5 stars (72 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When it breaks, we're *already on our way*",
+    "subheadline": "Same-day fixes across Columbia. No project too big, no repair too small — just results you can count on.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5 Stars • 72 Reviews"
+    },
+    {
+      "icon": "clock",
+      "text": "Same-Day Service"
+    },
+    {
+      "icon": "shield",
+      "text": "Fully Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Work Guaranteed"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every Fix, Every Room",
+    "subheading": "From the front door to the back fence — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Home Repairs & Maintenance",
+      "description": "Squeaky doors, loose railings, cracked drywall. The everyday fixes that keep your house running smooth.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Furniture Assembly & Installation",
+      "description": "Flat-pack nightmares and heavy mounting jobs. We'll have it solid and level before you know it.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Painting & Touch-Ups",
+      "description": "Fresh coats, color matching, and those tricky trim spots. Making your walls look brand new again.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Electrical & Plumbing Fixes",
+      "description": "Outlets, switches, faucet drips, and running toilets. The quick fixes that save you big headaches.",
+      "icon": "zap"
+    }
+  ],
+  "about": {
+    "heading": "Built Different in Columbia",
+    "body": "Express Handyman has earned 72 five-star reviews by showing up when we say we will and fixing things right the first time. Our Columbia neighbors know us for tackling everything from quick repairs to full project lists — always with the same attention to detail and clean-up when we're done."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbia Says"
+  },
+  "reviews": [
+    {
+      "name": "Devon M.",
+      "location": "Columbia, SC",
+      "text": "Exceeded expectations completely. Punctual, detail-oriented, and fixed work another contractor messed up. Had my job done the next day.",
+      "rating": 5
+    },
+    {
+      "name": "Erik W.",
+      "location": "Columbia, SC",
+      "text": "Great work, super friendly, no stress at all. Even cleaned up after themselves. Already called them back for a second job.",
+      "rating": 5
+    },
+    {
+      "name": "Lexi J.",
+      "location": "Columbia, SC",
+      "text": "Professional from start to finish. Arrived on time, communicated clearly, got straight to work. Every task completed perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "Paula H.",
+      "location": "Columbia, SC",
+      "text": "Amazing service! Fast response to my request and completely professional throughout the whole process.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "All Around Columbia",
+    "subheading": "Fast response times across the Midlands",
+    "areas": [
+      "Columbia",
+      "Forest Acres",
+      "Cayce",
+      "West Columbia",
+      "Irmo",
+      "Lexington",
+      "Blythewood",
+      "Dentsville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Cross It Off Your List?",
+    "body": "Call now for same-day service or get your free estimate online. We'll have it fixed before you know it.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (839) 228-4792"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

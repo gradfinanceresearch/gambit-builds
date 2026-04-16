@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Don's Home Improvement",
+    "phone": "(614) 800-7009",
+    "email": "basiro50@gmail.com",
+    "city": "Columbus",
+    "state": "OH",
+    "industry": "handyman",
+    "tagline": "Skilled craftsmanship for your home",
+    "logo_url": "",
+    "google_rating": "4.9 stars (58 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When it needs fixing, *Don gets it done*",
+    "subheadline": "Door won't fit? Frame needs rebuilding? Deck repair on a historic home? We handle the tricky stuff other guys walk away from.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Don Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9 Stars • 58 Reviews"
+    },
+    {
+      "icon": "tool",
+      "text": "True Craftsman"
+    },
+    {
+      "icon": "clock",
+      "text": "Fast Response"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Straight Shooter"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Fix It Right the First Time",
+    "subheading": "From precision door installations to deck repairs on historic homes"
+  },
+  "services": [
+    {
+      "title": "Door Installation & Repair",
+      "description": "New doors, frame rebuilds, threshold replacements. When the door doesn't fit, we make it work perfectly.",
+      "icon": "home"
+    },
+    {
+      "title": "Wood Repair & Restoration",
+      "description": "Rotten sills, damaged frames, window trim. We cut out the bad wood and rebuild it stronger than before.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Deck Repair & Maintenance",
+      "description": "Historic home decks, structural repairs, weatherproofing. Meticulous craftsmanship that lasts decades.",
+      "icon": "saw"
+    },
+    {
+      "title": "General Home Repairs",
+      "description": "The odd jobs, the tricky fixes, the stuff that needs an experienced eye. We tackle what others can't.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Don Knows Columbus Homes",
+    "body": "Every house tells a story, and Don's heard them all. From historic districts to new builds across Columbus, he brings the knowledge and skill to handle whatever your home throws at him. When other contractors say it can't be done, Don figures out how to make it work."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbus Neighbors Say"
+  },
+  "reviews": [
+    {
+      "name": "Michelle S.",
+      "location": "Columbus",
+      "text": "Don rebuilt our entire door frame when the new door wouldn't fit. True artistry - got it done in just 3-4 hours!",
+      "rating": 5
+    },
+    {
+      "name": "Dylan P.",
+      "location": "Columbus",
+      "text": "Highly knowledgeable craftsman who meticulously repaired my historic home's deck. He's straight up and tells you exactly what he can do.",
+      "rating": 5
+    },
+    {
+      "name": "Sierra F.",
+      "location": "Columbus",
+      "text": "Timely response, came out within days for door threshold work. Seamless job plus great tips for aftercare.",
+      "rating": 5
+    },
+    {
+      "name": "Aimee S.",
+      "location": "Columbus",
+      "text": "Repaired rotten wood around our window frame quickly and excellently. Definitely calling him for future projects.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Columbus & Surrounding Areas",
+    "subheading": "Quality home improvement throughout Central Ohio",
+    "areas": [
+      "Columbus",
+      "Dublin",
+      "Worthington",
+      "Westerville",
+      "Upper Arlington",
+      "Bexley",
+      "Hilliard",
+      "Grove City"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fix What's Broken?",
+    "body": "Don't let that problem get worse. Call Don today for straight talk and skilled work that gets it done right.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (614) 800-7009"
+  },
+  "design": {
+    "primary_color": "#0F4C75",
+    "accent_color": "#3EDBF0",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

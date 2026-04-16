@@ -1,0 +1,141 @@
+{
+  "business": {
+    "name": "John Henry Handyman LLC",
+    "phone": "(614) 300-7452",
+    "email": "",
+    "city": "Columbus",
+    "state": "OH",
+    "industry": "handyman",
+    "tagline": "",
+    "logo_url": "",
+    "google_rating": "4.9 stars (57 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "The handyman Columbus calls when it *needs done right*",
+    "subheadline": "From blown shutters to cabinet installs — we stick around until it works perfect. That's the James difference.",
+    "cta_primary": "Get Your Free Estimate",
+    "cta_secondary": "Call (614) 300-7452"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9 Stars • 57 Reviews"
+    },
+    {
+      "icon": "clock",
+      "text": "Same-Day Available"
+    },
+    {
+      "icon": "phone",
+      "text": "Actually Answer The Phone"
+    },
+    {
+      "icon": "check",
+      "text": "Job Done Complete"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every Room, Every Problem",
+    "subheading": "The stuff that breaks, the upgrades you've been putting off, the projects that need finishing"
+  },
+  "services": [
+    {
+      "title": "Cabinet Hardware & Installation",
+      "description": "New cabinets hung perfect, hardware installed straight, doors that actually close right. Kitchen and bath work that looks like it belongs.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Door Locks & Security",
+      "description": "Keyless entry, smart locks, security system connections. We stay on the phone with your tech support so you don't have to.",
+      "icon": "shield"
+    },
+    {
+      "title": "Electrical Troubleshooting",
+      "description": "Outlets that quit working, appliances that won't turn on. We check the outlet, the wiring, and find what's really wrong.",
+      "icon": "zap"
+    },
+    {
+      "title": "Exterior Repairs",
+      "description": "Shutters, fence fixes, anything that storm damage or time has loosened up. Made to last through Ohio weather.",
+      "icon": "home"
+    },
+    {
+      "title": "Wall Mounting & Hanging",
+      "description": "Mirrors, display cases, TV mounts, anything that needs to stay put on the wall. Measured twice, mounted once.",
+      "icon": "ruler"
+    },
+    {
+      "title": "General Home Repairs",
+      "description": "The random stuff that breaks around the house. If it's fixable, we'll figure it out and get it working again.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Columbus Home Repairs Done Right",
+    "body": "James and the John Henry Handyman team handle the repairs and upgrades that Columbus homeowners need done right the first time. From quick fixes to cabinet installations, we show up on time and stay until the job works perfect. Licensed, insured, and answering calls in Columbus and surrounding areas."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbus Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Zach C.",
+      "location": "Columbus",
+      "text": "James replaced our blown-off shutter and painted the screws to match perfectly. His attention to detail and professionalism really impressed us.",
+      "rating": 5
+    },
+    {
+      "name": "Michelle B.",
+      "location": "Columbus",
+      "text": "Installed all my cabinet hardware, hung display cases and a mirror, plus fixed my vinyl fence. On time, professional, and went above and beyond.",
+      "rating": 5
+    },
+    {
+      "name": "Zack B.",
+      "location": "Columbus",
+      "text": "Thought I needed a new dryer, but James diagnosed the real problem with the outlet and wiring. Saved me hundreds and got it working perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "Gloria B.",
+      "location": "Columbus",
+      "text": "Replaced my keyless door lock, then stayed on the phone over an hour helping me connect it to my security system. That's real service.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Columbus & Surrounding Areas",
+    "subheading": "Your local handyman for Franklin County and beyond",
+    "areas": [
+      "Columbus",
+      "Dublin",
+      "Westerville",
+      "Grove City",
+      "Reynoldsburg",
+      "Upper Arlington",
+      "Hilliard",
+      "Gahanna",
+      "Powell",
+      "Delaware"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Get It Fixed Right?",
+    "body": "Stop putting off those repairs and upgrades. Call James today for your free estimate and let's get your Columbus home working perfect again.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (614) 300-7452"
+  },
+  "design": {
+    "primary_color": "#B91C1C",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

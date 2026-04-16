@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Capital City Property Service",
+    "phone": "(850) 524-5262",
+    "email": "capitalcityconstructionfl@gmail.com",
+    "city": "Tallahassee",
+    "state": "FL",
+    "industry": "handyman",
+    "tagline": "The handyman Tallahassee trusts with their property",
+    "logo_url": "",
+    "google_rating": "5 stars (12 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When it needs fixing, *we show up ready*",
+    "subheadline": "Karl and Brett handle everything from wiring to repairs — the same crew your property manager already calls first.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call (850) 524-5262"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "clock",
+      "text": "Reliable & Punctual"
+    },
+    {
+      "icon": "check",
+      "text": "Clean Job Sites"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Property repairs that actually last",
+    "subheading": "From electrical work to general maintenance — we handle what property managers and homeowners need done right"
+  },
+  "services": [
+    {
+      "title": "Electrical Installation & Repair",
+      "description": "Wiring, outlets, lighting fixtures, and electrical troubleshooting. We explain what we're doing and why.",
+      "icon": "zap"
+    },
+    {
+      "title": "General Property Maintenance",
+      "description": "The repairs and fixes that keep properties running smooth. No job too small, no surprise too big.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Property Management Support",
+      "description": "Reliable service for rental properties. Tenants love us, property managers trust us.",
+      "icon": "home"
+    },
+    {
+      "title": "Portable Storage Solutions",
+      "description": "Custom electrical work for storage units and portable buildings. We've wired plenty.",
+      "icon": "lightbulb"
+    }
+  ],
+  "about": {
+    "heading": "Karl and Brett — Tallahassee's go-to crew",
+    "body": "We've built our reputation one honest job at a time. Property managers know they can count on us, and homeowners appreciate our straightforward approach. When we say we'll be there, we show up. When we quote a job, that's what you pay. And we always clean up like we were never there."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Tallahassee property owners say"
+  },
+  "reviews": [
+    {
+      "name": "Lisa S.",
+      "location": "Tallahassee",
+      "text": "Karl is incredibly professional and reliable. He's honest about what needs doing and does excellent work. You won't be disappointed.",
+      "rating": 5
+    },
+    {
+      "name": "J T.",
+      "location": "Tallahassee",
+      "text": "Years of consistent, transparent work. Karl reaches out if something unexpected comes up — no surprises, just honest communication.",
+      "rating": 5
+    },
+    {
+      "name": "Lauer O.",
+      "location": "Tallahassee",
+      "text": "Our property management business relies on CCPS. Karl and Brett are punctual and thorough, and our tenants always praise their work.",
+      "rating": 5
+    },
+    {
+      "name": "Bob W.",
+      "location": "Tallahassee",
+      "text": "Professional and honest electrical work on my portable storage unit. Clean installation, fair pricing.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the greater Tallahassee area",
+    "subheading": "Quality property service throughout Leon County and surrounding communities",
+    "areas": [
+      "Tallahassee",
+      "Quincy",
+      "Havana",
+      "Crawfordville",
+      "Monticello",
+      "Thomasville",
+      "Cairo",
+      "Bainbridge"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get it handled right?",
+    "body": "Call Karl and Brett for honest property service. We'll explain what needs doing and get it done clean.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#0F4C75",
+    "accent_color": "#3EDBF0",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

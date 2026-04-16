@@ -1,0 +1,136 @@
+{
+  "business": {
+    "name": "TA Handyman",
+    "phone": "(614) 813-6337",
+    "email": "renee@ohiohandyman.net",
+    "city": "Columbus",
+    "state": "OH",
+    "industry": "handyman",
+    "tagline": "The fix you need, done right",
+    "logo_url": "",
+    "google_rating": "5 stars (49 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Columbus homes trust us with the *tough stuff*",
+    "subheadline": "From bathroom remodels to gutter cleaning — we show up, quote fair, and finish strong. 5 stars from 49 neighbors who know.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5 Stars (49 Reviews)"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Response"
+    },
+    {
+      "icon": "check",
+      "text": "Fair Pricing"
+    },
+    {
+      "icon": "tool",
+      "text": "Complete Projects"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every project handled right",
+    "subheading": "From quick fixes to full remodels, we tackle what your house throws at us"
+  },
+  "services": [
+    {
+      "title": "General Repairs",
+      "description": "Expert fixing of doors, windows, drywall, and household items to keep your home in perfect condition",
+      "icon": "wrench"
+    },
+    {
+      "title": "Electrical Services",
+      "description": "Safe installation and repair of outlets, switches, ceiling fans, and light fixtures by licensed professionals",
+      "icon": "zap"
+    },
+    {
+      "title": "Plumbing Solutions",
+      "description": "Professional repair of leaky faucets, clogged drains, toilet issues, and minor plumbing installations",
+      "icon": "droplet"
+    },
+    {
+      "title": "Painting & Touch-ups",
+      "description": "Interior and exterior painting services, color matching, and detailed touch-up work for a fresh new look",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Home Maintenance",
+      "description": "Regular upkeep services including gutter cleaning, deck staining, and seasonal home preparation",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Honest work in Columbus for over a decade",
+    "body": "We're the handyman service Columbus neighbors call when they need it done right. From small repairs to major remodels, we quote fair, communicate clearly, and finish what we start. Arthur and the TA Handyman team have built our reputation one satisfied customer at a time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbus homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Neelam P.",
+      "location": "Columbus, OH",
+      "text": "Stress-free from quote to completion. Gutter cleaning was perfect and they charged exactly what they quoted. Professional team I'd use again.",
+      "rating": 5
+    },
+    {
+      "name": "David K.",
+      "location": "Columbus, OH",
+      "text": "The $699 property refresh package completely transformed my house. Professional work worth every dollar.",
+      "rating": 5
+    },
+    {
+      "name": "Vitalina O.",
+      "location": "Columbus, OH",
+      "text": "Called for junk removal last night, they came next morning and cleaned out my entire garage. Fair price and awesome service.",
+      "rating": 5
+    },
+    {
+      "name": "Roman A.",
+      "location": "Columbus, OH",
+      "text": "Arthur remodeled our bathroom from A to Z. Easy to work with and completely transparent throughout the process.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Columbus and surrounding areas",
+    "subheading": "Professional handyman services throughout Central Ohio",
+    "areas": [
+      "Columbus",
+      "Dublin",
+      "Westerville",
+      "Reynoldsburg",
+      "Grove City",
+      "Upper Arlington",
+      "Hilliard",
+      "Gahanna",
+      "Delaware",
+      "Worthington"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get that project handled?",
+    "body": "Fair quotes, clear communication, and work that lasts. Call TA Handyman and see why Columbus trusts us with their toughest jobs.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (614) 813-6337"
+  },
+  "design": {
+    "primary_color": "#065F46",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

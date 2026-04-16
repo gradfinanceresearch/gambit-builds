@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Your King's Handyman Services LLC.",
+    "phone": "(850) 294-6195",
+    "email": "info@kinghandymanhomeservices.com",
+    "city": "Tallahassee",
+    "state": "FL",
+    "industry": "handyman",
+    "tagline": "When it needs fixing, we show up tomorrow",
+    "logo_url": "",
+    "google_rating": "5 stars (45 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "The handyman Tallahassee calls *when they need it done right*",
+    "subheadline": "Robert shows up tomorrow, quotes fair, and fixes it properly the first time. That's why we're booked solid.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5 Stars • 45+ Reviews"
+    },
+    {
+      "icon": "clock",
+      "text": "Next-Day Service"
+    },
+    {
+      "icon": "check",
+      "text": "Code-Compliant Work"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Fair Pricing Always"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIXES",
+    "heading": "Whatever's broken, we handle it",
+    "subheading": "From quick repairs to full restorations — done right, priced fair"
+  },
+  "services": [
+    {
+      "title": "Door & Window Repairs",
+      "description": "Rotted trim, broken frames, alignment issues — we diagnose the problem and restore everything to code with proper insulation.",
+      "icon": "home"
+    },
+    {
+      "title": "Emergency Repairs",
+      "description": "Short notice? We're the ones who actually show up tomorrow. Quick response when you need it most.",
+      "icon": "wrench"
+    },
+    {
+      "title": "General Home Repairs",
+      "description": "The everyday fixes that pile up — we knock them all out in one visit with professional-grade results.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Restoration Work",
+      "description": "When damage goes deeper than surface level, we restore it properly with attention to why it happened in the first place.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Robert Tolver — The guy your neighbors recommend",
+    "body": "There's a reason people in Tallahassee keep our number saved. Robert brings professional knowledge to every job, explains what went wrong and why, then fixes it right the first time. Five stars across 45+ reviews because we show up when we say we will and charge what we quote."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Tallahassee says about our work"
+  },
+  "reviews": [
+    {
+      "name": "John F.",
+      "location": "Tallahassee",
+      "text": "Robert was the only one who could show up next day for an emergency repair. Professional, punctual, knowledgeable and reasonably priced. Definitely calling again.",
+      "rating": 5
+    },
+    {
+      "name": "Kim C.",
+      "location": "Tallahassee",
+      "text": "Professional, courteous, on time, and excellent quality work at a very good price. Will use again and highly recommend to everyone.",
+      "rating": 5
+    },
+    {
+      "name": "Darrell F.",
+      "location": "Tallahassee",
+      "text": "Replaced two doors and window trim with rot damage. They diagnosed everything, explained the deterioration, and restored it all to code with proper installation.",
+      "rating": 5
+    },
+    {
+      "name": "Charles M.",
+      "location": "Tallahassee",
+      "text": "Robert's knowledge and service quality elevates him way beyond typical handyman work. Gets the job done well, without delay, and always professional.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Tallahassee and surrounding areas",
+    "subheading": "Quick response throughout Leon County",
+    "areas": [
+      "Tallahassee",
+      "Midway",
+      "Havana",
+      "Quincy",
+      "Monticello",
+      "Crawfordville",
+      "Woodville",
+      "Centerville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get it fixed right?",
+    "body": "Call today and we'll have your quote ready tomorrow. Fair pricing, professional work, no surprises.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (850) 294-6195"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#EF4444",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

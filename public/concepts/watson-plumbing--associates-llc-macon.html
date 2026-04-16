@@ -1,0 +1,890 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Watson Plumbing &amp; Associates LLC — plumber in Macon, GA</title>
+<meta name="description" content="Real plumbers who answer the phone, quote fair prices, and get the job done right the first time."/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Bitter:wght@400;500;600;700;800&family=Source+Sans+3:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>
+<style>
+:root {
+  --primary: #5B21B6;
+  --primary-rgb: 91, 33, 182;
+  --primary-light: #f2edf9;
+  --primary-med: #e6def4;
+  --primary-dark: #4d1c9b;
+  --accent: #10B981;
+  --accent-rgb: 16, 185, 129;
+  --bg: #F5F0FF;
+  --surface-alt: #E8DCFA;
+  --surface-alt-card: #EEE5FC;
+  --text: #1F2937;
+  --text-on-primary: #ffffff;
+  --text-muted: color-mix(in srgb, #1F2937 60%, transparent);
+  --text-subtle: color-mix(in srgb, #1F2937 40%, transparent);
+  --border: color-mix(in srgb, #1F2937 8%, transparent);
+  --border-strong: color-mix(in srgb, #1F2937 15%, transparent);
+  --card-bg: #F5F0FF;
+  --card-shadow: 0 1px 3px rgba(0,0,0,0.04), 0 4px 12px rgba(0,0,0,0.03);
+  --card-shadow-hover: 0 4px 16px rgba(0,0,0,0.08), 0 8px 32px rgba(0,0,0,0.04);
+  --font-heading: 'Bitter', sans-serif;
+  --font-body: 'Source Sans 3', sans-serif;
+  --radius: 12px;
+  --radius-lg: 20px;
+  --max-w: 1120px;
+  --section-pad: clamp(64px, 8vw, 100px) clamp(20px, 5vw, 48px);
+}
+
+*, *::before, *::after { margin:0; padding:0; box-sizing:border-box; }
+html { scroll-behavior:smooth; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body {
+  font-family: var(--font-body);
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+  overflow-x: hidden;
+}
+
+/* ── Section tinting ───────────────────────── */
+.section-tinted {
+  background: var(--surface-alt);
+}
+.section-tinted .service-card,
+.section-tinted .review-card {
+  background: var(--surface-alt-card);
+}
+
+
+/* ── Icon base ─────────────────────────────── */
+.icon { display: inline-flex; align-items: center; justify-content: center; }
+.icon svg { width: 1em; height: 1em; }
+
+/* ── Scroll animations ─────────────────────── */
+.reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.7s cubic-bezier(0.16, 1, 0.3, 1), transform 0.7s cubic-bezier(0.16, 1, 0.3, 1); }
+.reveal.visible { opacity: 1; transform: translateY(0); }
+.reveal-delay-1 { transition-delay: 0.1s; }
+.reveal-delay-2 { transition-delay: 0.2s; }
+.reveal-delay-3 { transition-delay: 0.3s; }
+.reveal-delay-4 { transition-delay: 0.4s; }
+.reveal-delay-5 { transition-delay: 0.5s; }
+
+/* ── Section label ─────────────────────────── */
+.section-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--primary);
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.section-label::before {
+  content: '';
+  width: 24px;
+  height: 2px;
+  background: var(--primary);
+  border-radius: 1px;
+}
+
+/* ── Typography ────────────────────────────── */
+h1, h2, h3 { font-family: var(--font-heading); line-height: 1.2; }
+h1 em, h2 em { font-style: italic; color: var(--primary); }
+.section-heading {
+  font-size: clamp(1.75rem, 3.5vw, 2.5rem);
+  font-weight: 700;
+  margin-bottom: 16px;
+  letter-spacing: -0.02em;
+}
+.section-sub {
+  font-size: 1.05rem;
+  color: var(--text-muted);
+  max-width: 560px;
+  line-height: 1.7;
+}
+
+/* ── Buttons ───────────────────────────────── */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 28px;
+  border-radius: var(--radius);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  font-family: var(--font-body);
+  border: none;
+  cursor: pointer;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  position: relative;
+  overflow: hidden;
+}
+.btn-primary {
+  background: var(--primary);
+  color: var(--text-on-primary);
+  box-shadow: 0 2px 8px rgba(var(--primary-rgb), 0.25);
+}
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(var(--primary-rgb), 0.35);
+}
+.btn-secondary {
+  background: transparent;
+  color: var(--text);
+  border: 1.5px solid var(--border-strong);
+}
+.btn-secondary:hover {
+  border-color: var(--primary);
+  background: rgba(var(--primary-rgb), 0.04);
+}
+.btn-on-primary {
+  background: var(--bg);
+  color: var(--text);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.btn-on-primary:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0,0,0,0.15); }
+.btn-outline-primary {
+  background: transparent;
+  color: var(--text-on-primary);
+  border: 1.5px solid rgba(255,255,255,0.3);
+}
+.btn-outline-primary:hover { background: rgba(255,255,255,0.1); }
+
+/* ── Stars ─────────────────────────────────── */
+.stars-full { color: var(--accent); }
+.stars-empty { color: var(--border-strong); }
+.review-stars { font-size: 0.95rem; letter-spacing: 2px; margin-bottom: 14px; }
+
+/* ── Responsive ────────────────────────────── */
+@media (max-width: 768px) {
+  .services-grid, .reviews-grid { grid-template-columns: 1fr !important; }
+  .hero-ctas { flex-direction: column; align-items: stretch; }
+  .hero-ctas .btn { justify-content: center; }
+  .split-hero { flex-direction: column !important; }
+  .split-hero-content { text-align: center; padding: 48px 24px !important; }
+  .split-hero-visual { min-height: 300px !important; }
+  .footer-inner { flex-direction: column; gap: 24px; }
+  .areas-grid { justify-content: center; }
+  .trust-badges { gap: 12px; }
+}
+</style>
+</head>
+<body>
+
+
+<style>
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 clamp(20px, 5vw, 48px);
+  height: 72px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(255,255,255,0.92);
+  backdrop-filter: blur(12px) saturate(180%);
+  -webkit-backdrop-filter: blur(12px) saturate(180%);
+  border-bottom: 1px solid var(--border);
+}
+.nav-logo {
+  font-family: var(--font-heading);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  letter-spacing: -0.02em;
+}
+.nav-logo-img { height: 32px; width: auto; object-fit: contain; }
+.nav-right { display: flex; align-items: center; gap: 16px; }
+.nav-phone {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--text-muted);
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.9rem;
+  transition: color 0.2s;
+}
+.nav-phone:hover { color: var(--primary); }
+.nav-phone .icon svg { width: 16px; height: 16px; }
+.nav-cta {
+  background: var(--primary);
+  color: var(--text-on-primary);
+  padding: 9px 20px;
+  border-radius: var(--radius);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.85rem;
+  transition: all 0.2s;
+}
+.nav-cta:hover { opacity: 0.9; transform: translateY(-1px); }
+@media (max-width: 600px) {
+  .nav-phone span { display: none; }
+  .nav-cta { padding: 8px 14px; font-size: 0.8rem; }
+}
+</style>
+<nav class="nav">
+  <a href="#" class="nav-logo">Watson Plumbing &amp; Associates LLC</a>
+  <div class="nav-right">
+    <a href="tel:" class="nav-phone"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg></span><span>Call for service</span></a>
+    <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Watson%20Plumbing%20%26%20Associates%20LLC" class="nav-cta">Get a Quote</a>
+  </div>
+</nav>
+
+<style>
+.hero-editorial {
+  padding: clamp(60px, 10vw, 120px) clamp(20px, 5vw, 48px) 0;
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
+.hero-editorial .hero-eyebrow {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--primary);
+  margin-bottom: 24px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.hero-editorial .hero-eyebrow::before {
+  content: '';
+  width: 40px;
+  height: 2px;
+  background: var(--primary);
+}
+.hero-editorial h1 {
+  font-size: clamp(2.8rem, 7vw, 4.5rem);
+  font-weight: 800;
+  line-height: 1.05;
+  margin-bottom: 32px;
+  letter-spacing: -0.03em;
+  max-width: 900px;
+}
+.hero-editorial .hero-bottom {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 40px;
+  flex-wrap: wrap;
+  padding-bottom: clamp(40px, 6vw, 72px);
+  border-bottom: 1px solid var(--border);
+}
+.hero-editorial .hero-sub {
+  font-size: 1.1rem;
+  color: var(--text-muted);
+  max-width: 400px;
+  line-height: 1.7;
+  margin-bottom: 28px;
+}
+.hero-editorial .hero-ctas { display: flex; gap: 12px; flex-wrap: wrap; }
+.hero-editorial .trust-badges-editorial {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px 24px;
+}
+.hero-editorial .trust-badge {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+.hero-editorial .trust-badge .icon { color: var(--primary); font-size: 1rem; }
+.hero-editorial .trust-badge .icon svg { width: 16px; height: 16px; }
+@media (max-width: 768px) {
+  .hero-editorial .hero-bottom { flex-direction: column; align-items: flex-start; }
+  .hero-editorial .trust-badges-editorial { grid-template-columns: 1fr; }
+}
+</style>
+<section class="hero-editorial">
+  <div class="hero-eyebrow reveal">Macon, GA</div>
+  <h1 class="reveal reveal-delay-1">Sewer backup on Christmas? <em>We still showed up</em></h1>
+  <div class="hero-bottom">
+    <div class="reveal reveal-delay-2">
+      <p class="hero-sub">Real plumbers who answer the phone, quote fair prices, and get the job done right the first time.</p>
+      <div class="hero-ctas">
+        <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Watson%20Plumbing%20%26%20Associates%20LLC" class="btn btn-primary">Get Free Quote</a>
+        <a href="tel:" class="btn btn-secondary">Call Now</a>
+      </div>
+    </div>
+    <div class="trust-badges-editorial reveal reveal-delay-3">
+      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></span> <span>Day After Christmas Service</span></div>
+      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span> <span>4-Star Google Rating</span></div>
+      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></span> <span>70+ Happy Customers</span></div>
+      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"/></svg></span> <span>Realtor Recommended</span></div>
+    </div>
+  </div>
+</section>
+
+<style>
+.services-wrap {
+  background: var(--surface-alt);
+}
+.services-section {
+  padding: var(--section-pad);
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
+.services-header {
+  margin-bottom: 48px;
+}
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+.service-card {
+  padding: 32px;
+  border-radius: var(--radius-lg);
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  position: relative;
+}
+.service-card:hover {
+  border-color: rgba(var(--primary-rgb), 0.2);
+  box-shadow: var(--card-shadow-hover);
+  transform: translateY(-4px);
+}
+.service-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  background: rgba(var(--primary-rgb), 0.08);
+  color: var(--primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.service-icon svg { width: 22px; height: 22px; }
+.service-card h3 {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+  letter-spacing: -0.01em;
+}
+.service-card p {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  line-height: 1.65;
+}
+</style>
+<div class="services-wrap">
+<section class="services-section">
+  <div class="services-header">
+    <div class="section-label reveal">THE WORK</div>
+    <h2 class="section-heading reveal reveal-delay-1">Every pipe problem, handled</h2>
+    <p class="section-sub reveal reveal-delay-2">From emergency clogs to septic system drainage — we fix what's broken and do it right</p>
+  </div>
+  <div class="services-grid">
+    
+    <div class="service-card reveal reveal-delay-1">
+      <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v8"/><path d="M4 6h16"/><path d="M4 6v4a4 4 0 0 0 4 4h8a4 4 0 0 0 4-4V6"/><path d="M12 14v8"/></svg></div>
+      <h3>Emergency Sewer &amp; Drain Cleaning</h3>
+      <p>Sewer backups don't wait for business hours. Neither do we. Fast response when your pipes are backing up.</p>
+    </div>
+    <div class="service-card reveal reveal-delay-2">
+      <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg></div>
+      <h3>Septic System Drainage</h3>
+      <p>Proper drainage systems that actually work. We'll get your septic flowing the way it should.</p>
+    </div>
+    <div class="service-card reveal reveal-delay-3">
+      <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg></div>
+      <h3>Clog Removal &amp; Line Repair</h3>
+      <p>Kitchen sink backing up? Sewer line clogged? We clear it out and fix the root cause, not just the symptom.</p>
+    </div>
+    <div class="service-card reveal reveal-delay-4">
+      <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg></div>
+      <h3>Water Delivery Services</h3>
+      <p>Clean water delivery for pools and construction projects. Quality water you can count on.</p>
+    </div>
+  </div>
+</section>
+</div>
+
+<style>
+.about-section {
+  padding: var(--section-pad);
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
+.about-inner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 64px;
+  align-items: center;
+}
+.about-text h2 {
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  font-weight: 700;
+  margin-bottom: 16px;
+  letter-spacing: -0.02em;
+}
+.about-text p {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  line-height: 1.75;
+}
+
+/* ── Stats visual ──────────────────────────── */
+.about-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.about-stat {
+  padding: 28px 24px;
+  border-radius: var(--radius-lg);
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  text-align: center;
+}
+.about-stat-icon {
+  color: var(--primary);
+  margin-bottom: 12px;
+  display: flex;
+  justify-content: center;
+}
+.about-stat-icon svg { width: 22px; height: 22px; }
+.about-stat-value {
+  font-family: var(--font-heading);
+  font-size: 1.8rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: var(--text);
+  line-height: 1.1;
+  margin-bottom: 4px;
+}
+.about-stat-label {
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* ── Pull-quote visual ─────────────────────── */
+.about-pullquote {
+  padding: 36px;
+  border-radius: var(--radius-lg);
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  position: relative;
+}
+.about-pullquote-mark {
+  font-family: Georgia, serif;
+  font-size: 4rem;
+  line-height: 1;
+  color: var(--primary);
+  opacity: 0.3;
+  position: absolute;
+  top: 16px;
+  left: 28px;
+}
+.about-pullquote-text {
+  font-size: 1.05rem;
+  font-style: italic;
+  color: var(--text-muted);
+  line-height: 1.7;
+  margin: 16px 0 24px;
+  padding: 0;
+  border: 0;
+}
+.about-pullquote-author {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border);
+}
+.about-pullquote-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+  color: var(--text-on-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.85rem;
+  flex-shrink: 0;
+}
+.about-pullquote-name { font-weight: 600; font-size: 0.88rem; }
+.about-pullquote-location { font-size: 0.78rem; color: var(--text-subtle); }
+
+/* ── Feature list visual ───────────────────── */
+.about-features {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.about-feature {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 18px 22px;
+  border-radius: var(--radius);
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  font-size: 0.92rem;
+  font-weight: 500;
+}
+.about-feature-icon {
+  color: var(--primary);
+  flex-shrink: 0;
+  display: flex;
+}
+.about-feature-icon svg { width: 20px; height: 20px; }
+
+@media (max-width: 768px) {
+  .about-inner { grid-template-columns: 1fr; gap: 32px; }
+  .about-stats { grid-template-columns: 1fr 1fr; gap: 12px; }
+}
+</style>
+<section class="about-section">
+  <div class="about-inner">
+    
+    <div class="about-stats reveal">
+      
+      <div class="about-stat reveal-delay-1">
+        <div class="about-stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
+        <div class="about-stat-value">4</div>
+        <div class="about-stat-label">Google Rating</div>
+      </div>
+      <div class="about-stat reveal-delay-2">
+        <div class="about-stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg></div>
+        <div class="about-stat-value">4</div>
+        <div class="about-stat-label">Services Offered</div>
+      </div>
+      <div class="about-stat reveal-delay-3">
+        <div class="about-stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></div>
+        <div class="about-stat-value">8</div>
+        <div class="about-stat-label">Cities Served</div>
+      </div>
+    </div>
+    <div class="about-text">
+      <div class="section-label reveal">About</div>
+      <h2 class="reveal reveal-delay-1">Macon plumbers who actually answer the phone</h2>
+      <p class="reveal reveal-delay-2">Watson Plumbing &amp; Associates has been solving Middle Georgia's toughest plumbing problems with honest pricing and reliable service. When other companies quote you over $1000, we show up with a fair price and get it done right. Real estate professionals trust us with their clients because we deliver what we promise.</p>
+    </div>
+  </div>
+</section>
+
+<style>
+.reviews-section {
+  padding: var(--section-pad);
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
+.reviews-header { margin-bottom: 48px; }
+.reviews-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+.review-card {
+  padding: 32px;
+  border-radius: var(--radius-lg);
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+}
+.review-text {
+  font-size: 0.92rem;
+  color: var(--text-muted);
+  line-height: 1.7;
+  margin-bottom: 24px;
+  flex: 1;
+  font-style: italic;
+}
+.review-text::before { content: open-quote; font-size: 1.5rem; color: var(--primary); font-family: Georgia, serif; vertical-align: -4px; margin-right: 2px; }
+.review-text::after { content: close-quote; font-size: 1.5rem; color: var(--primary); font-family: Georgia, serif; vertical-align: -4px; margin-left: 2px; }
+.review-author {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border);
+}
+.review-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+  color: var(--text-on-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.9rem;
+  flex-shrink: 0;
+}
+.review-name { font-weight: 600; font-size: 0.88rem; }
+.review-location { font-size: 0.78rem; color: var(--text-subtle); }
+</style>
+<section class="reviews-section">
+  <div class="reviews-header">
+    <div class="section-label reveal">WORD OF MOUTH</div>
+    <h2 class="section-heading reveal reveal-delay-1">What Macon customers say</h2>
+  </div>
+  <div class="reviews-grid">
+    
+    <div class="review-card reveal reveal-delay-1">
+      <div class="review-stars"><span class="stars-full">★★★★★</span><span class="stars-empty"></span></div>
+      <div class="review-text">Great folks who respond quickly. Had a sewer backup the day after Christmas and they actually showed up to help.</div>
+      <div class="review-author">
+        <div class="review-avatar">M</div>
+        <div>
+          <div class="review-name">M C.</div>
+          <div class="review-location">Macon, GA</div>
+        </div>
+      </div>
+    </div>
+    <div class="review-card reveal reveal-delay-2">
+      <div class="review-stars"><span class="stars-full">★★★★★</span><span class="stars-empty"></span></div>
+      <div class="review-text">Mr Watson helped us get proper septic drainage. Friendly staff, professional work, reasonable prices. They really care about customers.</div>
+      <div class="review-author">
+        <div class="review-avatar">B</div>
+        <div>
+          <div class="review-name">Bernice C.</div>
+          <div class="review-location">Middle GA</div>
+        </div>
+      </div>
+    </div>
+    <div class="review-card reveal reveal-delay-3">
+      <div class="review-stars"><span class="stars-full">★★★★★</span><span class="stars-empty"></span></div>
+      <div class="review-text">As a Realtor for 6 years, I consistently trust Watson with my clients. Always responsive, professional, and affordable. I use them for my own family too.</div>
+      <div class="review-author">
+        <div class="review-avatar">J</div>
+        <div>
+          <div class="review-name">Jessica S.</div>
+          <div class="review-location">Middle GA</div>
+        </div>
+      </div>
+    </div>
+    <div class="review-card reveal reveal-delay-4">
+      <div class="review-stars"><span class="stars-full">★★★★★</span><span class="stars-empty"></span></div>
+      <div class="review-text">Big company quoted me $1100 for a kitchen sink clog. Watson came out early and fixed it for much less. Called ahead too.</div>
+      <div class="review-author">
+        <div class="review-avatar">N</div>
+        <div>
+          <div class="review-name">Nate M.</div>
+          <div class="review-location">Macon, GA</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+.areas-wrap {
+  background: var(--surface-alt);
+}
+.areas-section {
+  padding: var(--section-pad);
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
+.areas-header { margin-bottom: 36px; }
+.areas-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.area-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 20px;
+  border-radius: 100px;
+  background: rgba(var(--primary-rgb), 0.10);
+  border: 1px solid rgba(var(--primary-rgb), 0.15);
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: var(--text);
+  transition: all 0.2s;
+}
+.area-pill:hover {
+  border-color: rgba(var(--primary-rgb), 0.25);
+  background: rgba(var(--primary-rgb), 0.12);
+}
+.area-pill .icon { color: var(--primary); font-size: 0.85rem; }
+.area-pill .icon svg { width: 14px; height: 14px; }
+</style>
+<div class="areas-wrap">
+<section class="areas-section">
+  <div class="areas-header">
+    <div class="section-label reveal">COVERAGE AREA</div>
+    <h2 class="section-heading reveal reveal-delay-1">Serving Middle Georgia</h2>
+    <p class="section-sub reveal reveal-delay-2">Fast response throughout the region</p>
+  </div>
+  <div class="areas-grid reveal reveal-delay-3">
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Macon</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Warner Robins</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Perry</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Centerville</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Byron</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Cochran</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Dublin</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Milledgeville</span>
+  </div>
+</section>
+</div>
+
+<style>
+.cta-section {
+  padding: 0 clamp(20px, 5vw, 48px);
+  max-width: var(--max-w);
+  margin: 0 auto clamp(64px, 8vw, 100px);
+}
+.cta-banner {
+  padding: clamp(48px, 6vw, 72px) clamp(32px, 5vw, 64px);
+  border-radius: var(--radius-lg);
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+  color: var(--text-on-primary);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.cta-banner::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(45deg, transparent, transparent 60px, rgba(255,255,255,0.02) 60px, rgba(255,255,255,0.02) 120px);
+  pointer-events: none;
+}
+.cta-banner h2 {
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  font-weight: 700;
+  margin-bottom: 14px;
+  position: relative;
+}
+.cta-banner p {
+  font-size: 1rem;
+  opacity: 0.85;
+  max-width: 480px;
+  margin: 0 auto 32px;
+  position: relative;
+  line-height: 1.65;
+}
+.cta-buttons {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+  position: relative;
+}
+</style>
+<section class="cta-section">
+  <div class="cta-banner reveal">
+    <h2>Ready to fix what's broken?</h2>
+    <p>Fair quotes, honest work, and we actually show up when we say we will. That's the Watson difference.</p>
+    <div class="cta-buttons">
+      <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Watson%20Plumbing%20%26%20Associates%20LLC" class="btn btn-on-primary">Get Free Estimate</a>
+      <a href="tel:" class="btn btn-outline-primary">Call Watson</a>
+    </div>
+  </div>
+</section>
+
+<style>
+.footer {
+  border-top: 1px solid var(--border);
+  padding: 48px clamp(20px, 5vw, 48px);
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
+.footer-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 32px;
+  margin-bottom: 32px;
+}
+.footer-brand { max-width: 280px; }
+.footer-brand-name {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin-bottom: 6px;
+}
+.footer-tagline {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+.footer-links { display: flex; gap: 20px; flex-wrap: wrap; }
+.footer-links a {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 0.88rem;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+.footer-links a:hover { color: var(--primary); }
+.footer-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding-top: 24px;
+  border-top: 1px solid var(--border);
+  font-size: 0.78rem;
+  color: var(--text-subtle);
+}
+.gambit-badge a {
+  color: var(--text-subtle);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.gambit-badge a:hover { color: var(--primary); }
+</style>
+<footer class="footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="footer-brand-name">Watson Plumbing &amp; Associates LLC</div>
+      <div class="footer-tagline">Macon's trusted plumbing professionals</div>
+    </div>
+    <div class="footer-links">
+      <a href="#">Home</a>
+      <a href="#">Services</a>
+      <a href="#">Service Areas</a>
+      <a href="tel:">Call for service</a>
+      <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Watson%20Plumbing%20%26%20Associates%20LLC">Contact</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>&copy; 2026 Watson Plumbing &amp; Associates LLC</span>
+    <span class="gambit-badge">Concept by <a href="https://gambitbuilds.com" target="_blank">Gambit Builds</a></span>
+  </div>
+</footer>
+
+<script>
+(function(){
+  const els = document.querySelectorAll('.reveal');
+  const obs = new IntersectionObserver((entries) => {
+    entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('visible'); obs.unobserve(e.target); } });
+  }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+  els.forEach(el => obs.observe(el));
+})();
+</script>
+
+</body>
+</html>

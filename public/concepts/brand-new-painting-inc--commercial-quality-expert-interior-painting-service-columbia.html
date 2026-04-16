@@ -1,0 +1,874 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Brand New Painting Inc - Commercial, Quality, Expert Interior Painting Service — painter in Columbia, SC</title>
+<meta name="description" content="When interior designers choose us for their own projects, you know the work speaks for itself."/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;500;600;700;800&family=Source+Sans+3:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>
+<style>
+:root {
+  --primary: #92400E;
+  --primary-rgb: 146, 64, 14;
+  --primary-light: #f6f0ec;
+  --primary-med: #efe2db;
+  --primary-dark: #7c360c;
+  --accent: #1E40AF;
+  --accent-rgb: 30, 64, 175;
+  --bg: #FDF2F2;
+  --surface-alt: #FADCDC;
+  --surface-alt-card: #FCE8E8;
+  --text: #1F2937;
+  --text-on-primary: #ffffff;
+  --text-muted: color-mix(in srgb, #1F2937 60%, transparent);
+  --text-subtle: color-mix(in srgb, #1F2937 40%, transparent);
+  --border: color-mix(in srgb, #1F2937 8%, transparent);
+  --border-strong: color-mix(in srgb, #1F2937 15%, transparent);
+  --card-bg: #FDF2F2;
+  --card-shadow: 0 1px 3px rgba(0,0,0,0.04), 0 4px 12px rgba(0,0,0,0.03);
+  --card-shadow-hover: 0 4px 16px rgba(0,0,0,0.08), 0 8px 32px rgba(0,0,0,0.04);
+  --font-heading: 'Crimson Text', sans-serif;
+  --font-body: 'Source Sans 3', sans-serif;
+  --radius: 12px;
+  --radius-lg: 20px;
+  --max-w: 1120px;
+  --section-pad: clamp(64px, 8vw, 100px) clamp(20px, 5vw, 48px);
+}
+
+*, *::before, *::after { margin:0; padding:0; box-sizing:border-box; }
+html { scroll-behavior:smooth; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body {
+  font-family: var(--font-body);
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+  overflow-x: hidden;
+}
+
+/* ── Section tinting ───────────────────────── */
+.section-tinted {
+  background: var(--surface-alt);
+}
+.section-tinted .service-card,
+.section-tinted .review-card {
+  background: var(--surface-alt-card);
+}
+
+
+/* ── Icon base ─────────────────────────────── */
+.icon { display: inline-flex; align-items: center; justify-content: center; }
+.icon svg { width: 1em; height: 1em; }
+
+/* ── Scroll animations ─────────────────────── */
+.reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.7s cubic-bezier(0.16, 1, 0.3, 1), transform 0.7s cubic-bezier(0.16, 1, 0.3, 1); }
+.reveal.visible { opacity: 1; transform: translateY(0); }
+.reveal-delay-1 { transition-delay: 0.1s; }
+.reveal-delay-2 { transition-delay: 0.2s; }
+.reveal-delay-3 { transition-delay: 0.3s; }
+.reveal-delay-4 { transition-delay: 0.4s; }
+.reveal-delay-5 { transition-delay: 0.5s; }
+
+/* ── Section label ─────────────────────────── */
+.section-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--primary);
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.section-label::before {
+  content: '';
+  width: 24px;
+  height: 2px;
+  background: var(--primary);
+  border-radius: 1px;
+}
+
+/* ── Typography ────────────────────────────── */
+h1, h2, h3 { font-family: var(--font-heading); line-height: 1.2; }
+h1 em, h2 em { font-style: italic; color: var(--primary); }
+.section-heading {
+  font-size: clamp(1.75rem, 3.5vw, 2.5rem);
+  font-weight: 700;
+  margin-bottom: 16px;
+  letter-spacing: -0.02em;
+}
+.section-sub {
+  font-size: 1.05rem;
+  color: var(--text-muted);
+  max-width: 560px;
+  line-height: 1.7;
+}
+
+/* ── Buttons ───────────────────────────────── */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 28px;
+  border-radius: var(--radius);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  font-family: var(--font-body);
+  border: none;
+  cursor: pointer;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  position: relative;
+  overflow: hidden;
+}
+.btn-primary {
+  background: var(--primary);
+  color: var(--text-on-primary);
+  box-shadow: 0 2px 8px rgba(var(--primary-rgb), 0.25);
+}
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(var(--primary-rgb), 0.35);
+}
+.btn-secondary {
+  background: transparent;
+  color: var(--text);
+  border: 1.5px solid var(--border-strong);
+}
+.btn-secondary:hover {
+  border-color: var(--primary);
+  background: rgba(var(--primary-rgb), 0.04);
+}
+.btn-on-primary {
+  background: var(--bg);
+  color: var(--text);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.btn-on-primary:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0,0,0,0.15); }
+.btn-outline-primary {
+  background: transparent;
+  color: var(--text-on-primary);
+  border: 1.5px solid rgba(255,255,255,0.3);
+}
+.btn-outline-primary:hover { background: rgba(255,255,255,0.1); }
+
+/* ── Stars ─────────────────────────────────── */
+.stars-full { color: var(--accent); }
+.stars-empty { color: var(--border-strong); }
+.review-stars { font-size: 0.95rem; letter-spacing: 2px; margin-bottom: 14px; }
+
+/* ── Responsive ────────────────────────────── */
+@media (max-width: 768px) {
+  .services-grid, .reviews-grid { grid-template-columns: 1fr !important; }
+  .hero-ctas { flex-direction: column; align-items: stretch; }
+  .hero-ctas .btn { justify-content: center; }
+  .split-hero { flex-direction: column !important; }
+  .split-hero-content { text-align: center; padding: 48px 24px !important; }
+  .split-hero-visual { min-height: 300px !important; }
+  .footer-inner { flex-direction: column; gap: 24px; }
+  .areas-grid { justify-content: center; }
+  .trust-badges { gap: 12px; }
+}
+</style>
+</head>
+<body>
+
+
+<style>
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 clamp(20px, 5vw, 48px);
+  height: 72px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(255,255,255,0.92);
+  backdrop-filter: blur(12px) saturate(180%);
+  -webkit-backdrop-filter: blur(12px) saturate(180%);
+  border-bottom: 1px solid var(--border);
+}
+.nav-logo {
+  font-family: var(--font-heading);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  letter-spacing: -0.02em;
+}
+.nav-logo-img { height: 32px; width: auto; object-fit: contain; }
+.nav-right { display: flex; align-items: center; gap: 16px; }
+.nav-phone {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--text-muted);
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.9rem;
+  transition: color 0.2s;
+}
+.nav-phone:hover { color: var(--primary); }
+.nav-phone .icon svg { width: 16px; height: 16px; }
+.nav-cta {
+  background: var(--primary);
+  color: var(--text-on-primary);
+  padding: 9px 20px;
+  border-radius: var(--radius);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.85rem;
+  transition: all 0.2s;
+}
+.nav-cta:hover { opacity: 0.9; transform: translateY(-1px); }
+@media (max-width: 600px) {
+  .nav-phone span { display: none; }
+  .nav-cta { padding: 8px 14px; font-size: 0.8rem; }
+}
+</style>
+<nav class="nav">
+  <a href="#" class="nav-logo">Brand New Painting Inc - Commercial, Quality, Expert Interior Painting Service</a>
+  <div class="nav-right">
+    <a href="tel:8032531410" class="nav-phone"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg></span><span>(803) 253-1410</span></a>
+    <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Brand%20New%20Painting%20Inc%20-%20Commercial%2C%20Quality%2C%20Expert%20Interior%20Painting%20Service" class="nav-cta">Get a Quote</a>
+  </div>
+</nav>
+
+<style>
+.hero-editorial {
+  padding: clamp(60px, 10vw, 120px) clamp(20px, 5vw, 48px) 0;
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
+.hero-editorial .hero-eyebrow {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--primary);
+  margin-bottom: 24px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.hero-editorial .hero-eyebrow::before {
+  content: '';
+  width: 40px;
+  height: 2px;
+  background: var(--primary);
+}
+.hero-editorial h1 {
+  font-size: clamp(2.8rem, 7vw, 4.5rem);
+  font-weight: 800;
+  line-height: 1.05;
+  margin-bottom: 32px;
+  letter-spacing: -0.03em;
+  max-width: 900px;
+}
+.hero-editorial .hero-bottom {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 40px;
+  flex-wrap: wrap;
+  padding-bottom: clamp(40px, 6vw, 72px);
+  border-bottom: 1px solid var(--border);
+}
+.hero-editorial .hero-sub {
+  font-size: 1.1rem;
+  color: var(--text-muted);
+  max-width: 400px;
+  line-height: 1.7;
+  margin-bottom: 28px;
+}
+.hero-editorial .hero-ctas { display: flex; gap: 12px; flex-wrap: wrap; }
+.hero-editorial .trust-badges-editorial {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px 24px;
+}
+.hero-editorial .trust-badge {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+.hero-editorial .trust-badge .icon { color: var(--primary); font-size: 1rem; }
+.hero-editorial .trust-badge .icon svg { width: 16px; height: 16px; }
+@media (max-width: 768px) {
+  .hero-editorial .hero-bottom { flex-direction: column; align-items: flex-start; }
+  .hero-editorial .trust-badges-editorial { grid-template-columns: 1fr; }
+}
+</style>
+<section class="hero-editorial">
+  <div class="hero-eyebrow reveal">Columbia, SC</div>
+  <h1 class="reveal reveal-delay-1">Interior painting that <em>professionals</em> recommend</h1>
+  <div class="hero-bottom">
+    <div class="reveal reveal-delay-2">
+      <p class="hero-sub">When interior designers choose us for their own projects, you know the work speaks for itself.</p>
+      <div class="hero-ctas">
+        <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Brand%20New%20Painting%20Inc%20-%20Commercial%2C%20Quality%2C%20Expert%20Interior%20Painting%20Service" class="btn btn-primary">Get Your Quote</a>
+        <a href="tel:8032531410" class="btn btn-secondary">Call Now</a>
+      </div>
+    </div>
+    <div class="trust-badges-editorial reveal reveal-delay-3">
+      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span> <span>5-Star Google Rating</span></div>
+      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></span> <span>Designer Recommended</span></div>
+      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></span> <span>Commercial Quality</span></div>
+      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span> <span>Licensed &amp; Insured</span></div>
+    </div>
+  </div>
+</section>
+
+<style>
+.services-wrap {
+  background: var(--surface-alt);
+}
+.services-section {
+  padding: var(--section-pad);
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
+.services-header {
+  margin-bottom: 48px;
+}
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+.service-card {
+  padding: 32px;
+  border-radius: var(--radius-lg);
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  position: relative;
+}
+.service-card:hover {
+  border-color: rgba(var(--primary-rgb), 0.2);
+  box-shadow: var(--card-shadow-hover);
+  transform: translateY(-4px);
+}
+.service-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  background: rgba(var(--primary-rgb), 0.08);
+  color: var(--primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.service-icon svg { width: 22px; height: 22px; }
+.service-card h3 {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+  letter-spacing: -0.01em;
+}
+.service-card p {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  line-height: 1.65;
+}
+</style>
+<div class="services-wrap">
+<section class="services-section">
+  <div class="services-header">
+    <div class="section-label reveal">THE CRAFT</div>
+    <h2 class="section-heading reveal reveal-delay-1">Interior Painting Done Right</h2>
+    <p class="section-sub reveal reveal-delay-2">Every wall, every room, every detail — handled with commercial-grade precision</p>
+  </div>
+  <div class="services-grid">
+    
+    <div class="service-card reveal reveal-delay-1">
+      <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18.37 2.63L14 7l-1.59-1.59a2 2 0 0 0-2.82 0L8 7l9 9 1.59-1.59a2 2 0 0 0 0-2.82L17 10l4.37-4.37a2.12 2.12 0 1 0-3-3z"/><path d="M9 8c-2 3-4 3.5-7 4l8 10c2-1 6-5 6-7"/><path d="M14.5 17.5L4.5 15"/></svg></div>
+      <h3>Commercial Interior Painting</h3>
+      <p>Office buildings, retail spaces, and commercial properties painted with precision and minimal disruption to your business operations.</p>
+    </div>
+    <div class="service-card reveal reveal-delay-2">
+      <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></div>
+      <h3>Residential Interior Projects</h3>
+      <p>Home interiors painted with the same commercial-grade attention to detail that professionals demand for their own spaces.</p>
+    </div>
+    <div class="service-card reveal reveal-delay-3">
+      <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6"/><path d="M10 22h4"/><path d="M15.09 14c.18-.98.65-1.74 1.41-2.5A4.65 4.65 0 0 0 18 8 6 6 0 0 0 6 8c0 1 .23 2.23 1.5 3.5A4.61 4.61 0 0 1 8.91 14"/></svg></div>
+      <h3>Expert Color Consultation</h3>
+      <p>Professional guidance on color selection and finishes that complement your space and stand the test of time.</p>
+    </div>
+  </div>
+</section>
+</div>
+
+<style>
+.about-section {
+  padding: var(--section-pad);
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
+.about-inner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 64px;
+  align-items: center;
+}
+.about-text h2 {
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  font-weight: 700;
+  margin-bottom: 16px;
+  letter-spacing: -0.02em;
+}
+.about-text p {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  line-height: 1.75;
+}
+
+/* ── Stats visual ──────────────────────────── */
+.about-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.about-stat {
+  padding: 28px 24px;
+  border-radius: var(--radius-lg);
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  text-align: center;
+}
+.about-stat-icon {
+  color: var(--primary);
+  margin-bottom: 12px;
+  display: flex;
+  justify-content: center;
+}
+.about-stat-icon svg { width: 22px; height: 22px; }
+.about-stat-value {
+  font-family: var(--font-heading);
+  font-size: 1.8rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: var(--text);
+  line-height: 1.1;
+  margin-bottom: 4px;
+}
+.about-stat-label {
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* ── Pull-quote visual ─────────────────────── */
+.about-pullquote {
+  padding: 36px;
+  border-radius: var(--radius-lg);
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  position: relative;
+}
+.about-pullquote-mark {
+  font-family: Georgia, serif;
+  font-size: 4rem;
+  line-height: 1;
+  color: var(--primary);
+  opacity: 0.3;
+  position: absolute;
+  top: 16px;
+  left: 28px;
+}
+.about-pullquote-text {
+  font-size: 1.05rem;
+  font-style: italic;
+  color: var(--text-muted);
+  line-height: 1.7;
+  margin: 16px 0 24px;
+  padding: 0;
+  border: 0;
+}
+.about-pullquote-author {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border);
+}
+.about-pullquote-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+  color: var(--text-on-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.85rem;
+  flex-shrink: 0;
+}
+.about-pullquote-name { font-weight: 600; font-size: 0.88rem; }
+.about-pullquote-location { font-size: 0.78rem; color: var(--text-subtle); }
+
+/* ── Feature list visual ───────────────────── */
+.about-features {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.about-feature {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 18px 22px;
+  border-radius: var(--radius);
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  font-size: 0.92rem;
+  font-weight: 500;
+}
+.about-feature-icon {
+  color: var(--primary);
+  flex-shrink: 0;
+  display: flex;
+}
+.about-feature-icon svg { width: 20px; height: 20px; }
+
+@media (max-width: 768px) {
+  .about-inner { grid-template-columns: 1fr; gap: 32px; }
+  .about-stats { grid-template-columns: 1fr 1fr; gap: 12px; }
+}
+</style>
+<section class="about-section">
+  <div class="about-inner">
+    
+    <div class="about-stats reveal">
+      
+      <div class="about-stat reveal-delay-1">
+        <div class="about-stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
+        <div class="about-stat-value">5</div>
+        <div class="about-stat-label">Google Rating</div>
+      </div>
+      <div class="about-stat reveal-delay-2">
+        <div class="about-stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg></div>
+        <div class="about-stat-value">3</div>
+        <div class="about-stat-label">Services Offered</div>
+      </div>
+      <div class="about-stat reveal-delay-3">
+        <div class="about-stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></div>
+        <div class="about-stat-value">8</div>
+        <div class="about-stat-label">Cities Served</div>
+      </div>
+    </div>
+    <div class="about-text">
+      <div class="section-label reveal">About</div>
+      <h2 class="reveal reveal-delay-1">Trusted by Columbia's Design Professionals</h2>
+      <p class="reveal reveal-delay-2">Brand New Painting Inc brings commercial-quality interior painting to Columbia, SC. When interior designers and industry professionals need painting work done, they choose our crew. Bobby and his team deliver the kind of precision and reliability that builds reputations — fast turnaround without cutting corners.</p>
+    </div>
+  </div>
+</section>
+
+<style>
+.reviews-section {
+  padding: var(--section-pad);
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
+.reviews-header { margin-bottom: 48px; }
+.reviews-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+.review-card {
+  padding: 32px;
+  border-radius: var(--radius-lg);
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+}
+.review-text {
+  font-size: 0.92rem;
+  color: var(--text-muted);
+  line-height: 1.7;
+  margin-bottom: 24px;
+  flex: 1;
+  font-style: italic;
+}
+.review-text::before { content: open-quote; font-size: 1.5rem; color: var(--primary); font-family: Georgia, serif; vertical-align: -4px; margin-right: 2px; }
+.review-text::after { content: close-quote; font-size: 1.5rem; color: var(--primary); font-family: Georgia, serif; vertical-align: -4px; margin-left: 2px; }
+.review-author {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border);
+}
+.review-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+  color: var(--text-on-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.9rem;
+  flex-shrink: 0;
+}
+.review-name { font-weight: 600; font-size: 0.88rem; }
+.review-location { font-size: 0.78rem; color: var(--text-subtle); }
+</style>
+<section class="reviews-section">
+  <div class="reviews-header">
+    <div class="section-label reveal">WORD OF MOUTH</div>
+    <h2 class="section-heading reveal reveal-delay-1">What Columbia Says</h2>
+  </div>
+  <div class="reviews-grid">
+    
+    <div class="review-card reveal reveal-delay-1">
+      <div class="review-stars"><span class="stars-full">★★★★★</span><span class="stars-empty"></span></div>
+      <div class="review-text">As an interior designer with years of experience, Bobby and his crew at Brand New Painting were truly a cut above their competitors. After interviewing many contractors, I knew I made the right choice.</div>
+      <div class="review-author">
+        <div class="review-avatar">J</div>
+        <div>
+          <div class="review-name">Jodi G.</div>
+          <div class="review-location">Columbia, SC</div>
+        </div>
+      </div>
+    </div>
+    <div class="review-card reveal reveal-delay-2">
+      <div class="review-stars"><span class="stars-full">★★★★★</span><span class="stars-empty"></span></div>
+      <div class="review-text">Bobby delivers both speed and high quality work. Already planning to use them again for our next project.</div>
+      <div class="review-author">
+        <div class="review-avatar">C</div>
+        <div>
+          <div class="review-name">Caroline C.</div>
+          <div class="review-location">Columbia, SC</div>
+        </div>
+      </div>
+    </div>
+    <div class="review-card reveal reveal-delay-3">
+      <div class="review-stars"><span class="stars-full">★★★★★</span><span class="stars-empty"></span></div>
+      <div class="review-text">These guys did a wonderful job from start to finish.</div>
+      <div class="review-author">
+        <div class="review-avatar">C</div>
+        <div>
+          <div class="review-name">Cliff T.</div>
+          <div class="review-location">Columbia, SC</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+.areas-wrap {
+  background: var(--surface-alt);
+}
+.areas-section {
+  padding: var(--section-pad);
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
+.areas-header { margin-bottom: 36px; }
+.areas-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.area-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 20px;
+  border-radius: 100px;
+  background: rgba(var(--primary-rgb), 0.10);
+  border: 1px solid rgba(var(--primary-rgb), 0.15);
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: var(--text);
+  transition: all 0.2s;
+}
+.area-pill:hover {
+  border-color: rgba(var(--primary-rgb), 0.25);
+  background: rgba(var(--primary-rgb), 0.12);
+}
+.area-pill .icon { color: var(--primary); font-size: 0.85rem; }
+.area-pill .icon svg { width: 14px; height: 14px; }
+</style>
+<div class="areas-wrap">
+<section class="areas-section">
+  <div class="areas-header">
+    <div class="section-label reveal">COVERAGE AREA</div>
+    <h2 class="section-heading reveal reveal-delay-1">Serving Columbia &amp; Beyond</h2>
+    <p class="section-sub reveal reveal-delay-2">Professional interior painting throughout the Midlands</p>
+  </div>
+  <div class="areas-grid reveal reveal-delay-3">
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Columbia</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Forest Acres</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> West Columbia</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Cayce</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Irmo</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Lexington</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Blythewood</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Elgin</span>
+  </div>
+</section>
+</div>
+
+<style>
+.cta-section {
+  padding: 0 clamp(20px, 5vw, 48px);
+  max-width: var(--max-w);
+  margin: 0 auto clamp(64px, 8vw, 100px);
+}
+.cta-banner {
+  padding: clamp(48px, 6vw, 72px) clamp(32px, 5vw, 64px);
+  border-radius: var(--radius-lg);
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+  color: var(--text-on-primary);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.cta-banner::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(45deg, transparent, transparent 60px, rgba(255,255,255,0.02) 60px, rgba(255,255,255,0.02) 120px);
+  pointer-events: none;
+}
+.cta-banner h2 {
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  font-weight: 700;
+  margin-bottom: 14px;
+  position: relative;
+}
+.cta-banner p {
+  font-size: 1rem;
+  opacity: 0.85;
+  max-width: 480px;
+  margin: 0 auto 32px;
+  position: relative;
+  line-height: 1.65;
+}
+.cta-buttons {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+  position: relative;
+}
+</style>
+<section class="cta-section">
+  <div class="cta-banner reveal">
+    <h2>Ready for Professional Results?</h2>
+    <p>Get the same quality work that Columbia's interior designers trust. Call Bobby today for your free estimate.</p>
+    <div class="cta-buttons">
+      <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Brand%20New%20Painting%20Inc%20-%20Commercial%2C%20Quality%2C%20Expert%20Interior%20Painting%20Service" class="btn btn-on-primary">Get Free Estimate</a>
+      <a href="tel:8032531410" class="btn btn-outline-primary">Call (803) 253-1410</a>
+    </div>
+  </div>
+</section>
+
+<style>
+.footer {
+  border-top: 1px solid var(--border);
+  padding: 48px clamp(20px, 5vw, 48px);
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
+.footer-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 32px;
+  margin-bottom: 32px;
+}
+.footer-brand { max-width: 280px; }
+.footer-brand-name {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin-bottom: 6px;
+}
+.footer-tagline {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+.footer-links { display: flex; gap: 20px; flex-wrap: wrap; }
+.footer-links a {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 0.88rem;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+.footer-links a:hover { color: var(--primary); }
+.footer-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding-top: 24px;
+  border-top: 1px solid var(--border);
+  font-size: 0.78rem;
+  color: var(--text-subtle);
+}
+.gambit-badge a {
+  color: var(--text-subtle);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.gambit-badge a:hover { color: var(--primary); }
+</style>
+<footer class="footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="footer-brand-name">Brand New Painting Inc - Commercial, Quality, Expert Interior Painting Service</div>
+      <div class="footer-tagline">Commercial quality interior painting that speaks for itself</div>
+    </div>
+    <div class="footer-links">
+      <a href="#">Home</a>
+      <a href="#">Services</a>
+      <a href="#">Service Areas</a>
+      <a href="tel:8032531410">(803) 253-1410</a>
+      <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20Brand%20New%20Painting%20Inc%20-%20Commercial%2C%20Quality%2C%20Expert%20Interior%20Painting%20Service">Contact</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>&copy; 2026 Brand New Painting Inc - Commercial, Quality, Expert Interior Painting Service</span>
+    <span class="gambit-badge">Concept by <a href="https://gambitbuilds.com" target="_blank">Gambit Builds</a></span>
+  </div>
+</footer>
+
+<script>
+(function(){
+  const els = document.querySelectorAll('.reveal');
+  const obs = new IntersectionObserver((entries) => {
+    entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('visible'); obs.unobserve(e.target); } });
+  }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+  els.forEach(el => obs.observe(el));
+})();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Kyle's Auto Electric Service",
+    "phone": "(239) 693-7076",
+    "email": "",
+    "city": "Fort Myers",
+    "state": "FL",
+    "industry": "electrician",
+    "tagline": "Rebuilding what others replace",
+    "logo_url": "",
+    "google_rating": "4.8 stars (20 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When your starter quits, we *rebuild* it right",
+    "subheadline": "Same-day fixes on starters, alternators, and electrical systems. Fort Myers shops trust us with their toughest jobs.",
+    "cta_primary": "Get Diagnosis",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.8 Stars (20 Reviews)"
+    },
+    {
+      "icon": "tool",
+      "text": "Rebuild & Repair Specialists"
+    },
+    {
+      "icon": "zap",
+      "text": "Same-Day Service"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Shop Recommended"
+    }
+  ],
+  "services_section": {
+    "label": "THE ELECTRIC WORK",
+    "heading": "Starters, alternators, and everything that sparks",
+    "subheading": "We fix what's broken instead of selling you new parts"
+  },
+  "services": [
+    {
+      "title": "Starter Rebuilds",
+      "description": "Complete teardown and rebuild of starter motors. We restore original equipment to better-than-new condition, even on classic cars from the 1950s.",
+      "icon": "zap"
+    },
+    {
+      "title": "Alternator Repair",
+      "description": "Full alternator diagnostics and repair service. We'll test your charging system for free and only fix what actually needs fixing.",
+      "icon": "plug"
+    },
+    {
+      "title": "Electrical Diagnostics",
+      "description": "Track down mysterious electrical problems in any vehicle. Our testing equipment finds the real issue, not just the symptoms.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Classic Car Electric",
+      "description": "Specialized work on vintage and classic vehicle electrical systems. We understand the unique challenges of older automotive wiring.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Kyle knows electric systems inside and out",
+    "body": "Kyle's Auto Electric Service has built a reputation across Fort Myers for honest diagnostics and quality rebuilds. We specialize in starter and alternator work that other shops send out or replace unnecessarily. From daily drivers to classic restorations, we fix it right the first time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Fort Myers drivers are saying"
+  },
+  "reviews": [
+    {
+      "name": "Natalie D.",
+      "location": "Fort Myers",
+      "text": "Kyle rebuilt my 1951 Ford F1 starter perfectly. Incredibly knowledgeable and fast - wouldn't trust anyone else with this kind of work.",
+      "rating": 5
+    },
+    {
+      "name": "Alan R.",
+      "location": "Fort Myers",
+      "text": "Excellent repair work and customer service. Didn't even charge me for testing my alternator. I recommend him to everyone.",
+      "rating": 5
+    },
+    {
+      "name": "Peppy L.",
+      "location": "Fort Myers",
+      "text": "Rock solid service with impeccable knowledge. Highly recommend Kyle for any electrical work.",
+      "rating": 5
+    },
+    {
+      "name": "Larry Z.",
+      "location": "Fort Myers",
+      "text": "Super service from a really nice guy. I send all my customers' starters and alternators to Kyle.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE AREA",
+    "heading": "Covering Southwest Florida",
+    "subheading": "Serving these communities and surrounding areas",
+    "areas": [
+      "Fort Myers",
+      "Cape Coral",
+      "Lehigh Acres",
+      "Bonita Springs",
+      "Estero",
+      "North Fort Myers",
+      "Gateway",
+      "Sanibel"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix what's actually broken?",
+    "body": "Bring your starter or alternator problems to someone who rebuilds instead of replaces. Call Kyle for honest diagnostics.",
+    "cta_primary": "Get Free Test",
+    "cta_secondary": "Call (239) 693-7076"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

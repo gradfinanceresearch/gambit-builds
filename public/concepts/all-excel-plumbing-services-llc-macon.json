@@ -1,0 +1,104 @@
+{
+  "business": {
+    "name": "All Excel Plumbing Services LLC",
+    "phone": "(478) 718-5493",
+    "email": "",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "plumber",
+    "tagline": "Excellence in every pipe",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*All Excel* means every job done right",
+    "subheadline": "Licensed Macon plumbers who show up when we say we will — with the parts you need already in the truck",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Response"
+    },
+    {
+      "icon": "check",
+      "text": "Upfront Pricing"
+    },
+    {
+      "icon": "star",
+      "text": "5-Star Service"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every pipe, every problem",
+    "subheading": "From midnight emergencies to kitchen upgrades — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Emergency Plumbing",
+      "description": "Burst pipes, clogged drains, no hot water — we're on call when disaster strikes your Macon home",
+      "icon": "wrench"
+    },
+    {
+      "title": "Water Heater Service",
+      "description": "Tank or tankless, gas or electric — we install, repair, and maintain every type of water heater",
+      "icon": "flame"
+    },
+    {
+      "title": "Drain Cleaning",
+      "description": "Kitchen sinks, bathroom drains, main lines — cleared completely with professional equipment",
+      "icon": "pipe"
+    },
+    {
+      "title": "Fixture Installation",
+      "description": "New faucets, toilets, sinks, and showers installed properly the first time",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Built on reliability in Macon",
+    "body": "All Excel Plumbing Services LLC brings professional plumbing solutions to Macon homeowners and businesses. We believe every job deserves the same attention to detail — whether it's fixing a leaky faucet or installing a complete plumbing system. Licensed, insured, and committed to getting it right."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon says about our work"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Macon and surrounding areas",
+    "subheading": "Professional plumbing service throughout Middle Georgia",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Perry",
+      "Centerville",
+      "Byron",
+      "Forsyth",
+      "Gray",
+      "Milledgeville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your plumbing fixed right?",
+    "body": "Don't wait for small problems to become expensive disasters. Call All Excel Plumbing Services today for fast, professional service.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call (478) 718-5493"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#F97316",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

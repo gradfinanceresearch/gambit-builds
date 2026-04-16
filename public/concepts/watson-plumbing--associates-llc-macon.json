@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Watson Plumbing & Associates LLC",
+    "phone": "Call for service",
+    "email": "watsonplumbingas@bellsouth.net",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "plumber",
+    "tagline": "Macon's trusted plumbing professionals",
+    "logo_url": "",
+    "google_rating": "4 stars (70 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Sewer backup on Christmas? *We still showed up*",
+    "subheadline": "Real plumbers who answer the phone, quote fair prices, and get the job done right the first time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "clock",
+      "text": "Day After Christmas Service"
+    },
+    {
+      "icon": "star",
+      "text": "4-Star Google Rating"
+    },
+    {
+      "icon": "users",
+      "text": "70+ Happy Customers"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Realtor Recommended"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every pipe problem, handled",
+    "subheading": "From emergency clogs to septic system drainage — we fix what's broken and do it right"
+  },
+  "services": [
+    {
+      "title": "Emergency Sewer & Drain Cleaning",
+      "description": "Sewer backups don't wait for business hours. Neither do we. Fast response when your pipes are backing up.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Septic System Drainage",
+      "description": "Proper drainage systems that actually work. We'll get your septic flowing the way it should.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Clog Removal & Line Repair",
+      "description": "Kitchen sink backing up? Sewer line clogged? We clear it out and fix the root cause, not just the symptom.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Water Delivery Services",
+      "description": "Clean water delivery for pools and construction projects. Quality water you can count on.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Macon plumbers who actually answer the phone",
+    "body": "Watson Plumbing & Associates has been solving Middle Georgia's toughest plumbing problems with honest pricing and reliable service. When other companies quote you over $1000, we show up with a fair price and get it done right. Real estate professionals trust us with their clients because we deliver what we promise."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon customers say"
+  },
+  "reviews": [
+    {
+      "name": "M C.",
+      "location": "Macon, GA",
+      "text": "Great folks who respond quickly. Had a sewer backup the day after Christmas and they actually showed up to help.",
+      "rating": 5
+    },
+    {
+      "name": "Bernice C.",
+      "location": "Middle GA",
+      "text": "Mr Watson helped us get proper septic drainage. Friendly staff, professional work, reasonable prices. They really care about customers.",
+      "rating": 5
+    },
+    {
+      "name": "Jessica S.",
+      "location": "Middle GA",
+      "text": "As a Realtor for 6 years, I consistently trust Watson with my clients. Always responsive, professional, and affordable. I use them for my own family too.",
+      "rating": 5
+    },
+    {
+      "name": "Nate M.",
+      "location": "Macon, GA",
+      "text": "Big company quoted me $1100 for a kitchen sink clog. Watson came out early and fixed it for much less. Called ahead too.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Middle Georgia",
+    "subheading": "Fast response throughout the region",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Perry",
+      "Centerville",
+      "Byron",
+      "Cochran",
+      "Dublin",
+      "Milledgeville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix what's broken?",
+    "body": "Fair quotes, honest work, and we actually show up when we say we will. That's the Watson difference.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Watson"
+  },
+  "design": {
+    "primary_color": "#5B21B6",
+    "accent_color": "#10B981",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "editorial"
+  }
+}

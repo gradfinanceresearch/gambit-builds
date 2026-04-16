@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "Handyman Pro's",
+    "phone": "(803) 520-0621",
+    "email": "info@provisionhomeshandyman.com",
+    "city": "Columbia",
+    "state": "SC",
+    "industry": "handyman",
+    "tagline": "Orlando and crew — fixing what needs fixing",
+    "logo_url": "",
+    "google_rating": "5 stars (92 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "The handyman Columbia calls *when it matters*",
+    "subheadline": "Orlando and his sons show up when promised, work clean, and charge fair. Ask your neighbors — they already know.",
+    "cta_primary": "Get Your Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5 Stars (92 Reviews)"
+    },
+    {
+      "icon": "phone",
+      "text": "15-Minute Response Time"
+    },
+    {
+      "icon": "users",
+      "text": "Family-Run Business"
+    },
+    {
+      "icon": "check",
+      "text": "Fair & Upfront Pricing"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Doors, fans, TVs, trim — pretty much anything",
+    "subheading": "From quick repairs to bigger installations, we handle the jobs that make your house work better"
+  },
+  "services": [
+    {
+      "title": "Door Installation & Repair",
+      "description": "Screen doors, entry doors, framing work — hung straight and secure. We measure twice, install once.",
+      "icon": "home"
+    },
+    {
+      "title": "Ceiling Fan Installation",
+      "description": "Mount them right the first time. Balanced, wired properly, and ready to keep you cool all summer.",
+      "icon": "fan"
+    },
+    {
+      "title": "TV Mounting",
+      "description": "Get that TV off the dresser and on the wall where it belongs. Clean wiring, sturdy mounts, perfect height.",
+      "icon": "zap"
+    },
+    {
+      "title": "Trim & Exterior Repairs",
+      "description": "Loose trim, damaged siding, roof peak work — we fix what weather and time have worn down.",
+      "icon": "hammer"
+    },
+    {
+      "title": "General Repairs",
+      "description": "The odds and ends that pile up around the house. One call handles them all.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Orlando and his sons — Columbia handymen since day one",
+    "body": "We're the family team your neighbors already trust. Orlando leads every job with his sons, bringing decades of experience to each project. We show up on time, work clean, communicate clearly, and charge fairly. Simple as that. Columbia is home — we take care of our community's homes the same way we'd take care of our own."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbia homeowners are saying"
+  },
+  "reviews": [
+    {
+      "name": "Cynthia R.",
+      "location": "Columbia, SC",
+      "text": "Orlando and Ezra replaced my screen door perfectly. Great communication — called to schedule, texted when coming. Professional work, exactly as promised.",
+      "rating": 5
+    },
+    {
+      "name": "John R.",
+      "location": "Columbia, SC",
+      "text": "They've been out twice — installed ceiling fans and mounted our TV. Professional, friendly, fair prices. Will definitely use them again.",
+      "rating": 5
+    },
+    {
+      "name": "Brynn J.",
+      "location": "Columbia, SC",
+      "text": "Flawless door framing and installation. Extremely fair pricing, top-notch work. Orlando and his son handle anything you need. Fast, reliable, highly recommended.",
+      "rating": 5
+    },
+    {
+      "name": "Jim S.",
+      "location": "Columbia, SC",
+      "text": "Called for roof trim repair — they came over in 15 minutes! Respectful, pleasant, great work at reasonable price. Would hire again without hesitation.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Columbia and surrounding communities",
+    "subheading": "Quick response times throughout the Midlands region",
+    "areas": [
+      "Columbia",
+      "West Columbia",
+      "Cayce",
+      "Lexington",
+      "Irmo",
+      "Forest Acres",
+      "Springdale",
+      "Pine Ridge"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get that project done right?",
+    "body": "Call Orlando and the crew. Fair pricing, quality work, and the kind of service that keeps Columbia neighbors coming back.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (803) 520-0621"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Fraunces",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

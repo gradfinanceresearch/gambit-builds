@@ -1,0 +1,130 @@
+{
+  "business": {
+    "name": "Carolina's Best painting & drywall services, LLP",
+    "phone": "(803) 394-1002",
+    "email": "",
+    "city": "Columbia",
+    "state": "SC",
+    "industry": "painter",
+    "tagline": "When walls need fixing, we make them perfect",
+    "logo_url": "",
+    "google_rating": "5 stars (66 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Eric and Ace Fix What Others *Can't Touch*",
+    "subheadline": "66 five-star reviews say it all — boat holes, ceiling patches, full repaints. We show up, we fix it right, we're done.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call (803) 394-1002"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "66 Five-Star Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "clock",
+      "text": "Always On Time"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "No Fuss Pricing"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Walls, Ceilings, Paint — All of It",
+    "subheading": "From accidental boat holes to full home repaints, we handle the messy stuff so you don't have to"
+  },
+  "services": [
+    {
+      "title": "Drywall Repair & Patching",
+      "description": "Holes, cracks, water damage — we patch it up and make it look like nothing ever happened. Your garage wall will thank you.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Interior & Exterior Painting",
+      "description": "Fresh paint that actually lasts. We prep right, paint clean, and leave your place looking better than you imagined.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Ceiling Repairs & Painting",
+      "description": "Kitchen ceiling looking rough? We patch, prime, and paint until it's smooth as new. No streaks, no mess left behind.",
+      "icon": "home"
+    },
+    {
+      "title": "Complete Wall Restoration",
+      "description": "When contractors leave you with torn-up drywall, we come in and make it right. Clean lines, perfect finish, done properly.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Eric & Ace — Columbia's Wall Fixers",
+    "body": "We're the team Columbia calls when walls need real work. Whether it's a boat-sized hole in your garage or a full house repaint, we show up with the right tools and get it done right. Professional, honest, and detailed — that's how we've earned 66 five-star reviews across Columbia."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbia Says About Us"
+  },
+  "reviews": [
+    {
+      "name": "Quinton T.",
+      "location": "Columbia, SC",
+      "text": "Eric and Ace were incredible — professional, honest, and super detailed. They fixed my drywall perfectly, looks brand new!",
+      "rating": 5
+    },
+    {
+      "name": "Imani L.",
+      "location": "Columbia, SC",
+      "text": "Amazing paint job on my whole house! Wish someone had told me about Carolina's Best sooner instead of wasting time with other painters.",
+      "rating": 5
+    },
+    {
+      "name": "Jon M.",
+      "location": "Columbia, SC",
+      "text": "They fixed the hole I made backing my boat into the garage wall. No fuss pricing, speedy repair, great conversation. Welcome back anytime!",
+      "rating": 5
+    },
+    {
+      "name": "Olga I.",
+      "location": "Columbia, SC",
+      "text": "Very professional and punctual. Did a perfect job patching and painting our kitchen ceiling. Very reasonable pricing too!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Columbia & Beyond",
+    "subheading": "We cover the greater Columbia area and surrounding communities",
+    "areas": [
+      "Columbia",
+      "West Columbia",
+      "Cayce",
+      "Irmo",
+      "Lexington",
+      "Forest Acres",
+      "Rosewood",
+      "Shandon",
+      "Five Points"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fix Those Walls?",
+    "body": "No fuss estimates, honest pricing, and work that actually lasts. Call Eric and Ace today and see why Columbia keeps calling us back.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#B45309",
+    "accent_color": "#1F2937",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

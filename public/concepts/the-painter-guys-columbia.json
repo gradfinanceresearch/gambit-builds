@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "The Painter Guys",
+    "phone": "(803) 600-6390",
+    "email": "jgrayj10@aol.com",
+    "city": "Columbia",
+    "state": "SC",
+    "industry": "painter",
+    "tagline": "",
+    "logo_url": "",
+    "google_rating": "4.7 stars (14 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Wallpaper nightmares?* Cracked ceilings? We fix it all",
+    "subheadline": "Jeff Gray's crew shows up early, stays late, and leaves your walls looking better than you imagined possible.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (803) 600-6390"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.7 Stars on Google"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "clock",
+      "text": "On Time Every Day"
+    },
+    {
+      "icon": "check",
+      "text": "Clean Work Guaranteed"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Interior, exterior, repairs — handled",
+    "subheading": "From stubborn wallpaper removal to full exterior makeovers"
+  },
+  "services": [
+    {
+      "title": "Interior Painting",
+      "description": "Walls, ceilings, trim — we prep right and paint smooth. No shortcuts, no mess left behind.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Exterior House Painting",
+      "description": "Weather protection that looks great. Proper prep work means your paint job lasts years longer.",
+      "icon": "home"
+    },
+    {
+      "title": "Wall & Ceiling Repairs",
+      "description": "Cracks, holes, texture issues — we fix the problem before we paint over it.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Wallpaper Removal",
+      "description": "That old wallpaper comes off clean. We handle the adhesive mess and prep for fresh paint.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Jeff Gray runs a tight crew in Columbia",
+    "body": "We've been transforming Columbia homes one room at a time. Jeff leads every job personally — from the initial walkthrough to the final cleanup. His team shows up on time, works clean, and fixes problems the right way. No cutting corners, no surprise charges."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbia homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Chris C.",
+      "location": "Columbia",
+      "text": "Jeff and Jose's team did excellent work. Professional, easy to communicate with, and delivered exactly what we wanted.",
+      "rating": 5
+    },
+    {
+      "name": "Ben B.",
+      "location": "Columbia",
+      "text": "They transformed our kitchen from rough wallpaper adhesive walls into a beautiful space. Fixed ceiling cracks perfectly too.",
+      "rating": 5
+    },
+    {
+      "name": "Phoebe M.",
+      "location": "Columbia",
+      "text": "Jeff explained everything clearly and delivered exactly what was promised. Great attention to detail and even repaired floor scratches his crew made.",
+      "rating": 5
+    },
+    {
+      "name": "Rhonda B.",
+      "location": "Columbia",
+      "text": "Very reasonable price for exterior painting. Crew showed up on time every day and cleaned up after themselves. Thrilled with the results.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Columbia and surrounding areas",
+    "subheading": "We paint throughout the Midlands region",
+    "areas": [
+      "Columbia",
+      "Lexington",
+      "Irmo",
+      "West Columbia",
+      "Cayce",
+      "Forest Acres",
+      "Blythewood",
+      "Elgin"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get those walls fixed right?",
+    "body": "Jeff personally handles every estimate. No pressure, just straight talk about what your project needs and what it'll cost.",
+    "cta_primary": "Schedule Estimate",
+    "cta_secondary": "Call (803) 600-6390"
+  },
+  "design": {
+    "primary_color": "#B91C1C",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

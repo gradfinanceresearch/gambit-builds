@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "AJ’S COLUMBUS HANDYMAN, LLC",
+    "phone": "(614) 735-0454",
+    "email": "",
+    "city": "Columbus",
+    "state": "OH",
+    "industry": "handyman",
+    "tagline": "The guy your neighbors call first",
+    "logo_url": "",
+    "google_rating": "5 stars (13 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Fix it right, *price it fair* — that's the AJ way",
+    "subheadline": "From flooring to fencing, trimming to troubleshooting. One call handles it all in Columbus.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call (614) 735-0454"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "phone",
+      "text": "Great Communicator"
+    },
+    {
+      "icon": "check",
+      "text": "Fair & Transparent Pricing"
+    },
+    {
+      "icon": "tool",
+      "text": "Multiple Solutions Ready"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "What AJ Fixes",
+    "subheading": "Every project gets the same attention — whether it's one loose board or a full deck rebuild"
+  },
+  "services": [
+    {
+      "title": "Flooring Installation",
+      "description": "Hardwood, laminate, tile — we measure twice, install once, and clean up completely when done.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Fencing & Gates",
+      "description": "Custom gates, deck railings, property lines. Built to last Ohio weather and your budget.",
+      "icon": "home"
+    },
+    {
+      "title": "Tree Trimming",
+      "description": "Keep your yard looking sharp and your gutters clear. We haul away every branch.",
+      "icon": "saw"
+    },
+    {
+      "title": "General Repairs",
+      "description": "That list of little things? Knock them all out in one visit. Drywall, trim, fixtures, you name it.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Lawn & Landscape Care",
+      "description": "Regular maintenance that keeps your property looking its best, season after season.",
+      "icon": "fan"
+    }
+  ],
+  "about": {
+    "heading": "The Columbus Handyman Who Shows Up",
+    "body": "AJ has been fixing, building, and maintaining homes across Columbus and Gahanna for years. What sets us apart? We actually communicate. We show up when we say we will. We price things fairly upfront. And we don't leave until the job's done right. It's really that simple."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbus Says"
+  },
+  "reviews": [
+    {
+      "name": "Amy H.",
+      "location": "Columbus",
+      "text": "Two years running, AJ's been punctual and thorough on our lawn care. Outstanding results every time.",
+      "rating": 5
+    },
+    {
+      "name": "Phyllis D.",
+      "location": "Gahanna",
+      "text": "Flooring, tree trimming, deck gates — AJ handled multiple projects beautifully. Great pricing and communication.",
+      "rating": 5
+    },
+    {
+      "name": "Rewar M.",
+      "location": "Columbus",
+      "text": "Best service in a long time. Very communicative, respectful, and got everything done neatly.",
+      "rating": 5
+    },
+    {
+      "name": "Brooke B.",
+      "location": "Columbus",
+      "text": "Detail oriented with fair, transparent pricing. My landscape always looks fantastic.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where AJ Works",
+    "subheading": "Serving Columbus and surrounding communities",
+    "areas": [
+      "Columbus",
+      "Gahanna",
+      "Westerville",
+      "Upper Arlington",
+      "Bexley",
+      "Reynoldsburg",
+      "Dublin",
+      "Grove City"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Cross Things Off Your List?",
+    "body": "Call AJ today. Fair pricing, clear communication, and work that's done right the first time.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#5B21B6",
+    "accent_color": "#10B981",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

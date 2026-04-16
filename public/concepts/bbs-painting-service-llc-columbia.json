@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "BB’s Painting Service LLC,",
+    "phone": "(803) 678-7769",
+    "email": "bbspaintingservice247@gmail.com",
+    "city": "Columbia",
+    "state": "SC",
+    "industry": "painter",
+    "tagline": "Precision painting that shows",
+    "logo_url": "",
+    "google_rating": "4.7 stars (79 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "The painters *your neighbors* already trust",
+    "subheadline": "4.7 stars across 79 reviews. When Brandon and his crew finish, you'll see why Columbia keeps calling us back.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.7 Stars • 79 Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Detail-Focused Prep Work"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Goes Above & Beyond"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Interior, exterior, repairs — handled right",
+    "subheading": "From drywall fixes to full home makeovers, we prep thoroughly and paint to last"
+  },
+  "services": [
+    {
+      "title": "Interior Painting",
+      "description": "Room by room or whole-house transformations. Meticulous prep work and clean lines that make the difference show.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Exterior Painting",
+      "description": "Houses, fences, shutters, trim — pressure washed, prepped, and painted to weather Columbia's seasons.",
+      "icon": "home"
+    },
+    {
+      "title": "Drywall Repair",
+      "description": "Holes, cracks, and damage disappear. We patch, sand, and paint until walls look brand new again.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Deck & Fence Staining",
+      "description": "Pressure washing followed by proper staining. Your outdoor spaces ready for cookouts and curb appeal.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Trim & Detail Work",
+      "description": "Doors, shutters, columns — the finishing touches that make your whole house look professionally done.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Brandon, Benson, and the crew Columbia calls first",
+    "body": "When you see our work truck around Columbia neighborhoods, there's a reason. We've built our reputation one project at a time — thorough prep work, attention to detail, and going the extra mile even when we don't have to. Whether it's fixing drywall holes or painting entire home exteriors, we take pride in work that lasts. That's why neighbors recommend us to neighbors."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbia homeowners are saying"
+  },
+  "reviews": [
+    {
+      "name": "Keyasha C.",
+      "location": "Columbia, SC",
+      "text": "Brandon repaired my drywall hole and went beyond what I expected. Fast, professional, and you can tell he takes real pride in his work. Wall looks brand new!",
+      "rating": 5
+    },
+    {
+      "name": "Dave D.",
+      "location": "Columbia, SC",
+      "text": "Benson and crew painted our arbor, then went above and beyond painting columns and front bump-out at no charge. The whole front looks amazing!",
+      "rating": 5
+    },
+    {
+      "name": "Dee D.",
+      "location": "Columbia, SC",
+      "text": "Brandan painted shutters, front door and trim — even installed new door hardware. Great communication, showed up on time, very thorough with prep and cleanup.",
+      "rating": 5
+    },
+    {
+      "name": "Melissa J.",
+      "location": "Columbia, SC",
+      "text": "Saw their truck and grabbed the contact info — so glad I did! Professional, responsive, pressure washed then completed perfect work. Deck is ready for summer!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Columbia and surrounding areas",
+    "subheading": "Professional painting services throughout the Midlands",
+    "areas": [
+      "Columbia",
+      "Lexington",
+      "Irmo",
+      "Cayce",
+      "West Columbia",
+      "Forest Acres",
+      "Elgin",
+      "Blythewood"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to see the BB's difference?",
+    "body": "Join 79+ happy homeowners who've experienced our attention to detail. Free estimates, thorough prep work, and results that last.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (803) 678-7769"
+  },
+  "design": {
+    "primary_color": "#0F4C75",
+    "accent_color": "#3EDBF0",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

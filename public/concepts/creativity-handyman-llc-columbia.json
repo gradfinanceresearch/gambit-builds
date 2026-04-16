@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Creativity Handyman LLC",
+    "phone": "(803) 556-1373",
+    "email": "",
+    "city": "Columbia",
+    "state": "SC",
+    "industry": "painter",
+    "tagline": "",
+    "logo_url": "",
+    "google_rating": "5 stars (54 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Vision to reality* — that's what we do",
+    "subheadline": "Hugo and his crew transform Columbia homes with craftsmanship that makes you want to show off every room",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "users",
+      "text": "54+ Happy Customers"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "clock",
+      "text": "Fast Response Times"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "From paint to carpet to complete room makeovers",
+    "subheading": "Multiple projects, one trusted crew"
+  },
+  "services": [
+    {
+      "title": "Interior & Exterior Painting",
+      "description": "Transform any space with professional paint work that lasts. We prep, prime, and paint with precision.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Flooring Installation",
+      "description": "Carpet, hardwood, tile — we handle all types of flooring with careful attention to every detail.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Room Conversions",
+      "description": "Turn that old shower into a closet or reimagine any space. We bring your vision to life in days, not weeks.",
+      "icon": "home"
+    },
+    {
+      "title": "Complete Renovations",
+      "description": "Family rooms, bathrooms, bedrooms — we handle full room makeovers that exceed expectations.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Hugo's crew — turning Columbia houses into dream homes",
+    "body": "What started as handyman services has grown into something bigger. We're the team Columbia homeowners call when they want work done right the first time. From simple paint jobs to complete room transformations, we protect your floors, clean up our mess, and deliver results that make you want to call the neighbors over."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbia homeowners are saying"
+  },
+  "reviews": [
+    {
+      "name": "Rachael W.",
+      "location": "Columbia, SC",
+      "text": "Used them twice for different projects — such great work every time. Will absolutely call them again for future projects.",
+      "rating": 5
+    },
+    {
+      "name": "Amy K.",
+      "location": "Columbia, SC",
+      "text": "Needed carpet installed and found Hugo online with amazing reviews. Professional, responsive, and did a fantastic job.",
+      "rating": 5
+    },
+    {
+      "name": "TJ",
+      "location": "Columbia, SC",
+      "text": "Respectful crew, great communication, cleans up afterward. We've used them for several projects — they're our go-to now.",
+      "rating": 5
+    },
+    {
+      "name": "Liz F.",
+      "location": "Columbia, SC",
+      "text": "Turned our old shower into a closet in just 2 days. Covered everything, cleaned up — you wouldn't know they'd been here. Pure artistry.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Columbia and surrounding communities",
+    "subheading": "Quality work throughout the Midlands",
+    "areas": [
+      "Columbia",
+      "West Columbia",
+      "Cayce",
+      "Forest Acres",
+      "Irmo",
+      "Lexington",
+      "Blythewood",
+      "Chapin"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to see your vision come to life?",
+    "body": "From quick touch-ups to complete room makeovers, Hugo's crew delivers results that make you smile every time you walk in the room.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (803) 556-1373"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "editorial"
+  }
+}

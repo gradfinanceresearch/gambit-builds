@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "Whole House Handyman",
+    "phone": "(850) 363-1500",
+    "email": "info@wholehousehandyman.com",
+    "city": "Tallahassee",
+    "state": "FL",
+    "industry": "handyman",
+    "tagline": "Everything fixed. Everything working.",
+    "logo_url": "",
+    "google_rating": "5 stars (8 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When *everything* breaks at once",
+    "subheadline": "We show up on Sundays. We fix arcade machines. We handle disaster cleanup. No job too weird, too small, or too urgent for Tallahassee.",
+    "cta_primary": "Get Your Fix",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5 Stars on Google"
+    },
+    {
+      "icon": "phone",
+      "text": "Sunday Service Available"
+    },
+    {
+      "icon": "tool",
+      "text": "Fix Anything Mindset"
+    },
+    {
+      "icon": "heart",
+      "text": "Tallahassee Trusted"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIXES",
+    "heading": "We repair what others won't touch",
+    "subheading": "From vintage arcade machines to storm damage cleanup — if it's broken in your house, we'll figure it out"
+  },
+  "services": [
+    {
+      "title": "Appliance Resurrection",
+      "description": "Dryers, washers, ovens, refrigerators — we bring dead appliances back to life and keep them running strong",
+      "icon": "plug"
+    },
+    {
+      "title": "Emergency House Repairs",
+      "description": "Water damage, break-ins, storm aftermath — we help put your home back together when disaster strikes",
+      "icon": "shield"
+    },
+    {
+      "title": "Specialty Electronics",
+      "description": "Arcade machines, vintage equipment, unusual electronics — we research and restore what others give up on",
+      "icon": "zap"
+    },
+    {
+      "title": "Kitchen & Bath Fixes",
+      "description": "Leaky sinks, broken oven glass, cabinet repairs — all the little things that make your kitchen unusable",
+      "icon": "wrench"
+    },
+    {
+      "title": "Complete Home Maintenance",
+      "description": "Regular upkeep, seasonal repairs, preventive fixes — keeping everything working before it breaks",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "The handyman team Tallahassee calls first",
+    "body": "We're the ones who show up when other repair services won't. Sunday service calls, disaster cleanup, vintage electronics — nothing's too unusual or too urgent. We've been solving impossible repair problems for Tallahassee homeowners who need someone reliable enough to trust with their worst days and weird enough to fix a PAC-MAN machine."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "Real fixes for real people"
+  },
+  "reviews": [
+    {
+      "name": "Fred",
+      "location": "Tallahassee",
+      "text": "They came out on Sunday to fix my dryer and had it running like new in under an hour. Professional service at great rates.",
+      "rating": 5
+    },
+    {
+      "name": "Pat L.",
+      "location": "Tallahassee",
+      "text": "Best repair service ever! Prompt, friendly, professional. They've fixed everything for me over the years — washer, dryer, oven, kitchen sink leaks.",
+      "rating": 5
+    },
+    {
+      "name": "Tracy M.",
+      "location": "Tallahassee",
+      "text": "Fantastic service! They researched my old PAC-MAN machine and brought it back to life. Fair price and wonderful to have it working again.",
+      "rating": 5
+    },
+    {
+      "name": "Edward H.",
+      "location": "Tallahassee",
+      "text": "After returning from rehab to a house damaged by break-in and weather, they helped make it livable again when I thought it was hopeless.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Tallahassee and surrounding areas",
+    "subheading": "Fast response times throughout Leon County and beyond",
+    "areas": [
+      "Tallahassee",
+      "Crawfordville",
+      "Quincy",
+      "Havana",
+      "Monticello",
+      "Thomasville",
+      "Bainbridge",
+      "Cairo"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix whatever's broken?",
+    "body": "Don't let broken appliances, storm damage, or mystery malfunctions ruin your day. We'll figure it out and get it working right.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (850) 363-1500"
+  },
+  "design": {
+    "primary_color": "#B45309",
+    "accent_color": "#1F2937",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Barlow Condensed",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

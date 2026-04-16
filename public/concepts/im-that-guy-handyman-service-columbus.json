@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "I'm That Guy Handyman Service",
+    "phone": "(614) 654-1349",
+    "email": "shane@614gotaguy.com",
+    "city": "Columbus",
+    "state": "OH",
+    "industry": "handyman",
+    "tagline": "The guy Columbus calls when stuff needs fixing",
+    "logo_url": "",
+    "google_rating": "4.9 stars (238 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*That guy* who actually shows up and fixes it right",
+    "subheadline": "From ceiling fans to flooring disasters — Matt handles whatever broke, whatever you started, and whatever's driving you crazy.",
+    "cta_primary": "Get Your Fix",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9 Stars • 238 Reviews"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Response"
+    },
+    {
+      "icon": "check",
+      "text": "Fair Pricing Always"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Columbus Trusted"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIXES",
+    "heading": "Whatever's broken, Matt's got it",
+    "subheading": "Ceiling fans, drywall, plumbing fixes, flooring, electrical work — basically everything your house throws at you"
+  },
+  "services": [
+    {
+      "title": "Ceiling Fan Install & Repair",
+      "description": "New fans, wobbly fans, fans that spark — all fixed. Matt handles the wiring so you don't have to climb ladders with live wires.",
+      "icon": "fan"
+    },
+    {
+      "title": "Drywall & Paint Touch-Ups",
+      "description": "Holes, cracks, bad texture jobs. Whether it's garage damage or just normal wear, Matt makes walls look right again.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Plumbing Quick Fixes",
+      "description": "Leaky faucets, shower regrouting, minor repairs. Not full replumbs, but the annoying drips and loose fixtures that bug you daily.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Flooring Projects",
+      "description": "Started a laminate job and realized you're in over your head? Matt finishes what you started. Carpet removal, installation, fixes.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Door & Window Repairs",
+      "description": "Doors that won't close, windows that stick, urgent fixes when security matters. Fast response when you need it most.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Matt — Columbus handyman who gets it done",
+    "body": "4.9 stars across 238 reviews because Matt shows up when he says he will, explains what's wrong without the runaround, and charges what he quotes. Columbus families call him first because they know he'll handle it right. From quick fixes to the projects you started and regretted — Matt's your guy."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbus homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Lisa P.",
+      "location": "Columbus",
+      "text": "Matt painted two rooms, installed ceiling fans, put up shelves, and fixed our bathtub faucet. Super professional, worked efficiently, and his prices are totally reasonable.",
+      "rating": 5
+    },
+    {
+      "name": "Jacey C.",
+      "location": "Columbus",
+      "text": "He's helped us with garage drywall, ceiling fan rewiring, shower regrouting, and moving electrical. Does it all, does it well, fair prices. Matt's our first call.",
+      "rating": 5
+    },
+    {
+      "name": "Kylle D.",
+      "location": "Columbus",
+      "text": "I ripped out carpet and bought laminate thinking I could handle it. Quickly realized I should stick to my day job. Matt came in and finished what I started perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "Laura E.",
+      "location": "Columbus",
+      "text": "Needed urgent door repair and Matt answered the call. Flexible scheduling, reasonable prices, quality work. Professional, dependable, and honest. Highly recommend.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Columbus and surrounding areas",
+    "subheading": "Quick response throughout central Ohio",
+    "areas": [
+      "Columbus",
+      "Dublin",
+      "Westerville",
+      "Gahanna",
+      "Grove City",
+      "Reynoldsburg",
+      "Upper Arlington",
+      "Worthington"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get that project off your list?",
+    "body": "Call Matt today and get a straight answer about what needs fixing and what it'll cost. Same-day response, fair pricing, job done right.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call (614) 654-1349"
+  },
+  "design": {
+    "primary_color": "#5B21B6",
+    "accent_color": "#10B981",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

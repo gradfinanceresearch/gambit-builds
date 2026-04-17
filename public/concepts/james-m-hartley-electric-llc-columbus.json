@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "James M. Hartley Electric, LLC",
+    "phone": "(614) 554-6223",
+    "email": "",
+    "city": "Columbus",
+    "state": "OH",
+    "industry": "electrician",
+    "tagline": "",
+    "logo_url": "",
+    "google_rating": "5 stars (75 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "The electrician Columbus calls *when it matters*",
+    "subheadline": "100-year-old wiring? Dead outlets? EV charger install? Jim shows up, figures it out, and gets it working right.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5 Stars on Google"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "phone",
+      "text": "Available Fast"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Fair Pricing"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every wire, outlet, and panel",
+    "subheading": "From century-old rewiring to modern EV chargers — no job too tricky"
+  },
+  "services": [
+    {
+      "title": "Outlet Repairs & Installation",
+      "description": "Dead outlets that haven't worked in decades? We track down the problem and get them running again, plus add new ones where you need them.",
+      "icon": "plug"
+    },
+    {
+      "title": "Panel Upgrades & Fuse Box Replacement",
+      "description": "Old fuse boxes upgraded to modern breaker panels. Keep you in contact throughout the process so you know exactly when to expect us.",
+      "icon": "zap"
+    },
+    {
+      "title": "Light Fixture Installation & Repair",
+      "description": "Tricky lighting issues solved. Whether it's new fixtures or getting existing ones working properly in older homes.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "EV Charger Installation",
+      "description": "Home electric vehicle charger setup done right. Show up as promised, reasonable rates, and quality installation you can count on.",
+      "icon": "plug"
+    },
+    {
+      "title": "Home Rewiring Projects",
+      "description": "Challenging wiring work in century-old homes. We figure out what previous electricians couldn't and make it work safely.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Jim Hartley — Columbus Electrician Since Day One",
+    "body": "When your neighbors need electrical work done right, they call Jim. Over 75 five-star reviews from Columbus homeowners who've learned what reliable electrical service actually looks like. No waiting weeks for an appointment. No trying to upsell you on work you don't need. Just honest electrical work that solves the problem."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbus homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Elana O.",
+      "location": "Columbus, OH",
+      "text": "Finally found a reliable and honest electrician! Jim replaced light fixtures and helped with rewiring. Very professional and pleasant to work with.",
+      "rating": 5
+    },
+    {
+      "name": "Wayne H.",
+      "location": "Columbus, OH",
+      "text": "James installed our EV charger perfectly. Showed up exactly when promised and his rates were very reasonable. Highly recommend.",
+      "rating": 5
+    },
+    {
+      "name": "Jenn",
+      "location": "Columbus, OH",
+      "text": "Jim upgraded our old fuse box to breakers. Kept us informed throughout, quality work at a fair price. Will definitely call him again.",
+      "rating": 5
+    },
+    {
+      "name": "Jessie A.",
+      "location": "Columbus, OH",
+      "text": "Jim has handled 3 different projects for us over the years. Always available quickly, never tries to upsell us on unnecessary work.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Columbus and surrounding areas",
+    "subheading": "Local electrician covering the communities that know us best",
+    "areas": [
+      "Columbus",
+      "Dublin",
+      "Upper Arlington",
+      "Grandview Heights",
+      "Bexley",
+      "Westerville",
+      "Grove City",
+      "Reynoldsburg"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your electrical work handled right?",
+    "body": "Call Jim directly or request a quote. No waiting weeks, no pushy sales tactics — just reliable electrical service from Columbus's trusted electrician.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (614) 554-6223"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "editorial"
+  }
+}

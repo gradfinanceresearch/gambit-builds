@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "ClearView Landscaping, LLC",
+    "phone": "(910) 599-2915",
+    "email": "office@clearviewlandscaping.online",
+    "city": "Wilmington",
+    "state": "NC",
+    "industry": "landscaper",
+    "tagline": "Where your yard vision becomes reality",
+    "logo_url": "",
+    "google_rating": "5 stars (96 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "The crew *Wilmington trusts* with their yard",
+    "subheadline": "Five stars across 96 reviews. Same-day starts after deposit. That's how we've built our reputation.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5 Stars • 96 Reviews"
+    },
+    {
+      "icon": "check",
+      "text": "Work Starts Next Day"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "users",
+      "text": "Repeat Customers"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "From patios to full yard makeovers",
+    "subheading": "Every project handled with care, completed clean and efficient"
+  },
+  "services": [
+    {
+      "title": "Landscape Design & Installation",
+      "description": "Complete front and back yard renovations. We design it, you approve it, we install it in one day.",
+      "icon": "home"
+    },
+    {
+      "title": "Patio & Hardscape",
+      "description": "Stone patios, walkways, and outdoor living spaces that last. Ask our repeat customers about the difference.",
+      "icon": "brick"
+    },
+    {
+      "title": "Yard Renovation",
+      "description": "Transform tired spaces into something you'll actually want to spend time in. No damage to existing features.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Ongoing Landscape Care",
+      "description": "Keep your investment looking its best. Regular maintenance from the same crew who installed it.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Built on Wilmington relationships",
+    "body": "What started as quality work has grown into something more — customers who call us back, neighbors who recommend us, and a team that treats every yard like it's their own. Tamara handles your questions, Alexis designs your space, and our crew makes it happen. Clean, efficient, and done right the first time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Wilmington homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Kate S.",
+      "location": "Wilmington",
+      "text": "1,000,000 out of 10! From the moment I reached out, their responsiveness was exceptional. Tamara and the team delivered exactly what they promised.",
+      "rating": 5
+    },
+    {
+      "name": "Mark T.",
+      "location": "Wilmington",
+      "text": "Second time hiring them. Patio last year was fantastic, front yard renovation this year. All work completed in one day, clean and efficient.",
+      "rating": 5
+    },
+    {
+      "name": "Danielle P.",
+      "location": "Wilmington",
+      "text": "Work exceeded our expectations. Process was smooth and they completed everything the day after we paid our deposit. Alexis was kind and professional.",
+      "rating": 5
+    },
+    {
+      "name": "Jordan N.",
+      "location": "Wilmington",
+      "text": "Excellent crew that's quick, efficient, and handles jobs with care. They've done several projects for us and there will definitely be more to come.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Wilmington and surrounding areas",
+    "subheading": "Local crew, local knowledge",
+    "areas": [
+      "Wilmington",
+      "Wrightsville Beach",
+      "Carolina Beach",
+      "Leland",
+      "Southport",
+      "Castle Hayne",
+      "Hampstead",
+      "Burgaw"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to transform your yard?",
+    "body": "Join 96 five-star customers who trusted us with their outdoor space. Quick quotes, next-day starts, and work that exceeds expectations.",
+    "cta_primary": "Get Your Free Quote",
+    "cta_secondary": "Call (910) 599-2915"
+  },
+  "design": {
+    "primary_color": "#065F46",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FEFFFE",
+    "text_color": "#1F2937",
+    "font_heading": "Merriweather",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

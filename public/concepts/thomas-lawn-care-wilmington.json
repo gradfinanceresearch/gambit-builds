@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Thomas Lawn Care",
+    "phone": "(910) 742-5195",
+    "email": "landscapingts@gmail.com",
+    "city": "Wilmington",
+    "state": "NC",
+    "industry": "landscaper",
+    "tagline": "Quality lawn care that shows up when we say we will",
+    "logo_url": "",
+    "google_rating": "4.7 stars (42 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Wilmington lawns that *actually get done right*",
+    "subheadline": "We show up when promised, do exactly what we quoted, and charge what we said. Turns out that's rare around here.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.7/5 Stars (42 Reviews)"
+    },
+    {
+      "icon": "clock",
+      "text": "On-Time Every Time"
+    },
+    {
+      "icon": "check",
+      "text": "Fixed Price Quotes"
+    },
+    {
+      "icon": "phone",
+      "text": "Super Responsive"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "From overgrown disasters to weekly maintenance",
+    "subheading": "We handle whatever your yard needs — sod installation, cleanup, regular cuts, and everything between"
+  },
+  "services": [
+    {
+      "title": "Weekly Lawn Maintenance",
+      "description": "Regular cuts, edging, and cleanup. Same crew, same day each week. No surprises on pricing or scheduling.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Sod Installation & Leveling",
+      "description": "Complete ground prep, topsoil, and fresh sod installation. We make sure it's level and ready to grow.",
+      "icon": "home"
+    },
+    {
+      "title": "Overgrown Yard Recovery",
+      "description": "Turn impossible jungle back into a showcase lawn. We've tackled the worst and made them neighborhood standouts.",
+      "icon": "saw"
+    },
+    {
+      "title": "Same-Day Service",
+      "description": "Need it done today? We often handle new customers the same day we quote — if we're in your neighborhood already.",
+      "icon": "zap"
+    }
+  ],
+  "about": {
+    "heading": "The lawn crew Wilmington actually recommends",
+    "body": "Thomas Lawn Care has built its reputation one yard at a time across Wilmington. Our crew shows up when scheduled, charges exactly what we quote, and doesn't leave until the job's done right. It's simple: reliable service that neighbors trust and recommend to each other."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Wilmington neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Christian B.",
+      "location": "Wilmington",
+      "text": "Kelsey was fantastic and really focused on what we needed. Great work at a fair price, and they always made sure mom's yard looked perfect. Communication was excellent all year.",
+      "rating": 5
+    },
+    {
+      "name": "Jon J.",
+      "location": "Wilmington",
+      "text": "They actually do everything that's impossible to find — show up on time, do what they promised, charge what they quoted. Super responsive too!",
+      "rating": 5
+    },
+    {
+      "name": "Andi S.",
+      "location": "Wilmington",
+      "text": "Saw Jeff working across the street and asked for a quote on the spot. Fair price and he did it that same day after finishing the neighbor's yard. Couldn't be happier.",
+      "rating": 5
+    },
+    {
+      "name": "Bettie T.",
+      "location": "Wilmington",
+      "text": "Best lawn service ever! Turned our impossibly overgrown disaster into the showcase of the neighborhood. They go above and beyond every time.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Wilmington and surrounding communities",
+    "subheading": "Same reliable service throughout the Cape Fear region",
+    "areas": [
+      "Wilmington",
+      "Wrightsville Beach",
+      "Carolina Beach",
+      "Leland",
+      "Hampstead",
+      "Porters Neck",
+      "Monkey Junction",
+      "Castle Hayne"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a lawn crew that actually shows up?",
+    "body": "Get a straightforward quote with no surprises. Fair pricing, reliable scheduling, quality work — exactly what lawn care should be.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (910) 742-5195"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "editorial"
+  }
+}

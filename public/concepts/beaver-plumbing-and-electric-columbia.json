@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Beaver Plumbing and Electric",
+    "phone": "(803) 200-4523",
+    "email": "",
+    "city": "Columbia",
+    "state": "SC",
+    "industry": "plumber",
+    "tagline": "When it breaks, we fix it right",
+    "logo_url": "",
+    "google_rating": "5 stars (297 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Middle of the night? *We answer.*",
+    "subheadline": "297 five-star reviews from Columbia neighbors who know — when pipes burst or power fails, one call fixes everything.",
+    "cta_primary": "Get Fixed Fast",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "297 Five-Star Reviews"
+    },
+    {
+      "icon": "clock",
+      "text": "Emergency Response"
+    },
+    {
+      "icon": "zap",
+      "text": "Plumbing & Electric"
+    },
+    {
+      "icon": "phone",
+      "text": "We Actually Answer"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Pipes, Pumps & Power",
+    "subheading": "Everything that flows or glows in your Columbia home"
+  },
+  "services": [
+    {
+      "title": "Water Heater Installation",
+      "description": "New unit picked up, old one hauled off, everything handled seamlessly. No stress, no surprises — just hot water when you turn the handle.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Emergency Plumbing",
+      "description": "Burst pipes at 2am? Lost water pressure? We triage over the phone, then show up fast to get your Columbia home flowing again.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Well Pump Repair",
+      "description": "When your well pump quits, we diagnose the problem in hours, not days. Eddie and Scotty make it like the problem never happened.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Electrical Services",
+      "description": "From outlets to panels, we handle the power side too. One crew, two specialties — because problems don't stay in their lane.",
+      "icon": "zap"
+    }
+  ],
+  "about": {
+    "heading": "Columbia's Go-To for Plumbing & Electric",
+    "body": "We're the crew Columbia calls when things go wrong. Stephen, Eddie, Scotty, and Steve — we've been fixing what breaks in Midlands homes, one emergency at a time. Whether it's a midnight pipe burst or a water heater that picked the worst day to quit, we show up ready to work."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbia Says"
+  },
+  "reviews": [
+    {
+      "name": "Daniel G.",
+      "location": "Columbia, SC",
+      "text": "Water heater installation was top-notch from start to finish. Couldn't be more impressed with their service.",
+      "rating": 5
+    },
+    {
+      "name": "Jazmon K.",
+      "location": "Columbia, SC",
+      "text": "Plumbing emergency in the middle of the night. Steve immediately began messaging to triage and showed up promptly the next morning.",
+      "rating": 5
+    },
+    {
+      "name": "D D.",
+      "location": "Columbia, SC",
+      "text": "Absolutely fantastic! They picked up my new water heater, hauled off the old one, and handled everything seamlessly.",
+      "rating": 5
+    },
+    {
+      "name": "Drew W.",
+      "location": "Columbia, SC",
+      "text": "Lost water pressure in our new home. Eddie and Scotty came out within an hour, diagnosed the well pump problem, and fixed it fast.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where We Work",
+    "subheading": "Serving Columbia and the greater Midlands area",
+    "areas": [
+      "Columbia",
+      "West Columbia",
+      "Cayce",
+      "Forest Acres",
+      "Irmo",
+      "Lexington",
+      "Red Bank",
+      "Springdale"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fix What's Broken?",
+    "body": "Don't let plumbing or electrical problems ruin your day. Call the crew Columbia trusts to get it done right.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call (803) 200-4523"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bebas Neue",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

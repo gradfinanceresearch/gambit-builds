@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "Muddy Buddy's Plumbing",
+    "phone": "(256) 755-5119",
+    "email": "info@muddybuddysplumbing.com",
+    "city": "Huntsville",
+    "state": "AL",
+    "industry": "plumber",
+    "tagline": "No job too muddy, no problem too messy",
+    "logo_url": "",
+    "google_rating": "4.9 stars (387 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "The plumber Huntsville *actually* calls back",
+    "subheadline": "4.9 stars from 387 neighbors who know — when pipes burst or drains back up, we show up ready to work",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9 Stars from 387 Reviews"
+    },
+    {
+      "icon": "clock",
+      "text": "Shows Up On Time"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "phone",
+      "text": "Actually Answers Calls"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every pipe, drain, and fixture",
+    "subheading": "From emergency repairs to planned installations — we handle whatever's flooding, clogged, or broken"
+  },
+  "services": [
+    {
+      "title": "Emergency Plumbing",
+      "description": "Burst pipes, overflowing toilets, water heater failures — the stuff that can't wait until Monday morning",
+      "icon": "wrench"
+    },
+    {
+      "title": "Drain Cleaning",
+      "description": "Kitchen sinks backing up, shower water standing ankle-deep, main line blockages that smell like trouble",
+      "icon": "droplet"
+    },
+    {
+      "title": "Water Heater Service",
+      "description": "No hot water for showers, strange noises from the basement, or time to upgrade before the old one quits",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Fixture Installation",
+      "description": "New faucets, toilet replacements, garbage disposals — making your kitchen and bathrooms work like they should",
+      "icon": "pipe"
+    },
+    {
+      "title": "Leak Detection & Repair",
+      "description": "High water bills, wet spots in walls, or that drip you hear at 3am — we find it and fix it right",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Known around Huntsville since day one",
+    "body": "Started with a truck, some tools, and the idea that plumbing problems shouldn't ruin your week. Word spread through neighborhoods — we show up when we say we will, explain what's broken in plain English, and fix it right the first time. That's how you get 387 five-star reviews from people who've actually had us in their homes."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What your neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Mary B.",
+      "location": "Huntsville",
+      "text": "Arrived exactly when promised. Professional, polite, and handled our problem fast. Would definitely recommend.",
+      "rating": 5
+    },
+    {
+      "name": "Shameca",
+      "location": "Huntsville",
+      "text": "Josh was outstanding — punctual, knowledgeable, and explained everything clearly. Fixed our kitchen sink perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "Barbara C.",
+      "location": "Huntsville",
+      "text": "Polite, kind, and incredibly fast work. Highly recommend for any plumbing issues you might have.",
+      "rating": 5
+    },
+    {
+      "name": "Rick M.",
+      "location": "Huntsville",
+      "text": "Heard about Buddy through our HOA. Fair pricing and we were impressed with his professionalism from the start.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving North Alabama",
+    "subheading": "From Madison to Arab, we cover the communities that know us best",
+    "areas": [
+      "Huntsville",
+      "Madison",
+      "Decatur",
+      "Athens",
+      "Arab",
+      "Harvest",
+      "Research Triangle",
+      "Hampton Cove"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix what's broken?",
+    "body": "No surprises, no runaround — just honest plumbing work from the team Huntsville trusts most",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (256) 755-5119"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

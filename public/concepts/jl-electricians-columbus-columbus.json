@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "JL Electricians Columbus",
+    "phone": "(380) 223-2256",
+    "email": "info@columbuselectricians.net",
+    "city": "Columbus",
+    "state": "OH",
+    "industry": "electrician",
+    "tagline": "Licensed electrical work done right",
+    "logo_url": "",
+    "google_rating": "4.6 stars (23 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Power restored.* Problem solved.",
+    "subheadline": "From panel upgrades to outlet repairs — we handle every electrical job with precision and care.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.6 Stars on Google"
+    },
+    {
+      "icon": "clock",
+      "text": "Prompt Response"
+    },
+    {
+      "icon": "tool",
+      "text": "Expert Troubleshooting"
+    }
+  ],
+  "services_section": {
+    "label": "ELECTRICAL WORK",
+    "heading": "Every Wire, Every Circuit",
+    "subheading": "Complete electrical services for Columbus homes and businesses"
+  },
+  "services": [
+    {
+      "title": "Electrical Panel Upgrades",
+      "description": "Update your electrical panel for modern safety standards and increased capacity. We ensure clean installation and code compliance.",
+      "icon": "zap"
+    },
+    {
+      "title": "Circuit & Outlet Repair",
+      "description": "Fix broken outlets, faulty circuits, and electrical malfunctions. Quick diagnosis and reliable solutions that last.",
+      "icon": "plug"
+    },
+    {
+      "title": "Electrical Wiring Services",
+      "description": "New wiring installation and rewiring for renovations. Smart, efficient work that meets all safety requirements.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Electrical Troubleshooting",
+      "description": "Track down electrical problems and fix them fast. From flickering lights to dead circuits — we find the source.",
+      "icon": "lightbulb"
+    }
+  ],
+  "about": {
+    "heading": "Columbus Electrical Specialists",
+    "body": "JL Electricians brings reliable electrical solutions to Columbus homes and businesses. Our licensed technicians handle everything from simple repairs to complex panel upgrades, always prioritizing safety and quality workmanship."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbus Says"
+  },
+  "reviews": [
+    {
+      "name": "Joyce H.",
+      "location": "Columbus",
+      "text": "Outstanding electrical service — they upgraded our panel with attention to safety and left everything neat and efficient.",
+      "rating": 5
+    },
+    {
+      "name": "Dorothy G.",
+      "location": "Columbus",
+      "text": "Smart electrician who worked carefully on our wiring project. Quick, professional work that exceeded expectations.",
+      "rating": 5
+    },
+    {
+      "name": "Rose H.",
+      "location": "Columbus",
+      "text": "Fixed our broken outlet and thoroughly checked all circuits. Professional care and excellent attention to detail.",
+      "rating": 5
+    },
+    {
+      "name": "Katie T.",
+      "location": "Columbus",
+      "text": "Showed up right on time, diagnosed the problem quickly, and fixed it perfectly. Will definitely use them again!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE AREA",
+    "heading": "Where We Work",
+    "subheading": "Reliable electrical services throughout the Columbus metro area",
+    "areas": [
+      "Columbus",
+      "Dublin",
+      "Westerville",
+      "Reynoldsburg",
+      "Grove City",
+      "Hilliard",
+      "Gahanna",
+      "Upper Arlington"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fix Your Electrical Problem?",
+    "body": "Get a free estimate on your electrical work. Licensed, insured, and ready to restore power to your home or business.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (380) 223-2256"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FAFAFA",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

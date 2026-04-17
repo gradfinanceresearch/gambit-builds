@@ -1,0 +1,131 @@
+{
+  "business": {
+    "name": "Trustable Electrician Columbus",
+    "phone": "(614) 333-6364",
+    "email": "inbound@mkelectricoh.com",
+    "city": "Columbus",
+    "state": "OH",
+    "industry": "electrician",
+    "tagline": "Electrical work done right the first time",
+    "logo_url": "",
+    "google_rating": "4.8 stars (20 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Every wire, every outlet* — handled with care",
+    "subheadline": "Licensed Columbus electricians who show up when we say we will and fix what needs fixing. No surprises, no shortcuts.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.8 Stars on Google"
+    },
+    {
+      "icon": "check",
+      "text": "Clean, Careful Work"
+    },
+    {
+      "icon": "clock",
+      "text": "On-Time Service"
+    }
+  ],
+  "services_section": {
+    "label": "THE ELECTRICAL WORK",
+    "heading": "From panels to outlets, we handle it all",
+    "subheading": "Every job gets the same careful attention, whether it's a quick repair or a full system upgrade"
+  },
+  "services": [
+    {
+      "title": "Electrical Panel Upgrades",
+      "description": "Old panels can't handle modern demands. We'll assess your system and upgrade safely, bringing your home up to current standards.",
+      "icon": "zap"
+    },
+    {
+      "title": "Electrical System Inspections",
+      "description": "Complete electrical safety checks to spot problems before they become expensive repairs. We test everything and explain what we find.",
+      "icon": "shield"
+    },
+    {
+      "title": "Outlet & Switch Installation",
+      "description": "New outlets where you need them, switches that actually work. We'll wire it right and protect your walls while we work.",
+      "icon": "plug"
+    },
+    {
+      "title": "Electrical Repairs",
+      "description": "When something stops working, we find the real problem and fix it permanently. No band-aids, just solid electrical work.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Columbus electricians who care about the details",
+    "body": "We're the electrical team Columbus homeowners call when they want the job done right. Every wire placed carefully, every connection tested, every workspace left clean. Our 4.8-star rating comes from treating every home like it's our own and making sure the electrical work lasts."
+  },
+  "reviews_section": {
+    "label": "WORD FROM NEIGHBORS",
+    "heading": "What Columbus homeowners are saying"
+  },
+  "reviews": [
+    {
+      "name": "Mae M.",
+      "location": "Columbus",
+      "text": "They handled our panel upgrade perfectly. The electrician was professional and clearly knew his stuff.",
+      "rating": 5
+    },
+    {
+      "name": "Maria B.",
+      "location": "Columbus",
+      "text": "Thorough electrical inspection and careful repairs. This is a company you can actually trust with your home.",
+      "rating": 5
+    },
+    {
+      "name": "Jonathon B.",
+      "location": "Columbus",
+      "text": "Worked with my tight schedule and delivered excellent results. True professional who treated my home with respect.",
+      "rating": 5
+    },
+    {
+      "name": "Charlotte R.",
+      "location": "Columbus",
+      "text": "They protected everything around the work area and left the place spotless. Careful, attentive service.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE COVERAGE",
+    "heading": "Serving Columbus and surrounding areas",
+    "subheading": "Licensed electrical services throughout central Ohio",
+    "areas": [
+      "Columbus",
+      "Dublin",
+      "Westerville",
+      "Reynoldsburg",
+      "Gahanna",
+      "Upper Arlington",
+      "Hilliard",
+      "Grove City",
+      "Worthington",
+      "Delaware"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for electrical work you can trust?",
+    "body": "Get a free estimate on your electrical project. We'll assess the work, explain what needs doing, and give you a straight answer on cost and timeline.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (614) 333-6364"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#F97316",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

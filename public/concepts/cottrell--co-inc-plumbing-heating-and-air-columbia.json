@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Cottrell & Co, Inc Plumbing Heating And Air",
+    "phone": "(803) 336-6989",
+    "email": "office@cottrellandco.com",
+    "city": "Columbia",
+    "state": "SC",
+    "industry": "plumber",
+    "tagline": "Plumbing, Heating & Air",
+    "logo_url": "",
+    "google_rating": "4.9 stars (569 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When it breaks at *5:30 PM*, we answer",
+    "subheadline": "Same-day emergency service across Columbia. Your neighbors know us — we've been the call they make when something goes wrong.",
+    "cta_primary": "Get Service Today",
+    "cta_secondary": "Call (803) 336-6989"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9 Stars (569 Reviews)"
+    },
+    {
+      "icon": "clock",
+      "text": "Same-Day Emergency Service"
+    },
+    {
+      "icon": "phone",
+      "text": "Answer Within the Hour"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Plumbing, heating, air — all of it",
+    "subheading": "From emergency pipe repairs to fireplace maintenance, we handle what keeps your home running"
+  },
+  "services": [
+    {
+      "title": "Emergency Plumbing Repairs",
+      "description": "Burst pipes, failed valves, water emergencies — we show up fast and fix it right the first time. No waiting until Monday.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Heating System Service",
+      "description": "Furnace repairs, maintenance, and troubleshooting. We keep you warm when Columbia gets cold.",
+      "icon": "flame"
+    },
+    {
+      "title": "Air Conditioning Repair",
+      "description": "AC units, ventilation, and cooling system repairs. Because summer in South Carolina doesn't wait.",
+      "icon": "fan"
+    },
+    {
+      "title": "Fireplace Services",
+      "description": "Cleaning, repairs, and maintenance for gas and wood fireplaces. Thorough work with complete cleanup.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Columbia's go-to for plumbing, heating & air",
+    "body": "We're the company your neighbors call first. When something breaks, floods, or stops working, we answer fast and fix it right. Licensed, insured, and ready for whatever Columbia homes throw at us. From emergency plumbing calls to routine fireplace maintenance, we handle it all."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbia homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Nicole L.",
+      "location": "Columbia, SC",
+      "text": "Had a plumbing emergency at 5:30 PM and they had someone here within an hour. Tim was excellent — fixed it quickly and got it right.",
+      "rating": 5
+    },
+    {
+      "name": "Karen N.",
+      "location": "Columbia, SC",
+      "text": "Bryce showed up on time, went straight to work on both fireplaces. Friendly, professional, and cleaned up perfectly. Outstanding service.",
+      "rating": 5
+    },
+    {
+      "name": "Kathy W.",
+      "location": "Columbia, SC",
+      "text": "Called Friday morning expecting delays — they had Tim here in under 30 minutes. Quick response and great work.",
+      "rating": 5
+    },
+    {
+      "name": "Lester J.",
+      "location": "Columbia, SC",
+      "text": "Timothy replaced my old gate valve perfectly. Coordinated the water shut-off and got the new ball valve in fast. Fantastic job.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Columbia and surrounding areas",
+    "subheading": "Fast response times across the Midlands",
+    "areas": [
+      "Columbia",
+      "West Columbia",
+      "Cayce",
+      "Irmo",
+      "Lexington",
+      "Forest Acres",
+      "Springdale",
+      "Seven Oaks"
+    ]
+  },
+  "cta": {
+    "heading": "Need service today?",
+    "body": "Don't wait for the problem to get worse. Call now for same-day emergency service across Columbia.",
+    "cta_primary": "Get Service Now",
+    "cta_secondary": "Call (803) 336-6989"
+  },
+  "design": {
+    "primary_color": "#1A5632",
+    "accent_color": "#D4A843",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

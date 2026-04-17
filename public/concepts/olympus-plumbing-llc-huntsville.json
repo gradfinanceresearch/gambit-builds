@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Olympus Plumbing LLC",
+    "phone": "(256) 384-8749",
+    "email": "alabamaplumbingcompany@gmail.com",
+    "city": "Huntsville",
+    "state": "AL",
+    "industry": "plumber",
+    "tagline": "Leak found. Problem solved.",
+    "logo_url": "",
+    "google_rating": "5 stars (5 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*No leak* stands a chance in Huntsville",
+    "subheadline": "Nathan and the crew track down every drip, fix every clog, and show up when they say they will. That's the difference.",
+    "cta_primary": "Get Fast Service",
+    "cta_secondary": "Call (256) 384-8749"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "check",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "clock",
+      "text": "On-Time Service"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Fair Pricing Promise"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIX",
+    "heading": "Every pipe, every leak, every problem",
+    "subheading": "From hidden leaks to stubborn clogs, we handle what's broken so you don't have to worry about it"
+  },
+  "services": [
+    {
+      "title": "Leak Detection & Repair",
+      "description": "We find the source fast and fix it right the first time. No guessing, no mess, no coming back tomorrow.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Drain Cleaning",
+      "description": "Sink backing up? Shower draining slow? We clear the clog and get everything flowing like new again.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Emergency Plumbing",
+      "description": "Burst pipes and midnight disasters don't wait for business hours. Neither do we when you need help.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Water Heater Service",
+      "description": "When your hot water quits, we get it back fast. Repairs, replacements, and everything in between.",
+      "icon": "flame"
+    }
+  ],
+  "about": {
+    "heading": "Huntsville plumbing that actually works",
+    "body": "Nathan leads our team with one simple rule: fix it right the first time. No shortcuts, no excuses. We've built our reputation in Huntsville by showing up on time, diagnosing problems quickly, and charging fair prices for quality work. When your pipes need attention, you need plumbers who know what they're doing."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Huntsville homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Max B.",
+      "location": "Huntsville",
+      "text": "Found both leaks fast and fixed them perfectly. These guys know their stuff.",
+      "rating": 5
+    },
+    {
+      "name": "Logan O.",
+      "location": "Huntsville",
+      "text": "Professional team with honest pricing. Exactly what you want from a plumber.",
+      "rating": 5
+    },
+    {
+      "name": "Reed N.",
+      "location": "Huntsville",
+      "text": "Nathan showed up on time and handled our leak quickly. Highly recommend for any plumbing work.",
+      "rating": 5
+    },
+    {
+      "name": "Bryce S.",
+      "location": "Huntsville",
+      "text": "Nathan cleared my sink and shower drains perfectly. Will definitely call him again.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Huntsville and surrounding areas",
+    "subheading": "Fast, reliable plumbing service throughout North Alabama",
+    "areas": [
+      "Huntsville",
+      "Madison",
+      "Athens",
+      "Decatur",
+      "Harvest",
+      "Hampton Cove",
+      "Redstone Arsenal",
+      "Research Park"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix what's broken?",
+    "body": "Don't let that leak get worse or that clog back up your whole day. Call Nathan and get it handled right.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

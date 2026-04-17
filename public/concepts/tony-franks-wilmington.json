@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Tony Franks",
+    "phone": "(910) 520-5631",
+    "email": "tony.franks47@yahoo.com",
+    "city": "Wilmington",
+    "state": "NC",
+    "industry": "HVAC",
+    "tagline": "Honest cooling, fair pricing",
+    "logo_url": "",
+    "google_rating": "5 stars (433 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When others quote *$12,000*, we fix it for real",
+    "subheadline": "Same-day service in Wilmington. No upsells, no BS — just honest HVAC work that actually solves your problem.",
+    "cta_primary": "Get Honest Quote",
+    "cta_secondary": "Call Tony"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5 Stars • 433+ Reviews"
+    },
+    {
+      "icon": "clock",
+      "text": "Same-Day Service"
+    },
+    {
+      "icon": "shield",
+      "text": "Fair Pricing Guaranteed"
+    },
+    {
+      "icon": "phone",
+      "text": "Real People Answer"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "AC, Heat, Ductwork — Fixed Right",
+    "subheading": "We diagnose the real problem before we quote you anything"
+  },
+  "services": [
+    {
+      "title": "AC Repair & Installation",
+      "description": "From quick fixes to full system replacements. We'll tell you what you actually need, not what makes us the most money.",
+      "icon": "fan"
+    },
+    {
+      "title": "Heating System Service",
+      "description": "Heat pumps, gas furnaces, electric units. Winter breakdowns get priority — we know how cold Wilmington gets.",
+      "icon": "flame"
+    },
+    {
+      "title": "Ductwork & Ventilation",
+      "description": "New lines, repairs, replacements. Proper airflow means your system works less and lasts longer.",
+      "icon": "pipe"
+    },
+    {
+      "title": "System Diagnostics",
+      "description": "Sometimes the 'broken' unit just needs a $50 part. We find the real issue before suggesting anything big.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Tony & Trevor — Real HVAC, Real People",
+    "body": "Father and son team serving Wilmington with honest HVAC work. No high-pressure sales, no mystery fees. When your AC quits or your heat won't fire up, we show up with tools and solutions — not a stack of expensive estimates. 433 five-star reviews don't lie."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Wilmington Says About Us"
+  },
+  "reviews": [
+    {
+      "name": "Bert C.",
+      "location": "Wilmington",
+      "text": "Tony and Trevor are real people who care about helping you, not just making money. Always on time and handle everything without delay.",
+      "rating": 5
+    },
+    {
+      "name": "John L.",
+      "location": "Wilmington",
+      "text": "Trevor and his crew gave us a great price on ductwork and new unit installation. Super knowledgeable, punctual, and respectful.",
+      "rating": 5
+    },
+    {
+      "name": "Tracy M.",
+      "location": "Wilmington",
+      "text": "Same-day service when I needed it most. Called ahead, arrived on time, extremely polite and quickly identified the problem.",
+      "rating": 5
+    },
+    {
+      "name": "Rebecca W.",
+      "location": "Wilmington",
+      "text": "Other companies quoted $9K-$12K for complete replacement. Tony diagnosed the real issue and saved us thousands. More than 5 stars.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Wilmington & Beyond",
+    "subheading": "Same honest service throughout the Cape Fear region",
+    "areas": [
+      "Wilmington",
+      "Carolina Beach",
+      "Wrightsville Beach",
+      "Leland",
+      "Hampstead",
+      "Castle Hayne",
+      "Burgaw",
+      "Surf City"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Honest HVAC Service?",
+    "body": "No games, no upsells. Just straight talk about what your system needs and what it'll cost. Call Tony directly.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#1E3A5F",
+    "accent_color": "#C0986B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

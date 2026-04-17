@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Anything Plumbing",
+    "phone": "(256) 684-9601",
+    "email": "",
+    "city": "Huntsville",
+    "state": "AL",
+    "industry": "plumber",
+    "tagline": "Same-day fixes when you need them most",
+    "logo_url": "",
+    "google_rating": "4.9 stars (68 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Water heater died? We'll have you hot *within 24 hours*",
+    "subheadline": "4.9 stars from 68 Huntsville neighbors who know what it's like when the water goes cold at the worst possible time.",
+    "cta_primary": "Get Fast Service",
+    "cta_secondary": "Call (256) 684-9601"
+  },
+  "trust_badges": [
+    {
+      "icon": "clock",
+      "text": "Same-Day Response"
+    },
+    {
+      "icon": "star",
+      "text": "4.9 Stars (68 Reviews)"
+    },
+    {
+      "icon": "phone",
+      "text": "Always Answered"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Fair Pricing"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every pipe, every leak, every time",
+    "subheading": "From mystery leaks to complete water heater swaps — if it touches water, we handle it"
+  },
+  "services": [
+    {
+      "title": "Water Heater Replacement",
+      "description": "17-year-old Rheems to brand new in 24 hours. We update the plumbing while we're at it, so everything works better.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Leak Detection & Repair",
+      "description": "Hidden leaks that other plumbers missed? We find them fast and fix them right, keeping your yard intact.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Emergency Plumbing",
+      "description": "Monday morning disaster? We're already on our way. Quick response when your day depends on it.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Plumbing Updates",
+      "description": "Older homes need modern solutions. We upgrade your plumbing to work with today's fixtures and demands.",
+      "icon": "pipe"
+    }
+  ],
+  "about": {
+    "heading": "Huntsville plumbers who show up ready",
+    "body": "When we say we'll be there, we mean it. 4.9 stars from 68 neighbors who've watched us work through everything from quick fixes to full system replacements. We keep parts on the truck, explain what's happening, and leave your place better than we found it."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Huntsville says about us"
+  },
+  "reviews": [
+    {
+      "name": "Sharon B.",
+      "location": "Huntsville, AL",
+      "text": "Called Monday, new water heater by Wednesday. 17 years old to brand new Rheem 50-gallon, plus updated plumbing. Price beat the other quote by plenty.",
+      "rating": 5
+    },
+    {
+      "name": "Christopher T.",
+      "location": "Huntsville, AL",
+      "text": "Quality work with real pride behind it. 17-year-old water heater replaced within 24 hours of my call. Fair price and clear communication throughout.",
+      "rating": 5
+    },
+    {
+      "name": "Scott L.",
+      "location": "Huntsville, AL",
+      "text": "Mystery leak that stumped another plumber? They found it fast and fixed it right. More thorough and affordable than anyone else we tried.",
+      "rating": 5
+    },
+    {
+      "name": "Belinda C.",
+      "location": "Huntsville, AL",
+      "text": "Every single time we call, they answer and get it done quick. Even squeezed us in between jobs when their schedule was packed.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "All around Huntsville",
+    "subheading": "Fast response throughout Madison County",
+    "areas": [
+      "Huntsville",
+      "Madison",
+      "Decatur",
+      "Athens",
+      "Harvest",
+      "Hampton Cove",
+      "Research Park",
+      "Redstone Arsenal"
+    ]
+  },
+  "cta": {
+    "heading": "Water emergency or planned upgrade?",
+    "body": "Same-day response for disasters. Fair quotes for replacements. Call now and we'll head your way.",
+    "cta_primary": "Get Help Now",
+    "cta_secondary": "Call (256) 684-9601"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FEFFFE",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

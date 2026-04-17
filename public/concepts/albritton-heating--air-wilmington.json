@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Albritton Heating & Air",
+    "phone": "(910) 792-6111",
+    "email": "calbritton@ec.rr.com",
+    "city": "Wilmington",
+    "state": "NC",
+    "industry": "HVAC",
+    "tagline": "Keeping Wilmington comfortable since day one",
+    "logo_url": "",
+    "google_rating": "5 stars (209 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When your AC quits on the *hottest day*, we show up",
+    "subheadline": "Same-day service in Wilmington. 209 five-star reviews don't lie — we fix it right the first time.",
+    "cta_primary": "Get Fast Service",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured HVAC Contractor"
+    },
+    {
+      "icon": "users",
+      "text": "Serving Wilmington & Surrounding Areas"
+    },
+    {
+      "icon": "phone",
+      "text": "24/7 Emergency Service Available"
+    },
+    {
+      "icon": "tool",
+      "text": "Residential & Commercial HVAC Services"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "AC, Heat, and Everything Between",
+    "subheading": "We repair what others want to replace"
+  },
+  "services": [
+    {
+      "title": "Air Conditioning Repair",
+      "description": "When it's 95 degrees and your unit just stopped — we're the call you make. Quick diagnosis, honest fixes, back to cool air.",
+      "icon": "fan"
+    },
+    {
+      "title": "Heating System Service",
+      "description": "From heat pumps to gas furnaces, we keep Wilmington warm when the temperature drops. Fast response, fair pricing.",
+      "icon": "flame"
+    },
+    {
+      "title": "Complete System Installation",
+      "description": "New construction or full replacement — we size it right, install it clean, and make sure it runs perfectly from day one.",
+      "icon": "home"
+    },
+    {
+      "title": "Emergency HVAC Service",
+      "description": "System down at 2am? We answer the phone. Hot summer nights and cold winter mornings don't wait for business hours.",
+      "icon": "zap"
+    }
+  ],
+  "about": {
+    "heading": "10 Years of Fixing What Others Want to Replace",
+    "body": "Mr. Albritton and his team have been keeping Wilmington comfortable for over a decade. We're the company your neighbors recommend because we actually try to fix your unit instead of selling you a new one. Quick response, honest assessment, fair pricing. That's how we earned 209 five-star reviews."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Wilmington Says"
+  },
+  "reviews": [
+    {
+      "name": "Dawn D.",
+      "location": "Wilmington, NC",
+      "text": "Quick callback, worked me into the schedule, and Carlton was awesome. Fixed it fast and professionally.",
+      "rating": 5
+    },
+    {
+      "name": "Hal L.",
+      "location": "Wilmington, NC",
+      "text": "Two friends recommended Albritton — best advice I got. Ryan was prompt, thorough, and fair pricing.",
+      "rating": 5
+    },
+    {
+      "name": "Polly B.",
+      "location": "Wilmington, NC",
+      "text": "Arrived early, fixed my AC quickly, communicates well. Inspires trust and committed to service.",
+      "rating": 5
+    },
+    {
+      "name": "Robert M.",
+      "location": "Wilmington, NC",
+      "text": "10 years with Albritton — they fix instead of selling new units. Most personable HVAC company around.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Greater Wilmington",
+    "subheading": "Fast response across the Cape Fear region",
+    "areas": [
+      "Wilmington",
+      "Wrightsville Beach",
+      "Carolina Beach",
+      "Leland",
+      "Burgaw",
+      "Hampstead",
+      "Topsail Beach",
+      "Castle Hayne"
+    ]
+  },
+  "cta": {
+    "heading": "AC Down? Heat Out? We Answer.",
+    "body": "Same-day service in Wilmington. Call now for fast, honest HVAC repair that actually fixes the problem.",
+    "cta_primary": "Schedule Service",
+    "cta_secondary": "Call (910) 792-6111"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "Fair and affordable plumbing",
+    "phone": "(803) 678-7373",
+    "email": "",
+    "city": "Columbia",
+    "state": "SC",
+    "industry": "plumber",
+    "tagline": "Honest plumbing that won't break your budget",
+    "logo_url": "",
+    "google_rating": "4.7 stars (108 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Columbia's *most honest* plumber",
+    "subheadline": "Same-day service, fair prices, and we actually show up when we say we will. 4.7 stars from 108+ neighbors who know the difference.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.7 Stars • 108+ Reviews"
+    },
+    {
+      "icon": "clock",
+      "text": "Same-Day Service"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Fair Pricing Guarantee"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIXES",
+    "heading": "Every plumbing problem, solved right",
+    "subheading": "From emergency repairs to full installations — if water flows through it, we handle it"
+  },
+  "services": [
+    {
+      "title": "Emergency Repairs",
+      "description": "Burst pipes, backed-up drains, water everywhere — we drop what we're doing and come fix it. Even on weekends.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Toilet Installation & Repair",
+      "description": "New toilet install, fixing leaks, or clearing stubborn clogs that won't budge. Get your bathroom working again.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Drain Cleaning",
+      "description": "Kitchen sinks, tubs backing up, or toilets that won't flush right — we clear it all without the runaround.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Water Line Repair",
+      "description": "Damaged water lines from accidents or age. We'll get your water flowing again with temporary and permanent fixes.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Garbage Disposal Service",
+      "description": "Jammed, leaking, or making weird noises? We repair or replace disposals to keep your kitchen running smooth.",
+      "icon": "zap"
+    }
+  ],
+  "about": {
+    "heading": "Straight talk from Columbia plumbers who care",
+    "body": "We're the plumbing company Columbia calls when they need honest work at fair prices. No hidden fees, no surprise charges, just reliable fixes that last. When your plumbing breaks, we show up ready to work — whether it's an emergency Saturday call or a simple toilet install. Our 4.7-star rating comes from neighbors who know we do what we say we'll do."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbia neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Dave M.",
+      "location": "Columbia, SC",
+      "text": "Wallace came same day when Spectrum ran over our waterline. Fixed it temporarily so we had water, then came back for the permanent repair. Even fixed our disposal while he was here.",
+      "rating": 5
+    },
+    {
+      "name": "JTG",
+      "location": "Columbia, SC",
+      "text": "Hands down 5 stars! Best prices in town and Mr. Shanga's work is remarkable. Super fast response time. Won't use anyone else for plumbing.",
+      "rating": 5
+    },
+    {
+      "name": "Yolanda B.",
+      "location": "Columbia, SC",
+      "text": "Had flushable wipes backing up our toilets and tub. Fair and Affordable is the perfect name - great job at a great price.",
+      "rating": 5
+    },
+    {
+      "name": "Carla W.",
+      "location": "Columbia, SC",
+      "text": "New toilet installed within 24 hours of calling. Will definitely use them again for all my plumbing needs.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Columbia and surrounding areas",
+    "subheading": "Fast response times throughout the Midlands",
+    "areas": [
+      "Columbia",
+      "West Columbia",
+      "Cayce",
+      "Irmo",
+      "Lexington",
+      "Forest Acres",
+      "Rosewood",
+      "Springdale"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix your plumbing problem?",
+    "body": "Don't let a small problem become a big headache. Call now for honest pricing and same-day service from Columbia's most trusted plumbers.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (803) 678-7373"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFBF5",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

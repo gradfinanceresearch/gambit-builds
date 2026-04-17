@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Alabama Plumbing Company",
+    "phone": "(256) 683-8052",
+    "email": "nickelsplumbing@gmail.com",
+    "city": "Huntsville",
+    "state": "AL",
+    "industry": "plumber",
+    "tagline": "Honest work, fair prices, done right",
+    "logo_url": "",
+    "google_rating": "5 stars (11 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When your plumber shows up *same day* — that's Justin",
+    "subheadline": "Water heater died? Toilet flange cracked? We answer fast, quote fair, and finish the job right the first time.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "clock",
+      "text": "Same Day Service"
+    },
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Fair Pricing Always"
+    },
+    {
+      "icon": "phone",
+      "text": "Answers When You Call"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every pipe, every fixture, every problem",
+    "subheading": "From quick repairs to full replacements — we handle what breaks"
+  },
+  "services": [
+    {
+      "title": "Toilet Repairs & Replacement",
+      "description": "Flange repairs, new installs, supply valve replacements. Get your bathroom back to working order fast.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Water Heater Service",
+      "description": "Same-day replacement when yours quits. Professional installation at prices that won't shock you.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Drain & Sink Repairs",
+      "description": "Stoppers, supply lines, new sink installations. We fix what flows and what doesn't.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Emergency Plumbing",
+      "description": "When pipes burst or drains back up, we get there fast. Available when you need us most.",
+      "icon": "zap"
+    }
+  ],
+  "about": {
+    "heading": "Justin builds trust one job at a time",
+    "body": "Alabama Plumbing Company serves Huntsville with honest work and straightforward pricing. When your plumbing breaks, we show up ready to fix it right. No runaround, no inflated quotes — just dependable service from someone your neighbors already recommend."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Huntsville says about our work"
+  },
+  "reviews": [
+    {
+      "name": "Jim S.",
+      "location": "Huntsville",
+      "text": "Justin handled everything perfectly — toilet flange, new toilet install, supply valve, and drain work. Great communication and fair prices throughout.",
+      "rating": 5
+    },
+    {
+      "name": "Kim W.",
+      "location": "Huntsville",
+      "text": "Multiple jobs completed and Justin has been exceptional every single time. We'll definitely call him again.",
+      "rating": 5
+    },
+    {
+      "name": "Edwin E.",
+      "location": "Huntsville",
+      "text": "Got me worked into his schedule in under 24 hours. Professional, confident work and a pleasure to work with.",
+      "rating": 5
+    },
+    {
+      "name": "Brenda W.",
+      "location": "Huntsville",
+      "text": "Our original water heater guy kept postponing, so we found Justin. Same day service and excellent work at a very reasonable price.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving North Alabama",
+    "subheading": "Fast response times across the Tennessee Valley",
+    "areas": [
+      "Huntsville",
+      "Madison",
+      "Decatur",
+      "Athens",
+      "Florence",
+      "Muscle Shoals",
+      "Scottsboro",
+      "Arab"
+    ]
+  },
+  "cta": {
+    "heading": "Need a plumber who answers the phone?",
+    "body": "Same-day service, honest quotes, and work that lasts. Call Justin at Alabama Plumbing Company — your neighbors already do.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (256) 683-8052"
+  },
+  "design": {
+    "primary_color": "#0F4C75",
+    "accent_color": "#3EDBF0",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

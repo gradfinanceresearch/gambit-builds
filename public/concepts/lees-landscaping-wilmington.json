@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Lee's Landscaping",
+    "phone": "(919) 627-0313",
+    "email": "butlerleeaustin@gmail.com",
+    "city": "Wilmington",
+    "state": "NC",
+    "industry": "landscaper",
+    "tagline": "Transforming Wilmington yards into neighborhood showstoppers",
+    "logo_url": "",
+    "google_rating": "5 stars (58 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Your yard *deserves better* than just okay",
+    "subheadline": "We turn tired flowerbeds into butterfly magnets and blank spaces into the kind of yard that makes neighbors slow down when they drive by.",
+    "cta_primary": "Get Your Free Estimate",
+    "cta_secondary": "(919) 627-0313"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5 Stars, 58 Reviews"
+    },
+    {
+      "icon": "clock",
+      "text": "24-Hour Response"
+    },
+    {
+      "icon": "heart",
+      "text": "Butterfly & Wildlife Friendly"
+    },
+    {
+      "icon": "check",
+      "text": "Full Landscape Installation"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "From nasty to neighborhood envy",
+    "subheading": "Complete landscape transformations that actually last"
+  },
+  "services": [
+    {
+      "title": "Full Landscape Installation",
+      "description": "Complete yard makeovers — from design to planting to rock work. We'll take your space from blank canvas to best house on the block.",
+      "icon": "home"
+    },
+    {
+      "title": "Flowerbed Design & Planting",
+      "description": "Tired flowerbeds become color-filled butterfly magnets. We source from quality nurseries and plant for year-round appeal.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Fire Pit & Seating Areas",
+      "description": "Custom outdoor living spaces where you'll actually want to spend time. Professional installation with attention to every detail.",
+      "icon": "flame"
+    },
+    {
+      "title": "Mulching & Fertilizing",
+      "description": "Keep your landscape looking fresh with proper mulching and feeding schedules. We handle the maintenance so you enjoy the results.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Austin Butler & the Lee's Landscaping team",
+    "body": "We're the crew behind Wilmington's most talked-about yard transformations. From major rock work to delicate flowerbed designs, we handle every project like it's our own backyard. Our team includes Nathan, Steven, and Geronimo — all committed to turning your outdoor vision into reality, even on the hottest Carolina days."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Wilmington neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Holly R.",
+      "location": "Wilmington, NC",
+      "text": "First time working with Lee's and they nailed it. Communication was perfect since this is our second home, and they went above and beyond to get exactly what I wanted.",
+      "rating": 5
+    },
+    {
+      "name": "Jacob C.",
+      "location": "Wilmington, NC",
+      "text": "Lee's is the real deal! Full landscape installation plus major rock work — my yard went from just okay to best-looking house on the block.",
+      "rating": 5
+    },
+    {
+      "name": "Sarah W.",
+      "location": "Wilmington, NC",
+      "text": "Austin responded within 24 hours and came out quickly. Professional, hardworking, and did fantastic work on our front flower beds.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer H.",
+      "location": "Wilmington, NC",
+      "text": "Austin and his team added a fire pit area and landscaping — polite, hardworking crew even on one of the hottest days of the year.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Cape Fear region",
+    "subheading": "Professional landscaping throughout southeastern North Carolina",
+    "areas": [
+      "Wilmington",
+      "Carolina Beach",
+      "Wrightsville Beach",
+      "Leland",
+      "Burgaw",
+      "Castle Hayne",
+      "Hampstead",
+      "Topsail Beach"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for the best-looking yard on your block?",
+    "body": "We respond fast, show up when promised, and deliver results that make neighbors ask for your secret. Let's transform your outdoor space.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (919) 627-0313"
+  },
+  "design": {
+    "primary_color": "#1B4D8C",
+    "accent_color": "#E8A630",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

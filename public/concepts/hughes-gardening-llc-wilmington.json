@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Hughes Gardening, LLC",
+    "phone": "(910) 619-9572",
+    "email": "hughesgardeningnc@gmail.com",
+    "city": "Wilmington",
+    "state": "NC",
+    "industry": "landscaper",
+    "tagline": "Wilmington's yard transformation experts",
+    "logo_url": "",
+    "google_rating": "4.8 stars (17 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "From *bare dirt* to backyard dreams — done right",
+    "subheadline": "We're the crew your neighbors call when they want their yard to actually look like something. Real plants. Real results.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call (910) 619-9572"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.8 Stars (17 Reviews)"
+    },
+    {
+      "icon": "check",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "clock",
+      "text": "Projects Done in Days"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Arborist Recommended"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Everything your yard needs",
+    "subheading": "From the bones to the finishing touches"
+  },
+  "services": [
+    {
+      "title": "Complete Backyard Renovations",
+      "description": "Patios, new sod, plantings, and bed design. We'll take your empty space and turn it into the yard you actually want to spend time in.",
+      "icon": "home"
+    },
+    {
+      "title": "Plant Selection & Installation",
+      "description": "The right plants in the right spots. We know what thrives in Wilmington's climate and what looks good doing it.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Landscape Design & Planning",
+      "description": "Got a blank slate? We'll assess your space, give you solid ideas, and map out exactly how to make it happen.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Ongoing Yard Maintenance",
+      "description": "Keep everything looking sharp with regular maintenance. We handle the upkeep so your investment stays beautiful.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Trey and the Hughes Gardening team",
+    "body": "We're Wilmington's go-to landscaping crew, trusted by certified arborists and homeowners who want their yards done right. Whether you're starting with nothing or renovating what you've got, we handle the whole project from design to installation to ongoing care."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Wilmington homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Erin S.",
+      "location": "Wilmington, NC",
+      "text": "They finished our large backyard install today and I'm so excited I had to write this immediately. Couldn't have asked for a better experience from start to finish.",
+      "rating": 5
+    },
+    {
+      "name": "John W.",
+      "location": "Wilmington, NC",
+      "text": "As a Certified Arborist, Hughes has been our go-to recommendation for clients. They're excellent with installation, plant selection, and maintenance.",
+      "rating": 5
+    },
+    {
+      "name": "Nicholas I.",
+      "location": "Wilmington, NC",
+      "text": "Best in town. They completely renovated our backyard — patio, sod, plantings, new beds. Big project done in a week and a half.",
+      "rating": 5
+    },
+    {
+      "name": "Forrest T.",
+      "location": "Wilmington, NC",
+      "text": "One of the best investments we made in our property. Trey assessed our empty front beds, gave us great ideas, and executed perfectly.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Cape Fear region",
+    "subheading": "Professional landscaping throughout southeastern NC",
+    "areas": [
+      "Wilmington",
+      "Wrightsville Beach",
+      "Carolina Beach",
+      "Leland",
+      "Burgaw",
+      "Castle Hayne",
+      "Hampstead",
+      "Topsail Beach"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to transform your yard?",
+    "body": "Let's talk about what you want your outdoor space to become. Free estimates, honest advice, and work that lasts.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#5B21B6",
+    "accent_color": "#10B981",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "editorial"
+  }
+}

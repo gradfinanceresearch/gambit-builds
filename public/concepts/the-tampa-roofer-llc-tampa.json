@@ -1,0 +1,124 @@
+{
+  "business": {
+    "name": "The Tampa Roofer LLC",
+    "phone": "(813) 625-9864",
+    "email": "",
+    "city": "Tampa",
+    "state": "FL",
+    "industry": "roofer",
+    "tagline": "Tampa's storm-tested roofers",
+    "logo_url": "",
+    "google_rating": "5 stars (55 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Tampa roofs. *Hurricane-tested.* Owner-answered.",
+    "subheadline": "When other roofers ghost your calls, Nick picks up. Same-day quotes, reasonable prices, immaculate cleanup.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5 Stars • 55 Reviews"
+    },
+    {
+      "icon": "phone",
+      "text": "Owner Always Answers"
+    },
+    {
+      "icon": "shield",
+      "text": "Storm Damage Experts"
+    },
+    {
+      "icon": "check",
+      "text": "Same-Day Response"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Full roofs to single tiles",
+    "subheading": "From hurricane repairs to complete tear-offs, we handle what Tampa weather throws at you"
+  },
+  "services": [
+    {
+      "title": "Complete Roof Replacement",
+      "description": "Tear-off to finish, with material options and financing. We coordinate with HOAs and handle every detail so you don't have to.",
+      "icon": "home"
+    },
+    {
+      "title": "Storm Damage Repair",
+      "description": "Missing tiles, wind damage, hurricane aftermath. Quick scheduling to get your roof sealed before the next storm hits.",
+      "icon": "shield"
+    },
+    {
+      "title": "Tile Repair & Replacement",
+      "description": "Single tiles or sections, matched to your existing roof. No job too small when you need it fixed right.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Nick answers the phone. That's how we work.",
+    "body": "While other Tampa roofers leave you hanging, owner Nick Grahm takes every call personally. We've built our reputation on reasonable quotes, quick scheduling, and immaculate cleanup. Whether it's a complete tear-off or fixing storm damage tiles, we treat every Tampa roof like our own."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Tampa neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Izrael L.",
+      "location": "Tampa",
+      "text": "From start to finish, Nick's service was exceptional. Unlike major roofers who treat you like just another job, he handled HOA coordination and every detail perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "Luis Z.",
+      "location": "Tampa",
+      "text": "Other roofers never called back. Found The Tampa Roofer online and Nick contacted me within minutes of submitting my quote request. Fast response, professional service.",
+      "rating": 5
+    },
+    {
+      "name": "Darleen G.",
+      "location": "Tampa",
+      "text": "Super responsive right away with a reasonable quote to fix hurricane damage tiles. Got us scheduled quickly and completed the job with no issues whatsoever.",
+      "rating": 5
+    },
+    {
+      "name": "Scott A.",
+      "location": "Tampa",
+      "text": "Complete roof tear-off and rebuild. Nick and Matt made the whole process smooth from material selection to financing and scheduling. Couldn't ask for better service.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Tampa Bay",
+    "subheading": "Fast response across the metro area",
+    "areas": [
+      "Tampa",
+      "St. Petersburg",
+      "Clearwater",
+      "Brandon",
+      "Riverview",
+      "Temple Terrace",
+      "Plant City",
+      "Lutz"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix your roof?",
+    "body": "Nick answers personally. Get your quote today and see why Tampa trusts us with their biggest investment.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (813) 625-9864"
+  },
+  "design": {
+    "primary_color": "#991B1B",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

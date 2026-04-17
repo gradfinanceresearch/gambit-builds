@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "1st Class Plumbing & Gas LLC",
+    "phone": "(803) 394-8895",
+    "email": "",
+    "city": "Columbia",
+    "state": "SC",
+    "industry": "plumber",
+    "tagline": "Emergency repairs, gas work, water heaters — we handle it all",
+    "logo_url": "",
+    "google_rating": "4.9 stars (196 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When your pipes freeze, we *answer the phone*",
+    "subheadline": "Palmer and crew don't hide behind automated systems. Real humans, real solutions, same-day service when you need it most.",
+    "cta_primary": "Get Fast Service",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "phone",
+      "text": "Human Answers Every Call"
+    },
+    {
+      "icon": "clock",
+      "text": "Same-Day Water Heaters"
+    },
+    {
+      "icon": "star",
+      "text": "4.9 Stars • 196 Reviews"
+    },
+    {
+      "icon": "zap",
+      "text": "Emergency & Gas Certified"
+    }
+  ],
+  "services_section": {
+    "label": "THE REPAIRS",
+    "heading": "Pipes, gas lines, water heaters — handled",
+    "subheading": "From frozen outdoor kitchens to emergency gas work, we fix what other companies won't touch"
+  },
+  "services": [
+    {
+      "title": "Emergency Plumbing Repairs",
+      "description": "Burst pipes, frozen lines, outdoor kitchen disasters — when others say no, we show up with tools ready.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Water Heater Replacement",
+      "description": "Same-day installation when yours quits. Reasonable pricing, minimum time, maximum reliability.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Gas Line Service",
+      "description": "Thorough gas work from certified technicians. No BS sales pitch — just straight shooting and solid repairs.",
+      "icon": "flame"
+    },
+    {
+      "title": "Professional Plumbing",
+      "description": "Complete plumbing solutions with polite, professional crews who show up on time and get it done right.",
+      "icon": "pipe"
+    }
+  ],
+  "about": {
+    "heading": "Palmer and crew keep Columbia flowing",
+    "body": "When your outdoor kitchen pipes freeze and other companies hang up on you, we pick up. Led by Palmer, our certified team handles emergency repairs, gas work, and water heater replacements with straight talk and reasonable prices. No automated runaround — just professional service that gets Columbia back to normal."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbia homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Bruce M.",
+      "location": "Columbia, SC",
+      "text": "Other companies wouldn't touch my frozen outdoor kitchen plumbing. 1st Class got a human on the phone and handled the emergency repair perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "Howard B.",
+      "location": "Columbia, SC",
+      "text": "Showed up on time, very professional crew, job done fast. Pricing was totally reasonable — I'd recommend them to anyone.",
+      "rating": 5
+    },
+    {
+      "name": "Alex S.",
+      "location": "Columbia, SC",
+      "text": "Palmer was thorough with our gas issue and generous with his time. Straight shooter who won't sell you BS — they know their stuff.",
+      "rating": 5
+    },
+    {
+      "name": "Linda K.",
+      "location": "Columbia, SC",
+      "text": "Replaced our water heater same day with professional service and reasonable pricing. Completed in minimum time — highly recommend.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE AREA",
+    "heading": "Serving the Columbia area",
+    "subheading": "Emergency and scheduled service throughout the Midlands",
+    "areas": [
+      "Columbia",
+      "West Columbia",
+      "Irmo",
+      "Lexington",
+      "Cayce",
+      "Forest Acres",
+      "Springdale",
+      "Seven Oaks"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a straight-shooting plumber?",
+    "body": "No automated runaround. No inflated quotes. Just Palmer and crew ready to fix your plumbing and gas problems the right way.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call (803) 394-8895"
+  },
+  "design": {
+    "primary_color": "#0F4C75",
+    "accent_color": "#3EDBF0",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

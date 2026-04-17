@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "AllGo Electricians Columbus",
+    "phone": "(380) 800-3693",
+    "email": "info@allgo-electrical.com",
+    "city": "Columbus",
+    "state": "OH",
+    "industry": "electrician",
+    "tagline": "Columbus electrical work done right, done fast",
+    "logo_url": "",
+    "google_rating": "5 stars (14 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Same-day fixes* for flickering lights and dead outlets",
+    "subheadline": "Your neighbors know us — 5-star rated electricians who show up on time and get it right the first time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Work Passes Inspection"
+    },
+    {
+      "icon": "clock",
+      "text": "Same-Day Service"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every outlet, panel, and wire — handled",
+    "subheading": "From GFCI upgrades to complete rewiring, we fix what's broken and upgrade what needs it"
+  },
+  "services": [
+    {
+      "title": "GFCI Outlet Installation",
+      "description": "New GFCI outlets for bathrooms, kitchens, and outdoor areas. Code-compliant work that passes inspection every time.",
+      "icon": "plug"
+    },
+    {
+      "title": "Circuit Breaker Replacement",
+      "description": "Old breakers tripping constantly? We replace them right the first time with quality components that last.",
+      "icon": "zap"
+    },
+    {
+      "title": "Flickering Light Diagnosis",
+      "description": "Find the real cause of flickering lights and fix it same day. No more living with electrical mysteries.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Electrical Panel Upgrades",
+      "description": "Upgrade outdated panels to handle modern electrical demands. Safe, reliable power for your whole home.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Columbus electricians who do it right",
+    "body": "We're the electrical team Columbus homeowners call when they need it done correctly. Every job passes inspection because we follow safety procedures and use quality materials. Our work speaks for itself — just check our reviews."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbus homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Brandy W.",
+      "location": "Columbus, OH",
+      "text": "New GFCI outlets in bathrooms and kitchen were installed perfectly. Work was exact and done quickly by trustworthy professionals.",
+      "rating": 5
+    },
+    {
+      "name": "Christina T.",
+      "location": "Columbus, OH",
+      "text": "They diagnosed our flickering lights and fixed the problem the same day. Excellent service from start to finish.",
+      "rating": 5
+    },
+    {
+      "name": "A G.",
+      "location": "Columbus, OH",
+      "text": "Circuit breaker replacement done right the first time. Friendly team that explained all safety procedures clearly.",
+      "rating": 5
+    },
+    {
+      "name": "Joan R.",
+      "location": "Columbus, OH",
+      "text": "Well-organized crew that arrived on time and worked carefully. Very happy with the quality of their work.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Columbus and surrounding areas",
+    "subheading": "Same-day electrical service throughout central Ohio",
+    "areas": [
+      "Columbus",
+      "Dublin",
+      "Westerville",
+      "Grove City",
+      "Gahanna",
+      "Upper Arlington",
+      "Reynoldsburg",
+      "Hilliard"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix that electrical problem?",
+    "body": "Get a free quote today. Same-day service available for urgent repairs.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (380) 800-3693"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

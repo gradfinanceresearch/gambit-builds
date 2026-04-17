@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "People's Choice Plumbing LLC",
+    "phone": "(803) 550-7864",
+    "email": "peopleschoiceplumbingco@outlook.com",
+    "city": "Columbia",
+    "state": "SC",
+    "industry": "plumber",
+    "tagline": "The plumber Columbia calls first",
+    "logo_url": "",
+    "google_rating": "4.6 stars (65 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When Columbia's pipes *break at midnight*, we answer",
+    "subheadline": "Same-day service. Real solutions. Mr. Washington and the crew have been fixing what others won't touch since day one.",
+    "cta_primary": "Get Fast Service",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.6 Stars (65+ Reviews)"
+    },
+    {
+      "icon": "clock",
+      "text": "Same-Day Service Available"
+    },
+    {
+      "icon": "phone",
+      "text": "We Actually Answer"
+    },
+    {
+      "icon": "truck",
+      "text": "Travel Any Distance"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIXES",
+    "heading": "Every pipe problem, handled right",
+    "subheading": "From Sunday emergencies to old house nightmares — we show up ready to work"
+  },
+  "services": [
+    {
+      "title": "Emergency Repairs",
+      "description": "Burst pipes, broken water heaters, major leaks — when disaster strikes, we're the ones who actually pick up the phone and come running.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Water Heater Service",
+      "description": "Gas or electric, old or new. When your hot water quits, we diagnose fast and get it running properly again. No guesswork.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Drain Cleaning",
+      "description": "Stubborn clogs that other companies won't travel for? We handle the tough jobs others turn down, no matter how far we have to go.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Renovation Plumbing",
+      "description": "Old houses, tricky projects, walls that hide surprises — we've seen it all in Columbia's vintage homes and know how to fix it right.",
+      "icon": "pipe"
+    }
+  ],
+  "about": {
+    "heading": "Built different from day one",
+    "body": "While other plumbers screen calls and turn down tough jobs, People's Choice Plumbing shows up. Mr. Washington and the team handle everything from Sunday pipe bursts to old house renovations that make other companies run. Columbia knows — when it's complicated, call us first."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "Why Columbia keeps calling"
+  },
+  "reviews": [
+    {
+      "name": "Chimere F.",
+      "location": "Columbia, SC",
+      "text": "Gas water heater died and Mr. Washington came out same day. Found the problem fast and had hot water running again. Professional from start to finish.",
+      "rating": 5
+    },
+    {
+      "name": "Tovia B.",
+      "location": "Columbia area",
+      "text": "After multiple companies refused to travel to unclog our drain, these guys stepped up. Jarvis, Anthony, and crew were on time and handled it perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "Allan B.",
+      "location": "Columbia, SC",
+      "text": "Pipe broke in the wall during Sunday renovation. First Google result, saw the ratings, called hoping for the best. They delivered exactly what we needed.",
+      "rating": 5
+    },
+    {
+      "name": "Janet C.",
+      "location": "Columbia, SC",
+      "text": "Major upstairs leak crashed my downstairs ceiling. Three techs came out and fixed my 1965 house right. Best plumbers I've used in years of homeownership.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "We travel the distance",
+    "subheading": "Serving Columbia and surrounding communities — no job too far",
+    "areas": [
+      "Columbia",
+      "West Columbia",
+      "Irmo",
+      "Lexington",
+      "Cayce",
+      "Forest Acres",
+      "Blythewood",
+      "Elgin"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to handle whatever's broken",
+    "body": "Emergency or planned project, we pick up the phone and show up ready to work. Get the Columbia plumber that doesn't make excuses.",
+    "cta_primary": "Get Service Today",
+    "cta_secondary": "Call (803) 550-7864"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFBF7",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

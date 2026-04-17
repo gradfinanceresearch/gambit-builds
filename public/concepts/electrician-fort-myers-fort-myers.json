@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Electrician Fort Myers",
+    "phone": "(239) 822-6300",
+    "email": "info@electrician-fort-myers.com",
+    "city": "Fort Myers",
+    "state": "FL",
+    "industry": "electrician",
+    "tagline": "Same-day service that actually means same day",
+    "logo_url": "",
+    "google_rating": "5 stars (6 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When the power's out, *we're already on our way*",
+    "subheadline": "Same-day electrical service in Fort Myers. No waiting around, no runaround — just fast fixes at fair prices.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "zap",
+      "text": "Same-Day Service"
+    },
+    {
+      "icon": "star",
+      "text": "5-Star Local Reviews"
+    },
+    {
+      "icon": "phone",
+      "text": "Fast Response Times"
+    },
+    {
+      "icon": "check",
+      "text": "Fair Pricing Always"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every wire, outlet, and panel",
+    "subheading": "From quick fixes to full rewires — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Panel Upgrades & Repairs",
+      "description": "Old breaker box acting up? We'll get your electrical panel running safely and up to code. No more flickering lights or tripped breakers.",
+      "icon": "plug"
+    },
+    {
+      "title": "Outlet & Switch Installation",
+      "description": "Need more outlets or switches in new spots? We'll wire them in clean and code-compliant. USB outlets, GFCI protection — whatever works best.",
+      "icon": "zap"
+    },
+    {
+      "title": "Lighting Solutions",
+      "description": "Interior, exterior, recessed, ceiling fans — we install it all. From single fixtures to whole-house lighting upgrades.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Emergency Electrical Repairs",
+      "description": "Power outages, sparking outlets, burning smells — we respond fast to keep your home safe. Available for urgent electrical issues.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Fast, affordable electrical work in Fort Myers",
+    "body": "We're the electricians Fort Myers calls when they need it done right and done fast. Same-day service isn't just marketing talk — we actually show up when we say we will. From small repairs to major electrical work, we keep it simple: fair prices, quality work, and no waiting around for weeks to get on the schedule."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Fort Myers neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Luis D.",
+      "location": "Fort Myers, FL",
+      "text": "Super responsive and affordable! Happy with their work and communication. Had issues with other companies but these guys are fast.",
+      "rating": 5
+    },
+    {
+      "name": "Heurides H.",
+      "location": "Fort Myers, FL",
+      "text": "One of the best electricians in the Fort Myers area. Great price and communication — they came out same day for our small project.",
+      "rating": 5
+    },
+    {
+      "name": "Keily R.",
+      "location": "Fort Myers, FL",
+      "text": "A+ for great service and how quickly they came to our house. Very happy with them. Highly recommended.",
+      "rating": 5
+    },
+    {
+      "name": "Laura M.",
+      "location": "Fort Myers, FL",
+      "text": "Exceptional work replacing two electrical boxes in my office. Will definitely hire them again.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Southwest Florida",
+    "subheading": "Fast electrical service throughout Lee County",
+    "areas": [
+      "Fort Myers",
+      "Cape Coral",
+      "Lehigh Acres",
+      "Bonita Springs",
+      "Estero",
+      "North Fort Myers",
+      "Gateway",
+      "San Carlos Park"
+    ]
+  },
+  "cta": {
+    "heading": "Need an electrician today?",
+    "body": "Same-day service, fair prices, and work that's done right the first time. Get your free estimate now.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (239) 822-6300"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#F97316",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

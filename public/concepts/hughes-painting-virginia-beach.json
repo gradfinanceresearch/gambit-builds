@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Hughes Painting",
+    "phone": "(757) 277-0243",
+    "email": "sales@hughespaintinginc.com",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "industry": "painter",
+    "tagline": "Every brush stroke counts",
+    "logo_url": "",
+    "google_rating": "5 stars (90 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "The painters your *realtor recommends*",
+    "subheadline": "90 five-star reviews say it all — we show up on time, communicate clearly, and make it right if it's not perfect the first time.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (757) 277-0243"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "90+ Five-Star Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "clock",
+      "text": "On-Time Guarantee"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Realtor Recommended"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Interior & Exterior Painting",
+    "subheading": "From prep to cleanup, we handle every detail"
+  },
+  "services": [
+    {
+      "title": "Interior House Painting",
+      "description": "Room by room or whole house — we prep walls properly, protect your furniture, and leave everything spotless when we're done.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Exterior House Painting",
+      "description": "Weather-resistant finishes that stand up to Virginia Beach salt air and humidity. Full prep work and quality materials guaranteed.",
+      "icon": "home"
+    },
+    {
+      "title": "Color Consultation",
+      "description": "Not sure what colors work? We'll help you choose the perfect palette that complements your home and neighborhood.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Surface Preparation",
+      "description": "Proper prep work is everything — we sand, prime, and repair surfaces so your paint job lasts for years, not months.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Putting Good Apples Back in the Basket",
+    "body": "Hughes Painting has built a reputation in Virginia Beach by doing what other painters often don't — showing up on time, communicating clearly, and fixing anything that isn't perfect. With 90+ five-star reviews and recommendations from local realtors, we've proven that professional painting service isn't just possible, it's our standard."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Virginia Beach Says About Us"
+  },
+  "reviews": [
+    {
+      "name": "Mike H.",
+      "location": "Virginia Beach",
+      "text": "Perfect five stars! Hughes has gone a long way toward putting good apples back in the basket. Great communication throughout the entire project.",
+      "rating": 5
+    },
+    {
+      "name": "Wesley S.",
+      "location": "Virginia Beach",
+      "text": "Used Hughes for two large jobs on our realtor's recommendation. Great skill and tenacious follow-up when one job needed a touch-up. Easy to have around the house.",
+      "rating": 5
+    },
+    {
+      "name": "Gerry H.",
+      "location": "Virginia Beach",
+      "text": "Outstanding job on our entire house. Professional and courteous staff the whole week. The quality and attention to detail was superb and impressive.",
+      "rating": 5
+    },
+    {
+      "name": "Robert M.",
+      "location": "Virginia Beach",
+      "text": "Excellent work at a very fair price. John stayed in touch about scheduling and his workers were on time and professional. Would definitely recommend!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Hampton Roads",
+    "subheading": "Professional painting throughout the region",
+    "areas": [
+      "Virginia Beach",
+      "Norfolk",
+      "Chesapeake",
+      "Portsmouth",
+      "Hampton",
+      "Newport News",
+      "Suffolk",
+      "Williamsburg"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a Paint Job Done Right?",
+    "body": "Join 90+ five-star customers who chose Hughes Painting. Free estimates, fair pricing, and the quality your home deserves.",
+    "cta_primary": "Get Your Free Estimate",
+    "cta_secondary": "Call (757) 277-0243"
+  },
+  "design": {
+    "primary_color": "#B45309",
+    "accent_color": "#1F2937",
+    "bg_color": "#FFFBF5",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "editorial"
+  }
+}

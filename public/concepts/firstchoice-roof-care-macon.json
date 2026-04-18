@@ -1,0 +1,117 @@
+{
+  "business": {
+    "name": "FirstChoice Roof Care",
+    "phone": "(478) 260-3417",
+    "email": "info@firstchoiceroofingusa.com",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "roofer",
+    "tagline": "Macon's roof experts who show up when they say they will",
+    "logo_url": "",
+    "google_rating": "5 stars (2 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Every roof* tells a story — we write the ending",
+    "subheadline": "Storms don't wait. Neither do we. Macon homeowners call us first because we answer, we show up, and we get it done right.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "phone",
+      "text": "Always Answer"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every roof problem has a FirstChoice solution",
+    "subheading": "From missing shingles to complete replacements — we handle what Middle Georgia weather throws at your home"
+  },
+  "services": [
+    {
+      "title": "Storm Damage Repairs",
+      "description": "Hail, wind, fallen branches — we assess the real damage and fix it right the first time. No surprise callbacks needed.",
+      "icon": "shield"
+    },
+    {
+      "title": "Complete Roof Replacement",
+      "description": "When repairs won't cut it anymore, we tear off and build back better. Your neighbors will notice the difference.",
+      "icon": "home"
+    },
+    {
+      "title": "Leak Detection & Repair",
+      "description": "Water stains on your ceiling? We find exactly where it's coming from and stop it — guaranteed to stay dry.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Gutter Services",
+      "description": "Clean, repair, or replace gutters that actually move water away from your foundation like they're supposed to.",
+      "icon": "pipe"
+    }
+  ],
+  "about": {
+    "heading": "The roofing company Macon trusts when it matters",
+    "body": "We're the crew Middle Georgia homeowners call when their roof needs real work, not just a band-aid fix. Every job gets our full attention because your home deserves nothing less than our best work."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon homeowners say about our work"
+  },
+  "reviews": [
+    {
+      "name": "Ella S.",
+      "location": "Macon, GA",
+      "text": "Professional team that genuinely cares about doing quality work. They were patient with all my questions and made sure I understood everything.",
+      "rating": 5
+    },
+    {
+      "name": "Harper R.",
+      "location": "Macon, GA",
+      "text": "Reliable, skilled, and truly impressive workmanship.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Middle Georgia communities",
+    "subheading": "We know these neighborhoods and the weather challenges they face",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Milledgeville",
+      "Perry",
+      "Centerville",
+      "Byron",
+      "Gray",
+      "Forsyth"
+    ]
+  },
+  "cta": {
+    "heading": "Your roof problem won't fix itself",
+    "body": "Get a straight answer about what your roof needs. Free estimates, honest pricing, and work that lasts.",
+    "cta_primary": "Schedule Estimate",
+    "cta_secondary": "Call (478) 260-3417"
+  },
+  "design": {
+    "primary_color": "#5B21B6",
+    "accent_color": "#10B981",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

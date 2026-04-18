@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Heroic Landscapes",
+    "phone": "(904) 303-6819",
+    "email": "james@heroiclandscapes.com",
+    "city": "Jacksonville",
+    "state": "FL",
+    "industry": "landscaper",
+    "tagline": "The lawn heroes Jacksonville actually calls",
+    "logo_url": "",
+    "google_rating": "4.9 stars (48 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When other landscapers *let you down*, we show up like legends",
+    "subheadline": "4.9 stars from 48 neighbors who know — James and crew don't just cut grass, they rescue yards.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call (904) 303-6819"
+  },
+  "trust_badges": [
+    {
+      "icon": "mappin",
+      "text": "Proudly Serving Jacksonville, FL"
+    },
+    {
+      "icon": "phone",
+      "text": "Free Estimates Available"
+    },
+    {
+      "icon": "tool",
+      "text": "Professional Equipment & Tools"
+    },
+    {
+      "icon": "calendar",
+      "text": "Flexible Scheduling Options"
+    }
+  ],
+  "services_section": {
+    "label": "THE RESCUE MISSIONS",
+    "heading": "Every yard problem has a hero",
+    "subheading": "From lawn meltdowns to sprinkler mysteries — we've seen it all and fixed it all"
+  },
+  "services": [
+    {
+      "title": "Weekly Lawn Care",
+      "description": "Cut, edge, and blow every time. Weekly in summer, bi-weekly when it cools down. Your neighbors already know the routine.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Irrigation Repair & Install",
+      "description": "Pump died? Need a wifi controller? We'll diagnose the real problem and get your system running right.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Lawn Recovery",
+      "description": "When other companies bail or retire, we step in. Specializing in fixing what went wrong before.",
+      "icon": "shield"
+    },
+    {
+      "title": "System Diagnostics",
+      "description": "Think it's a sprinkler leak? Could be JEA. We'll dig around until we find the real culprit — no charge for being wrong.",
+      "icon": "lightbulb"
+    }
+  ],
+  "about": {
+    "heading": "James and crew — the Jacksonville lawn legends",
+    "body": "We're the team your neighbors call when their yard needs real help. Funny, upbeat, and we genuinely love what we do. Whether it's a weekly cut or solving an irrigation mystery, we show up ready to work. Based right here in Jacksonville, serving the neighborhoods we live in."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What the neighborhood says"
+  },
+  "reviews": [
+    {
+      "name": "H B.",
+      "location": "Jacksonville",
+      "text": "If superheroes carried weed whackers, they'd be James and his crew. Called them during a total lawn meltdown and they showed up like legends.",
+      "rating": 5
+    },
+    {
+      "name": "Michael B.",
+      "location": "Jacksonville",
+      "text": "Lives down the street and takes care of many yards in our neighborhood. Cuts weekly in summer, bi-weekly in fall. Always edges and blows.",
+      "rating": 5
+    },
+    {
+      "name": "Angie A.",
+      "location": "Jacksonville",
+      "text": "Needed an irrigation pump. James knew exactly what size I needed and could install a wifi controller too. Sent pictures and he handled everything.",
+      "rating": 5
+    },
+    {
+      "name": "Skip K.",
+      "location": "Jacksonville",
+      "text": "When our old company retired, they transferred us to Heroic. We were skeptical at first, but James proved we didn't need to worry.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Jacksonville neighborhoods",
+    "subheading": "From Riverside to Mandarin — if you're in Duval County, we've got you covered",
+    "areas": [
+      "Jacksonville",
+      "Neptune Beach",
+      "Atlantic Beach",
+      "Ponte Vedra Beach",
+      "Orange Park",
+      "Fernandina Beach",
+      "Mandarin",
+      "Riverside"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a lawn that doesn't embarrass you?",
+    "body": "Join 48 neighbors who already know — when you need heroes for your yard, you call James. Free estimates, real solutions.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Blue Bird Lawn Service",
+    "phone": "(803) 477-4230",
+    "email": "chris@bluebirdll.com",
+    "city": "Columbia",
+    "state": "SC",
+    "industry": "landscaper",
+    "tagline": "Where precision meets your yard",
+    "logo_url": "",
+    "google_rating": "4.8 stars (82 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Your yard, *done right* the first time",
+    "subheadline": "When the tree guys wreck your grass, we're who fixes it. 4.8 stars from 82 Columbia neighbors who know.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.8 Stars, 82 Reviews"
+    },
+    {
+      "icon": "phone",
+      "text": "Prompt Communication"
+    },
+    {
+      "icon": "check",
+      "text": "Detail-Oriented Work"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Fair Pricing"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "From rescue jobs to regular maintenance",
+    "subheading": "We handle what others can't — or won't"
+  },
+  "services": [
+    {
+      "title": "Yard Restoration & Repair",
+      "description": "When contractors leave your lawn looking like a war zone, we put it back together. New sod, grading, whatever it takes.",
+      "icon": "home"
+    },
+    {
+      "title": "Lawn Installation & Renovation",
+      "description": "Centipede grass giving up? We'll help you pick the right replacement and install it properly.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Precision Maintenance",
+      "description": "Clean edges, even trim, immaculate finish. The kind of cut that makes your neighbors notice.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Project Coordination",
+      "description": "Need tree work or specialty services? We'll find the right crew and handle the coordination.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Delano and the Blue Bird team",
+    "body": "We've built our reputation one yard at a time in Columbia. When other contractors leave a mess, we're the ones neighbors call to fix it. Our 4.8-star rating comes from being honest about pricing, showing up on time, and doing the work right. No shortcuts, no surprises."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbia homeowners are saying"
+  },
+  "reviews": [
+    {
+      "name": "Heather M.",
+      "location": "Columbia, SC",
+      "text": "Incredible work at a terrific price. When they couldn't handle certain jobs, they found who could. Fixed everything the tree company destroyed.",
+      "rating": 5
+    },
+    {
+      "name": "Bree W.",
+      "location": "Columbia, SC",
+      "text": "Prompt, reasonable pricing, excellent communication. Great attention to detail and a joy to work with.",
+      "rating": 5
+    },
+    {
+      "name": "Brian B.",
+      "location": "Columbia, SC",
+      "text": "After our front yard took a beating, Blue Bird brought it back to life. Delano was patient answering questions and helped us choose right.",
+      "rating": 5
+    },
+    {
+      "name": "Hannah H.",
+      "location": "Columbia, SC",
+      "text": "Friendly, honest, great communication. The team was diligent and thorough giving our yard a complete makeover.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Columbia and surrounding areas",
+    "subheading": "Local crew, local knowledge",
+    "areas": [
+      "Columbia",
+      "Lexington",
+      "Irmo",
+      "Cayce",
+      "West Columbia",
+      "Forest Acres",
+      "Blythewood",
+      "Hopkins"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your yard right?",
+    "body": "Free estimates, honest pricing, and work that speaks for itself. Call or text us your address and we'll come take a look.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (803) 477-4230"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFBF5",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Contractor/Handyman Services by Bill",
+    "phone": "(757) 575-1202",
+    "email": "",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "industry": "handyman",
+    "tagline": "From ceiling fans to kitchen guts — Bill handles it all",
+    "logo_url": "",
+    "google_rating": "4.8 stars (19 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "The guy your neighbors call when *everything* breaks at once",
+    "subheadline": "Ceiling fans, dock rebuilds, marble bathrooms — whatever's on your list, it gets done right the first time.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Bill Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.8 Stars on Google"
+    },
+    {
+      "icon": "check",
+      "text": "No Job Too Small"
+    },
+    {
+      "icon": "tool",
+      "text": "Kitchen to Bathroom Pro"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Fair & Transparent Pricing"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Whatever's broken, whatever needs building",
+    "subheading": "From quick fixes to full renovations — one call handles it all"
+  },
+  "services": [
+    {
+      "title": "Kitchen Renovations",
+      "description": "Complete gut jobs and beautiful rebuilds. New cabinets, countertops, flooring — we handle every detail from demo to final touches.",
+      "icon": "home"
+    },
+    {
+      "title": "Bathroom Remodeling",
+      "description": "Marble floors, double vanities, full tub and shower combos. Turn that cramped space into something you'll actually want to use.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Deck & Dock Repair",
+      "description": "Major rebuilds and structural fixes that last. From planning to completion, we get your outdoor spaces back to perfect condition.",
+      "icon": "hammer"
+    },
+    {
+      "title": "General Repairs",
+      "description": "Ceiling fans, electrical issues, those random problems nobody else wants to touch. We show up with the right tools and get it sorted.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Bill's been fixing Virginia Beach homes for years",
+    "body": "When you call Bill, you're getting someone who actually cares about getting it right. Whether it's a quick ceiling fan fix or gutting your entire kitchen, the approach is the same — show up on time, do it right, and charge what's fair. Ask anyone who's worked with him."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Virginia Beach homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Kathleen C.",
+      "location": "Virginia Beach",
+      "text": "This guy is awesome! Fixed my ceiling fan and tackled multiple other issues I couldn't find anyone else to handle. Great prices and so helpful.",
+      "rating": 5
+    },
+    {
+      "name": "Maria C.",
+      "location": "Virginia Beach",
+      "text": "Billy must be a bit OCD because everything was done to perfection. Beautiful marble bath with full tub, shower, and double sink vanity — incredible work.",
+      "rating": 5
+    },
+    {
+      "name": "Kevin Q.",
+      "location": "Virginia Beach",
+      "text": "Hired Bill for a major dock rebuild and he exceeded every expectation. Top-notch work from planning to completion, fair and transparent pricing.",
+      "rating": 5
+    },
+    {
+      "name": "Jean E.",
+      "location": "Virginia Beach",
+      "text": "Very prompt, professional, and did fantastic work on my deck. Would recommend Bill to anyone who needs work done around the house.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Virginia Beach and surrounding areas",
+    "subheading": "Local handyman services throughout Hampton Roads",
+    "areas": [
+      "Virginia Beach",
+      "Norfolk",
+      "Chesapeake",
+      "Portsmouth",
+      "Suffolk",
+      "Hampton",
+      "Newport News",
+      "Kempsville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get that project handled?",
+    "body": "From quick fixes to major renovations, Bill's got the tools and experience to get it done right. Fair pricing, quality work, no surprises.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (757) 575-1202"
+  },
+  "design": {
+    "primary_color": "#0F4C75",
+    "accent_color": "#3EDBF0",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

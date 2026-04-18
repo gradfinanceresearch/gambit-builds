@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Aaron's Heating and Cooling",
+    "phone": "(850) 559-9287",
+    "email": "aaronsheatingandcoolingllc@gmail.com",
+    "city": "Tallahassee",
+    "state": "FL",
+    "industry": "HVAC",
+    "tagline": "Fast, fair, and we show up when we say we will",
+    "logo_url": "",
+    "google_rating": "4.8 stars (54 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When it's 94° inside, we answer at *9pm on Sunday*",
+    "subheadline": "Real HVAC help in Tallahassee. No runaround, no surprise charges, just your air working again.",
+    "cta_primary": "Get Fast Service",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "phone",
+      "text": "Same-Day Emergency Service"
+    },
+    {
+      "icon": "star",
+      "text": "4.8 Stars (54 Reviews)"
+    },
+    {
+      "icon": "check",
+      "text": "Fair & Honest Pricing"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Complete HVAC Services",
+    "subheading": "From emergency repairs to full system replacements, we handle it all"
+  },
+  "services": [
+    {
+      "title": "Emergency AC Repair",
+      "description": "When your AC quits in Florida heat, we show up fast. Sunday night, holiday weekend — we're answering the phone and fixing the problem.",
+      "icon": "fan"
+    },
+    {
+      "title": "HVAC System Installation",
+      "description": "New units installed right the first time. We help you pick the right system and handle everything from permits to cleanup.",
+      "icon": "home"
+    },
+    {
+      "title": "System Maintenance",
+      "description": "Keep your HVAC running efficiently with regular tune-ups. We catch problems before they leave you sweating or freezing.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Heating Repair",
+      "description": "Those rare cold Florida nights when your heat won't work — we get it running again quickly and at a reasonable price.",
+      "icon": "flame"
+    }
+  ],
+  "about": {
+    "heading": "Straight Talk About HVAC in Tallahassee",
+    "body": "We're Aaron's Heating and Cooling, and we do HVAC the right way in Tallahassee. When we say we'll be there, we show up. When we give you a price, that's what you pay. No games, no surprises. Just honest work from people who live here too."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Tallahassee Says"
+  },
+  "reviews": [
+    {
+      "name": "Ben C.",
+      "location": "Tallahassee, FL",
+      "text": "Aaron installed our new HVAC unit and was fantastic. He helped us choose the right system and even replaced rotted wood on the platform. Above and beyond work.",
+      "rating": 5
+    },
+    {
+      "name": "Jasmin P.",
+      "location": "Tallahassee, FL",
+      "text": "Super quick to schedule an appointment. Aaron got my 2010 unit running like new again at a very reasonable price. Highly recommend his services.",
+      "rating": 5
+    },
+    {
+      "name": "Pamela V.",
+      "location": "Tallahassee, FL",
+      "text": "No AC and 94° inside our house. Aaron was there within an hour of calling on a Sunday at 9pm! Fixed everything quickly with a great attitude.",
+      "rating": 5
+    },
+    {
+      "name": "Amanda W.",
+      "location": "Tallahassee, FL",
+      "text": "Very polite and do great work. When they found the job was bigger than expected, they refused to do it halfway. Got everything done right.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Tallahassee and Beyond",
+    "subheading": "Fast, reliable HVAC service throughout the area",
+    "areas": [
+      "Tallahassee",
+      "Quincy",
+      "Havana",
+      "Monticello",
+      "Crawfordville",
+      "Thomasville",
+      "Cairo",
+      "Bainbridge"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Get Your Air Fixed?",
+    "body": "Don't sweat it out another day. Call now for fast, honest HVAC service in Tallahassee.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (850) 559-9287"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1A1A2E",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

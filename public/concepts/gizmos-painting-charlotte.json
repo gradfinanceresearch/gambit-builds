@@ -1,0 +1,126 @@
+{
+  "business": {
+    "name": "Gizmos Painting",
+    "phone": "(704) 492-8292",
+    "email": "gizmospaint@gmail.com",
+    "city": "Charlotte",
+    "state": "NC",
+    "industry": "painter",
+    "tagline": "Paint that brings life back to Charlotte homes",
+    "logo_url": "",
+    "google_rating": "4.9 stars (70 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Two coats* and your place looks brand new",
+    "subheadline": "Met our guy Gizmo at Sherwin-Williams? Half of Charlotte has. The other half should.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9 Stars (70 Reviews)"
+    },
+    {
+      "icon": "clock",
+      "text": "On-Site in 2 Days"
+    },
+    {
+      "icon": "truck",
+      "text": "Paint Included"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Charlotte Local"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Interior & Exterior Paint Jobs",
+    "subheading": "From faded shutters to fresh bedrooms — we handle the prep, the paint, and the cleanup"
+  },
+  "services": [
+    {
+      "title": "Interior Room Painting",
+      "description": "Bedrooms, living rooms, whole houses. We bring the paint, you pick the color. Two coats standard, cleanup included.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Exterior House Painting",
+      "description": "Doors, shutters, siding that's lost its life. We'll bring it back with quality paint and proper prep work.",
+      "icon": "home"
+    },
+    {
+      "title": "Touch-Up & Repair",
+      "description": "Started a project yourself? Got injured halfway through? We'll finish what you started, no judgment.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "The Guy You Meet at Sherwin-Williams",
+    "body": "Gizmo's been painting Charlotte homes for years. You'll probably run into him picking up supplies downtown. His crew shows up when they say they will, brings the paint, and gets it done right. Ask around — your neighbors already know us."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Charlotte Says"
+  },
+  "reviews": [
+    {
+      "name": "Joe T.",
+      "location": "Charlotte",
+      "text": "Met Gizmo randomly at Sherwin-Williams when our original painter backed out. Saved our move-in timeline.",
+      "rating": 5
+    },
+    {
+      "name": "Gina S.",
+      "location": "Charlotte",
+      "text": "Quick meeting, competitive quote on our two bedrooms. Would recommend to anyone in Charlotte.",
+      "rating": 5
+    },
+    {
+      "name": "Jeanette M.",
+      "location": "Charlotte",
+      "text": "I hurt my arm mid-project. They were here in 2 days, brought the paint, and knocked out two coats.",
+      "rating": 5
+    },
+    {
+      "name": "Nikol S.",
+      "location": "Charlotte",
+      "text": "Our faded door and shutters looked dead. They brought all the life back with SW Black Bean satin.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Greater Charlotte",
+    "subheading": "Interior and exterior painting throughout the metro area",
+    "areas": [
+      "Charlotte",
+      "Matthews",
+      "Mint Hill",
+      "Huntersville",
+      "Cornelius",
+      "Davidson",
+      "Pineville",
+      "Ballantyne",
+      "South End",
+      "Dilworth"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Get Started?",
+    "body": "Competitive quotes, quick turnaround, paint included. Call Gizmo or send us your project details.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (704) 492-8292"
+  },
+  "design": {
+    "primary_color": "#991B1B",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

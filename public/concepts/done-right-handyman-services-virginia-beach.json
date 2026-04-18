@@ -1,0 +1,117 @@
+{
+  "business": {
+    "name": "Done Right Handyman Services",
+    "phone": "(586) 838-9890",
+    "email": "doneright.services@yahoo.com",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "industry": "handyman",
+    "tagline": "Getting it done right the first time",
+    "logo_url": "",
+    "google_rating": "4 stars (6 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "The handyman Virginia Beach *trusts to get it right*",
+    "subheadline": "From shiplap walls to fence repairs — quality work that stands up to coastal weather.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4-Star Google Rating"
+    },
+    {
+      "icon": "phone",
+      "text": "Direct Owner Contact"
+    },
+    {
+      "icon": "home",
+      "text": "Local Virginia Beach"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Home repairs that actually last",
+    "subheading": "Every project gets the owner's personal attention"
+  },
+  "services": [
+    {
+      "title": "Fence Installation & Repair",
+      "description": "Custom fencing built to handle Hampton Roads weather. Gates that swing smooth, posts that stay straight.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Interior Carpentry",
+      "description": "Shiplap walls, trim work, and built-ins. Clean lines, tight joints, finished right.",
+      "icon": "saw"
+    },
+    {
+      "title": "Home Maintenance",
+      "description": "Those nagging repairs that keep getting pushed off. We knock them out efficiently.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Drywall & Painting",
+      "description": "Patch holes, fix cracks, paint that goes on smooth. Your walls will look brand new.",
+      "icon": "paintbrush"
+    }
+  ],
+  "about": {
+    "heading": "Owner-operated handyman service in Virginia Beach",
+    "body": "Terry personally handles every project for Done Right Handyman Services. When you call, you're talking directly to the guy who'll be doing the work. Small team, personal service, and quality that shows in every detail."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Virginia Beach homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Alan D.",
+      "location": "Virginia Beach",
+      "text": "Terry and his crew did several projects including a shiplap wall. Quality service from him and his small team.",
+      "rating": 5
+    },
+    {
+      "name": "Martine N.",
+      "location": "Virginia Beach",
+      "text": "Hired them for fence installation. They were friendly and did good work on the install.",
+      "rating": 4
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Virginia Beach and surrounding areas",
+    "subheading": "Quick response times throughout Hampton Roads",
+    "areas": [
+      "Virginia Beach",
+      "Norfolk",
+      "Chesapeake",
+      "Portsmouth",
+      "Suffolk",
+      "Hampton",
+      "Newport News",
+      "Poquoson"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get it done right?",
+    "body": "Call Terry directly for a straight answer on your project. Free estimates, honest pricing, quality work.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call (586) 838-9890"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

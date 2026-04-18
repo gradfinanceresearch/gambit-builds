@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "A BETTER HANDYMAN LLC",
+    "phone": "(757) 587-0845",
+    "email": "abhbosslady@gmail.com",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "industry": "handyman",
+    "tagline": "The fix-it crew Virginia Beach calls first",
+    "logo_url": "",
+    "google_rating": "4.5 stars (180 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Four hours* from your call to fixed roof",
+    "subheadline": "Shannon schedules it, Joe's crew shows up same-day, and your problem gets handled right the first time.",
+    "cta_primary": "Get Your Fix",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.5 Stars (180 Reviews)"
+    },
+    {
+      "icon": "clock",
+      "text": "Same-Day Service"
+    },
+    {
+      "icon": "phone",
+      "text": "Easy Scheduling"
+    },
+    {
+      "icon": "check",
+      "text": "Photo Updates"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIXES",
+    "heading": "What breaks, we handle",
+    "subheading": "From emergency roof leaks to custom pantry builds — no job too small, no timeline too tight"
+  },
+  "services": [
+    {
+      "title": "Home Repairs & Maintenance",
+      "description": "From fixing leaky faucets to patching drywall, we handle all your home repair needs with professional craftsmanship and attention to detail.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Electrical Services",
+      "description": "Safe and reliable electrical work including outlet installation, fixture replacement, and troubleshooting electrical issues in your home.",
+      "icon": "zap"
+    },
+    {
+      "title": "Plumbing Solutions",
+      "description": "Expert plumbing services for Virginia Beach homes including pipe repairs, fixture installation, and emergency leak fixes.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Carpentry & Installation",
+      "description": "Custom carpentry work, cabinet installation, trim work, and furniture assembly to enhance your living space.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Painting & Touch-ups",
+      "description": "Professional interior and exterior painting services to refresh and protect your home's appearance.",
+      "icon": "paintbrush"
+    }
+  ],
+  "about": {
+    "heading": "Joe's crew, Shannon's scheduling",
+    "body": "We're the Virginia Beach handyman team that actually answers the phone. Shannon handles your call with genuine care, Joe's experienced crew shows up when promised, and your project gets done right. From emergency roof repairs to custom carpentry, we've built our reputation on solving problems fast and keeping our word."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "Why neighbors recommend us"
+  },
+  "reviews": [
+    {
+      "name": "Rene S.",
+      "location": "Virginia Beach",
+      "text": "Shannon was incredible to work with — showed real empathy when I discovered a critical roof problem just weeks after moving in. Joe's team fixed it fast.",
+      "rating": 5
+    },
+    {
+      "name": "Christina B.",
+      "location": "Virginia Beach",
+      "text": "Transformed our unused space into a beautiful walk-in pantry. Exceptional experience from start to finish with A Better Handyman.",
+      "rating": 5
+    },
+    {
+      "name": "Patricia U.",
+      "location": "Virginia Beach",
+      "text": "Matt and Rodney came bright and early to replace our rusting iron porch rails with beautiful wooden ones. Professional work all around.",
+      "rating": 5
+    },
+    {
+      "name": "Daniel T.",
+      "location": "Virginia Beach",
+      "text": "Same-day service for my leaky roof — fixed within four hours of calling! They even sent before and after photos. Would give six stars if I could.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "All of Hampton Roads",
+    "subheading": "Same-day service throughout the area",
+    "areas": [
+      "Virginia Beach",
+      "Norfolk",
+      "Chesapeake",
+      "Portsmouth",
+      "Hampton",
+      "Newport News",
+      "Suffolk",
+      "Williamsburg"
+    ]
+  },
+  "cta": {
+    "heading": "Your fix is one call away",
+    "body": "Talk to Shannon, get it scheduled, watch Joe's crew make it right. Same-day service when you need it most.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call (757) 587-0845"
+  },
+  "design": {
+    "primary_color": "#B91C1C",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

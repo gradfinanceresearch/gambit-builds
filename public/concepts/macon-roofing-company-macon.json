@@ -1,0 +1,104 @@
+{
+  "business": {
+    "name": "Macon Roofing Company",
+    "phone": "(478) 401-2017",
+    "email": "info@roofingcompanymacon.com",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "roofer",
+    "tagline": "Solid roofs for Middle Georgia homes",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When your *roof needs fixing*, we climb up",
+    "subheadline": "Rain or shine, we're the crew Macon calls when shingles start falling and gutters overflow.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "phone",
+      "text": "Fast Response"
+    },
+    {
+      "icon": "tool",
+      "text": "All Roof Types"
+    },
+    {
+      "icon": "star",
+      "text": "5-Star Service"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every roof problem, handled right",
+    "subheading": "From emergency patches to complete replacements"
+  },
+  "services": [
+    {
+      "title": "Roof Repairs",
+      "description": "Missing shingles, damaged flashing, storm damage — we patch it up tight so the weather stays outside where it belongs.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Complete Roof Replacement",
+      "description": "When repair won't cut it anymore, we strip it down and build it back stronger. New shingles, new life for your home.",
+      "icon": "home"
+    },
+    {
+      "title": "Gutter Services",
+      "description": "Clean gutters, proper drainage, no more water pooling where it shouldn't. We handle the climbing so you don't have to.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Storm Damage Assessment",
+      "description": "After the wind dies down, we climb up and tell you exactly what needs fixing. Honest assessment, fair pricing.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Keeping Macon dry, one roof at a time",
+    "body": "We're the local crew that shows up when your roof starts leaking at the worst possible moment. Every job gets the same attention — whether it's a quick patch or tearing off the whole thing and starting fresh. Middle Georgia weather is tough on roofs, and we know exactly how to build them back stronger."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors say"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Middle Georgia",
+    "subheading": "Your local roofing crew",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Centerville",
+      "Byron",
+      "Perry",
+      "Forsyth",
+      "Gray",
+      "Milledgeville"
+    ]
+  },
+  "cta": {
+    "heading": "Roof trouble? We'll take a look",
+    "body": "Call us for a straight assessment and fair quote. No pressure, just honest roofing work when you need it most.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (478) 401-2017"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Castro Roofing & Exteriors",
+    "phone": "(423) 660-1822",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "city": "Chattanooga",
+    "state": "TN",
+    "industry": "roofer",
+    "tagline": "Chattanooga roofing done right by Jorge and crew",
+    "logo_url": "",
+    "google_rating": "5 stars (40 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "The roofers *Chattanooga calls* when it counts",
+    "subheadline": "Jorge Castro and crew treat every roof like it's their own. Ask Warren, James, or any of our 40 five-star customers.",
+    "cta_primary": "Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "users",
+      "text": "40+ Happy Customers"
+    },
+    {
+      "icon": "phone",
+      "text": "Responsive Communication"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Complete Roofing Solutions",
+    "subheading": "From storm damage repairs to full replacements, we handle every aspect of your roofing needs"
+  },
+  "services": [
+    {
+      "title": "Complete Roof Replacement",
+      "description": "New roofs that look great and perform even better. We work with you from material selection through final cleanup.",
+      "icon": "home"
+    },
+    {
+      "title": "Storm Damage Repair",
+      "description": "Hail, wind, and weather damage repaired right. We handle insurance claims and get your protection restored.",
+      "icon": "shield"
+    },
+    {
+      "title": "Roof Inspections",
+      "description": "Thorough assessments to catch problems early. We'll show you exactly what your roof needs and why.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Exterior Services",
+      "description": "Gutters, siding, and exterior work that complements your roofing investment and protects your home.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Jorge Castro & The Castro Roofing Team",
+    "body": "We're the roofing crew Chattanooga homeowners trust when their biggest investment needs protection. Jorge Castro leads every project personally, ensuring the communication and craftsmanship that earned us 40 five-star reviews. From Signal Mountain to East Brainerd, we treat every roof like our reputation depends on it."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Chattanooga Says"
+  },
+  "reviews": [
+    {
+      "name": "James M.",
+      "location": "Chattanooga",
+      "text": "Outstanding work and communication throughout the entire project. Castro Roofing delivered exactly what they promised.",
+      "rating": 5
+    },
+    {
+      "name": "Warren I.",
+      "location": "Chattanooga",
+      "text": "Jorge and his crew exceeded expectations. Great communication, professional work, and my new roof looks fantastic.",
+      "rating": 5
+    },
+    {
+      "name": "Connie G.",
+      "location": "Chattanooga",
+      "text": "Very pleased with our new roof. Jorge Castro and his team are true professionals who deliver quality work.",
+      "rating": 5
+    },
+    {
+      "name": "Cheyenne B.",
+      "location": "Chattanooga",
+      "text": "Jorge puts his heart into every project. You'd be lucky to have him handle your roofing needs.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Greater Chattanooga",
+    "subheading": "Professional roofing services throughout Hamilton County and surrounding areas",
+    "areas": [
+      "Chattanooga",
+      "Hixson",
+      "Red Bank",
+      "Signal Mountain",
+      "Soddy-Daisy",
+      "East Ridge",
+      "Collegedale",
+      "Ooltewah"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to protect your biggest investment?",
+    "body": "Get your free estimate from the roofing team Chattanooga trusts. Jorge will personally assess your needs and explain your options.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (423) 660-1822"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFBF7",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

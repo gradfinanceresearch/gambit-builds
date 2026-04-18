@@ -1,0 +1,136 @@
+{
+  "business": {
+    "name": "Veterans Electrical SC",
+    "phone": "(843) 271-8213",
+    "email": "veteranselectrical1012@gmail.com",
+    "city": "Charleston",
+    "state": "SC",
+    "industry": "electrician",
+    "tagline": "Licensed electrician serving Charleston with military precision",
+    "logo_url": "",
+    "google_rating": "5 stars (83 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When the power's out, *Matt answers*",
+    "subheadline": "5-star Charleston electrician who shows up fast, works clean, and gets it right the first time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (843) 271-8213"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0 Stars (83 Reviews)"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "clock",
+      "text": "Emergency Service"
+    },
+    {
+      "icon": "phone",
+      "text": "Same Day Response"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every wire, outlet, and panel",
+    "subheading": "From quick fixes to complete rewires, handled with military precision"
+  },
+  "services": [
+    {
+      "title": "Outlet Installation & Repair",
+      "description": "New outlets where you need them, old ones that work like new. No more extension cords running across your kitchen.",
+      "icon": "plug"
+    },
+    {
+      "title": "Ceiling Fan Installation",
+      "description": "Proper mounting, balanced blades, and airflow that actually makes a difference. We know HVAC systems too.",
+      "icon": "fan"
+    },
+    {
+      "title": "Emergency Electrical Repair",
+      "description": "Power out at midnight? Sparking outlet? We drop everything and get there fast with fully stocked trucks.",
+      "icon": "zap"
+    },
+    {
+      "title": "Panel Upgrades & Rewiring",
+      "description": "Upgrading old electrical systems to handle today's power demands safely and up to code.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Power Line Installation",
+      "description": "Running new circuits for ovens, AC units, and high-power appliances. Clean work, no shortcuts.",
+      "icon": "pipe"
+    }
+  ],
+  "about": {
+    "heading": "Matt — Your Charleston Electrician",
+    "body": "Veterans Electrical SC means one guy you can count on — Matt. Military trained, Charleston based, and answering calls at all hours. Whether it's a ceiling fan install or an emergency repair, you get the same careful attention to detail. Licensed, insured, and backed by 83 five-star reviews from neighbors who've been there."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Charleston neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Jermaine R.",
+      "location": "Charleston",
+      "text": "Matt showed up exactly on time, diagnosed the problem fast, and his pricing was completely fair. Professional and knowledgeable — definitely calling him for all electrical work.",
+      "rating": 5
+    },
+    {
+      "name": "Kendall O.",
+      "location": "Charleston",
+      "text": "Matt ran a new power line for our oven and fixed outlets that kept cutting power to our fridge. Helpful, kind, and excellent work. Recommending him to everyone.",
+      "rating": 5
+    },
+    {
+      "name": "Michael M.",
+      "location": "Charleston",
+      "text": "Had outlets replaced and installed. Very happy with Matt's work and would highly recommend to others.",
+      "rating": 5
+    },
+    {
+      "name": "Robert F.",
+      "location": "Charleston",
+      "text": "Called him late at night for an emergency while I was out of town. He dropped everything, rushed over, and fixed what builders messed up. Quick, professional, explained everything clearly.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Charleston and surrounding areas",
+    "subheading": "Fast response across the Lowcountry",
+    "areas": [
+      "Charleston",
+      "North Charleston",
+      "Mount Pleasant",
+      "Summerville",
+      "Goose Creek",
+      "Hanahan",
+      "James Island",
+      "West Ashley",
+      "Folly Beach",
+      "Isle of Palms"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get the power back on?",
+    "body": "Call now for same-day service, or request a free quote for your electrical project. Licensed, insured, and ready to help.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (843) 271-8213"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#F97316",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

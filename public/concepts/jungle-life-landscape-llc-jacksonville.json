@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Jungle Life Landscape LLC",
+    "phone": "(904) 423-6024",
+    "email": "",
+    "city": "Jacksonville",
+    "state": "FL",
+    "industry": "landscaper",
+    "tagline": "",
+    "logo_url": "",
+    "google_rating": "4.7 stars (46 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Jungle* to Paradise — We Make It Happen",
+    "subheadline": "When your yard looks like a lost cause, we dive in head first. Sprinklers, sod, weeds, overgrown chaos — Jay's crew handles it all.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call (904) 423-6024"
+  },
+  "trust_badges": [
+    {
+      "icon": "mappin",
+      "text": "Serving Jacksonville, FL"
+    },
+    {
+      "icon": "tool",
+      "text": "Professional Landscaping Services"
+    },
+    {
+      "icon": "home",
+      "text": "Residential & Commercial Projects"
+    },
+    {
+      "icon": "phone",
+      "text": "Local Florida Business"
+    }
+  ],
+  "services_section": {
+    "label": "THE RESCUE WORK",
+    "heading": "From Overgrown Nightmare to Backyard Dreams",
+    "subheading": "Sod, sprinklers, weed control, and jungle cleanup — we've seen it all and fixed it all"
+  },
+  "services": [
+    {
+      "title": "Sod Installation & Repair",
+      "description": "Fresh sod that actually takes root. We prep the ground right, lay it right, and make sure your sprinklers hit every corner.",
+      "icon": "home"
+    },
+    {
+      "title": "Irrigation System Repair",
+      "description": "Broken sprinklers killing your lawn? We'll reconfigure, repair, and show you how to keep it running smooth.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Weed Control & Cleanup",
+      "description": "Vines taking over? Weeds everywhere? We clear out the chaos and bring back grass you can actually walk on.",
+      "icon": "fan"
+    },
+    {
+      "title": "Overgrown Property Restoration",
+      "description": "When your yard looks like a jungle, we're the machete. Sago palms, overgrown beds, tangled mess — we handle the worst cases.",
+      "icon": "saw"
+    }
+  ],
+  "about": {
+    "heading": "Jay's Been Turning Jungles Into Lawns Since Day One",
+    "body": "Based in Jacksonville, Jay and his crew at Jungle Life Landscape tackle the toughest yard transformations. From irrigation repairs to full property cleanups, we dive into projects other companies won't touch. Our clients stick around for 4+ years because we do it right the first time."
+  },
+  "reviews_section": {
+    "label": "WORD FROM THE YARD",
+    "heading": "Real Talk From Jacksonville Homeowners"
+  },
+  "reviews": [
+    {
+      "name": "Salvador P.",
+      "location": "Jacksonville",
+      "text": "After switching to Jungle Life, my lawn came back to life. Areas covered in weeds are now clean grass — my backyard is actually usable again.",
+      "rating": 5
+    },
+    {
+      "name": "Marty M.",
+      "location": "Jacksonville",
+      "text": "4 years with Jay and he still goes above and beyond. Polite, thorough, and always delivers. This guy deserves 10 stars.",
+      "rating": 5
+    },
+    {
+      "name": "Kelly M.",
+      "location": "Jacksonville",
+      "text": "Jay and Malik replaced our sod and fixed our sprinklers perfectly. Called back within minutes and handled everything professionally.",
+      "rating": 5
+    },
+    {
+      "name": "Tim P.",
+      "location": "Jacksonville",
+      "text": "Outstanding irrigation repair and sod work. Even gave me maintenance tips. They cleaned up all the pool construction damage like pros.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Jacksonville and Surrounding Areas",
+    "subheading": "Bringing yards back to life across Northeast Florida",
+    "areas": [
+      "Jacksonville",
+      "Neptune Beach",
+      "Atlantic Beach",
+      "Ponte Vedra Beach",
+      "Orange Park",
+      "Middleburg",
+      "Green Cove Springs",
+      "Fernandina Beach"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Tame Your Jungle?",
+    "body": "From overgrown disasters to dream backyards — let's talk about what your property needs. Jay returns calls fast and estimates are always honest.",
+    "cta_primary": "Get Your Free Estimate",
+    "cta_secondary": "Call (904) 423-6024"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "business": {
+    "name": "The A/C Doctor",
+    "phone": "(478) 420-0552",
+    "email": "info@acdoctorga.com",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "HVAC",
+    "tagline": "Diagnosing and curing your cooling problems",
+    "logo_url": "",
+    "google_rating": "3.9 stars (22 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Georgia heat* got your unit down? We make house calls.",
+    "subheadline": "When your A/C quits in the middle of July, you need someone who shows up and knows what they're doing. That's us.",
+    "cta_primary": "Get Diagnosis",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "phone",
+      "text": "Answers When You Call"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "clock",
+      "text": "Same-Day Service"
+    },
+    {
+      "icon": "star",
+      "text": "3.9/5 Stars (22 Reviews)"
+    }
+  ],
+  "services_section": {
+    "label": "THE TREATMENT",
+    "heading": "Every A/C Problem Has a Solution",
+    "subheading": "From quick fixes to full replacements — we handle whatever's keeping you hot"
+  },
+  "services": [
+    {
+      "title": "A/C Repair & Diagnosis",
+      "description": "Your unit's acting up? We'll find what's wrong and fix it right the first time. No guessing, no comebacks.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Complete System Replacement",
+      "description": "When repair isn't enough, we'll install a new unit that'll keep you cool for years. Fair pricing, quality work.",
+      "icon": "home"
+    },
+    {
+      "title": "Heating System Service",
+      "description": "Heat pump problems? Furnace issues? We service all heating systems to keep you comfortable year-round.",
+      "icon": "flame"
+    },
+    {
+      "title": "Maintenance & Tune-ups",
+      "description": "Regular checkups prevent breakdowns. We'll keep your system running smooth so you don't sweat the small stuff.",
+      "icon": "fan"
+    }
+  ],
+  "about": {
+    "heading": "Frank and The A/C Doctor Team",
+    "body": "We've been keeping Macon homes comfortable through Georgia's toughest weather. When you call, you get straight answers and honest work. No surprises, no runaround — just reliable HVAC service that gets the job done right."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon Customers Say"
+  },
+  "reviews": [
+    {
+      "name": "Jessica B.",
+      "location": "Macon",
+      "text": "Frank is professional and knowledgeable. He answered all my questions and always responded to calls. Highly recommend this company.",
+      "rating": 5
+    },
+    {
+      "name": "Shira L.",
+      "location": "Macon",
+      "text": "Super knowledgeable, efficient, and affordable. Never felt like he was trying to take advantage. Unit works like a charm and he followed up.",
+      "rating": 5
+    },
+    {
+      "name": "Felicia H.",
+      "location": "Macon",
+      "text": "Frank is very professional. Fixed my A/C two years ago. When you call, he responds and he's on time. Good service.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Middle Georgia",
+    "subheading": "Fast response throughout the area",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Perry",
+      "Milledgeville",
+      "Gray",
+      "Forsyth",
+      "Byron",
+      "Cochran"
+    ]
+  },
+  "cta": {
+    "heading": "Your A/C Needs Attention?",
+    "body": "Don't sweat it out another day. Call The A/C Doctor and get your cooling system back to perfect health.",
+    "cta_primary": "Schedule Service",
+    "cta_secondary": "Call (478) 420-0552"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FAFAFA",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

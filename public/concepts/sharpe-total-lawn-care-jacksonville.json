@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Sharpe Total Lawn Care",
+    "phone": "(904) 887-0106",
+    "email": "totallawnsolutionsllc@gmail.com",
+    "city": "Jacksonville",
+    "state": "FL",
+    "industry": "landscaper",
+    "tagline": "Same-day service when Jacksonville yards need saving",
+    "logo_url": "",
+    "google_rating": "5 stars (28 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Same-day rescue* for Jacksonville lawns gone wild",
+    "subheadline": "City compliance notices, overgrown disasters, deployment neglect — we've seen it all and fixed it fast.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "clock",
+      "text": "Same-Day Response"
+    },
+    {
+      "icon": "shield",
+      "text": "City Compliance Help"
+    },
+    {
+      "icon": "heart",
+      "text": "Local Jacksonville Crew"
+    }
+  ],
+  "services_section": {
+    "label": "THE RESCUE WORK",
+    "heading": "Every lawn disaster we handle",
+    "subheading": "From compliance emergencies to routine maintenance"
+  },
+  "services": [
+    {
+      "title": "Emergency Lawn Recovery",
+      "description": "Overgrown yards, weed takeovers, city notices — we'll get you compliant and looking sharp fast.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Fence Line & Edge Cleanup",
+      "description": "Meticulous clearing where other crews rush through. Clean lines make all the difference.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Regular Maintenance",
+      "description": "Keep your Jacksonville yard looking right year-round. No surprises, no missed visits.",
+      "icon": "home"
+    },
+    {
+      "title": "Weed Control Treatment",
+      "description": "Dandelions and weeds don't stand a chance. We'll restore your lawn to actual grass.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Right here in your Jacksonville neighborhood",
+    "body": "Ryan Sharpe and his crew live and work in Jacksonville. When you call, you get same-day response from people who know these yards, this climate, and what it takes to keep grass healthy in Florida heat. No corporate middleman — just neighbors helping neighbors get their lawns right."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Jacksonville homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Rye",
+      "location": "Jacksonville, FL",
+      "text": "Ryan and crew came out the same day I called with a city compliance issue. Asked for just the front mowed, but they went above and beyond.",
+      "rating": 5
+    },
+    {
+      "name": "Mac",
+      "location": "Jacksonville, FL",
+      "text": "Our lawn was an overgrown disaster full of dandelions. Ryan's crew worked tirelessly in the heat and were meticulous with the fence line cleanup.",
+      "rating": 5
+    },
+    {
+      "name": "Hannah N.",
+      "location": "Jacksonville, FL",
+      "text": "My yard was a mess after deployment and my previous guy quit. Ryan came in clutch with a free estimate and got it done same day at a great price.",
+      "rating": 5
+    },
+    {
+      "name": "Lauren B.",
+      "location": "Jacksonville, FL",
+      "text": "After two horrible lawn companies, I'm super impressed. Ryan lives around the corner and personally assessed my neglected yard with his daughters.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Jacksonville and surrounding areas",
+    "subheading": "Same-day response throughout Northeast Florida",
+    "areas": [
+      "Jacksonville",
+      "Orange Park",
+      "Fleming Island",
+      "Middleburg",
+      "Green Cove Springs",
+      "Ponte Vedra",
+      "Neptune Beach",
+      "Fernandina Beach"
+    ]
+  },
+  "cta": {
+    "heading": "Yard emergency or routine care?",
+    "body": "Free estimates, same-day service, and the kind of work that gets your neighbors asking who did your lawn.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (904) 887-0106"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

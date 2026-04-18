@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Jaiden C Roofing repairs",
+    "phone": "(478) 283-3326",
+    "email": "americanroofllc@gmail.com",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "roofer",
+    "tagline": "Storm damage? We're already on our way.",
+    "logo_url": "",
+    "google_rating": "4.7 stars (13 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Storm damage? *We answer fast*",
+    "subheadline": "Same-day estimates, fair prices, and we actually show up when we say we will. Ask anyone in Macon.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "clock",
+      "text": "Same-Day Estimates"
+    },
+    {
+      "icon": "star",
+      "text": "4.7 Stars on Google"
+    },
+    {
+      "icon": "shield",
+      "text": "Storm Damage Experts"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "We Show Up On Time"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every roof problem, handled right",
+    "subheading": "From storm damage to wear and tear — we've got the fix"
+  },
+  "services": [
+    {
+      "title": "Storm Damage Repair",
+      "description": "Hail, wind, fallen trees — we assess the damage and get your roof watertight fast. Insurance paperwork included.",
+      "icon": "shield"
+    },
+    {
+      "title": "Leak Detection & Repair",
+      "description": "Find the source, fix it properly, and make sure it stays fixed. No band-aids, just solid repairs.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Roof Restoration",
+      "description": "Bring old roofs back to life. Shingles, gutters, flashing — everything gets attention to detail.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Gazebo & Structure Roofing",
+      "description": "Outdoor structures need care too. We restore gazebos, sheds, and covered areas to like-new condition.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Mr. Sanchez and his crew get it done",
+    "body": "We're the roofers Macon calls when storms hit. Fair pricing, quality work, and we clean up when we're done. Found us through Home Advisor? You'll get a call back in minutes, not days. We show up on time, finish when we say we will, and even come back to check our work."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Suzanne A.",
+      "location": "Macon, GA",
+      "text": "Storm damaged my roof and he showed up exactly when promised. Fair price, quick repair, even came back days later to check his work. Using Jaiden C for all future roof needs.",
+      "rating": 5
+    },
+    {
+      "name": "Katy A.",
+      "location": "Macon, GA",
+      "text": "Found them on Home Advisor with great reviews. Called back in 5 minutes, came out same day for estimate, super nice crew and great price.",
+      "rating": 5
+    },
+    {
+      "name": "John C.",
+      "location": "Macon, GA",
+      "text": "They restored my gazebo beautifully. Quality work at fair prices, always on time, and they cleaned up perfectly when finished.",
+      "rating": 5
+    },
+    {
+      "name": "Jay A.",
+      "location": "Macon, GA",
+      "text": "Called back in 30 minutes when other roofers wouldn't even respond. Met me same afternoon, reasonable quote, and got the repair scheduled quickly.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Middle Georgia",
+    "subheading": "Fast response throughout the area",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Milledgeville",
+      "Forsyth",
+      "Perry",
+      "Gray",
+      "Byron",
+      "Centerville"
+    ]
+  },
+  "cta": {
+    "heading": "Roof trouble? We respond fast",
+    "body": "Same-day estimates, fair pricing, and work that lasts. Call now or request your free quote online.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (478) 283-3326"
+  },
+  "design": {
+    "primary_color": "#5B21B6",
+    "accent_color": "#10B981",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

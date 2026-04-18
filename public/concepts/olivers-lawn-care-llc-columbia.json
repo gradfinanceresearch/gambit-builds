@@ -1,0 +1,123 @@
+{
+  "business": {
+    "name": "Oliver’s Lawn Care LLC",
+    "phone": "(803) 360-9954",
+    "email": "keith.oliverlawncare@gmail.com",
+    "city": "Columbia",
+    "state": "SC",
+    "industry": "landscaper",
+    "tagline": "Same-day service, rates that can't be beat",
+    "logo_url": "",
+    "google_rating": "4.8 stars (35 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Same-day lawn service* — we show up when we say we will",
+    "subheadline": "Professional lawn care in Columbia with rates that actually make sense. Call today, get your quote, get it done today.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "clock",
+      "text": "Same-Day Service Available"
+    },
+    {
+      "icon": "star",
+      "text": "4.8 Stars on Google"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Professional & Reliable"
+    },
+    {
+      "icon": "heart",
+      "text": "Affordable Rates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Lawn Care That Gets Done Right",
+    "subheading": "From weekly maintenance to natural edges and mulch installation"
+  },
+  "services": [
+    {
+      "title": "Weekly Lawn Maintenance",
+      "description": "Mowing, trimming, and edging to keep your yard looking clean and neat every week. Professional results without the professional hassle.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Natural Edge Installation",
+      "description": "Clean, defined borders that separate your lawn from flower beds and walkways. Precise work that makes your landscaping pop.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Mulch Installation",
+      "description": "Fresh mulch spread evenly around trees, shrubs, and garden beds. Protects plants and gives your property that finished look.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Cleanup & Trimming",
+      "description": "Overgrown areas, seasonal cleanup, and detailed trimming work. We handle the mess so your yard stays looking sharp.",
+      "icon": "saw"
+    }
+  ],
+  "about": {
+    "heading": "Andre and the Oliver's Lawn Care Team",
+    "body": "We're the Columbia lawn care company that actually shows up when promised. Professional service, same-day availability, and rates that won't break the bank. Our clients appreciate the quality work and flexible scheduling — we make lawn care easy for busy homeowners across the Columbia area."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbia Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Denise H.",
+      "location": "Columbia, SC",
+      "text": "Really happy with the results. He showed up last minute when I needed an appointment, was very professional, and got the job done quickly. The yard looks clean and well-trimmed.",
+      "rating": 5
+    },
+    {
+      "name": "Sherman L.",
+      "location": "Columbia, SC",
+      "text": "Very professional and reliable. The lawn work he did for my residence was amazing!",
+      "rating": 5
+    },
+    {
+      "name": "Cyndi L.",
+      "location": "Columbia, SC",
+      "text": "Andre does a great job and always goes above and beyond. He's so flexible and easy to work with, and his rates can't be beat. Couldn't be happier with his work ethic.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Columbia and Surrounding Areas",
+    "subheading": "Professional lawn care throughout the Midlands",
+    "areas": [
+      "Columbia",
+      "Forest Acres",
+      "Cayce",
+      "West Columbia",
+      "Irmo",
+      "Lexington",
+      "Blythewood",
+      "Hopkins"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a Lawn That Actually Looks Good?",
+    "body": "Get your quote today and see why Columbia homeowners choose Oliver's Lawn Care for professional service at rates that make sense.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (803) 360-9954"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

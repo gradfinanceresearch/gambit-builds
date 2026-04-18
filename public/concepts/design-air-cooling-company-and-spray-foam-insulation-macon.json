@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Design Air cooling company And spray foam insulation",
+    "phone": "(478) 278-8113",
+    "email": "info@extremesprayfoam.net",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "HVAC",
+    "tagline": "Cooling systems and insulation that work when it matters",
+    "logo_url": "",
+    "google_rating": "4.9 stars (186 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When your AC quits in *Georgia heat*, we show up fast",
+    "subheadline": "Same-day repairs, spray foam insulation, and the kind of service that keeps Macon comfortable year-round.",
+    "cta_primary": "Get Fast Service",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9 Stars · 186+ Reviews"
+    },
+    {
+      "icon": "clock",
+      "text": "Same-Day Service"
+    },
+    {
+      "icon": "phone",
+      "text": "Answer Within the Hour"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Two ways we keep you comfortable",
+    "subheading": "HVAC repairs that stick and insulation that pays for itself"
+  },
+  "services": [
+    {
+      "title": "Emergency HVAC Repair",
+      "description": "When your system goes down, we're already on the way. No waiting around when it's 95 degrees outside and climbing.",
+      "icon": "fan"
+    },
+    {
+      "title": "Heating System Service",
+      "description": "Winter breakdowns don't wait for business hours. We fix furnaces, heat pumps, and everything that keeps you warm.",
+      "icon": "flame"
+    },
+    {
+      "title": "Spray Foam Insulation",
+      "description": "Seal every gap, crack, and energy leak. Your power bills will thank you, and your comfort will be year-round.",
+      "icon": "home"
+    },
+    {
+      "title": "Commercial HVAC",
+      "description": "Ice machines, commercial units, walk-in coolers — we keep businesses running without the downtime drama.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Mark and the team that shows up when you need them",
+    "body": "Design Air has been keeping Macon comfortable for years with the kind of service that turns customers into friends. Whether it's an emergency repair at midnight or spray foam insulation that cuts your energy bills in half, we handle it right the first time. No runaround, no excuses — just the work that needs doing."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Heather H.",
+      "location": "Macon, GA",
+      "text": "Fixed my problem unit quickly and efficiently. Very pleased with the work and professionalism — highly recommend them for heating and air repairs.",
+      "rating": 5
+    },
+    {
+      "name": "Kristy R.",
+      "location": "Macon, GA",
+      "text": "100% recommend Design Air! My heater went out and Mark came over within an hour. Great customer service and had my heater going same day.",
+      "rating": 5
+    },
+    {
+      "name": "Vicki H.",
+      "location": "Macon, GA",
+      "text": "Very wonderful person. Had to come back several times to fix my heater and did it with a smile while explaining the problem every time.",
+      "rating": 5
+    },
+    {
+      "name": "Rich W.",
+      "location": "Macon, GA",
+      "text": "Been doing business with Mark for several years. His commitment to clients and quality of service is outstanding. Proud to consider him a friend.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Middle Georgia",
+    "subheading": "Fast response times throughout the region",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Perry",
+      "Milledgeville",
+      "Dublin",
+      "Cochran",
+      "Gray",
+      "Forsyth"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for service that actually shows up?",
+    "body": "Don't sweat it out or freeze while waiting for callbacks. We answer fast, work faster, and get your comfort back on track.",
+    "cta_primary": "Get Service Today",
+    "cta_secondary": "Call (478) 278-8113"
+  },
+  "design": {
+    "primary_color": "#065F46",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

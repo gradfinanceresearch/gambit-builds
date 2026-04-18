@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Nathan Baugh Heating & Cooling, LLC",
+    "phone": "(478) 251-6441",
+    "email": "",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "HVAC",
+    "tagline": "Same-day service when your unit quits",
+    "logo_url": "",
+    "google_rating": "5 stars (247 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When your AC dies in *July heat*, we answer the phone",
+    "subheadline": "247 five-star reviews don't lie — we show up fast and fix it right the first time.",
+    "cta_primary": "Get Fast Service",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "247 Five-Star Reviews"
+    },
+    {
+      "icon": "clock",
+      "text": "Same-Day Service"
+    },
+    {
+      "icon": "phone",
+      "text": "We Actually Answer"
+    },
+    {
+      "icon": "check",
+      "text": "Licensed & Insured"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every HVAC job, handled right",
+    "subheading": "From emergency repairs to complete system installations"
+  },
+  "services": [
+    {
+      "title": "Emergency AC Repair",
+      "description": "Unit died in the heat? We'll have you cool again within hours, not days. Our techs carry the parts that break most often.",
+      "icon": "fan"
+    },
+    {
+      "title": "Heating System Service",
+      "description": "Furnace acting up before the cold hits? We tune, repair, and replace heating systems to keep you warm all winter.",
+      "icon": "flame"
+    },
+    {
+      "title": "Complete System Installation",
+      "description": "New construction or full replacement — we size it right and install it clean. No shortcuts, no mess left behind.",
+      "icon": "home"
+    },
+    {
+      "title": "Ductwork & Ventilation",
+      "description": "Adding vents, sealing leaks, or running new ducts. We make sure the air gets where it needs to go efficiently.",
+      "icon": "pipe"
+    }
+  ],
+  "about": {
+    "heading": "Macon's most trusted HVAC team",
+    "body": "Nathan Baugh started this company to do HVAC work the right way — show up when we say we will, fix what's broken, and clean up after ourselves. Our techs like Darin, Daniel, and Travis have built our reputation one five-star job at a time. When your system breaks, Macon calls us first."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Kaylee V.",
+      "location": "Macon",
+      "text": "AC issues for almost a month until Darin came out same day and fixed it. Professional and fast — we finally have air again!",
+      "rating": 5
+    },
+    {
+      "name": "Toni P.",
+      "location": "Macon",
+      "text": "Only company that called back within an hour for our emergency. Unit was running again within hours of our call.",
+      "rating": 5
+    },
+    {
+      "name": "Renate J.",
+      "location": "Macon",
+      "text": "On time, respectful, thorough work. Fair price and truly professional. Would refer Nathan to everyone.",
+      "rating": 5
+    },
+    {
+      "name": "Monica S.",
+      "location": "Macon",
+      "text": "All 5-star ratings seemed too good to be true, but Daniel proved why. Same-day service and exceptional work.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Middle Georgia",
+    "subheading": "Fast service throughout the greater Macon area",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Centerville",
+      "Milledgeville",
+      "Gray",
+      "Byron",
+      "Perry",
+      "Forsyth"
+    ]
+  },
+  "cta": {
+    "heading": "Your AC won't fix itself",
+    "body": "Don't sweat it another day. Call the team that shows up fast and gets your system running right.",
+    "cta_primary": "Schedule Service",
+    "cta_secondary": "Call (478) 251-6441"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

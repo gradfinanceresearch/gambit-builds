@@ -1,0 +1,123 @@
+{
+  "business": {
+    "name": "Mike's Custom Painting",
+    "phone": "(865) 806-9406",
+    "email": "dragonmikeb234@yahoo.com",
+    "city": "Knoxville",
+    "state": "TN",
+    "industry": "painter",
+    "tagline": "Professional painting and drywall repair in Knoxville",
+    "logo_url": "",
+    "google_rating": "5 stars (12 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Knoxville's *go-to crew* for painting and drywall fixes",
+    "subheadline": "When your walls need more than just a coat — we fix, prep, and make it right. Every detail handled.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Mike"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "clock",
+      "text": "On Time, Every Day"
+    },
+    {
+      "icon": "tool",
+      "text": "Drywall + Paint Experts"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Paint, repair, fix — whatever your walls need",
+    "subheading": "From nail pops to full remodels, we handle the prep work others skip"
+  },
+  "services": [
+    {
+      "title": "Interior & Exterior Painting",
+      "description": "Complete paint jobs with proper prep. We cover furniture, fix surfaces first, then apply coats that last.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Drywall Repair & Texturing",
+      "description": "Nail pops, seam cracks, water damage — we patch, sand, and texture to match your existing walls perfectly.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Finish Carpentry Work",
+      "description": "Trim installation, cabinet touch-ups, and detail work that makes the difference between good and great.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Remodel Support",
+      "description": "Working with contractors? We handle all paint and drywall needs during your renovation project.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Mike's team — fixing Knoxville walls right",
+    "body": "We're the painters other contractors call when they need drywall repairs done properly. Mike and his crew show up on time, clean up after ourselves, and handle the details that matter. Whether it's fixing water damage or painting your whole house, we make sure it's done right the first time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Knoxville homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Joy C.",
+      "location": "Knoxville, TN",
+      "text": "Mike's crew painted our downstairs paneling and handled all the prep work beautifully. They solved every problem our older home threw at them.",
+      "rating": 5
+    },
+    {
+      "name": "Traci L.",
+      "location": "Knoxville, TN",
+      "text": "They handled our whole remodel — drywall repairs, carpentry, and painting. Professional team, on time every day, amazing attention to detail.",
+      "rating": 5
+    },
+    {
+      "name": "Michelle P.",
+      "location": "Knoxville, TN",
+      "text": "James and Mike repaired severe nail pops and ceiling issues. The drywall work was flawless — you'd never know there were problems.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Knoxville and surrounding areas",
+    "subheading": "Professional painting and drywall repair throughout East Tennessee",
+    "areas": [
+      "Knoxville",
+      "Maryville",
+      "Oak Ridge",
+      "Sevierville",
+      "Alcoa",
+      "Clinton",
+      "Farragut",
+      "Powell"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix those walls right?",
+    "body": "Free estimates on all painting and drywall work. Call Mike today and see why contractors trust us with their toughest jobs.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (865) 806-9406"
+  },
+  "design": {
+    "primary_color": "#9A3412",
+    "accent_color": "#059669",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

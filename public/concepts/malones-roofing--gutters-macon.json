@@ -1,0 +1,111 @@
+{
+  "business": {
+    "name": "Malone's Roofing & Gutters",
+    "phone": "(478) 256-3640",
+    "email": "dmalone22@cox.net",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "roofer",
+    "tagline": "Keeping Middle Georgia dry since day one",
+    "logo_url": "",
+    "google_rating": "5 stars (2 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Every roof* tells a story — we fix the leaky chapters",
+    "subheadline": "When your shingles give up, we show up. Same-day estimates, honest answers, and work that lasts.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Fully Licensed & Insured"
+    },
+    {
+      "icon": "phone",
+      "text": "Quick Response Time"
+    },
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Roofs and gutters — that's what we do",
+    "subheading": "No windows, no siding, no distractions. Just expert roofing work and gutter solutions."
+  },
+  "services": [
+    {
+      "title": "Roof Repair & Replacement",
+      "description": "From missing shingles to full tear-offs, we handle every type of roof problem. Metal, asphalt, tile — we know them all.",
+      "icon": "home"
+    },
+    {
+      "title": "Gutter Installation & Repair",
+      "description": "New gutters, repairs, and cleaning services. Keep water flowing away from your foundation where it belongs.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Storm Damage Assessment",
+      "description": "After the storm passes, we'll inspect your roof and gutters for damage. Insurance claims assistance available.",
+      "icon": "shield"
+    },
+    {
+      "title": "Preventive Maintenance",
+      "description": "Regular inspections catch small problems before they become expensive ones. Keep your roof in top condition.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Malone's means reliable roofing in Macon",
+    "body": "We're the local roofing company that Middle Georgia homeowners trust when their roof needs attention. From storm damage to aging shingles, we provide honest assessments and quality work. Every job gets our full attention — whether it's a simple repair or a complete roof replacement."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Ruth D.",
+      "location": "Macon, GA",
+      "text": "Incredibly thorough work and completely reliable service. They did exactly what they promised.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Middle Georgia",
+    "subheading": "Professional roofing services throughout the region",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Milledgeville",
+      "Perry",
+      "Cochran",
+      "Dublin",
+      "Eastman",
+      "Forsyth"
+    ]
+  },
+  "cta": {
+    "heading": "Your roof won't fix itself",
+    "body": "Stop putting off that repair. Get a free estimate today and find out exactly what needs to be done — no surprises, no pressure.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (478) 256-3640"
+  },
+  "design": {
+    "primary_color": "#0F4C75",
+    "accent_color": "#3EDBF0",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

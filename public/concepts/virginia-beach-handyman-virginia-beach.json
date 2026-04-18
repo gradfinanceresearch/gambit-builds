@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Virginia Beach Handyman",
+    "phone": "(948) 888-7760",
+    "email": "service@hirehandyplus.com",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "industry": "handyman",
+    "tagline": "When it breaks, we make it right",
+    "logo_url": "",
+    "google_rating": "5 stars (13 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Bill Green* fixes what's broken — for 15 years running",
+    "subheadline": "One call handles everything from weekend storm damage to that kitchen drawer that finally gave up. Fast response, fair pricing, work that lasts.",
+    "cta_primary": "Get Your Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "clock",
+      "text": "Quick Response Times"
+    },
+    {
+      "icon": "shield",
+      "text": "15+ Years Experience"
+    },
+    {
+      "icon": "phone",
+      "text": "Always Available"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "From Storm Damage to Daily Repairs",
+    "subheading": "No job too big or small — we handle what needs handling"
+  },
+  "services": [
+    {
+      "title": "Storm & Wind Damage Repair",
+      "description": "When Virginia Beach weather hits hard, we respond fast. Roof repairs, structural fixes, and everything the storm left behind.",
+      "icon": "shield"
+    },
+    {
+      "title": "Roof & Leak Repairs",
+      "description": "Stop the drip before it becomes a flood. Professional roof patching, shingle replacement, and waterproofing that actually works.",
+      "icon": "home"
+    },
+    {
+      "title": "Home Improvement Projects",
+      "description": "Kitchen updates, bathroom fixes, that renovation you've been putting off. We make your house work better for how you live.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Property Maintenance",
+      "description": "Regular upkeep for rental properties and homeowners. Scheduled maintenance that prevents bigger problems down the road.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Bill Green — Virginia Beach's Go-To Handyman",
+    "body": "For over 15 years, Bill has been the name Virginia Beach homeowners and property managers trust when things break. From emergency storm repairs to planned improvements, every job gets the same attention to detail and fair pricing. Licensed, experienced, and always straight with you about what needs doing."
+  },
+  "reviews_section": {
+    "label": "WHAT THEY SAY",
+    "heading": "Real Reviews from Real Customers"
+  },
+  "reviews": [
+    {
+      "name": "D. G.",
+      "location": "Virginia Beach",
+      "text": "Bill has been my handyman for over 15 years. I trust his experience completely and he's an excellent communicator throughout every project.",
+      "rating": 5
+    },
+    {
+      "name": "Melissa M.",
+      "location": "Virginia Beach",
+      "text": "My go-to for two rental properties. His professionalism and attention to detail are outstanding. Always punctual and keeps me informed.",
+      "rating": 5
+    },
+    {
+      "name": "Colton D.",
+      "location": "Virginia Beach",
+      "text": "As a maintenance coordinator, finding good techs is rare. Bill is a diamond — quick communication, transparent pricing, great work, nice guy.",
+      "rating": 5
+    },
+    {
+      "name": "Ross B.",
+      "location": "Virginia Beach",
+      "text": "Bill saved us after weekend wind damage. Quick to answer and even quicker to fix the issues. Highly recommend for any repair needs.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Virginia Beach & Surrounding Areas",
+    "subheading": "Local handyman for local homes",
+    "areas": [
+      "Virginia Beach",
+      "Norfolk",
+      "Chesapeake",
+      "Portsmouth",
+      "Suffolk",
+      "Hampton",
+      "Newport News",
+      "Williamsburg"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fix What's Broken?",
+    "body": "Call Bill directly for honest pricing and scheduling that works around your life. Free estimates on all projects.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (948) 888-7760"
+  },
+  "design": {
+    "primary_color": "#1B4D8C",
+    "accent_color": "#E8A630",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Home Pro Lawn Services",
+    "phone": "(803) 920-5785",
+    "email": "bladeandpetal@gmail.com",
+    "city": "Columbia",
+    "state": "SC",
+    "industry": "landscaper",
+    "tagline": "Precision lawn care that shows",
+    "logo_url": "",
+    "google_rating": "5 stars (47 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Your yard *never looked this good*",
+    "subheadline": "Same day, same time, same attention to detail. Ask Paula — she's trusted us for ten years.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Brent"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5 Stars on Google"
+    },
+    {
+      "icon": "clock",
+      "text": "Same Time Every Week"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "heart",
+      "text": "10+ Year Customers"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "From weekly cuts to complete makeovers",
+    "subheading": "Everything your yard needs to be the one neighbors notice"
+  },
+  "services": [
+    {
+      "title": "Weekly Lawn Mowing",
+      "description": "Same day, same time reliability. We show up when we say we will, cut to the right height, and leave clean edges every single time.",
+      "icon": "fan"
+    },
+    {
+      "title": "Flower Bed Design",
+      "description": "Complete bed redesigns that transform your curb appeal. From soil prep to plant selection, we create beds that bloom beautifully season after season.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Sprinkler Repair",
+      "description": "Broken heads, clogged lines, timer issues — we diagnose and fix irrigation problems so your grass stays green without waste.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Fence Installation",
+      "description": "Privacy, boundary, or decorative fencing installed right the first time. Quality materials and proper installation that lasts.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Brent knows Columbia yards",
+    "body": "Ten years of the same customers tells you everything. We're Home Pro Lawn Services, and we've been keeping Columbia lawns healthy and beautiful since day one. From Forest Acres to Shandon, we know what grows here and what doesn't. When you need it done right, you call Brent."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbia homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Sharon G.",
+      "location": "Columbia, SC",
+      "text": "Brent does incredible work — from our weekly mowing to completely redoing our flower beds. Our house has never looked better.",
+      "rating": 5
+    },
+    {
+      "name": "Paula A.",
+      "location": "Columbia, SC",
+      "text": "Nearly ten years with Brent and my lawn still looks fabulous every week. He's dependable and knows exactly what my yard needs.",
+      "rating": 5
+    },
+    {
+      "name": "Karen P.",
+      "location": "Columbia, SC",
+      "text": "Goes above and beyond every single time. The attention to detail and reliability sets him apart — my yard has never been healthier.",
+      "rating": 5
+    },
+    {
+      "name": "Justin M.",
+      "location": "Columbia, SC",
+      "text": "Always on time and my yard stays perfectly maintained. By far the best landscaping service I've ever used.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Columbia and surrounding areas",
+    "subheading": "Weekly routes throughout the Midlands",
+    "areas": [
+      "Columbia",
+      "Forest Acres",
+      "Cayce",
+      "West Columbia",
+      "Irmo",
+      "Lexington",
+      "Shandon",
+      "Rosewood"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a yard that stands out?",
+    "body": "Call Brent today for a free estimate. Same reliable service that's kept Columbia customers happy for years.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (803) 920-5785"
+  },
+  "design": {
+    "primary_color": "#1A5632",
+    "accent_color": "#D4A843",
+    "bg_color": "#F8FAF8",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Work Sans",
+    "layout_variant": "stacked"
+  }
+}

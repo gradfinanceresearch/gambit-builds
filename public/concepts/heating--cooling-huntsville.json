@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Heating & Cooling",
+    "phone": "(256) 864-6511",
+    "email": "service.scheduling@southernheating.com",
+    "city": "Huntsville",
+    "state": "AL",
+    "industry": "HVAC",
+    "tagline": "When your system quits, we don't",
+    "logo_url": "",
+    "google_rating": "5 stars (15 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Same-day fixes* when the big guys can't show up",
+    "subheadline": "No exorbitant house call fees. No upselling systems that still work fine. Just honest HVAC repair in Huntsville since 2003.",
+    "cta_primary": "Get Same-Day Service",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "clock",
+      "text": "Same-Day Response"
+    },
+    {
+      "icon": "star",
+      "text": "5 Stars, 15 Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "phone",
+      "text": "We Answer the Phone"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Everything HVAC — repaired right",
+    "subheading": "From quick fixes to complete installations, we handle it all with reasonable pricing"
+  },
+  "services": [
+    {
+      "title": "Emergency Repairs",
+      "description": "When your AC dies before surgery or your heat quits in winter, we respond same day. No waiting around for the big companies.",
+      "icon": "wrench"
+    },
+    {
+      "title": "System Installation",
+      "description": "Complete HVAC system installation with return duct replacement. Fair pricing, professional crew, bumper-to-bumper warranty.",
+      "icon": "home"
+    },
+    {
+      "title": "Gas Line Installation",
+      "description": "Safe, professional gas line installation for dryers and appliances. Reasonable quotes, on-time service, polite crews.",
+      "icon": "flame"
+    },
+    {
+      "title": "Preventive Maintenance",
+      "description": "Thorough inspections with clear explanations of what needs attention and why. Keep your system running smoothly year-round.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Serving Huntsville since 2003",
+    "body": "We're the HVAC team your neighbors call when the big contractors charge too much or can't show up. Same-day service, honest pricing, and we actually answer the phone. From emergency repairs to complete system installations, we've been keeping Huntsville comfortable for over 20 years."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "Why neighbors choose us over the big guys"
+  },
+  "reviews": [
+    {
+      "name": "Julien Y.",
+      "location": "Huntsville",
+      "text": "Right on schedule with impressive attention to detail. They thoroughly inspected our aging AC, explained exactly what needed attention and why, then worked efficiently until everything ran perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "Stuart O.",
+      "location": "Huntsville",
+      "text": "Tired of large HVAC contractors charging ridiculous fees and pushing new systems. Called these guys — immediate response, same-day service, quick fix with clear explanation.",
+      "rating": 5
+    },
+    {
+      "name": "Jim M.",
+      "location": "Huntsville",
+      "text": "Been using them since 2003. Installed our system and replaced return ducts for a very reasonable price. Always prompt during the warranty period — never had to wait.",
+      "rating": 5
+    },
+    {
+      "name": "Cliff M.",
+      "location": "Huntsville",
+      "text": "AC died two days before major surgery. Our usual guy wouldn't answer, big companies couldn't come out. Found these guys on Nextdoor — great reviews and they saved the day.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving North Alabama",
+    "subheading": "Same-day service throughout the Huntsville metro area",
+    "areas": [
+      "Huntsville",
+      "Madison",
+      "Decatur",
+      "Athens",
+      "Albertville",
+      "Arab",
+      "Guntersville",
+      "Scottsboro"
+    ]
+  },
+  "cta": {
+    "heading": "Need HVAC service today?",
+    "body": "Don't wait around for the big companies. We answer the phone and show up when we say we will. Get honest pricing and same-day service.",
+    "cta_primary": "Schedule Service",
+    "cta_secondary": "Call (256) 864-6511"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFBEB",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

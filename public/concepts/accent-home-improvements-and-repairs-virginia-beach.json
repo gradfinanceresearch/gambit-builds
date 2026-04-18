@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "Accent Home Improvements and Repairs",
+    "phone": "(757) 735-2565",
+    "email": "",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "industry": "handyman",
+    "tagline": "When it needs fixing, we fix it right",
+    "logo_url": "",
+    "google_rating": "4.7 stars (62 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "The fix-anything crew *Virginia Beach* trusts",
+    "subheadline": "From ceiling fans to siding repairs — Mike and his team handle what breaks, what's worn out, and what you've been putting off.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (757) 735-2565"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.7 Stars (62 Reviews)"
+    },
+    {
+      "icon": "check",
+      "text": "Quality Work Guaranteed"
+    },
+    {
+      "icon": "clock",
+      "text": "Quick Response Times"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Fair, Upfront Pricing"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "The repairs that matter to you",
+    "subheading": "Every job gets the same attention — whether it's replacing a door or fixing drywall damage."
+  },
+  "services": [
+    {
+      "title": "Siding Replacement & Repair",
+      "description": "Vinyl siding that's cracked, warped, or just worn out. We match existing materials and make it look like the damage never happened.",
+      "icon": "home"
+    },
+    {
+      "title": "Interior Door Installation",
+      "description": "New doors that actually fit the frame, hang straight, and close properly. No gaps, no sticking, no compromises.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Ceiling Fan Service",
+      "description": "Remove old wobbling fans, install new ones, or fix the ones you have. Clean wiring, solid mounting, quiet operation.",
+      "icon": "fan"
+    },
+    {
+      "title": "Drywall & Sheetrock Repair",
+      "description": "Holes, cracks, water damage — we patch it, sand it smooth, and match your existing texture and paint.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "General Home Repairs",
+      "description": "The fixes that pile up on your weekend list. Loose trim, squeaky hinges, cabinet adjustments — consider it handled.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Mike Green and the Accent team",
+    "body": "We're the handyman crew Virginia Beach calls when they want it done right the first time. Mike leads every job personally, and we've built our reputation one satisfied customer at a time. No surprise costs, no corner-cutting — just solid work that lasts."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Virginia Beach neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "LC B.",
+      "location": "Virginia Beach",
+      "text": "Vance gave me a very reasonable estimate for vinyl siding replacement and kept me informed throughout the entire process.",
+      "rating": 5
+    },
+    {
+      "name": "Debby W.",
+      "location": "Virginia Beach",
+      "text": "Mike responded quickly and worked within my timeline. He and Jason replaced 2 ceiling fans with quality, affordable work.",
+      "rating": 5
+    },
+    {
+      "name": "Michelle T.",
+      "location": "Virginia Beach",
+      "text": "Quick quote, fast scheduling, and fantastic door replacement work. Mike made sure everything was perfect before leaving.",
+      "rating": 5
+    },
+    {
+      "name": "NoBigDeal .",
+      "location": "Virginia Beach",
+      "text": "Michael quoted a fair price for sheetrock repair and even fixed additional issues at no extra cost. Quality work throughout.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE AREA",
+    "heading": "Where we work",
+    "subheading": "Serving Virginia Beach and the surrounding Hampton Roads communities",
+    "areas": [
+      "Virginia Beach",
+      "Norfolk",
+      "Chesapeake",
+      "Portsmouth",
+      "Suffolk",
+      "Newport News",
+      "Hampton",
+      "Williamsburg"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get it fixed?",
+    "body": "Call Mike for a free estimate. No obligation, no pressure — just an honest assessment of what needs doing and what it'll cost.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#1E3A5F",
+    "accent_color": "#C0986B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

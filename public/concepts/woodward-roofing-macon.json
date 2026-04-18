@@ -1,0 +1,111 @@
+{
+  "business": {
+    "name": "Woodward Roofing",
+    "phone": "(478) 365-8647",
+    "email": "",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "roofer",
+    "tagline": "Your roof. Done right.",
+    "logo_url": "",
+    "google_rating": "5 stars (2 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Macon's *Quick Response* Roofing Crew",
+    "subheadline": "When storms hit Middle Georgia, we're the crew your neighbors call first. Fast quotes, faster repairs.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "clock",
+      "text": "Quick Response Time"
+    },
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "phone",
+      "text": "Always Available"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every Roof Problem, Handled",
+    "subheading": "Storm damage to full replacements — we've seen it all in Middle Georgia weather"
+  },
+  "services": [
+    {
+      "title": "Storm Damage Repairs",
+      "description": "Georgia storms don't mess around, and neither do we. Missing shingles, leaks, and wind damage fixed fast.",
+      "icon": "shield"
+    },
+    {
+      "title": "Roof Replacements",
+      "description": "When patching won't cut it anymore, we'll tear off the old and install a roof that lasts decades.",
+      "icon": "home"
+    },
+    {
+      "title": "Emergency Leak Fixes",
+      "description": "Water coming through your ceiling? We'll get out there and stop it before it ruins your floors.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Roof Inspections",
+      "description": "Climb up there so you don't have to. We'll spot problems before they become expensive disasters.",
+      "icon": "lightbulb"
+    }
+  ],
+  "about": {
+    "heading": "Trevor Woodward — Macon Roofer",
+    "body": "Been fixing roofs around Macon for years. When your roof needs work, you want someone who shows up when they say they will and gets the job done right the first time. That's what we do — no runaround, no surprises, just solid roofing work you can count on."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Brian K.",
+      "location": "Macon",
+      "text": "Trevor responded fast and did excellent work. Couldn't ask for better service — highly recommend.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Middle Georgia",
+    "subheading": "Fast response times throughout the region",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Milledgeville",
+      "Perry",
+      "Forsyth",
+      "Gray",
+      "Byron",
+      "Centerville"
+    ]
+  },
+  "cta": {
+    "heading": "Roof Problems Don't Wait",
+    "body": "Get a straight answer about what your roof needs. Free quotes, no pressure, just honest advice from someone who knows Georgia roofs.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Trevor"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "Beale's Cleaning and Handyman Services LLC",
+    "phone": "(757) 782-1961",
+    "email": "",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "industry": "handyman",
+    "tagline": "Fix it. Clean it. Done right.",
+    "logo_url": "",
+    "google_rating": "5 stars (16 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "The *fix-it crew* Virginia Beach calls first",
+    "subheadline": "From leaky faucets to deep cleans — we handle what others won't touch. Licensed, reliable, and already in your neighborhood.",
+    "cta_primary": "Get Your Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Response"
+    },
+    {
+      "icon": "check",
+      "text": "No Job Too Small"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE HANDLE",
+    "heading": "Everything that breaks, leaks, or needs attention",
+    "subheading": "We're the crew that shows up with the right tools and gets it done the first time"
+  },
+  "services": [
+    {
+      "title": "Home Repairs & Maintenance",
+      "description": "Drywall patches, door adjustments, cabinet fixes, and all those little things that drive you crazy. We tackle the honey-do list so you don't have to.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Deep Cleaning Services",
+      "description": "Move-out cleans, post-construction cleanup, and the kind of thorough scrub that makes your place feel new again. We bring the elbow grease.",
+      "icon": "home"
+    },
+    {
+      "title": "Plumbing Fixes",
+      "description": "Leaky faucets, running toilets, clogged drains, and water pressure issues. Quick fixes that save you from calling the expensive guys.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Electrical Troubleshooting",
+      "description": "Outlet repairs, fixture replacements, and basic wiring fixes. Safe, code-compliant work that keeps your lights on.",
+      "icon": "zap"
+    },
+    {
+      "title": "Painting & Touch-ups",
+      "description": "Interior walls, trim work, and those scuff marks that make everything look worn. Fresh paint that transforms your space.",
+      "icon": "paintbrush"
+    }
+  ],
+  "about": {
+    "heading": "Built for Virginia Beach homes and businesses",
+    "body": "We're the local crew that handles what others consider too small or too messy. From quick fixes to full cleanouts, we've built our reputation on showing up when we say we will and finishing what we start. Whether it's a rental turnover or your forever home, we treat every job like it's our own place."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Virginia Beach neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Harold W.",
+      "location": "Virginia Beach",
+      "text": "Got my whole backyard project done - fence, furniture setup, gazebo installation. Left them to work, came back to a superb job. True professionals who get it done right.",
+      "rating": 5
+    },
+    {
+      "name": "Jasmine B.",
+      "location": "Virginia Beach",
+      "text": "Amazing attention to detail and very professional. Hard worker who comes to get the job done. If you need quality work, this is who you call.",
+      "rating": 5
+    },
+    {
+      "name": "Coach T.",
+      "location": "Virginia Beach",
+      "text": "This company easily outperforms the bigger brand names. Outstanding work at reasonable prices - you can take that to the bank.",
+      "rating": 5
+    },
+    {
+      "name": "Keshana",
+      "location": "Virginia Beach",
+      "text": "Great work and very professional service. Highly recommend and will definitely use them again for future projects.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving the Hampton Roads area",
+    "subheading": "Quick response times throughout the region",
+    "areas": [
+      "Virginia Beach",
+      "Norfolk",
+      "Chesapeake",
+      "Portsmouth",
+      "Suffolk",
+      "Hampton",
+      "Newport News",
+      "Williamsburg"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to cross things off your list?",
+    "body": "Free estimates on all handyman and cleaning services. Call now and we'll talk through your project - no obligation, just honest advice.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (757) 782-1961"
+  },
+  "design": {
+    "primary_color": "#1B4D8C",
+    "accent_color": "#E8A630",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

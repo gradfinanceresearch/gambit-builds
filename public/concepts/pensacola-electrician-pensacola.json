@@ -1,0 +1,104 @@
+{
+  "business": {
+    "name": "Pensacola Electrician",
+    "phone": "(850) 203-3621",
+    "email": "",
+    "city": "Pensacola",
+    "state": "FL",
+    "industry": "electrician",
+    "tagline": "Every outlet, panel, and wire — handled",
+    "logo_url": "",
+    "google_rating": "",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When the power's out, *we're already on the way*",
+    "subheadline": "No guesswork. No delays. Just reliable electrical work from licensed pros who know Pensacola wiring inside and out.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "zap",
+      "text": "Emergency Service"
+    },
+    {
+      "icon": "phone",
+      "text": "Local Response"
+    },
+    {
+      "icon": "check",
+      "text": "Code Compliant"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Electrical Solutions That Actually Work",
+    "subheading": "From blown fuses to full rewires, we handle the electrical challenges Pensacola homes and businesses face every day"
+  },
+  "services": [
+    {
+      "title": "Panel Upgrades & Repairs",
+      "description": "Old panels can't handle modern electrical loads. We upgrade breaker boxes to keep your power flowing safely and efficiently.",
+      "icon": "plug"
+    },
+    {
+      "title": "Outlet & Switch Installation",
+      "description": "Need more outlets or switches that actually work? We wire new ones exactly where you need them, code compliant every time.",
+      "icon": "zap"
+    },
+    {
+      "title": "Lighting Installation",
+      "description": "Ceiling fans, recessed lights, outdoor fixtures — we handle the wiring so your lights work the first time you flip the switch.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Emergency Electrical Repair",
+      "description": "Power outages, sparking outlets, tripped breakers — when electrical problems can't wait, we respond fast to get you back online.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Licensed Electricians Serving Pensacola",
+    "body": "We're the electrical contractors Pensacola calls when the job needs to be done right. Licensed, insured, and experienced with everything from simple repairs to complex commercial installations. When your power matters, we deliver reliable electrical solutions."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Pensacola Says"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Electrical Service Throughout the Gulf Coast",
+    "subheading": "Licensed electrical contractors serving Pensacola and surrounding communities",
+    "areas": [
+      "Pensacola",
+      "Gulf Breeze",
+      "Navarre",
+      "Pace",
+      "Milton",
+      "Cantonment",
+      "Perdido Key",
+      "Pensacola Beach"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fix Your Electrical Problems?",
+    "body": "Don't wait for electrical issues to get worse. Get a free estimate from licensed electricians who know Pensacola wiring.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (850) 203-3621"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

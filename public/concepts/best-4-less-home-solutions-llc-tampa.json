@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "BEST 4 LESS HOME SOLUTIONS LLC",
+    "phone": "(813) 362-8113",
+    "email": "info@tbhomesolutionis.com",
+    "city": "Tampa",
+    "state": "FL",
+    "industry": "handyman",
+    "tagline": "Quick fixes, fair prices, done right",
+    "logo_url": "",
+    "google_rating": "4.9 stars (113 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "The handyman Tampa calls *when it needs to work*",
+    "subheadline": "From toilets to wall patches, Marwan shows up early and gets it done. No hidden fees, no runaround — just honest work at honest prices.",
+    "cta_primary": "Get Your Fix",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9 Stars (113 Reviews)"
+    },
+    {
+      "icon": "clock",
+      "text": "Shows Up Early"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "No Hidden Fees"
+    },
+    {
+      "icon": "tool",
+      "text": "All Repairs Handled"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIXES",
+    "heading": "Every repair, every room",
+    "subheading": "When something's broken, we make it work again"
+  },
+  "services": [
+    {
+      "title": "Toilet Installation & Repair",
+      "description": "Complete toilet installs, leak fixes, and everything in between. Professional work that lasts.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Wall Patches & Touch-ups",
+      "description": "Holes, cracks, and dings disappear. Clean patches that blend seamlessly with existing walls.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "General Home Repairs",
+      "description": "The catch-all for everything that's not working right. Six repairs in two hours? That's just Tuesday.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Quick Response Service",
+      "description": "Call today, fixed today. Available through Nextdoor and direct contact for urgent repairs.",
+      "icon": "zap"
+    }
+  ],
+  "about": {
+    "heading": "Marwan gets it done",
+    "body": "In Tampa, when something breaks, you call Marwan. Professional handyman service that shows up early, works clean, and charges what we quote. No surprises, no excuses — just solid repairs that stick. From single fixes to multi-item punch lists, we handle what needs handling."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Tampa neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "James K.",
+      "location": "Tampa",
+      "text": "Professional toilet installation, showed up 30 minutes early, fair pricing with no hidden fees. Highly recommended.",
+      "rating": 5
+    },
+    {
+      "name": "Sherrie J.",
+      "location": "Tampa",
+      "text": "Called through Nextdoor and they were at my house within an hour. Great work, very professional, reasonable prices.",
+      "rating": 5
+    },
+    {
+      "name": "Sony A.",
+      "location": "Tampa",
+      "text": "Hard to find someone as knowledgeable and affordable. Took care of 6 things around my home in under 2 hours.",
+      "rating": 5
+    },
+    {
+      "name": "Matt Y.",
+      "location": "Tampa",
+      "text": "Amazing work and customer service on multiple jobs. Will definitely be calling again.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Tampa Bay",
+    "subheading": "Quick response times across the region",
+    "areas": [
+      "Tampa",
+      "St. Petersburg",
+      "Clearwater",
+      "Brandon",
+      "Plant City",
+      "Temple Terrace",
+      "Westchase",
+      "Town 'N' Country"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get it fixed?",
+    "body": "Call Marwan directly for fast, honest handyman service. Same-day repairs available, fair pricing guaranteed.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (813) 362-8113"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#EF4444",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

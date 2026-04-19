@@ -1,0 +1,136 @@
+{
+  "business": {
+    "name": "PREFERRED HANDYMAN SERVICES LLC",
+    "phone": "(843) 860-8134",
+    "email": "inofo@charlestonhandymanservices.com",
+    "city": "Charleston",
+    "state": "SC",
+    "industry": "handyman",
+    "tagline": "The fix you've been looking for",
+    "logo_url": "",
+    "google_rating": "5 stars (15 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When Charleston *homeowners* need it done right",
+    "subheadline": "From buckled floors to gorgeous new decks — we fix what others mess up and build what lasts.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "mappin",
+      "text": "Proudly Serving Charleston, SC"
+    },
+    {
+      "icon": "phone",
+      "text": "Fast Response Times"
+    },
+    {
+      "icon": "tool",
+      "text": "Professional Handyman Services"
+    },
+    {
+      "icon": "users",
+      "text": "Trusted by Local Homeowners"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every project handled",
+    "subheading": "From emergency repairs to complete builds"
+  },
+  "services": [
+    {
+      "title": "Floor Repair & Replacement",
+      "description": "Moisture damage, buckling, subflooring — we fix what went wrong and make it last. No shortcuts, no do-overs.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Custom Deck Building",
+      "description": "Beautiful outdoor spaces built to handle Charleston weather. Stairs, railings, the whole thing done in a week.",
+      "icon": "home"
+    },
+    {
+      "title": "Bathroom Renovations",
+      "description": "Tile work, drywall repair, shower resealing. We know where moisture problems start and how to stop them.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Interior & Exterior Painting",
+      "description": "Proper prep work, quality materials, clean finish. Porches, bathrooms, whole rooms — it all gets the same care.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Electrical & Fan Installation",
+      "description": "Ceiling fans, outlets, lighting fixtures. Safe installation that passes inspection every time.",
+      "icon": "zap"
+    }
+  ],
+  "about": {
+    "heading": "Built for Charleston's challenges",
+    "body": "We know this city — the moisture, the weather, the quirks of older homes. When other contractors leave problems unfixed, Charleston homeowners call us to make it right. Every repair is done to last, every build is done to code, and every customer gets straight answers about what needs to happen."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Charleston says"
+  },
+  "reviews": [
+    {
+      "name": "Nancy C.",
+      "location": "Charleston, SC",
+      "text": "Honest work, outstanding results. Fixed major moisture damage to my beams and joists — floors and tiles look brand new.",
+      "rating": 5
+    },
+    {
+      "name": "Cia C.",
+      "location": "Charleston, SC",
+      "text": "Beautiful new deck plus painting and ceiling fan work. Professional quality, thorough, and always answered my questions.",
+      "rating": 5
+    },
+    {
+      "name": "Eileen R.",
+      "location": "Charleston, SC",
+      "text": "Built a gorgeous deck in under a week. Professional, friendly, respectful — even the stairs impressed me!",
+      "rating": 5
+    },
+    {
+      "name": "Sue H.",
+      "location": "Charleston, SC",
+      "text": "Had to fix another crew's terrible work on my buckled floors. They ripped it all out and did it right this time.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Charleston & beyond",
+    "subheading": "Professional handyman services throughout the Lowcountry",
+    "areas": [
+      "Charleston",
+      "North Charleston",
+      "Mount Pleasant",
+      "Summerville",
+      "Goose Creek",
+      "Hanahan",
+      "James Island",
+      "West Ashley",
+      "Daniel Island",
+      "Johns Island"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get it done right?",
+    "body": "No project too big or small. Free estimates on all work. Call today and let's talk about what you need fixed or built.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (843) 860-8134"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#F97316",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

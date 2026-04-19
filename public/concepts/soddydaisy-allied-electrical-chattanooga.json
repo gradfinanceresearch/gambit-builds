@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Soddy-Daisy Allied Electrical",
+    "phone": "(617) 362-9558",
+    "email": "office@alliedelectricaltn.com",
+    "city": "Chattanooga",
+    "state": "TN",
+    "industry": "electrician",
+    "tagline": "Wired Right The First Time",
+    "logo_url": "",
+    "google_rating": "4.8 stars (24 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Same day service* that actually shows up",
+    "subheadline": "Ford chargers, breaker panels, circuit fixes — we handle it all while other companies keep you waiting",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "clock",
+      "text": "Same Day Service"
+    },
+    {
+      "icon": "star",
+      "text": "4.8 Stars on Google"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "phone",
+      "text": "Answering Your Calls"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every Wire, Panel, and Outlet",
+    "subheading": "From EV chargers to emergency repairs — we've got Chattanooga covered"
+  },
+  "services": [
+    {
+      "title": "Electric Vehicle Charger Installation",
+      "description": "Ford chargers and all EV models. Professional setup with safety inspections and code compliance. Get your car charging at home.",
+      "icon": "plug"
+    },
+    {
+      "title": "Circuit Breaker Repair & Replacement",
+      "description": "Tripping breakers, dead circuits, panel upgrades. We diagnose the problem fast and fix it right the first time.",
+      "icon": "zap"
+    },
+    {
+      "title": "Emergency Electrical Service",
+      "description": "Power outages, sparking outlets, electrical emergencies. Same day response when you need us most.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Residential Wiring & Outlets",
+      "description": "New outlets, rewiring, electrical upgrades for homes. Clean work that passes inspection every time.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Serving Chattanooga Since Day One",
+    "body": "We're the Allied Electrical team that Chattanooga businesses and homeowners call when they need it done right. Our electricians like Peyton and Charles have built our reputation one job at a time — from Mini Mall Storage to residential Ford charger installations across the Tennessee Valley."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Chattanooga Says"
+  },
+  "reviews": [
+    {
+      "name": "Mark W.",
+      "location": "Chattanooga",
+      "text": "Allied handled my Ford charger installation perfectly — fast, professional, and safe setup from start to finish.",
+      "rating": 5
+    },
+    {
+      "name": "B. W.",
+      "location": "Chattanooga",
+      "text": "Curt has always been prompt and fair helping us at Mini Mall Storage. Thank you for all your support!",
+      "rating": 5
+    },
+    {
+      "name": "Ben D.",
+      "location": "Chattanooga",
+      "text": "Charles helped with my circuit breaker problem same day. Couldn't be happier — so glad I went with Allied over the bigger company.",
+      "rating": 5
+    },
+    {
+      "name": "Susan W.",
+      "location": "Chattanooga",
+      "text": "Excellent service! Fast, efficient and reasonable. I'll use them anytime I need electrical work completed.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Tennessee Valley Electrical",
+    "subheading": "Serving homes and businesses across the greater Chattanooga area",
+    "areas": [
+      "Chattanooga",
+      "Soddy-Daisy",
+      "Hixson",
+      "Red Bank",
+      "Signal Mountain",
+      "East Ridge",
+      "Collegedale",
+      "Harrison"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Same Day Service?",
+    "body": "Don't wait for other companies. We answer our phones and show up when we say we will. Get your electrical work done right.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (617) 362-9558"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Bebas Neue",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

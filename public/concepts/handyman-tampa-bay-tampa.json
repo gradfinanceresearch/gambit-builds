@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "Handyman Tampa Bay",
+    "phone": "(813) 962-2686",
+    "email": "support@the-handyman-company.com",
+    "city": "Tampa",
+    "state": "FL",
+    "industry": "handyman",
+    "tagline": "The fix you need, done right the first time",
+    "logo_url": "",
+    "google_rating": "5 stars (12 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When it breaks, *we fix it*. No project too small.",
+    "subheadline": "From drywall repairs to bathroom vanities — we handle the punch list so you don't have to.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "clock",
+      "text": "Always On Time"
+    },
+    {
+      "icon": "check",
+      "text": "No Trace Left Behind"
+    },
+    {
+      "icon": "phone",
+      "text": "Quick Response"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every repair. Every project. Done right.",
+    "subheading": "From the smallest fix to complete room updates"
+  },
+  "services": [
+    {
+      "title": "Drywall & Paint Repairs",
+      "description": "Holes, cracks, and damage disappear completely. You won't find a trace of our work when we're done.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Bathroom Updates",
+      "description": "Vanity replacements, fixture installations, and everything between the tiles.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Closet & Storage Fixes",
+      "description": "Bi-fold doors that actually work, shelving that stays put, and storage solutions that last.",
+      "icon": "home"
+    },
+    {
+      "title": "Exterior Repairs",
+      "description": "Soffit, fascia, and outdoor fixtures. Weather damage and critter chaos — we handle it all.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Punch List Projects",
+      "description": "That growing list of small repairs? We knock it out in one visit. Curtain rods to molding fixes.",
+      "icon": "ruler"
+    }
+  ],
+  "about": {
+    "heading": "Meet Jason — Tampa Bay's go-to handyman",
+    "body": "Professional, skilled, and pleasant to work with. Jason handles everything from emergency repairs to planned projects across Tampa Bay. Known for showing up on time, working clean, and getting it right the first time. When neighbors need something fixed, they call us."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Tampa Bay homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Kristen A.",
+      "location": "Tampa",
+      "text": "Jason is incredibly professional and truly skilled. Fixed my entire punch list — bi-fold closets, curtain rods, molding, and bathroom vanity. Cannot say enough great things!",
+      "rating": 5
+    },
+    {
+      "name": "Charlie O.",
+      "location": "Tampa Bay",
+      "text": "Drywall, paint work, and soffit repairs after squirrel damage. Jason did a great job with all the repairs we needed.",
+      "rating": 5
+    },
+    {
+      "name": "Marc P.",
+      "location": "Tampa",
+      "text": "Showed up on time, fixed my outdoor sink remount faster than expected. Will use Handyman Tampa Bay again without question!",
+      "rating": 5
+    },
+    {
+      "name": "Monica O.",
+      "location": "Tampa",
+      "text": "Quick to respond, right on time, reasonable price. Very pleasant to be around. Great experience!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Tampa Bay",
+    "subheading": "Professional handyman services throughout the region",
+    "areas": [
+      "Tampa",
+      "St. Petersburg",
+      "Clearwater",
+      "Brandon",
+      "Riverview",
+      "Plant City",
+      "Wesley Chapel",
+      "Lutz"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to cross items off your list?",
+    "body": "From small repairs to complete projects, we handle it all. Get your free estimate today and see why Tampa Bay trusts us with their homes.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (813) 962-2686"
+  },
+  "design": {
+    "primary_color": "#1B4D8C",
+    "accent_color": "#E8A630",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

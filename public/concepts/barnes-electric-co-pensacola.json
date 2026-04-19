@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "Barnes Electric Co",
+    "phone": "(850) 438-1715",
+    "email": "barneselectrico@outlook.com",
+    "city": "Pensacola",
+    "state": "FL",
+    "industry": "electrician",
+    "tagline": "Wiring Pensacola right since day one",
+    "logo_url": "",
+    "google_rating": "5 stars (23 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*That pleasant Southern accent* means quality electrical work",
+    "subheadline": "Panel replacements, HVAC conversions, new construction — we show up on time and wire it right the first time.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "clock",
+      "text": "On-Time Service"
+    },
+    {
+      "icon": "phone",
+      "text": "Quick Response"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every wire, every outlet, every panel",
+    "subheading": "From simple repairs to complete electrical installations"
+  },
+  "services": [
+    {
+      "title": "Panel Replacements",
+      "description": "Upgrading old electrical panels with modern, safe equipment. Same-day service when you need it most.",
+      "icon": "zap"
+    },
+    {
+      "title": "HVAC Electrical Conversions",
+      "description": "Converting gas systems to electric with proper 220V circuits and professional installation.",
+      "icon": "plug"
+    },
+    {
+      "title": "New Construction Wiring",
+      "description": "Complete electrical systems for detached units, additions, and new builds. 110V and 220V circuits done right.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Lighting Installation",
+      "description": "Kitchen pendant lights, outdoor fixtures, and custom lighting solutions that work perfectly.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Electrical Repairs",
+      "description": "Fixing what's broken, upgrading what's outdated. Fast troubleshooting and reliable repairs.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Seasoned expertise with a Southern touch",
+    "body": "Barnes Electric Co brings professional electrical service to Pensacola with that pleasant Southern hospitality you want from your contractor. Our team handles everything from emergency panel replacements to complex new construction projects, always showing up on time and getting the job done right."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Pensacola neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "TJ A.",
+      "location": "Pensacola, FL",
+      "text": "Outstanding response and service. Panel replacement on short notice with remarkable wiring work at a fair price.",
+      "rating": 5
+    },
+    {
+      "name": "Sharon K.",
+      "location": "Pensacola, FL",
+      "text": "Extremely helpful with HVAC electrical conversion. On time and professional for both estimate and installation.",
+      "rating": 5
+    },
+    {
+      "name": "Chris D.",
+      "location": "Pensacola, FL",
+      "text": "Excellent work on our home repairs and complete electrical setup for our new detached unit.",
+      "rating": 5
+    },
+    {
+      "name": "Jessica T.",
+      "location": "Pensacola, FL",
+      "text": "Great job installing kitchen pendant lights. Professional, fast, and fair pricing. We'll definitely call them again.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Greater Pensacola Area",
+    "subheading": "Professional electrical service throughout Northwest Florida",
+    "areas": [
+      "Pensacola",
+      "Gulf Breeze",
+      "Pace",
+      "Milton",
+      "Cantonment",
+      "Perdido Key",
+      "Navarre",
+      "Crestview"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your electrical work done right?",
+    "body": "Call that pleasant Southern accent you've heard about. Free estimates and honest pricing on all electrical services.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (850) 438-1715"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFBF7",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "editorial"
+  }
+}

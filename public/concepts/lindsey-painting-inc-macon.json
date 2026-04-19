@@ -1,0 +1,123 @@
+{
+  "business": {
+    "name": "Lindsey Painting Inc",
+    "phone": "Call for Quote",
+    "email": "alindsey@lindseypaint.com",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "painter",
+    "tagline": "Quality painting that speaks for itself",
+    "logo_url": "",
+    "google_rating": "5 stars (3 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Family-owned* painters who handle 14-foot ceilings",
+    "subheadline": "Three generations of Lindseys. Zero shortcuts. Every room gets the same care we'd give our own home.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "home",
+      "text": "Family-Owned Business"
+    },
+    {
+      "icon": "shield",
+      "text": "Insured & Licensed"
+    },
+    {
+      "icon": "heart",
+      "text": "Local Macon Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE CRAFT",
+    "heading": "Interior & Exterior Painting Done Right",
+    "subheading": "From cathedral ceilings to detailed trim work — we handle what others won't"
+  },
+  "services": [
+    {
+      "title": "Interior Painting",
+      "description": "Living rooms, bedrooms, kitchens — even those tricky high ceilings. We prep properly, paint carefully, and clean up completely.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Exterior House Painting",
+      "description": "Weather-resistant finishes that protect your investment. Power washing, primer, and paint that lasts in Georgia weather.",
+      "icon": "home"
+    },
+    {
+      "title": "Trim & Detail Work",
+      "description": "Crown molding, baseboards, doors, and windows. The finishing touches that make all the difference.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Color Consultation",
+      "description": "Not sure which shade? We help you pick colors that work with your space and lighting.",
+      "icon": "lightbulb"
+    }
+  ],
+  "about": {
+    "heading": "Three Generations of Painting Excellence in Macon",
+    "body": "Lindsey Painting Inc has been serving Macon families for decades. We're the painters your neighbors call when they want it done right the first time. From detailed prep work to final cleanup, we treat every project like it's our own home. Licensed, insured, and committed to quality that shows."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Matt H.",
+      "location": "Macon, GA",
+      "text": "Outstanding work from a great family company! They painted our living room with 14-foot ceilings — not an easy job, but they made it look beautiful.",
+      "rating": 5
+    },
+    {
+      "name": "Sara D.",
+      "location": "Macon, GA",
+      "text": "Beautiful results and everyone was so nice and helpful throughout the whole project.",
+      "rating": 5
+    },
+    {
+      "name": "Joshua H.",
+      "location": "Macon, GA",
+      "text": "Great work! Would definitely recommend Lindsey Painting to anyone.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Middle Georgia",
+    "subheading": "Professional painting services throughout the region",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Perry",
+      "Forsyth",
+      "Gray",
+      "Milledgeville",
+      "Byron",
+      "Centerville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Transform Your Space?",
+    "body": "Get a detailed estimate for your painting project. No pressure, just honest pricing and professional advice.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#B91C1C",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFBFB",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "stacked"
+  }
+}

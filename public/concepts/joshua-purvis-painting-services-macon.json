@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Joshua Purvis Painting Services",
+    "phone": "(478) 538-1456",
+    "email": "jpurvis85@gmail.com",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "painter",
+    "tagline": "Perfection in every brushstroke",
+    "logo_url": "",
+    "google_rating": "5 stars (283 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Absolute perfection* — that's what Macon expects",
+    "subheadline": "283 five-star reviews don't lie. When it's your home, you want Josh and his crew handling the brush.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "283 Five-Star Reviews"
+    },
+    {
+      "icon": "clock",
+      "text": "Next-Day Quotes"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Detail-Oriented Prep"
+    }
+  ],
+  "services_section": {
+    "label": "THE BRUSHWORK",
+    "heading": "Interior & Exterior Done Right",
+    "subheading": "From cabinet transformations to full home makeovers — we handle every detail"
+  },
+  "services": [
+    {
+      "title": "Interior Painting",
+      "description": "Walls, ceilings, trim — we prep everything properly so your paint job lasts years, not months.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Cabinet Refinishing",
+      "description": "Transform those 30-year-old oak cabinets into something you actually want to look at every morning.",
+      "icon": "home"
+    },
+    {
+      "title": "Exterior Painting",
+      "description": "Weather-resistant coatings that stand up to Georgia heat and humidity. Your curb appeal, protected.",
+      "icon": "shield"
+    },
+    {
+      "title": "Texture Removal",
+      "description": "Popcorn ceilings scraped smooth, even around crown molding. The detail work that separates pros from amateurs.",
+      "icon": "ruler"
+    }
+  ],
+  "about": {
+    "heading": "Josh Purvis and His Macon Crew",
+    "body": "We're the team your neighbors recommend when they want their paint job done right the first time. Professional, punctual, and obsessed with the details that make a house feel like home. Based in Macon, serving Middle Georgia with the kind of craftsmanship that earns 283 five-star reviews."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Marissa E.",
+      "location": "Macon",
+      "text": "Fast, professional, absolutely perfect work. Josh and his team delivered exactly what they promised.",
+      "rating": 5
+    },
+    {
+      "name": "Landon W.",
+      "location": "Macon",
+      "text": "Came highly recommended and lived up to every word. Quote the day after we got our house keys.",
+      "rating": 5
+    },
+    {
+      "name": "Jana W.",
+      "location": "Macon",
+      "text": "Best experience from start to finish. Professional, punctual, detail-oriented — results exceeded expectations.",
+      "rating": 5
+    },
+    {
+      "name": "Linda C.",
+      "location": "Macon",
+      "text": "Popcorn ceiling removal and painting with crown molding. They met and exceeded my expectations completely.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Middle Georgia",
+    "subheading": "Professional painting services throughout the region",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Perry",
+      "Centerville",
+      "Byron",
+      "Cochran",
+      "Gray",
+      "Milledgeville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Perfection?",
+    "body": "Join 283 happy homeowners who chose Josh Purvis Painting. Quick quotes, professional work, results that last.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (478) 538-1456"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "editorial"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Quality Handyman Services",
+    "phone": "(813) 693-1074",
+    "email": "qualityhandyman813@gmail.com",
+    "city": "Tampa",
+    "state": "FL",
+    "industry": "handyman",
+    "tagline": "The guy Tampa calls when it needs doing right",
+    "logo_url": "",
+    "google_rating": "5 stars (106 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When it's gotta be *done right* the first time",
+    "subheadline": "Same-day service, no-rush precision work. Ask around Tampa — John shows up ready and gets it done.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5 Stars • 106+ Reviews"
+    },
+    {
+      "icon": "clock",
+      "text": "Same-Day Available"
+    },
+    {
+      "icon": "check",
+      "text": "Precision Work"
+    },
+    {
+      "icon": "phone",
+      "text": "Direct Response"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "TV mounting, assembly, repairs — handled",
+    "subheading": "John takes his time to do it right. No rushing, no shortcuts."
+  },
+  "services": [
+    {
+      "title": "TV Mounting & Setup",
+      "description": "Every TV mounted level, secure, and perfect. Multiple TVs? Same attention to each one. Clean cable management included.",
+      "icon": "plug"
+    },
+    {
+      "title": "Furniture Assembly",
+      "description": "Dressers, storage cubes, whatever needs putting together. Real care and attention to detail, not just thrown together.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Wall Repairs & Patching",
+      "description": "Holes patched, walls prepped, surfaces restored. Often included at no extra charge because that's how we work.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Home Repairs & Installations",
+      "description": "Salon stations, storage solutions, general repairs. If it's broken or needs installing, John handles it right.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "John's the guy Tampa trusts",
+    "body": "Quality Handyman Services has earned 5 stars from over 106 Tampa customers because John doesn't rush. He shows up ready to work, focuses on getting every detail right, and treats your home like his own. Same-day service when you need it, but never at the cost of quality work."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Tampa customers say"
+  },
+  "reviews": [
+    {
+      "name": "Sherry H.",
+      "location": "Tampa",
+      "text": "John mounted my TVs and assembled a dresser with real attention to detail. Everything was perfect, level, and secure. Absolutely phenomenal work.",
+      "rating": 5
+    },
+    {
+      "name": "Gary M.",
+      "location": "Tampa",
+      "text": "Very specific in his work — diligent and focused. Dismounted 3 large TVs from my old house, relocated them to my new place, and patched holes at no extra charge.",
+      "rating": 5
+    },
+    {
+      "name": "Osandai V.",
+      "location": "Tampa",
+      "text": "John came same day late hours and hung all 3 of our TVs. Fast, very clean, great prices. Highly recommend!",
+      "rating": 5
+    },
+    {
+      "name": "Kaye L.",
+      "location": "Tampa",
+      "text": "Mounted TV, storage cube, and salon station at my daughter's salon suite. Showed up ready to work as scheduled, completed professionally and on time.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Tampa and surrounding areas",
+    "subheading": "Same-day service throughout the greater Tampa Bay region",
+    "areas": [
+      "Tampa",
+      "Brandon",
+      "Carrollwood",
+      "Westchase",
+      "Town 'n' Country",
+      "Temple Terrace",
+      "Plant City",
+      "Riverview"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get it done right?",
+    "body": "Call John directly for same-day service or a quick quote. No hassle, no runaround — just straight talk about getting your job handled.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (813) 693-1074"
+  },
+  "design": {
+    "primary_color": "#B45309",
+    "accent_color": "#1F2937",
+    "bg_color": "#FFFBF7",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

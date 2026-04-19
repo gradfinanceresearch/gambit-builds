@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "Mike & Michael's Electric LLC",
+    "phone": "(850) 434-5812",
+    "email": "",
+    "city": "Pensacola",
+    "state": "FL",
+    "industry": "electrician",
+    "tagline": "",
+    "logo_url": "",
+    "google_rating": "3.9 stars (28 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Two Mikes. *Every Wire.* Done Right.",
+    "subheadline": "From panel upgrades to new lighting — we show up, quote fairly, and finish what we start in Pensacola.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Fair Pricing"
+    },
+    {
+      "icon": "clock",
+      "text": "Next Day Service"
+    },
+    {
+      "icon": "tool",
+      "text": "Quality Work"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every electrical job handled",
+    "subheading": "New construction, renovations, repairs — we've got the experience"
+  },
+  "services": [
+    {
+      "title": "Panel Upgrades & Fuse Boxes",
+      "description": "Old electrical panels causing problems? We assess, quote fairly, and upgrade your system to handle modern demands safely.",
+      "icon": "zap"
+    },
+    {
+      "title": "New Lighting Installation",
+      "description": "Overhead fixtures, recessed lights, garage lighting — we install new fixtures that brighten your space properly.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Outlets & Switch Replacement",
+      "description": "Replace old receptacles and switches throughout your home. Clean work that meets code and looks professional.",
+      "icon": "plug"
+    },
+    {
+      "title": "New Construction Electrical",
+      "description": "Complete electrical systems for new builds and major renovations. Reliable service that keeps projects on track.",
+      "icon": "home"
+    },
+    {
+      "title": "Rental Property Maintenance",
+      "description": "Ongoing electrical maintenance for rental properties. Responsive service to keep your investments running smooth.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Mike & Michael — Pensacola's electrical duo",
+    "body": "We're the two-man team handling electrical work across Pensacola. From emergency panel fixes to full rewiring jobs, we show up on time, work within your budget, and deliver quality results. Whether it's new construction or fixing what's broken, we've built our reputation on honest work and fair pricing."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Pensacola says about our work"
+  },
+  "reviews": [
+    {
+      "name": "David C.",
+      "location": "Pensacola, FL",
+      "text": "Professional and punctual. Got everything done to an excellent standard. Thanks for coming out.",
+      "rating": 5
+    },
+    {
+      "name": "Gina T.",
+      "location": "Pensacola, FL",
+      "text": "Mike assessed our fuse box problem, quoted fairly, and came back the next day to complete the work.",
+      "rating": 5
+    },
+    {
+      "name": "Logan C.",
+      "location": "Pensacola, FL",
+      "text": "Very professional and reliable service over the years. Responsive, trustworthy, excellent work on new construction.",
+      "rating": 5
+    },
+    {
+      "name": "Eric M.",
+      "location": "Pensacola, FL",
+      "text": "Wonderful people with great work ethic. They upgraded my panels perfectly.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Pensacola and surrounding areas",
+    "subheading": "Local electrical service you can count on",
+    "areas": [
+      "Pensacola",
+      "Gulf Breeze",
+      "Cantonment",
+      "Ferry Pass",
+      "Warrington",
+      "Bellview",
+      "Ensley",
+      "Milton"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your electrical work handled right?",
+    "body": "Call Mike & Michael's for honest electrical work in Pensacola. Fair quotes, quality results, and we show up when we say we will.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (850) 434-5812"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

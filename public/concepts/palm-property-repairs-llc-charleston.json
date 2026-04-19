@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "Palm Property Repairs LLC",
+    "phone": "(843) 310-4386",
+    "email": "help@palmettost.com",
+    "city": "Charleston",
+    "state": "SC",
+    "industry": "handyman",
+    "tagline": "The fix is in",
+    "logo_url": "",
+    "google_rating": "5 stars (12 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When it *breaks*, we show up",
+    "subheadline": "Door won't close? TV mount crooked? That leaky faucet driving you nuts? One call fixes it all.",
+    "cta_primary": "Get Your Fix",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Response"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Upfront Pricing"
+    },
+    {
+      "icon": "clock",
+      "text": "On-Time Guarantee"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIXES",
+    "heading": "Everything that breaks, we handle",
+    "subheading": "No job too small, no problem too weird"
+  },
+  "services": [
+    {
+      "title": "Door Installation & Repair",
+      "description": "Sticky doors, broken frames, new installs — your door will open and close like butter when we're done.",
+      "icon": "home"
+    },
+    {
+      "title": "TV Mounting & Setup",
+      "description": "Perfect mounting height, hidden wires, sturdy installation. Your TV stays put, your walls stay pretty.",
+      "icon": "zap"
+    },
+    {
+      "title": "Painting & Touch-Ups",
+      "description": "Fresh paint, clean lines, zero mess left behind. We match colors and fix what needs fixing.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "General Repairs",
+      "description": "Loose hinges, squeaky floors, wobbly fixtures — the everyday stuff that drives you crazy gets fixed right.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Faucet & Fixture Repair",
+      "description": "Dripping faucets, running toilets, loose handles — small plumbing problems solved without the big bill.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Charleston's go-to fix-it guy",
+    "body": "Maddox and the Palm Property team have been solving Charleston's household headaches with honest pricing and solid work. We show up when we say we will, fix what needs fixing, and clean up after ourselves. It's really that simple."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Charleston neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Spencer O.",
+      "location": "Charleston",
+      "text": "Maddox replaced our exterior door and frame perfectly — communicative, timely, and the door works like a dream now.",
+      "rating": 5
+    },
+    {
+      "name": "Neeto C.",
+      "location": "Charleston",
+      "text": "Professional TV mount install, friendly service, and super quick turnaround. Will definitely use again.",
+      "rating": 5
+    },
+    {
+      "name": "Jay D.",
+      "location": "Charleston",
+      "text": "Amazing experience with Palm Property Repairs — high quality work at a very reasonable price. Highly recommend!",
+      "rating": 5
+    },
+    {
+      "name": "Jeff T.",
+      "location": "Charleston",
+      "text": "Been using Maddox for over a year. Always on time, great communication, completes work as promised. Top notch.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Charleston and surrounding areas",
+    "subheading": "Quick response times throughout the Lowcountry",
+    "areas": [
+      "Charleston",
+      "Mount Pleasant",
+      "Summerville",
+      "North Charleston",
+      "Goose Creek",
+      "Hanahan",
+      "James Island",
+      "Folly Beach"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get it fixed?",
+    "body": "Stop living with that broken whatever. One quick call and we'll have it working right again.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (843) 310-4386"
+  },
+  "design": {
+    "primary_color": "#991B1B",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bebas Neue",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

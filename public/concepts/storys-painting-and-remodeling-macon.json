@@ -1,0 +1,106 @@
+{
+  "business": {
+    "name": "Storys painting and remodeling",
+    "phone": "(478) 812-2731",
+    "email": "duraclean2@aol.com",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "painter",
+    "tagline": "Quality work that shows",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Quality for the price* — that's the Story",
+    "subheadline": "When Macon homeowners want paint that lasts and looks right, they call us. Simple as that.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "clock",
+      "text": "Over 15 Years Experience"
+    },
+    {
+      "icon": "mappin",
+      "text": "Locally Owned & Operated"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Paint and remodel done right",
+    "subheading": "From single rooms to whole houses — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Interior Painting",
+      "description": "Fresh walls that transform your space. We prep right, paint clean, and leave your home looking exactly how you pictured it.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Exterior Painting",
+      "description": "Weather-tough coats that protect and beautify. Your home's first impression starts with paint that can handle Georgia weather.",
+      "icon": "home"
+    },
+    {
+      "title": "Home Remodeling",
+      "description": "Room updates that make sense. Whether it's kitchens, baths, or living spaces, we bring your vision to life without the headaches.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Macon's go-to for paint and remodel work",
+    "body": "At Storys Painting and Remodeling, we believe in doing it right the first time. Our team brings years of experience to every job, from simple paint refreshes to complete room makeovers. We're local, reliable, and committed to delivering quality work that shows."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon says about our work"
+  },
+  "reviews": [
+    {
+      "name": "Rick R.",
+      "location": "Macon",
+      "text": "These guys really know their craft. Best quality for the price I've found in Macon.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Macon and surrounding areas",
+    "subheading": "Local team, local service",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Perry",
+      "Centerville",
+      "Byron",
+      "Fort Valley",
+      "Gray",
+      "Milledgeville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to see the difference quality makes?",
+    "body": "Get a straight quote on your paint or remodel project. No surprises, just honest work at fair prices.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (478) 812-2731"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "Sky's The Limit Handyman Services",
+    "phone": "(813) 313-0379",
+    "email": "",
+    "city": "Tampa",
+    "state": "FL",
+    "industry": "handyman",
+    "tagline": "No job too high, no fix too small",
+    "logo_url": "",
+    "google_rating": "4.9 stars (9 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "The handyman *Tampa calls* when it matters",
+    "subheadline": "Same-day fixes, fair prices, and the kind of work that passes inspection every time",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Sky"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9 Stars on Google"
+    },
+    {
+      "icon": "clock",
+      "text": "Same-Day Service"
+    },
+    {
+      "icon": "check",
+      "text": "Inspection Ready Work"
+    },
+    {
+      "icon": "phone",
+      "text": "Answers When You Call"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "From deck repairs to drain fixes",
+    "subheading": "The calls we get most often in Tampa"
+  },
+  "services": [
+    {
+      "title": "Deck & Outdoor Repairs",
+      "description": "Rotted boards, loose railings, weathered surfaces — we rebuild what Florida weather tears down",
+      "icon": "hammer"
+    },
+    {
+      "title": "Plumbing Quick Fixes",
+      "description": "Toilet troubles, slow drains, leaky connections. The stuff that can't wait for Monday",
+      "icon": "pipe"
+    },
+    {
+      "title": "Pre-Sale Touch-Ups",
+      "description": "Getting your house inspection-ready with the repairs that buyers actually notice",
+      "icon": "home"
+    },
+    {
+      "title": "Fireplace & Interior Work",
+      "description": "Refacing, trim work, and the detail jobs that make a house feel finished",
+      "icon": "flame"
+    },
+    {
+      "title": "Emergency Repairs",
+      "description": "When your property manager drops the ball and you need someone there yesterday",
+      "icon": "zap"
+    }
+  ],
+  "about": {
+    "heading": "Sky fixes what breaks in Tampa",
+    "body": "Whether you're 7 hours away managing a remote property or stressing about a home inspection tomorrow, Sky handles the work that can't wait. From deck repairs to drain problems, he's the handyman Tampa homeowners keep in their contacts for a reason."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Tampa homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Gerhard S.",
+      "location": "Tampa",
+      "text": "Dependable, prompt, and very reasonably priced. Did an amazing deck repair job from start to finish.",
+      "rating": 5
+    },
+    {
+      "name": "Alexander Y.",
+      "location": "Tampa",
+      "text": "Managing property remotely, trust is everything. Sky stepped in without hesitation before our inspection.",
+      "rating": 5
+    },
+    {
+      "name": "DJ P.",
+      "location": "Tampa",
+      "text": "Fixed multiple issues on short notice before inspection — soffit, toilet, and shower drain. Everything perfect now.",
+      "rating": 5
+    },
+    {
+      "name": "Jean-André M.",
+      "location": "Tampa",
+      "text": "Absolute angel sent from heaven. Saved the day when my property manager dropped the ball.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Tampa Bay",
+    "subheading": "Quick response across the metro",
+    "areas": [
+      "Tampa",
+      "St. Petersburg",
+      "Clearwater",
+      "Brandon",
+      "Plant City",
+      "Wesley Chapel",
+      "Riverview",
+      "Temple Terrace"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get it fixed right?",
+    "body": "Call Sky for your free estimate. Same-day service available for urgent repairs.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (813) 313-0379"
+  },
+  "design": {
+    "primary_color": "#B91C1C",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

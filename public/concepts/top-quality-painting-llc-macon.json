@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Top Quality Painting LLC",
+    "phone": "(912) 253-6850",
+    "email": "cyndigunn@comcast.ne",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "painter",
+    "tagline": "Quality work, done right",
+    "logo_url": "",
+    "google_rating": "5 stars (6 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When *Randy* shows up, it gets done right",
+    "subheadline": "Ask around Macon — we're the painters who come back if it's not perfect. That's just how we work.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Randy"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "users",
+      "text": "Local Macon Painters"
+    },
+    {
+      "icon": "tool",
+      "text": "Professional Equipment"
+    },
+    {
+      "icon": "mappin",
+      "text": "Serving Macon, GA Area"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "From lakeside docks to living rooms",
+    "subheading": "Every surface painted with care and precision"
+  },
+  "services": [
+    {
+      "title": "Interior Painting",
+      "description": "Walls, ceilings, trim — every room handled with attention to detail. We protect your furniture and clean up completely.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Exterior House Painting",
+      "description": "Full exterior painting that stands up to Georgia weather. Prep work included to make your paint job last.",
+      "icon": "home"
+    },
+    {
+      "title": "Deck & Dock Painting",
+      "description": "Specialized in waterfront structures. We replace bad boards and paint for lasting protection against moisture.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Touch-Up & Repairs",
+      "description": "Small jobs matter too. Scratches, dings, and imperfections fixed right the first time.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Randy and the Top Quality team",
+    "body": "We've been painting homes and businesses around Macon with one simple promise: if it's not done right, we come back and make it so. Our customers stick with us for years because we answer the phone, show up on time, and never leave a job unfinished. That's what quality means to us."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Lori L.",
+      "location": "Macon, GA",
+      "text": "Randy painted our entire lakeside dock and boathouse, even replaced some bad boards. Friendly, prompt, and it looks amazing now!",
+      "rating": 5
+    },
+    {
+      "name": "Ray R.",
+      "location": "Macon, GA",
+      "text": "Used Randy for years on all my painting projects. If something isn't 100% right, he comes back and fixes it. True professional.",
+      "rating": 5
+    },
+    {
+      "name": "Ben H.",
+      "location": "Macon, GA",
+      "text": "Impressed with the quality and attention to detail. Punctual, respectful, and handled everything with care from start to finish.",
+      "rating": 5
+    },
+    {
+      "name": "Kathryn K.",
+      "location": "Macon, GA",
+      "text": "Quality work at fair pricing — gets the job done right every time!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Middle Georgia",
+    "subheading": "Professional painting throughout the region",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Milledgeville",
+      "Perry",
+      "Forsyth",
+      "Byron",
+      "Centerville",
+      "Gray"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to see the Top Quality difference?",
+    "body": "Call Randy today for your free estimate. We'll walk through your project and give you an honest quote with no surprises.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (912) 253-6850"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "editorial"
+  }
+}

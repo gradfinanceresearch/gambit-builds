@@ -1,0 +1,111 @@
+{
+  "business": {
+    "name": "Sunshine Professional Painters",
+    "phone": "(478) 200-5521",
+    "email": "sunshinepjs@gmail.com",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "painter",
+    "tagline": "Quality paintwork that shows",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "The painters Macon calls *when it matters*",
+    "subheadline": "Five quotes, one clear winner — we deliver the most value per dollar, not just the lowest bid.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "clock",
+      "text": "On Schedule, Every Day"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Best Value Guarantee"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE PAINT",
+    "heading": "Exterior & Interior Excellence",
+    "subheading": "From pool houses to full homes — we handle every surface with precision"
+  },
+  "services": [
+    {
+      "title": "Exterior House Painting",
+      "description": "Complete exterior makeovers including prep work, priming, and premium paint application that weathers Georgia's climate.",
+      "icon": "home"
+    },
+    {
+      "title": "Interior Room Painting",
+      "description": "Transform any room with crisp lines, perfect coverage, and cleanup so thorough you'll forget we were there.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Specialty Structures",
+      "description": "Pool houses, sheds, fences, and outbuildings — we treat every project like it's the main attraction.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Surface Preparation",
+      "description": "Proper prep work makes all the difference — scraping, sanding, and priming done right the first time.",
+      "icon": "ruler"
+    }
+  ],
+  "about": {
+    "heading": "Built on Value, Not Just Price",
+    "body": "When Macon homeowners compare painting quotes, they choose us for the complete package. We show up on schedule, include proper prep work, and use materials that last. Our approach isn't about cutting corners — it's about delivering the most value for your investment."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Kimberly G.",
+      "location": "Macon, GA",
+      "text": "Best painting service in town. I got five quotes and theirs offered the most value. They showed up on time every day for our pool house project and the results speak for themselves.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Middle Georgia",
+    "subheading": "Professional painting services throughout the greater Macon area",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Perry",
+      "Byron",
+      "Centerville",
+      "Bonaire",
+      "Kathleen",
+      "Gray"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a Paint Job Done Right?",
+    "body": "Get a detailed quote that shows exactly what you're paying for. No surprises, no shortcuts — just quality work at fair prices.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (478) 200-5521"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "editorial"
+  }
+}

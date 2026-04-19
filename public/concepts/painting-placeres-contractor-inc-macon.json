@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Painting Placeres contractor Inc",
+    "phone": "(470) 798-7482",
+    "email": "placeres2af4cf@verifymybiz.com",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "painter",
+    "tagline": "Your home's transformation starts here",
+    "logo_url": "",
+    "google_rating": "4.6 stars (21 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Macon's *paint job experts* who actually show up",
+    "subheadline": "From rotten deck repairs to full exterior makeovers — we handle what others won't touch. Just ask the neighbors who gave us their cards.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.6 Stars on Google"
+    },
+    {
+      "icon": "clock",
+      "text": "On-Time Guarantee"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "21+ Happy Customers"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "More than just paint — we fix what's broken first",
+    "subheading": "Every job starts with an honest assessment. If your wood is rotten, we'll tell you. If your siding needs repair, we handle it. Then we paint it right."
+  },
+  "services": [
+    {
+      "title": "Exterior House Painting",
+      "description": "Complete exterior makeovers that transform curb appeal. We prep, prime, and paint with materials that last in Georgia weather.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Wood Repair & Replacement",
+      "description": "Rotten deck boards, damaged trim, failing siding — we replace what's beyond saving and restore what can be fixed.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Door & Window Installation",
+      "description": "New doors hung properly, window repairs, and trim work that fits like it was always there.",
+      "icon": "home"
+    },
+    {
+      "title": "Porch & Deck Restoration",
+      "description": "Screen replacement, structural repairs, and complete refinishing that brings outdoor spaces back to life.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Built for Macon's unique challenges",
+    "body": "We've been fixing and painting homes across Middle Georgia, tackling everything from simple touch-ups to complex repairs that other contractors avoid. When your neighbor hands you our card, you know we've earned their trust the hard way — by showing up and getting it done right."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "Why neighbors keep our cards handy"
+  },
+  "reviews": [
+    {
+      "name": "Dana S.",
+      "location": "Macon",
+      "text": "They removed our old hot tub, filled the hole with new wood, and painted everything. Amazing attention to detail and very reasonably priced.",
+      "rating": 5
+    },
+    {
+      "name": "Linda B.",
+      "location": "Macon",
+      "text": "Prompt, quality service at affordable prices. I was referred by a neighbor and couldn't be happier with the results.",
+      "rating": 5
+    },
+    {
+      "name": "Ashley H.",
+      "location": "Macon",
+      "text": "Painted our exterior and replaced porch screens and doors. The curb appeal improvement was dramatic. Phenomenal job.",
+      "rating": 5
+    },
+    {
+      "name": "Lauren S.",
+      "location": "Macon",
+      "text": "Professional, on-time, and they really care about quality. Completed siding repairs, trim work, and painted our whole house perfectly.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Middle Georgia",
+    "subheading": "Quality painting and repair work throughout the region",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Perry",
+      "Milledgeville",
+      "Gray",
+      "Centerville",
+      "Byron",
+      "Fort Valley"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to transform your home's exterior?",
+    "body": "Get an honest assessment and fair quote. We'll tell you exactly what needs fixing and what just needs a fresh coat of paint.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (470) 798-7482"
+  },
+  "design": {
+    "primary_color": "#1A5632",
+    "accent_color": "#D4A843",
+    "bg_color": "#FEFFFE",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

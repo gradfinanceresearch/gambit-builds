@@ -1,0 +1,117 @@
+{
+  "business": {
+    "name": "Triple E Electric",
+    "phone": "(423) 421-4459",
+    "email": "info@tristateec.com",
+    "city": "Chattanooga",
+    "state": "TN",
+    "industry": "electrician",
+    "tagline": "Powering Chattanooga homes right",
+    "logo_url": "",
+    "google_rating": "5 stars (4 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When the lights go out, we show up *same day*",
+    "subheadline": "Licensed electricians who answer the phone and fix it right the first time — that's the Triple E difference",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "clock",
+      "text": "Same Day Service"
+    },
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "phone",
+      "text": "We Answer Our Phone"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every outlet, panel, and wire — handled",
+    "subheading": "From kitchen remodels to emergency repairs, we wire Chattanooga homes to code"
+  },
+  "services": [
+    {
+      "title": "Panel & Breaker Service",
+      "description": "Fixing tripped breakers and upgrading electrical panels. Same day response when your power's acting up.",
+      "icon": "zap"
+    },
+    {
+      "title": "Kitchen & Dining Renovations",
+      "description": "Moving outlets, installing new lighting, and rewiring for modern kitchens. We handle the big jobs.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "New Light Installation",
+      "description": "From single fixtures to fifty new lights — we plan, wire, and install every connection properly.",
+      "icon": "plug"
+    },
+    {
+      "title": "Outlet Installation & Moving",
+      "description": "Adding outlets where you need them and relocating existing ones for your home updates.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Chattanooga electricians who show up when we say we will",
+    "body": "Triple E Electric serves Chattanooga homeowners with honest electrical work and same-day service. Whether it's a kitchen renovation with fifty new lights or emergency panel repairs, we handle every job with the same attention to detail. Licensed, insured, and ready to wire your home right."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Chattanooga homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Billy H.",
+      "location": "Chattanooga",
+      "text": "Kitchen and dining room renovation with wall demo, fifty new lights, and outlet moves. Big job but they knocked it out of the park and communicated every step.",
+      "rating": 5
+    },
+    {
+      "name": "Sean R.",
+      "location": "Chattanooga",
+      "text": "Breaker panel repair same day I called. Quick fix, professional crew, and the boss trusted me to pay later. Outstanding service.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Chattanooga and surrounding areas",
+    "subheading": "Licensed electrical service throughout Hamilton County",
+    "areas": [
+      "Chattanooga",
+      "Hixson",
+      "Red Bank",
+      "East Ridge",
+      "Signal Mountain",
+      "Soddy-Daisy",
+      "Harrison",
+      "Ooltewah"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your electrical work done right?",
+    "body": "Same day service, licensed electricians, and we answer our phone. Get your free estimate today.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (423) 421-4459"
+  },
+  "design": {
+    "primary_color": "#9A3412",
+    "accent_color": "#059669",
+    "bg_color": "#FFFBF5",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

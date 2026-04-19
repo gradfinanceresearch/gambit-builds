@@ -1,0 +1,116 @@
+{
+  "business": {
+    "name": "Quality Painters of Macon",
+    "phone": "(478) 201-9702",
+    "email": "",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "painter",
+    "tagline": "Brushwork that speaks for itself",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Fresh paint, *flawless finish* — that's the standard",
+    "subheadline": "When your son moves out and wants his apartment perfect, you call us. When the results impress you enough to hire us again, you know you chose right.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured in Georgia"
+    },
+    {
+      "icon": "clock",
+      "text": "20+ Years Serving Macon Area"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "100% Satisfaction Guarantee"
+    },
+    {
+      "icon": "phone",
+      "text": "Free Estimates & Consultations"
+    }
+  ],
+  "services_section": {
+    "label": "THE BRUSHWORK",
+    "heading": "Interior painting done right",
+    "subheading": "From single rooms to full apartments, we handle every surface with care"
+  },
+  "services": [
+    {
+      "title": "Interior Painting",
+      "description": "Transform your home's interior with our professional painting services. We handle everything from single rooms to whole house makeovers with premium paints and meticulous attention to detail.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Exterior Painting",
+      "description": "Protect and beautify your home's exterior with our weather-resistant painting solutions. We prep, prime, and paint to ensure long-lasting results that withstand Macon's climate.",
+      "icon": "home"
+    },
+    {
+      "title": "Cabinet Refinishing",
+      "description": "Give your kitchen or bathroom a fresh new look with our cabinet painting and refinishing services. We can transform tired cabinets into beautiful focal points.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Deck & Fence Staining",
+      "description": "Preserve and enhance your outdoor wood surfaces with professional staining services. We use high-quality stains that protect against weather damage and UV rays.",
+      "icon": "shield"
+    },
+    {
+      "title": "Pressure Washing",
+      "description": "Prepare surfaces properly with our pressure washing services. We clean siding, decks, driveways, and more to ensure the best paint adhesion and finish.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Workmanship that brings you back",
+    "body": "We're the painters Macon residents call when they want it done right the first time. Every project gets the same attention to detail, whether it's a single room or a complete interior makeover. Our brushwork speaks for itself — just ask our customers who keep coming back."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "Real results from real customers"
+  },
+  "reviews": [
+    {
+      "name": "Kara P.",
+      "location": "Macon, GA",
+      "text": "Hired them for my son's new apartment and was so impressed with the workmanship that I called them back for another project. Magnificent job!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE PAINT",
+    "heading": "Serving Macon and surrounding areas",
+    "subheading": "Quality brushwork throughout Middle Georgia",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Centerville",
+      "Perry",
+      "Cochran",
+      "Forsyth",
+      "Byron",
+      "Milledgeville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for that fresh paint look?",
+    "body": "Get a detailed estimate for your painting project. No pressure, just honest pricing and quality workmanship you can count on.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (478) 201-9702"
+  },
+  "design": {
+    "primary_color": "#B45309",
+    "accent_color": "#1F2937",
+    "bg_color": "#FFFBF7",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "editorial"
+  }
+}

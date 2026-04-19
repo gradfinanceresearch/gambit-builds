@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "All Electrician Solutions Pensacola FL",
+    "phone": "(448) 334-8736",
+    "email": "service@allelectriciansolutions.com",
+    "city": "Pensacola",
+    "state": "FL",
+    "industry": "electrician",
+    "tagline": "When power problems hit, we solve them fast",
+    "logo_url": "",
+    "google_rating": "5 stars (9 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Circuit breakers, outlets, panels* — we fix it all",
+    "subheadline": "9 five-star reviews say it best: we show up, diagnose fast, and get your power back on without the runaround.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "zap",
+      "text": "Same-Day Service"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "phone",
+      "text": "Always Answer"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every Wire, Every Switch, Every Problem",
+    "subheading": "From blown circuits to complete panel upgrades — we handle electrical issues the right way, every time."
+  },
+  "services": [
+    {
+      "title": "Circuit Breaker Repair",
+      "description": "Power cutting out in rooms? We'll find the faulty breaker, replace it, and test your whole system to prevent future outages.",
+      "icon": "zap"
+    },
+    {
+      "title": "Light Installation & Upgrades",
+      "description": "New fixtures, old wiring updates, or adding lights where none existed. Clean installation, zero delays, worth every penny.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Electrical Panel Service",
+      "description": "Full inspections, switchboard repairs, and panel upgrades. We'll identify problems before they become expensive disasters.",
+      "icon": "plug"
+    },
+    {
+      "title": "Outlet & Switch Work",
+      "description": "Dead outlets, faulty switches, or adding new ones. We wire it right the first time with clean, coordinated installation.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Pensacola's Go-To Electrical Problem Solvers",
+    "body": "When the lights go out or circuits start acting up, you need someone who shows up fast and fixes it right. That's exactly what we do. Nine perfect Google reviews from neighbors who've watched us diagnose electrical problems quickly and solve them without unnecessary costs. Licensed, insured, and ready to handle whatever's wrong with your electrical system."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Pensacola Neighbors Say"
+  },
+  "reviews": [
+    {
+      "name": "Morgan T.",
+      "location": "Pensacola, FL",
+      "text": "Power was cutting out in multiple rooms. They did a complete inspection, found the bad breaker fast, and had everything working perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "Buller D.",
+      "location": "Pensacola, FL",
+      "text": "Perfect work installing new lights — finished faster than I expected!",
+      "rating": 5
+    },
+    {
+      "name": "Houston B.",
+      "location": "Pensacola, FL",
+      "text": "Updated all my old lighting fixtures. Zero delays, clean wiring work, definitely worth what I paid.",
+      "rating": 5
+    },
+    {
+      "name": "Graham S.",
+      "location": "Pensacola, FL",
+      "text": "Friendly service, showed up on time, fixed my switchboard without trying to sell me stuff I didn't need.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Pensacola & Surrounding Areas",
+    "subheading": "Fast electrical service throughout Northwest Florida",
+    "areas": [
+      "Pensacola",
+      "Gulf Breeze",
+      "Pace",
+      "Milton",
+      "Cantonment",
+      "Perdido Key",
+      "Navarre",
+      "Crestview"
+    ]
+  },
+  "cta": {
+    "heading": "Electrical Problems Don't Wait — Neither Do We",
+    "body": "Call now for fast diagnosis and honest pricing. Same electricians your neighbors trust, same quality work every time.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (448) 334-8736"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#EF4444",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

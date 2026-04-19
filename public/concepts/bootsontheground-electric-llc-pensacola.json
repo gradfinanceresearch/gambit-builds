@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Boots-on-the-Ground Electric LLC",
+    "phone": "(850) 503-3138",
+    "email": "",
+    "city": "Pensacola",
+    "state": "FL",
+    "industry": "electrician",
+    "tagline": "",
+    "logo_url": "",
+    "google_rating": "4.9 stars (87 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Real electricians* who show up when they say they will",
+    "subheadline": "You've already got our sticker in your breaker box — that's how Pensacola knows who to call when the power's out.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "4.9 Stars (87 Reviews)"
+    },
+    {
+      "icon": "phone",
+      "text": "Answer Every Call"
+    },
+    {
+      "icon": "clock",
+      "text": "Same-Day Service"
+    },
+    {
+      "icon": "check",
+      "text": "Licensed & Insured"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every wire, outlet, and panel",
+    "subheading": "From aluminum rewires to surge protectors — we handle the jobs that keep your power flowing safely"
+  },
+  "services": [
+    {
+      "title": "Complete Home Rewiring",
+      "description": "Aluminum to copper upgrades, full electrical overhauls. We'll strip it down to the studs and wire it right the first time.",
+      "icon": "zap"
+    },
+    {
+      "title": "Surge Protection Installation",
+      "description": "Main panel and sub-panel surge protectors. Protect your appliances before the next Gulf Coast storm hits.",
+      "icon": "shield"
+    },
+    {
+      "title": "GFCI Outlet Repair",
+      "description": "When outlets trip and won't reset, we track down the problem fast. No more extension cords running through the house.",
+      "icon": "plug"
+    },
+    {
+      "title": "Smoke Detector Installation",
+      "description": "Code-compliant detector placement and wiring. We'll make sure every room is covered and connected properly.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Nathaniel and the crew at Boots-on-the-Ground",
+    "body": "We're the electricians leaving stickers in breaker boxes all over Pensacola because we want you to call us first when something goes wrong. Clean work, fair estimates, and we show up when we say we will. Been rewiring homes and fixing outlets in the Gulf Coast for years — your neighbors already know our work."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "Why Pensacola calls us first"
+  },
+  "reviews": [
+    {
+      "name": "Richard V.",
+      "location": "Pensacola",
+      "text": "Nathaniel installed surge protectors with serious technical skill. Professional work, finished on time.",
+      "rating": 5
+    },
+    {
+      "name": "Clint H.",
+      "location": "Pensacola",
+      "text": "Incredibly professional and timely. Set expectations and then exceeded them. Highly recommend these guys.",
+      "rating": 5
+    },
+    {
+      "name": "Sly J.",
+      "location": "Pensacola",
+      "text": "GFCI outlet tripped, found their sticker in my breaker box and called. Quick response and fair pricing.",
+      "rating": 5
+    },
+    {
+      "name": "Hap V.",
+      "location": "Pensacola",
+      "text": "Complete aluminum to copper rewire six years ago. Outstanding job at a fair price, always clean and professional.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Greater Pensacola Area",
+    "subheading": "Licensed electrical contractors covering the Gulf Coast",
+    "areas": [
+      "Pensacola",
+      "Gulf Breeze",
+      "Pace",
+      "Milton",
+      "Navarre",
+      "Cantonment",
+      "Perdido Key",
+      "Ferry Pass"
+    ]
+  },
+  "cta": {
+    "heading": "Power problems don't wait — neither do we",
+    "body": "Fair estimates, clean work, and we answer the phone. That's how electrical service should be in Pensacola.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (850) 503-3138"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FEFDF8",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

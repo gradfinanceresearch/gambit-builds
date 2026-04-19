@@ -1,0 +1,136 @@
+{
+  "business": {
+    "name": "Handyman on Johns Island",
+    "phone": "(843) 494-8049",
+    "email": "mikedenikos@gmail.com",
+    "city": "Charleston",
+    "state": "SC",
+    "industry": "handyman",
+    "tagline": "The fix-it guy Johns Island trusts",
+    "logo_url": "",
+    "google_rating": "5 stars (22 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "The guy who *actually* shows up",
+    "subheadline": "From ceiling fans to clogged washers — if it's broken on Johns Island, we know how to fix it.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Response"
+    },
+    {
+      "icon": "check",
+      "text": "No Job Too Small"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIXES",
+    "heading": "Everything that breaks around the house",
+    "subheading": "The projects you keep putting off? We knock them out in one visit."
+  },
+  "services": [
+    {
+      "title": "Ceiling Fans & Light Fixtures",
+      "description": "Installation, repair, rewiring — we handle the electrical so you don't have to climb ladders with live wires.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Appliance Repairs",
+      "description": "Washers backing up, dishwasher handles falling off, or that mystery leak behind the fridge.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Wall Mounting & Shelving",
+      "description": "Heavy art, floating shelves, TV mounts — properly anchored so things stay where you put them.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Structural Repairs",
+      "description": "Ceiling damage, drywall patches, trim work — we fix it right and paint it to match.",
+      "icon": "home"
+    },
+    {
+      "title": "Outdoor Projects",
+      "description": "Posts, railings, deck repairs, whatever needs doing in the yard — built to last in Lowcountry weather.",
+      "icon": "saw"
+    }
+  ],
+  "about": {
+    "heading": "Kenny knows how to fix things",
+    "body": "Based on Johns Island, serving Charleston area homeowners who need things fixed right the first time. From small repairs to multi-project visits, we show up on time and clean up when we're done. 22 five-star reviews tell the story better than we can."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Johns Island neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Elizabeth F.",
+      "location": "Johns Island",
+      "text": "Fixed our washer clog and caught a door leak we didn't even know about. Very professional and thorough.",
+      "rating": 5
+    },
+    {
+      "name": "Joseph M.",
+      "location": "Charleston",
+      "text": "Installed 4 ceiling fans in record time. Fair pricing and gave us tons of helpful tips for other projects.",
+      "rating": 5
+    },
+    {
+      "name": "Patty C.",
+      "location": "Johns Island",
+      "text": "Multiple projects in one visit — birdhouse post, shelving, heavy wall art. Prompt and made sure everything was exactly how I wanted it.",
+      "rating": 5
+    },
+    {
+      "name": "Gary D.",
+      "location": "Charleston",
+      "text": "Quick light fixture and dishwasher handle fix. Would recommend anytime.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Charleston's islands and suburbs",
+    "subheading": "Quick response times throughout the Lowcountry",
+    "areas": [
+      "Johns Island",
+      "James Island",
+      "Folly Beach",
+      "Kiawah Island",
+      "Seabrook Island",
+      "West Ashley",
+      "Mount Pleasant",
+      "Daniel Island",
+      "Sullivan's Island",
+      "Downtown Charleston"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to cross things off your list?",
+    "body": "Call or text for a free estimate. Most Johns Island jobs we can quote over the phone.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (843) 494-8049"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Bebas Neue",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

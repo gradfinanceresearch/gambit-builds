@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Frayal Painting.LLC",
+    "phone": "(786) 870-2225",
+    "email": "frayalpainting3537@gmail.com",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "painter",
+    "tagline": "Quality paint work, honest prices",
+    "logo_url": "",
+    "google_rating": "5 stars (13 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Every wall tells a story — we make it *beautiful*",
+    "subheadline": "From tired investment properties to fresh new homes, we bring the colors you've been dreaming about to life in Macon.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "clock",
+      "text": "Next-Day Estimates"
+    },
+    {
+      "icon": "phone",
+      "text": "Quick Text Response"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Interior & Exterior Painting Done Right",
+    "subheading": "Whether it's one room or the whole house, we handle every detail with precision"
+  },
+  "services": [
+    {
+      "title": "Interior Painting",
+      "description": "Living rooms, kitchens, bedrooms — we transform your indoor spaces with multiple colors and flawless finishes that make each room shine.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Exterior Painting",
+      "description": "Protect and beautify your home's exterior with quality paint that stands up to Georgia weather while boosting curb appeal.",
+      "icon": "home"
+    },
+    {
+      "title": "Investment Property Painting",
+      "description": "Fast, professional paint jobs for rental properties and flips. We understand timelines and budgets matter for your business.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Complete Home Remodeling Paint",
+      "description": "Full interior and exterior painting as part of your renovation project. Coordinated colors and expert application throughout.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Albert and His Team Know Paint",
+    "body": "Led by Albert, our crew has been making Macon homes beautiful with professional interior and exterior painting. We show up on time, work hard, and stay focused on your needs until the job is done perfectly. From investment properties to family homes, we treat every project with the same attention to detail."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon Homeowners Are Saying"
+  },
+  "reviews": [
+    {
+      "name": "Carolyn B.",
+      "location": "Macon",
+      "text": "Frayal Painting did an incredible job on our investment property! The customer service was outstanding and the work was excellent.",
+      "rating": 5
+    },
+    {
+      "name": "Ahhleeka",
+      "location": "Macon",
+      "text": "My home desperately needed paint when I bought it. Got a quick text response and next-day estimate. Very timely and professional with my three different room colors.",
+      "rating": 5
+    },
+    {
+      "name": "Douglas D.",
+      "location": "Macon",
+      "text": "They painted our house beautifully. Very prompt, hard workers, and always attentive to what we needed. Really pleased with the results.",
+      "rating": 5
+    },
+    {
+      "name": "Maximo G.",
+      "location": "Macon",
+      "text": "Hired them for exterior and interior work — perfect job and great price. Very happy with Albert and his team's results.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Central Georgia",
+    "subheading": "Professional painting services throughout the region",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Perry",
+      "Centerville",
+      "Byron",
+      "Fort Valley",
+      "Kathleen",
+      "Bonaire"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Transform Your Space?",
+    "body": "Get your free estimate today. We respond quickly and show up when we say we will.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (786) 870-2225"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

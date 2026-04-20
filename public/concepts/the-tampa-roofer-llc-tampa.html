@@ -3,332 +3,710 @@
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>The Tampa Roofer LLC — Tampa, FL</title>
+<title>The Tampa Roofer LLC — roofer in Tampa, FL</title>
 <meta name="description" content="When other roofers ghost your calls, Nick picks up. Same-day quotes, reasonable prices, immaculate cleanup."/>
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700;800&family=Work+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>
 <style>
 :root {
   --primary: #991B1B;
+  --primary-rgb: 153, 27, 27;
+  --primary-light: #f7eded;
+  --primary-med: #f0dddd;
+  --primary-dark: #821717;
   --accent: #F59E0B;
-  --bg: #FFFFFF;
+  --accent-rgb: 245, 158, 11;
+  --bg: #FDF2F2;
+  --surface-alt: #FADCDC;
+  --surface-alt-card: #FCE8E8;
   --text: #1F2937;
   --text-on-primary: #ffffff;
-  --text-muted: color-mix(in srgb, #1F2937 65%, transparent);
-  --border: color-mix(in srgb, #1F2937 10%, transparent);
-  --card-bg: color-mix(in srgb, #1F2937 4%, #FFFFFF);
+  --text-muted: color-mix(in srgb, #1F2937 60%, transparent);
+  --text-subtle: color-mix(in srgb, #1F2937 40%, transparent);
+  --border: color-mix(in srgb, #1F2937 8%, transparent);
+  --border-strong: color-mix(in srgb, #1F2937 15%, transparent);
+  --card-bg: #FDF2F2;
+  --card-shadow: 0 1px 3px rgba(0,0,0,0.04), 0 4px 12px rgba(0,0,0,0.03);
+  --card-shadow-hover: 0 4px 16px rgba(0,0,0,0.08), 0 8px 32px rgba(0,0,0,0.04);
   --font-heading: 'Oswald', sans-serif;
   --font-body: 'Work Sans', sans-serif;
+  --radius: 12px;
+  --radius-lg: 20px;
+  --max-w: 1120px;
+  --section-pad: clamp(64px, 8vw, 100px) clamp(20px, 5vw, 48px);
 }
 
 *, *::before, *::after { margin:0; padding:0; box-sizing:border-box; }
-html { scroll-behavior:smooth; }
+html { scroll-behavior:smooth; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 body {
   font-family: var(--font-body);
   background: var(--bg);
   color: var(--text);
-  line-height: 1.65;
-  -webkit-font-smoothing: antialiased;
+  line-height: 1.7;
+  overflow-x: hidden;
 }
 
-/* ── NAV ─────────────────────────────────────── */
+/* ── Section tinting ───────────────────────── */
+.section-tinted {
+  background: var(--surface-alt);
+}
+.section-tinted .service-card,
+.section-tinted .review-card {
+  background: var(--surface-alt-card);
+}
+
+
+/* ── Icon base ─────────────────────────────── */
+.icon { display: inline-flex; align-items: center; justify-content: center; }
+.icon svg { width: 1em; height: 1em; }
+
+/* ── Scroll animations ─────────────────────── */
+.reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.7s cubic-bezier(0.16, 1, 0.3, 1), transform 0.7s cubic-bezier(0.16, 1, 0.3, 1); }
+.reveal.visible { opacity: 1; transform: translateY(0); }
+.reveal-delay-1 { transition-delay: 0.1s; }
+.reveal-delay-2 { transition-delay: 0.2s; }
+.reveal-delay-3 { transition-delay: 0.3s; }
+.reveal-delay-4 { transition-delay: 0.4s; }
+.reveal-delay-5 { transition-delay: 0.5s; }
+
+/* ── Section label ─────────────────────────── */
+.section-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--primary);
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.section-label::before {
+  content: '';
+  width: 24px;
+  height: 2px;
+  background: var(--primary);
+  border-radius: 1px;
+}
+
+/* ── Typography ────────────────────────────── */
+h1, h2, h3 { font-family: var(--font-heading); line-height: 1.2; }
+h1 em, h2 em { font-style: italic; color: var(--primary); }
+.section-heading {
+  font-size: clamp(1.75rem, 3.5vw, 2.5rem);
+  font-weight: 700;
+  margin-bottom: 16px;
+  letter-spacing: -0.02em;
+}
+.section-sub {
+  font-size: 1.05rem;
+  color: var(--text-muted);
+  max-width: 560px;
+  line-height: 1.7;
+}
+
+/* ── Buttons ───────────────────────────────── */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 28px;
+  border-radius: var(--radius);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  font-family: var(--font-body);
+  border: none;
+  cursor: pointer;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  position: relative;
+  overflow: hidden;
+}
+.btn-primary {
+  background: var(--primary);
+  color: var(--text-on-primary);
+  box-shadow: 0 2px 8px rgba(var(--primary-rgb), 0.25);
+}
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(var(--primary-rgb), 0.35);
+}
+.btn-secondary {
+  background: transparent;
+  color: var(--text);
+  border: 1.5px solid var(--border-strong);
+}
+.btn-secondary:hover {
+  border-color: var(--primary);
+  background: rgba(var(--primary-rgb), 0.04);
+}
+.btn-on-primary {
+  background: var(--bg);
+  color: var(--text);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.btn-on-primary:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0,0,0,0.15); }
+.btn-outline-primary {
+  background: transparent;
+  color: var(--text-on-primary);
+  border: 1.5px solid rgba(255,255,255,0.3);
+}
+.btn-outline-primary:hover { background: rgba(255,255,255,0.1); }
+
+/* ── Stars ─────────────────────────────────── */
+.stars-full { color: var(--accent); }
+.stars-empty { color: var(--border-strong); }
+.review-stars { font-size: 0.95rem; letter-spacing: 2px; margin-bottom: 14px; }
+
+/* ── Responsive ────────────────────────────── */
+@media (max-width: 768px) {
+  .services-grid, .reviews-grid { grid-template-columns: 1fr !important; }
+  .hero-ctas { flex-direction: column; align-items: stretch; }
+  .hero-ctas .btn { justify-content: center; }
+  .split-hero { flex-direction: column !important; }
+  .split-hero-content { text-align: center; padding: 48px 24px !important; }
+  .split-hero-visual { min-height: 300px !important; }
+  .footer-inner { flex-direction: column; gap: 24px; }
+  .areas-grid { justify-content: center; }
+  .trust-badges { gap: 12px; }
+}
+</style>
+</head>
+<body>
+
+
+<style>
 .nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 18px 48px;
+  padding: 0 clamp(20px, 5vw, 48px);
+  height: 72px;
   position: sticky;
   top: 0;
   z-index: 100;
-  background: var(--bg);
+  background: rgba(255,255,255,0.92);
+  backdrop-filter: blur(12px) saturate(180%);
+  -webkit-backdrop-filter: blur(12px) saturate(180%);
   border-bottom: 1px solid var(--border);
-  backdrop-filter: blur(8px);
 }
 .nav-logo {
   font-family: var(--font-heading);
-  font-size: 1.25rem;
+  font-size: 1.15rem;
   font-weight: 700;
   color: var(--text);
   text-decoration: none;
   display: flex;
   align-items: center;
   gap: 10px;
+  letter-spacing: -0.02em;
 }
-.nav-logo-img {
-  height: 36px;
-  width: auto;
-  object-fit: contain;
-}
+.nav-logo-img { height: 32px; width: auto; object-fit: contain; }
+.nav-right { display: flex; align-items: center; gap: 16px; }
 .nav-phone {
   display: flex;
   align-items: center;
   gap: 6px;
-  color: var(--primary);
-  text-decoration: none;
-  font-weight: 600;
-  font-size: 0.95rem;
-  transition: opacity 0.2s;
-}
-.nav-phone:hover { opacity: 0.8; }
-
-/* ── HERO ────────────────────────────────────── */
-.hero {
-  padding: 80px 48px 60px;
-  max-width: 800px;
-  margin: 0 auto;
-  text-align: center;
-}
-.hero-badge {
-  display: inline-block;
-  font-size: 0.85rem;
-  font-weight: 600;
-  color: var(--primary);
-  margin-bottom: 24px;
-  letter-spacing: 0.03em;
-}
-.hero h1 {
-  font-family: var(--font-heading);
-  font-size: clamp(2rem, 5vw, 3.2rem);
-  font-weight: 700;
-  line-height: 1.15;
-  margin-bottom: 20px;
-  color: var(--text);
-}
-.hero h1 em {
-  font-style: italic;
-  color: var(--primary);
-}
-.hero-sub {
-  font-size: 1.1rem;
   color: var(--text-muted);
-  max-width: 580px;
-  margin: 0 auto 36px;
-  line-height: 1.7;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.9rem;
+  transition: color 0.2s;
 }
-.hero-ctas {
-  display: flex;
-  gap: 14px;
-  justify-content: center;
-  flex-wrap: wrap;
-  margin-bottom: 48px;
-}
-.btn-primary {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
+.nav-phone:hover { color: var(--primary); }
+.nav-phone .icon svg { width: 16px; height: 16px; }
+.nav-cta {
   background: var(--primary);
   color: var(--text-on-primary);
-  padding: 14px 32px;
-  border-radius: 8px;
+  padding: 9px 20px;
+  border-radius: var(--radius);
   text-decoration: none;
   font-weight: 600;
-  font-size: 1rem;
-  transition: transform 0.2s, box-shadow 0.2s;
+  font-size: 0.85rem;
+  transition: all 0.2s;
 }
-.btn-primary:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 24px color-mix(in srgb, var(--primary) 30%, transparent);
+.nav-cta:hover { opacity: 0.9; transform: translateY(-1px); }
+@media (max-width: 600px) {
+  .nav-phone span { display: none; }
+  .nav-cta { padding: 8px 14px; font-size: 0.8rem; }
 }
-.btn-secondary {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  background: transparent;
-  color: var(--text);
-  padding: 14px 32px;
-  border-radius: 8px;
-  border: 1.5px solid var(--border);
-  text-decoration: none;
-  font-weight: 600;
-  font-size: 1rem;
-  transition: border-color 0.2s, background 0.2s;
-}
-.btn-secondary:hover {
-  border-color: var(--primary);
-  background: color-mix(in srgb, var(--primary) 6%, transparent);
-}
+</style>
+<nav class="nav">
+  <a href="#" class="nav-logo">The Tampa Roofer LLC</a>
+  <div class="nav-right">
+    <a href="tel:8136259864" class="nav-phone"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg></span><span>(813) 625-9864</span></a>
+    <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20The%20Tampa%20Roofer%20LLC" class="nav-cta">Get a Quote</a>
+  </div>
+</nav>
 
-/* ── TRUST BADGES ────────────────────────────── */
-.trust-badges {
+<style>
+.split-hero {
   display: flex;
-  justify-content: center;
-  gap: 28px;
-  flex-wrap: wrap;
-  padding: 0 48px 64px;
-  max-width: 800px;
-  margin: 0 auto;
+  min-height: calc(100vh - 72px);
+  max-height: 800px;
 }
-.trust-badge {
+.split-hero-content {
+  flex: 1;
+  padding: clamp(48px, 6vw, 80px) clamp(24px, 5vw, 64px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.split-hero-visual {
+  flex: 1;
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
   display: flex;
   align-items: center;
-  gap: 8px;
-  font-size: 0.9rem;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  min-height: 400px;
+}
+.split-hero-visual::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(45deg, transparent, transparent 40px, rgba(255,255,255,0.03) 40px, rgba(255,255,255,0.03) 80px);
+}
+.split-hero-visual .hero-icon {
+  color: rgba(255,255,255,0.12);
+  font-size: 200px;
+  position: relative;
+}
+.split-hero-visual .hero-icon svg { width: 200px; height: 200px; stroke-width: 0.5; }
+.split-hero-content .hero-eyebrow {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--primary);
+  margin-bottom: 20px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.split-hero-content h1 {
+  font-size: clamp(2.2rem, 4.5vw, 3.2rem);
+  font-weight: 800;
+  line-height: 1.1;
+  margin-bottom: 20px;
+  letter-spacing: -0.02em;
+}
+.split-hero-content .hero-sub {
+  font-size: 1.05rem;
+  color: var(--text-muted);
+  margin-bottom: 36px;
+  max-width: 480px;
+  line-height: 1.7;
+}
+.split-hero-content .hero-ctas { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 40px; }
+.split-hero-content .trust-badges {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.split-hero-content .trust-badge {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.82rem;
   font-weight: 500;
   color: var(--text-muted);
 }
-.trust-badge .emoji {
-  font-size: 1.1rem;
-}
+.split-hero-content .trust-badge .icon { color: var(--primary); font-size: 1rem; }
+.split-hero-content .trust-badge .icon svg { width: 16px; height: 16px; }
+</style>
+<section class="split-hero">
+  <div class="split-hero-content">
+    <div class="hero-eyebrow reveal">Serving Tampa, FL</div>
+    <h1 class="reveal reveal-delay-1">Tampa roofs. <em>Hurricane-tested.</em> Owner-answered.</h1>
+    <p class="hero-sub reveal reveal-delay-2">When other roofers ghost your calls, Nick picks up. Same-day quotes, reasonable prices, immaculate cleanup.</p>
+    <div class="hero-ctas reveal reveal-delay-3">
+      <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20The%20Tampa%20Roofer%20LLC" class="btn btn-primary">Get Your Quote</a>
+      <a href="tel:8136259864" class="btn btn-secondary">Call Now</a>
+    </div>
+    <div class="trust-badges reveal reveal-delay-4">
+      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span> <span>5 Stars • 55 Reviews</span></div>
+      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg></span> <span>Owner Always Answers</span></div>
+      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></span> <span>Storm Damage Experts</span></div>
+      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span> <span>Same-Day Response</span></div>
+    </div>
+  </div>
+  <div class="split-hero-visual">
+    <div class="hero-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></div>
+  </div>
+</section>
 
-/* ── SECTION LABEL ───────────────────────────── */
-.section-label {
-  font-size: 0.8rem;
-  font-weight: 600;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--primary);
-  margin-bottom: 12px;
+<style>
+.services-wrap {
+  background: var(--surface-alt);
 }
-
-/* ── SERVICES ────────────────────────────────── */
 .services-section {
-  padding: 80px 48px;
-  max-width: 1100px;
+  padding: var(--section-pad);
+  max-width: var(--max-w);
   margin: 0 auto;
 }
 .services-header {
-  text-align: center;
-  margin-bottom: 52px;
-}
-.services-header h2 {
-  font-family: var(--font-heading);
-  font-size: 2rem;
-  font-weight: 700;
-  margin-bottom: 14px;
-}
-.services-header p {
-  color: var(--text-muted);
-  max-width: 560px;
-  margin: 0 auto;
-  font-size: 1.02rem;
+  margin-bottom: 48px;
 }
 .services-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 24px;
+  gap: 20px;
 }
 .service-card {
   padding: 32px;
-  border-radius: 14px;
+  border-radius: var(--radius-lg);
   background: var(--card-bg);
   border: 1px solid var(--border);
-  transition: transform 0.2s, box-shadow 0.2s;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  position: relative;
 }
 .service-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 12px 32px color-mix(in srgb, var(--primary) 10%, transparent);
+  border-color: rgba(var(--primary-rgb), 0.2);
+  box-shadow: var(--card-shadow-hover);
+  transform: translateY(-4px);
 }
-.service-emoji {
-  font-size: 2rem;
-  margin-bottom: 16px;
-  display: block;
+.service-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  background: rgba(var(--primary-rgb), 0.08);
+  color: var(--primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
 }
+.service-icon svg { width: 22px; height: 22px; }
 .service-card h3 {
-  font-family: var(--font-heading);
-  font-size: 1.1rem;
+  font-size: 1.05rem;
   font-weight: 600;
   margin-bottom: 8px;
+  letter-spacing: -0.01em;
 }
 .service-card p {
-  font-size: 0.92rem;
+  font-size: 0.9rem;
   color: var(--text-muted);
-  line-height: 1.6;
+  line-height: 1.65;
 }
+</style>
+<div class="services-wrap">
+<section class="services-section">
+  <div class="services-header">
+    <div class="section-label reveal">THE WORK</div>
+    <h2 class="section-heading reveal reveal-delay-1">Full roofs to single tiles</h2>
+    <p class="section-sub reveal reveal-delay-2">From hurricane repairs to complete tear-offs, we handle what Tampa weather throws at you</p>
+  </div>
+  <div class="services-grid">
+    
+    <div class="service-card reveal reveal-delay-1">
+      <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></div>
+      <h3>Complete Roof Replacement</h3>
+      <p>Tear-off to finish, with material options and financing. We coordinate with HOAs and handle every detail so you don't have to.</p>
+    </div>
+    <div class="service-card reveal reveal-delay-2">
+      <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
+      <h3>Storm Damage Repair</h3>
+      <p>Missing tiles, wind damage, hurricane aftermath. Quick scheduling to get your roof sealed before the next storm hits.</p>
+    </div>
+    <div class="service-card reveal reveal-delay-3">
+      <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M15 12l-8.5 8.5c-.83.83-2.17.83-3 0 0 0 0 0 0 0a2.12 2.12 0 0 1 0-3L12 9"/><path d="M17.64 15L22 10.64"/><path d="M20.91 11.7l-1.25-1.25c-.6-.6-.93-1.4-.93-2.25V6.5l-3-2.5H12l-2 2h3l2 2v2.5l2 2.5h1.7c.85 0 1.65.33 2.25.93l.04.04"/></svg></div>
+      <h3>Tile Repair &amp; Replacement</h3>
+      <p>Single tiles or sections, matched to your existing roof. No job too small when you need it fixed right.</p>
+    </div>
+  </div>
+</section>
+</div>
 
-/* ── REVIEWS ─────────────────────────────────── */
-.reviews-section {
-  padding: 80px 48px;
-  max-width: 1100px;
+<style>
+.about-section {
+  padding: var(--section-pad);
+  max-width: var(--max-w);
   margin: 0 auto;
 }
-.reviews-header {
-  text-align: center;
-  margin-bottom: 52px;
+.about-inner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 64px;
+  align-items: center;
 }
-.reviews-header h2 {
-  font-family: var(--font-heading);
-  font-size: 2rem;
+.about-text h2 {
+  font-size: clamp(1.5rem, 3vw, 2rem);
   font-weight: 700;
+  margin-bottom: 16px;
+  letter-spacing: -0.02em;
 }
+.about-text p {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  line-height: 1.75;
+}
+
+/* ── Stats visual ──────────────────────────── */
+.about-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.about-stat {
+  padding: 28px 24px;
+  border-radius: var(--radius-lg);
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  text-align: center;
+}
+.about-stat-icon {
+  color: var(--primary);
+  margin-bottom: 12px;
+  display: flex;
+  justify-content: center;
+}
+.about-stat-icon svg { width: 22px; height: 22px; }
+.about-stat-value {
+  font-family: var(--font-heading);
+  font-size: 1.8rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: var(--text);
+  line-height: 1.1;
+  margin-bottom: 4px;
+}
+.about-stat-label {
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* ── Pull-quote visual ─────────────────────── */
+.about-pullquote {
+  padding: 36px;
+  border-radius: var(--radius-lg);
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  position: relative;
+}
+.about-pullquote-mark {
+  font-family: Georgia, serif;
+  font-size: 4rem;
+  line-height: 1;
+  color: var(--primary);
+  opacity: 0.3;
+  position: absolute;
+  top: 16px;
+  left: 28px;
+}
+.about-pullquote-text {
+  font-size: 1.05rem;
+  font-style: italic;
+  color: var(--text-muted);
+  line-height: 1.7;
+  margin: 16px 0 24px;
+  padding: 0;
+  border: 0;
+}
+.about-pullquote-author {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border);
+}
+.about-pullquote-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+  color: var(--text-on-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.85rem;
+  flex-shrink: 0;
+}
+.about-pullquote-name { font-weight: 600; font-size: 0.88rem; }
+.about-pullquote-location { font-size: 0.78rem; color: var(--text-subtle); }
+
+/* ── Feature list visual ───────────────────── */
+.about-features {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.about-feature {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 18px 22px;
+  border-radius: var(--radius);
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  font-size: 0.92rem;
+  font-weight: 500;
+}
+.about-feature-icon {
+  color: var(--primary);
+  flex-shrink: 0;
+  display: flex;
+}
+.about-feature-icon svg { width: 20px; height: 20px; }
+
+@media (max-width: 768px) {
+  .about-inner { grid-template-columns: 1fr; gap: 32px; }
+  .about-stats { grid-template-columns: 1fr 1fr; gap: 12px; }
+}
+</style>
+<section class="about-section">
+  <div class="about-inner">
+    
+    <div class="about-stats reveal">
+      
+      <div class="about-stat reveal-delay-1">
+        <div class="about-stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
+        <div class="about-stat-value">5</div>
+        <div class="about-stat-label">Google Rating</div>
+      </div>
+      <div class="about-stat reveal-delay-2">
+        <div class="about-stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg></div>
+        <div class="about-stat-value">3</div>
+        <div class="about-stat-label">Services Offered</div>
+      </div>
+      <div class="about-stat reveal-delay-3">
+        <div class="about-stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></div>
+        <div class="about-stat-value">8</div>
+        <div class="about-stat-label">Cities Served</div>
+      </div>
+    </div>
+    <div class="about-text">
+      <div class="section-label reveal">About</div>
+      <h2 class="reveal reveal-delay-1">Nick answers the phone. That's how we work.</h2>
+      <p class="reveal reveal-delay-2">While other Tampa roofers leave you hanging, owner Nick Grahm takes every call personally. We've built our reputation on reasonable quotes, quick scheduling, and immaculate cleanup. Whether it's a complete tear-off or fixing storm damage tiles, we treat every Tampa roof like our own.</p>
+    </div>
+  </div>
+</section>
+
+<style>
+.reviews-section {
+  padding: var(--section-pad);
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
+.reviews-header { margin-bottom: 48px; }
 .reviews-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 24px;
+  gap: 20px;
 }
 .review-card {
   padding: 32px;
-  border-radius: 14px;
+  border-radius: var(--radius-lg);
   background: var(--card-bg);
   border: 1px solid var(--border);
-}
-.review-stars {
-  color: var(--accent);
-  font-size: 1.05rem;
-  letter-spacing: 2px;
-  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
 }
 .review-text {
-  font-size: 0.95rem;
+  font-size: 0.92rem;
   color: var(--text-muted);
   line-height: 1.7;
-  margin-bottom: 20px;
+  margin-bottom: 24px;
+  flex: 1;
   font-style: italic;
 }
+.review-text::before { content: open-quote; font-size: 1.5rem; color: var(--primary); font-family: Georgia, serif; vertical-align: -4px; margin-right: 2px; }
+.review-text::after { content: close-quote; font-size: 1.5rem; color: var(--primary); font-family: Georgia, serif; vertical-align: -4px; margin-left: 2px; }
 .review-author {
   display: flex;
   align-items: center;
   gap: 12px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border);
 }
 .review-avatar {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background: var(--primary);
+  background: linear-gradient(135deg, var(--primary), var(--primary-dark));
   color: var(--text-on-primary);
   display: flex;
   align-items: center;
   justify-content: center;
   font-weight: 700;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   flex-shrink: 0;
 }
-.review-name {
-  font-weight: 600;
-  font-size: 0.92rem;
-}
-.review-location {
-  font-size: 0.82rem;
-  color: var(--text-muted);
-}
+.review-name { font-weight: 600; font-size: 0.88rem; }
+.review-location { font-size: 0.78rem; color: var(--text-subtle); }
+</style>
+<section class="reviews-section">
+  <div class="reviews-header">
+    <div class="section-label reveal">WORD OF MOUTH</div>
+    <h2 class="section-heading reveal reveal-delay-1">What Tampa neighbors say</h2>
+  </div>
+  <div class="reviews-grid">
+    
+    <div class="review-card reveal reveal-delay-1">
+      <div class="review-stars"><span class="stars-full">★★★★★</span><span class="stars-empty"></span></div>
+      <div class="review-text">From start to finish, Nick's service was exceptional. Unlike major roofers who treat you like just another job, he handled HOA coordination and every detail perfectly.</div>
+      <div class="review-author">
+        <div class="review-avatar">I</div>
+        <div>
+          <div class="review-name">Izrael L.</div>
+          <div class="review-location">Tampa</div>
+        </div>
+      </div>
+    </div>
+    <div class="review-card reveal reveal-delay-2">
+      <div class="review-stars"><span class="stars-full">★★★★★</span><span class="stars-empty"></span></div>
+      <div class="review-text">Other roofers never called back. Found The Tampa Roofer online and Nick contacted me within minutes of submitting my quote request. Fast response, professional service.</div>
+      <div class="review-author">
+        <div class="review-avatar">L</div>
+        <div>
+          <div class="review-name">Luis Z.</div>
+          <div class="review-location">Tampa</div>
+        </div>
+      </div>
+    </div>
+    <div class="review-card reveal reveal-delay-3">
+      <div class="review-stars"><span class="stars-full">★★★★★</span><span class="stars-empty"></span></div>
+      <div class="review-text">Super responsive right away with a reasonable quote to fix hurricane damage tiles. Got us scheduled quickly and completed the job with no issues whatsoever.</div>
+      <div class="review-author">
+        <div class="review-avatar">D</div>
+        <div>
+          <div class="review-name">Darleen G.</div>
+          <div class="review-location">Tampa</div>
+        </div>
+      </div>
+    </div>
+    <div class="review-card reveal reveal-delay-4">
+      <div class="review-stars"><span class="stars-full">★★★★★</span><span class="stars-empty"></span></div>
+      <div class="review-text">Complete roof tear-off and rebuild. Nick and Matt made the whole process smooth from material selection to financing and scheduling. Couldn't ask for better service.</div>
+      <div class="review-author">
+        <div class="review-avatar">S</div>
+        <div>
+          <div class="review-name">Scott A.</div>
+          <div class="review-location">Tampa</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
-/* ── SERVICE AREAS ───────────────────────────── */
+<style>
+.areas-wrap {
+  background: var(--surface-alt);
+}
 .areas-section {
-  padding: 80px 48px;
-  max-width: 1100px;
+  padding: var(--section-pad);
+  max-width: var(--max-w);
   margin: 0 auto;
 }
-.areas-header {
-  text-align: center;
-  margin-bottom: 40px;
-}
-.areas-header h2 {
-  font-family: var(--font-heading);
-  font-size: 2rem;
-  font-weight: 700;
-  margin-bottom: 14px;
-}
-.areas-header p {
-  color: var(--text-muted);
-  max-width: 560px;
-  margin: 0 auto;
-  font-size: 1.02rem;
-}
+.areas-header { margin-bottom: 36px; }
 .areas-grid {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
-  gap: 14px;
+  gap: 10px;
 }
 .area-pill {
   display: inline-flex;
@@ -336,84 +714,100 @@ body {
   gap: 6px;
   padding: 10px 20px;
   border-radius: 100px;
-  background: var(--card-bg);
-  border: 1px solid var(--border);
-  font-size: 0.9rem;
+  background: rgba(var(--primary-rgb), 0.10);
+  border: 1px solid rgba(var(--primary-rgb), 0.15);
+  font-size: 0.88rem;
   font-weight: 500;
+  color: var(--text);
+  transition: all 0.2s;
 }
-.area-pill::before {
-  content: "📍";
-  font-size: 0.85rem;
+.area-pill:hover {
+  border-color: rgba(var(--primary-rgb), 0.25);
+  background: rgba(var(--primary-rgb), 0.12);
 }
+.area-pill .icon { color: var(--primary); font-size: 0.85rem; }
+.area-pill .icon svg { width: 14px; height: 14px; }
+</style>
+<div class="areas-wrap">
+<section class="areas-section">
+  <div class="areas-header">
+    <div class="section-label reveal">COVERAGE AREA</div>
+    <h2 class="section-heading reveal reveal-delay-1">Serving Tampa Bay</h2>
+    <p class="section-sub reveal reveal-delay-2">Fast response across the metro area</p>
+  </div>
+  <div class="areas-grid reveal reveal-delay-3">
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Tampa</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> St. Petersburg</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Clearwater</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Brandon</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Riverview</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Temple Terrace</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Plant City</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Lutz</span>
+  </div>
+</section>
+</div>
 
-/* ── CTA BANNER ──────────────────────────────── */
+<style>
 .cta-section {
-  padding: 0 48px;
-  max-width: 1100px;
-  margin: 0 auto 80px;
+  padding: 0 clamp(20px, 5vw, 48px);
+  max-width: var(--max-w);
+  margin: 0 auto clamp(64px, 8vw, 100px);
 }
 .cta-banner {
-  padding: 64px 48px;
-  border-radius: 20px;
-  background: var(--primary);
+  padding: clamp(48px, 6vw, 72px) clamp(32px, 5vw, 64px);
+  border-radius: var(--radius-lg);
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
   color: var(--text-on-primary);
   text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.cta-banner::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(45deg, transparent, transparent 60px, rgba(255,255,255,0.02) 60px, rgba(255,255,255,0.02) 120px);
+  pointer-events: none;
 }
 .cta-banner h2 {
-  font-family: var(--font-heading);
-  font-size: 2rem;
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
   font-weight: 700;
   margin-bottom: 14px;
+  position: relative;
 }
 .cta-banner p {
-  font-size: 1.02rem;
-  opacity: 0.9;
-  max-width: 500px;
+  font-size: 1rem;
+  opacity: 0.85;
+  max-width: 480px;
   margin: 0 auto 32px;
+  position: relative;
+  line-height: 1.65;
 }
-.cta-banner .cta-buttons {
+.cta-buttons {
   display: flex;
-  gap: 14px;
+  gap: 12px;
   justify-content: center;
   flex-wrap: wrap;
+  position: relative;
 }
-.btn-on-primary {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  background: var(--bg);
-  color: var(--text);
-  padding: 14px 32px;
-  border-radius: 8px;
-  text-decoration: none;
-  font-weight: 600;
-  font-size: 1rem;
-  transition: transform 0.2s;
-}
-.btn-on-primary:hover { transform: translateY(-2px); }
-.btn-outline-primary {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  background: transparent;
-  color: var(--text-on-primary);
-  padding: 14px 32px;
-  border-radius: 8px;
-  border: 1.5px solid color-mix(in srgb, var(--text-on-primary) 40%, transparent);
-  text-decoration: none;
-  font-weight: 600;
-  font-size: 1rem;
-  transition: background 0.2s;
-}
-.btn-outline-primary:hover {
-  background: color-mix(in srgb, var(--text-on-primary) 10%, transparent);
-}
+</style>
+<section class="cta-section">
+  <div class="cta-banner reveal">
+    <h2>Ready to fix your roof?</h2>
+    <p>Nick answers personally. Get your quote today and see why Tampa trusts us with their biggest investment.</p>
+    <div class="cta-buttons">
+      <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20The%20Tampa%20Roofer%20LLC" class="btn btn-on-primary">Get Free Quote</a>
+      <a href="tel:8136259864" class="btn btn-outline-primary">Call (813) 625-9864</a>
+    </div>
+  </div>
+</section>
 
-/* ── FOOTER ──────────────────────────────────── */
+<style>
 .footer {
   border-top: 1px solid var(--border);
-  padding: 48px;
-  max-width: 1100px;
+  padding: 48px clamp(20px, 5vw, 48px);
+  max-width: var(--max-w);
   margin: 0 auto;
 }
 .footer-inner {
@@ -424,28 +818,23 @@ body {
   gap: 32px;
   margin-bottom: 32px;
 }
-.footer-brand {
-  max-width: 280px;
-}
+.footer-brand { max-width: 280px; }
 .footer-brand-name {
   font-family: var(--font-heading);
   font-weight: 700;
-  font-size: 1.15rem;
+  font-size: 1.1rem;
   margin-bottom: 6px;
 }
 .footer-tagline {
-  font-size: 0.88rem;
+  font-size: 0.85rem;
   color: var(--text-muted);
+  line-height: 1.5;
 }
-.footer-links {
-  display: flex;
-  gap: 24px;
-  flex-wrap: wrap;
-}
+.footer-links { display: flex; gap: 20px; flex-wrap: wrap; }
 .footer-links a {
   color: var(--text-muted);
   text-decoration: none;
-  font-size: 0.9rem;
+  font-size: 0.88rem;
   font-weight: 500;
   transition: color 0.2s;
 }
@@ -458,336 +847,16 @@ body {
   gap: 12px;
   padding-top: 24px;
   border-top: 1px solid var(--border);
-  font-size: 0.82rem;
-  color: var(--text-muted);
+  font-size: 0.78rem;
+  color: var(--text-subtle);
 }
 .gambit-badge a {
-  color: var(--text-muted);
-  text-decoration: underline;
-  text-underline-offset: 2px;
+  color: var(--text-subtle);
+  text-decoration: none;
+  transition: color 0.2s;
 }
 .gambit-badge a:hover { color: var(--primary); }
-
-/* ── GAMBIT OWNER BANNER (top strip + bottom money-shot) ── */
-/* These are aimed at the BUSINESS OWNER viewing the concept,
-   not at their customers. Completely separate from the existing
-   customer-facing CTA section. */
-
-.gambit-top-strip {
-  background: #0a0a0a;
-  color: #ffffff;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
-  font-size: 0.88rem;
-  font-weight: 500;
-  padding: 10px 24px;
-  text-align: center;
-  position: sticky;
-  top: 0;
-  z-index: 200;
-  border-bottom: 1px solid rgba(255,255,255,0.1);
-  letter-spacing: 0.01em;
-}
-.gambit-top-strip strong { font-weight: 700; }
-.gambit-top-strip a {
-  color: #ffffff;
-  text-decoration: underline;
-  text-underline-offset: 3px;
-  margin-left: 8px;
-  font-weight: 600;
-}
-.gambit-top-strip a:hover { opacity: 0.8; }
-
-.gambit-owner-banner {
-  background: #0a0a0a;
-  color: #ffffff;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
-  padding: 80px 48px;
-  text-align: center;
-}
-.gambit-owner-inner {
-  max-width: 720px;
-  margin: 0 auto;
-}
-.gambit-owner-eyebrow {
-  display: inline-block;
-  font-size: 0.78rem;
-  font-weight: 600;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: #fbbf24;
-  margin-bottom: 20px;
-  padding: 6px 14px;
-  border: 1px solid rgba(251, 191, 36, 0.3);
-  border-radius: 100px;
-  background: rgba(251, 191, 36, 0.08);
-}
-.gambit-owner-banner h2 {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
-  font-size: clamp(1.7rem, 4vw, 2.4rem);
-  font-weight: 700;
-  line-height: 1.2;
-  margin-bottom: 20px;
-  letter-spacing: -0.01em;
-}
-.gambit-owner-banner h2 em {
-  font-style: normal;
-  color: #fbbf24;
-}
-.gambit-owner-lede {
-  font-size: 1.05rem;
-  line-height: 1.6;
-  color: rgba(255,255,255,0.85);
-  margin-bottom: 32px;
-  max-width: 580px;
-  margin-left: auto;
-  margin-right: auto;
-}
-.gambit-owner-offer {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 14px;
-  max-width: 640px;
-  margin: 0 auto 36px;
-  text-align: left;
-}
-.gambit-owner-offer-item {
-  background: rgba(255,255,255,0.04);
-  border: 1px solid rgba(255,255,255,0.1);
-  border-radius: 10px;
-  padding: 16px 18px;
-}
-.gambit-owner-offer-label {
-  font-size: 0.72rem;
-  font-weight: 700;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: #fbbf24;
-  margin-bottom: 6px;
-}
-.gambit-owner-offer-value {
-  font-size: 0.92rem;
-  font-weight: 500;
-  color: #ffffff;
-  line-height: 1.4;
-}
-.gambit-owner-ctas {
-  display: flex;
-  gap: 12px;
-  justify-content: center;
-  flex-wrap: wrap;
-  margin-bottom: 20px;
-}
-.gambit-btn-primary {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  background: #fbbf24;
-  color: #0a0a0a;
-  padding: 15px 34px;
-  border-radius: 8px;
-  text-decoration: none;
-  font-weight: 700;
-  font-size: 1rem;
-  transition: transform 0.2s, box-shadow 0.2s;
-}
-.gambit-btn-primary:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 10px 30px rgba(251, 191, 36, 0.3);
-}
-.gambit-btn-secondary {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  background: transparent;
-  color: #ffffff;
-  padding: 15px 34px;
-  border-radius: 8px;
-  border: 1.5px solid rgba(255,255,255,0.25);
-  text-decoration: none;
-  font-weight: 600;
-  font-size: 1rem;
-  transition: background 0.2s, border-color 0.2s;
-}
-.gambit-btn-secondary:hover {
-  background: rgba(255,255,255,0.06);
-  border-color: rgba(255,255,255,0.5);
-}
-.gambit-owner-sig {
-  font-size: 0.88rem;
-  color: rgba(255,255,255,0.55);
-  margin-top: 12px;
-}
-.gambit-owner-sig strong { color: rgba(255,255,255,0.85); font-weight: 600; }
-
-/* ── RESPONSIVE ──────────────────────────────── */
-@media (max-width: 768px) {
-  .nav { padding: 16px 24px; }
-  .hero { padding: 60px 24px 40px; }
-  .trust-badges { padding: 0 24px 48px; gap: 16px; }
-  .services-section,
-  .reviews-section,
-  .areas-section { padding: 60px 24px; }
-  .cta-section { padding: 0 24px; }
-  .cta-banner { padding: 48px 28px; }
-  .footer { padding: 36px 24px; }
-  .footer-inner { flex-direction: column; }
-  .services-grid,
-  .reviews-grid { grid-template-columns: 1fr; }
-  .gambit-top-strip { font-size: 0.8rem; padding: 9px 16px; line-height: 1.4; }
-  .gambit-top-strip a { display: inline-block; margin-top: 2px; }
-  .gambit-owner-banner { padding: 56px 24px; }
-  .gambit-owner-offer { grid-template-columns: 1fr; gap: 10px; }
-  .gambit-owner-ctas { flex-direction: column; }
-  .gambit-btn-primary,
-  .gambit-btn-secondary { width: 100%; justify-content: center; }
-}
 </style>
-</head>
-<body>
-
-<!-- GAMBIT TOP STRIP (owner-aimed) -->
-<div class="gambit-top-strip">
-  <strong>👋 Hey — this is a free concept I built for The Tampa Roofer LLC.</strong>
-  <a href="#gambit-offer">See the offer ↓</a>
-</div>
-
-<!-- NAV -->
-<nav class="nav">
-  <a href="#" class="nav-logo">The Tampa Roofer LLC</a>
-  <a href="tel:8136259864" class="nav-phone">📞 (813) 625-9864</a>
-</nav>
-
-<!-- HERO -->
-<section class="hero">
-  <div class="hero-badge">🔧 Serving Tampa, FL & Surrounding Areas</div>
-  <h1>Tampa roofs. <em>Hurricane-tested.</em> Owner-answered.</h1>
-  <p class="hero-sub">When other roofers ghost your calls, Nick picks up. Same-day quotes, reasonable prices, immaculate cleanup.</p>
-  <div class="hero-ctas">
-    <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20The%20Tampa%20Roofer%20LLC" class="btn-primary">Get Your Quote</a>
-    <a href="tel:8136259864" class="btn-secondary">Call Now</a>
-  </div>
-</section>
-
-<!-- TRUST BADGES -->
-<div class="trust-badges">
-  <div class="trust-badge"><span class="emoji">undefined</span> 5 Stars • 55 Reviews</div>
-  <div class="trust-badge"><span class="emoji">undefined</span> Owner Always Answers</div>
-  <div class="trust-badge"><span class="emoji">undefined</span> Storm Damage Experts</div>
-  <div class="trust-badge"><span class="emoji">undefined</span> Same-Day Response</div>
-</div>
-
-<!-- SERVICES -->
-<section class="services-section">
-  <div class="services-header">
-    <div class="section-label">THE WORK</div>
-    <h2>Full roofs to single tiles</h2>
-    <p>From hurricane repairs to complete tear-offs, we handle what Tampa weather throws at you</p>
-  </div>
-  <div class="services-grid">
-    <div class="service-card">
-      <span class="service-emoji">undefined</span>
-      <h3>Complete Roof Replacement</h3>
-      <p>Tear-off to finish, with material options and financing. We coordinate with HOAs and handle every detail so you don't have to.</p>
-    </div>
-    <div class="service-card">
-      <span class="service-emoji">undefined</span>
-      <h3>Storm Damage Repair</h3>
-      <p>Missing tiles, wind damage, hurricane aftermath. Quick scheduling to get your roof sealed before the next storm hits.</p>
-    </div>
-    <div class="service-card">
-      <span class="service-emoji">undefined</span>
-      <h3>Tile Repair &amp; Replacement</h3>
-      <p>Single tiles or sections, matched to your existing roof. No job too small when you need it fixed right.</p>
-    </div>
-  </div>
-</section>
-
-<!-- REVIEWS -->
-<section class="reviews-section">
-  <div class="reviews-header">
-    <div class="section-label">WORD OF MOUTH</div>
-    <h2>What Tampa neighbors say</h2>
-  </div>
-  <div class="reviews-grid">
-    <div class="review-card">
-      <div class="review-stars">★★★★★</div>
-      <div class="review-text">"From start to finish, Nick's service was exceptional. Unlike major roofers who treat you like just another job, he handled HOA coordination and every detail perfectly."</div>
-      <div class="review-author">
-        <div class="review-avatar">I</div>
-        <div>
-          <div class="review-name">Izrael L.</div>
-          <div class="review-location">Tampa</div>
-        </div>
-      </div>
-    </div>
-    <div class="review-card">
-      <div class="review-stars">★★★★★</div>
-      <div class="review-text">"Other roofers never called back. Found The Tampa Roofer online and Nick contacted me within minutes of submitting my quote request. Fast response, professional service."</div>
-      <div class="review-author">
-        <div class="review-avatar">L</div>
-        <div>
-          <div class="review-name">Luis Z.</div>
-          <div class="review-location">Tampa</div>
-        </div>
-      </div>
-    </div>
-    <div class="review-card">
-      <div class="review-stars">★★★★★</div>
-      <div class="review-text">"Super responsive right away with a reasonable quote to fix hurricane damage tiles. Got us scheduled quickly and completed the job with no issues whatsoever."</div>
-      <div class="review-author">
-        <div class="review-avatar">D</div>
-        <div>
-          <div class="review-name">Darleen G.</div>
-          <div class="review-location">Tampa</div>
-        </div>
-      </div>
-    </div>
-    <div class="review-card">
-      <div class="review-stars">★★★★★</div>
-      <div class="review-text">"Complete roof tear-off and rebuild. Nick and Matt made the whole process smooth from material selection to financing and scheduling. Couldn't ask for better service."</div>
-      <div class="review-author">
-        <div class="review-avatar">S</div>
-        <div>
-          <div class="review-name">Scott A.</div>
-          <div class="review-location">Tampa</div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- SERVICE AREAS -->
-<section class="areas-section">
-  <div class="areas-header">
-    <div class="section-label">COVERAGE AREA</div>
-    <h2>Serving Tampa Bay</h2>
-    <p>Fast response across the metro area</p>
-  </div>
-  <div class="areas-grid">
-    <span class="area-pill">Tampa</span>
-    <span class="area-pill">St. Petersburg</span>
-    <span class="area-pill">Clearwater</span>
-    <span class="area-pill">Brandon</span>
-    <span class="area-pill">Riverview</span>
-    <span class="area-pill">Temple Terrace</span>
-    <span class="area-pill">Plant City</span>
-    <span class="area-pill">Lutz</span>
-  </div>
-</section>
-
-<!-- CTA -->
-<section class="cta-section">
-  <div class="cta-banner">
-    <h2>Ready to fix your roof?</h2>
-    <p>Nick answers personally. Get your quote today and see why Tampa trusts us with their biggest investment.</p>
-    <div class="cta-buttons">
-      <a href="mailto:kaleb@gambitbuilds.com?subject=Concept%20mockup%20for%20The%20Tampa%20Roofer%20LLC" class="btn-on-primary">Get Free Quote</a>
-      <a href="tel:8136259864" class="btn-outline-primary">Call (813) 625-9864</a>
-    </div>
-  </div>
-</section>
-
-<!-- FOOTER -->
 <footer class="footer">
   <div class="footer-inner">
     <div class="footer-brand">
@@ -803,41 +872,20 @@ body {
     </div>
   </div>
   <div class="footer-bottom">
-    <span>&copy; 2026 The Tampa Roofer LLC. All rights reserved.</span>
-    <span class="gambit-badge">✨ Concept mockup by <a href="https://gambitbuilds.com" target="_blank">Gambit Builds</a></span>
+    <span>&copy; 2026 The Tampa Roofer LLC</span>
+    <span class="gambit-badge">Concept by <a href="https://gambitbuilds.com" target="_blank">Gambit Builds</a></span>
   </div>
 </footer>
 
-<!-- GAMBIT OWNER BANNER (the money shot) -->
-<section class="gambit-owner-banner" id="gambit-offer">
-  <div class="gambit-owner-inner">
-    <span class="gambit-owner-eyebrow">Real offer · from Kaleb at Gambit Builds</span>
-    <h2>Want this to be <em>The Tampa Roofer LLC's actual website?</em></h2>
-    <p class="gambit-owner-lede">This took me one night. The real version takes 7 business days. You get unlimited revisions for the first 30 days — and if I miss the 7-day deadline for any reason on my end, you get every dollar back. No questions.</p>
-
-    <div class="gambit-owner-offer">
-      <div class="gambit-owner-offer-item">
-        <div class="gambit-owner-offer-label">Timeline</div>
-        <div class="gambit-owner-offer-value">Live in 7 business days after kickoff</div>
-      </div>
-      <div class="gambit-owner-offer-item">
-        <div class="gambit-owner-offer-label">Revisions</div>
-        <div class="gambit-owner-offer-value">Unlimited for the first 30 days</div>
-      </div>
-      <div class="gambit-owner-offer-item">
-        <div class="gambit-owner-offer-label">Guarantee</div>
-        <div class="gambit-owner-offer-value">Full refund if I miss the deadline</div>
-      </div>
-    </div>
-
-    <div class="gambit-owner-ctas">
-      <a href="https://calendly.com/kaleb-gambitbuilds/30min" target="_blank" class="gambit-btn-primary">Book a 15-min call →</a>
-      <a href="mailto:kaleb@gambitbuilds.com?subject=Let's%20build%20The%20Tampa%20Roofer%20LLC's%20site" class="gambit-btn-secondary">Email Kaleb instead</a>
-    </div>
-
-    <p class="gambit-owner-sig">Built by <strong>Kaleb Berns</strong> · kaleb@gambitbuilds.com</p>
-  </div>
-</section>
+<script>
+(function(){
+  const els = document.querySelectorAll('.reveal');
+  const obs = new IntersectionObserver((entries) => {
+    entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('visible'); obs.unobserve(e.target); } });
+  }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+  els.forEach(el => obs.observe(el));
+})();
+</script>
 
 </body>
 </html>

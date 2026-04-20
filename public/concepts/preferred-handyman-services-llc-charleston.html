@@ -175,6 +175,39 @@ h1 em, h2 em { font-style: italic; color: var(--primary); }
 </head>
 <body>
 
+<style>
+.gambit-top-strip {
+  background: #0a0a0a;
+  color: #ffffff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  font-size: 0.88rem;
+  font-weight: 500;
+  padding: 10px 24px;
+  text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  letter-spacing: 0.01em;
+}
+.gambit-top-strip strong { font-weight: 700; }
+.gambit-top-strip a {
+  color: #ffffff;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  margin-left: 8px;
+  font-weight: 600;
+}
+.gambit-top-strip a:hover { opacity: 0.8; }
+@media (max-width: 768px) {
+  .gambit-top-strip { font-size: 0.8rem; padding: 9px 16px; line-height: 1.4; }
+  .gambit-top-strip a { display: inline-block; margin-top: 2px; }
+}
+</style>
+<div class="gambit-top-strip">
+  <strong>👋 Hey — this is a free concept I built for PREFERRED HANDYMAN SERVICES LLC.</strong>
+  <a href="#gambit-offer">See the offer ↓</a>
+</div>
 
 <style>
 .nav {
@@ -252,29 +285,13 @@ h1 em, h2 em { font-style: italic; color: var(--primary); }
   display: flex;
   flex-direction: column;
   justify-content: center;
+  max-width: 900px;
+  margin: 0 auto;
+  width: 100%;
 }
 .split-hero-visual {
-  flex: 1;
-  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  overflow: hidden;
-  min-height: 400px;
+  display: none;
 }
-.split-hero-visual::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background: repeating-linear-gradient(45deg, transparent, transparent 40px, rgba(255,255,255,0.03) 40px, rgba(255,255,255,0.03) 80px);
-}
-.split-hero-visual .hero-icon {
-  color: rgba(255,255,255,0.12);
-  font-size: 200px;
-  position: relative;
-}
-.split-hero-visual .hero-icon svg { width: 200px; height: 200px; stroke-width: 0.5; }
 .split-hero-content .hero-eyebrow {
   font-size: 0.8rem;
   font-weight: 600;
@@ -888,6 +905,158 @@ h1 em, h2 em { font-style: italic; color: var(--primary); }
     <span class="gambit-badge">Concept by <a href="https://gambitbuilds.com" target="_blank">Gambit Builds</a></span>
   </div>
 </footer>
+<style>
+.gambit-owner-banner {
+  background: #0a0a0a;
+  color: #ffffff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  padding: 80px 48px;
+  text-align: center;
+}
+.gambit-owner-inner { max-width: 720px; margin: 0 auto; }
+.gambit-owner-eyebrow {
+  display: inline-block;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #fbbf24;
+  margin-bottom: 20px;
+  padding: 6px 14px;
+  border: 1px solid rgba(251, 191, 36, 0.3);
+  border-radius: 100px;
+  background: rgba(251, 191, 36, 0.08);
+}
+.gambit-owner-banner h2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  font-size: clamp(1.7rem, 4vw, 2.4rem);
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 20px;
+  letter-spacing: -0.01em;
+  color: #ffffff;
+}
+.gambit-owner-banner h2 em {
+  font-style: normal;
+  color: #fbbf24;
+}
+.gambit-owner-lede {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: rgba(255,255,255,0.85);
+  margin: 0 auto 32px;
+  max-width: 580px;
+}
+.gambit-owner-offer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+  max-width: 640px;
+  margin: 0 auto 36px;
+  text-align: left;
+}
+.gambit-owner-offer-item {
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 10px;
+  padding: 16px 18px;
+}
+.gambit-owner-offer-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #fbbf24;
+  margin-bottom: 6px;
+}
+.gambit-owner-offer-value {
+  font-size: 0.92rem;
+  font-weight: 500;
+  color: #ffffff;
+  line-height: 1.4;
+}
+.gambit-owner-ctas {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+.gambit-btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: #fbbf24;
+  color: #0a0a0a;
+  padding: 15px 34px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1rem;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.gambit-btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 30px rgba(251, 191, 36, 0.3);
+}
+.gambit-btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: transparent;
+  color: #ffffff;
+  padding: 15px 34px;
+  border-radius: 8px;
+  border: 1.5px solid rgba(255,255,255,0.25);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: background 0.2s, border-color 0.2s;
+}
+.gambit-btn-secondary:hover {
+  background: rgba(255,255,255,0.06);
+  border-color: rgba(255,255,255,0.5);
+}
+.gambit-owner-sig {
+  font-size: 0.88rem;
+  color: rgba(255,255,255,0.55);
+  margin-top: 12px;
+}
+.gambit-owner-sig strong { color: rgba(255,255,255,0.85); font-weight: 600; }
+@media (max-width: 768px) {
+  .gambit-owner-banner { padding: 56px 24px; }
+  .gambit-owner-offer { grid-template-columns: 1fr; gap: 10px; }
+  .gambit-owner-ctas { flex-direction: column; }
+  .gambit-btn-primary,
+  .gambit-btn-secondary { width: 100%; justify-content: center; }
+}
+</style>
+<section class="gambit-owner-banner" id="gambit-offer">
+  <div class="gambit-owner-inner">
+    <span class="gambit-owner-eyebrow">Real offer · from Kaleb at Gambit Builds</span>
+    <h2>Want this to be <em>PREFERRED HANDYMAN SERVICES LLC's actual website?</em></h2>
+    <p class="gambit-owner-lede">This took me one night. The real version takes 7 business days. You get unlimited revisions for the first 30 days — and if I miss the 7-day deadline for any reason on my end, you get every dollar back. No questions.</p>
+    <div class="gambit-owner-offer">
+      <div class="gambit-owner-offer-item">
+        <div class="gambit-owner-offer-label">Timeline</div>
+        <div class="gambit-owner-offer-value">Live in 7 business days after kickoff</div>
+      </div>
+      <div class="gambit-owner-offer-item">
+        <div class="gambit-owner-offer-label">Revisions</div>
+        <div class="gambit-owner-offer-value">Unlimited for the first 30 days</div>
+      </div>
+      <div class="gambit-owner-offer-item">
+        <div class="gambit-owner-offer-label">Guarantee</div>
+        <div class="gambit-owner-offer-value">Full refund if I miss the deadline</div>
+      </div>
+    </div>
+    <div class="gambit-owner-ctas">
+      <a href="https://calendly.com/kaleb-gambitbuilds/30min" target="_blank" class="gambit-btn-primary">Book a call →</a>
+      <a href="mailto:kaleb@gambitbuilds.com?subject=Let's%20build%20PREFERRED%20HANDYMAN%20SERVICES%20LLC's%20site" class="gambit-btn-secondary">Email Kaleb instead</a>
+    </div>
+    <p class="gambit-owner-sig">Built by <strong>Kaleb Berns</strong> · kaleb@gambitbuilds.com</p>
+  </div>
+</section>
 
 <script>
 (function(){

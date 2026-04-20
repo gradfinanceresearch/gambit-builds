@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Raleigh Heating & Cooling",
+    "phone": "(984) 252-4250",
+    "email": "mail@raleighchamber.org",
+    "city": "Raleigh",
+    "state": "NC",
+    "industry": "HVAC",
+    "tagline": "When it breaks during a heat wave, we show up",
+    "logo_url": "",
+    "google_rating": "5 stars (29 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When it breaks during a *heat wave*, we show up",
+    "subheadline": "Licensed HVAC team serving Raleigh. Same-day service when your AC quits and you need it fixed now.",
+    "cta_primary": "Get Fast Service",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "clock",
+      "text": "Same-Day Service"
+    },
+    {
+      "icon": "star",
+      "text": "5-Star Reviews"
+    },
+    {
+      "icon": "phone",
+      "text": "Fast Response"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "AC, Heat, and Everything Between",
+    "subheading": "From emergency repairs to preventive maintenance — we handle what keeps you comfortable"
+  },
+  "services": [
+    {
+      "title": "Emergency AC Repair",
+      "description": "System quit in the middle of summer? We'll diagnose the problem and get your air flowing again, often the same day you call.",
+      "icon": "fan"
+    },
+    {
+      "title": "Heating System Service",
+      "description": "Furnace acting up or not heating evenly? We service all makes and models to keep your home warm when it matters most.",
+      "icon": "flame"
+    },
+    {
+      "title": "Preventive Maintenance",
+      "description": "Regular tune-ups catch problems before they become expensive repairs. Clean filters, checked connections, smooth operation.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Complete System Installation",
+      "description": "New construction or full replacement — we handle the entire installation process with careful attention to every detail.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Fixing HVAC Right in Raleigh",
+    "body": "We're the local team that shows up when your system breaks down. Whether it's emergency repairs during a heat wave or routine maintenance to prevent problems, we handle every job with the same attention to detail. Our technicians explain what's wrong, fix it right, and make sure you're comfortable again."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Raleigh Says"
+  },
+  "reviews": [
+    {
+      "name": "Lesly D.",
+      "location": "Raleigh",
+      "text": "Technician arrived right on time for preventive maintenance, was incredibly thorough, and explained each step clearly. My AC runs perfectly now.",
+      "rating": 5
+    },
+    {
+      "name": "Steve S.",
+      "location": "Raleigh",
+      "text": "AC broke during a heat wave and they arrived within hours. Fixed the problem quickly and professionally. Extremely skilled and efficient.",
+      "rating": 5
+    },
+    {
+      "name": "Daeshawn E.",
+      "location": "Raleigh",
+      "text": "Technician was informed, polite, and on time. Worked efficiently while providing a comprehensive explanation of the problem. Gave me peace of mind.",
+      "rating": 5
+    },
+    {
+      "name": "Kudirat S.",
+      "location": "Raleigh",
+      "text": "Thorough and polite service. He explained what needed to be done and completed the repair carefully. AC is working perfectly again.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Raleigh and Surrounding Areas",
+    "subheading": "Fast response times throughout the Triangle region",
+    "areas": [
+      "Raleigh",
+      "Cary",
+      "Durham",
+      "Chapel Hill",
+      "Wake Forest",
+      "Apex",
+      "Morrisville",
+      "Garner"
+    ]
+  },
+  "cta": {
+    "heading": "AC Acting Up? Heat Not Working?",
+    "body": "Don't wait for it to get worse. Call now for same-day service from Raleigh's trusted HVAC team.",
+    "cta_primary": "Get Service Today",
+    "cta_secondary": "Call (984) 252-4250"
+  },
+  "design": {
+    "primary_color": "#065F46",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

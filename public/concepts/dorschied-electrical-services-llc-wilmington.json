@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Dorschied Electrical Services LLC",
+    "phone": "(508) 916-1356",
+    "email": "ericdorschied02@gmail.com",
+    "city": "Wilmington",
+    "state": "NC",
+    "industry": "electrician",
+    "tagline": "Licensed electrical work that gets it right the first time",
+    "logo_url": "",
+    "google_rating": "5 stars (36 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Wilmington's *go-to electrician* when it matters",
+    "subheadline": "Five stars across 36 reviews isn't luck — it's what happens when you actually show up on time and get it right.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "clock",
+      "text": "Always On Time"
+    },
+    {
+      "icon": "check",
+      "text": "Done Right First Time"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every outlet, panel, and wire — handled",
+    "subheading": "From simple repairs to complete electrical installations, we cover it all"
+  },
+  "services": [
+    {
+      "title": "Electrical Repairs & Troubleshooting",
+      "description": "When circuits trip or outlets go dead, we track down the problem fast and fix it properly. No guesswork, just results.",
+      "icon": "zap"
+    },
+    {
+      "title": "Panel Upgrades & Installation",
+      "description": "Old panels can't handle modern electrical loads. We upgrade yours to handle everything from AC units to EV chargers.",
+      "icon": "plug"
+    },
+    {
+      "title": "EV Charger Installation",
+      "description": "Ready to charge at home? We install Level 2 chargers efficiently, ensuring your setup is safe and code-compliant.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Commercial Electrical Services",
+      "description": "Contractors trust us for reliable commercial work. We show up when scheduled and keep projects moving forward.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Eric Dorschied — Your Wilmington Electrician",
+    "body": "Eric has built Dorschied Electrical on a simple principle: do the work right and show up when you say you will. Whether it's a quick repair or a major installation, clients across Wilmington know they can count on professional service and honest pricing. Licensed, insured, and committed to getting it done right the first time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Wilmington says about our work"
+  },
+  "reviews": [
+    {
+      "name": "Courtney F.",
+      "location": "Wilmington",
+      "text": "Eric explains everything clearly while working efficiently. Second time using him — always gets the job done right and on time.",
+      "rating": 5
+    },
+    {
+      "name": "Connor H.",
+      "location": "Wilmington",
+      "text": "We've used Dorschied electrical multiple times for both residential and commercial needs. Consistently satisfied with their work and service.",
+      "rating": 5
+    },
+    {
+      "name": "Cassandra H.",
+      "location": "Wilmington",
+      "text": "As a project manager for a busy contractor, I rely on Eric's prompt, reliable service. Clients always appreciate his attention to detail.",
+      "rating": 5
+    },
+    {
+      "name": "Paul C.",
+      "location": "Wilmington",
+      "text": "Professional EV charger installation. Eric was efficient and easy to work with — everything works perfectly.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Cape Fear region",
+    "subheading": "Professional electrical services throughout southeastern North Carolina",
+    "areas": [
+      "Wilmington",
+      "Carolina Beach",
+      "Wrightsville Beach",
+      "Leland",
+      "Southport",
+      "Oak Island",
+      "Hampstead",
+      "Surf City"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your electrical work done right?",
+    "body": "Join 36 five-star customers who know they can count on professional service and honest pricing.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (508) 916-1356"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

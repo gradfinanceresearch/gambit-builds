@@ -1,0 +1,131 @@
+{
+  "business": {
+    "name": "P J's Electric Services",
+    "phone": "(910) 392-3905",
+    "email": "",
+    "city": "Wilmington",
+    "state": "NC",
+    "industry": "electrician",
+    "tagline": "",
+    "logo_url": "",
+    "google_rating": "4.5 stars (26 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When the power's out, *we're already on our way*",
+    "subheadline": "Hurricane Florence couldn't keep us down — and your electrical problems won't either. Licensed electricians who show up early.",
+    "cta_primary": "Get Your Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "clock",
+      "text": "Always Show Up Early"
+    },
+    {
+      "icon": "star",
+      "text": "4.5 Stars on Google"
+    },
+    {
+      "icon": "phone",
+      "text": "Quick Response Time"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "From blown fuses to full rewires",
+    "subheading": "Every outlet, panel, and wire — handled by electricians who get it done fast"
+  },
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "description": "Power's out? Panel sparking? We pick up the phone and get there fast, even after hurricanes tear through town.",
+      "icon": "zap"
+    },
+    {
+      "title": "Meter & Service Panel Work",
+      "description": "Replacing storm-damaged meters, upgrading panels, fixing breakers that won't hold. The heavy stuff done right.",
+      "icon": "plug"
+    },
+    {
+      "title": "Lighting Installation",
+      "description": "Junction boxes, flood lights, security lighting — inside and out. We'll even fix that broken one while we're at it.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Outlet & Wiring Services",
+      "description": "New outlets where you need them, rewiring old circuits, fixing whatever the last guy messed up.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Built for Wilmington's toughest electrical jobs",
+    "body": "When Hurricane Florence hit and half the city lost power, we were the crew answering phones and getting people back online. Same hustle, every day — whether it's a blown breaker or a complete service panel replacement. Licensed, professional, and we show up when we say we will."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Wilmington says about our work"
+  },
+  "reviews": [
+    {
+      "name": "Elizabeth C.",
+      "location": "Wilmington",
+      "text": "Junction box and flood light install done perfectly. They showed up early and knocked it out fast and professional.",
+      "rating": 5
+    },
+    {
+      "name": "Patricia D.",
+      "location": "Wilmington",
+      "text": "After Hurricane Florence ripped our meter off, they found a replacement and had it installed in 2 hours. No price gouging either.",
+      "rating": 5
+    },
+    {
+      "name": "Alex A.",
+      "location": "Wilmington",
+      "text": "They've done multiple jobs at my workplace. Always quick response and amazing work every time.",
+      "rating": 5
+    },
+    {
+      "name": "Michael A.",
+      "location": "Wilmington",
+      "text": "TJ arrived early, diagnosed the problem fast, showed me the right way to do it, and had it fixed in minutes. True professional.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Cape Fear region",
+    "subheading": "Licensed electrical services throughout southeastern North Carolina",
+    "areas": [
+      "Wilmington",
+      "Wrightsville Beach",
+      "Carolina Beach",
+      "Leland",
+      "Hampstead",
+      "Surf City",
+      "Southport",
+      "Oak Island",
+      "Castle Hayne",
+      "Monkey Junction"
+    ]
+  },
+  "cta": {
+    "heading": "Power problems don't wait — neither do we",
+    "body": "Call now for fast, professional electrical service in Wilmington. Licensed electricians who show up early and get it done right.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (910) 392-3905"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#F97316",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

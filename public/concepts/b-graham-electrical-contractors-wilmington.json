@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "B Graham Electrical Contractors",
+    "phone": "(910) 399-7676",
+    "email": "bgrahamelectric@gmail.com",
+    "city": "Wilmington",
+    "state": "NC",
+    "industry": "electrician",
+    "tagline": "Licensed electrical work that actually lasts",
+    "logo_url": "",
+    "google_rating": "4.7 stars (12 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Wilmington's *straight-shooting* electrician",
+    "subheadline": "No surprises, no up-selling. Just the electrical work you need, quoted on the spot and done right the first time.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "truck",
+      "text": "Company Vehicles & Uniforms"
+    },
+    {
+      "icon": "star",
+      "text": "4.7-Star Local Rating"
+    },
+    {
+      "icon": "clock",
+      "text": "On-the-Spot Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every outlet, panel, and wire — handled",
+    "subheading": "From breaker repairs to full electrical projects, we show up ready to work"
+  },
+  "services": [
+    {
+      "title": "Breaker Box Repair & Replacement",
+      "description": "When your AC won't kick on or outlets go dead, we track down the problem fast. No hunting around — we know exactly what to look for.",
+      "icon": "zap"
+    },
+    {
+      "title": "Outlet & Switch Installation",
+      "description": "Need power where there isn't any? We run the wire and install outlets that work the first time you flip the switch.",
+      "icon": "plug"
+    },
+    {
+      "title": "Electrical Troubleshooting",
+      "description": "Flickering lights, tripped breakers, or that outlet that just stopped working? We'll figure out what's wrong and fix it.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Commercial Electrical Work",
+      "description": "Business electrical issues can't wait. We handle commercial repairs and installations with the same no-nonsense approach.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Real electrical contractors in Wilmington, NC",
+    "body": "We're the guys who show up in company trucks, tell you exactly what needs doing, and quote you on the spot. Our work speaks for itself — ask any of our neighbors around Wilmington who they call when the lights go out."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Wilmington neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Paul Z.",
+      "location": "Wilmington",
+      "text": "Owner showed up in a company truck, explained everything that needed doing, and quoted me right there. Professional from start to finish.",
+      "rating": 5
+    },
+    {
+      "name": "Al R.",
+      "location": "Wilmington",
+      "text": "Fixed my AC breaker box super quick and efficient. Would absolutely recommend to anyone.",
+      "rating": 5
+    },
+    {
+      "name": "John W.",
+      "location": "Wilmington",
+      "text": "Very professional and helpful with project suggestions. Quality work at a reasonable price.",
+      "rating": 5
+    },
+    {
+      "name": "Missy R.",
+      "location": "Wilmington",
+      "text": "Competitive pricing and professional work. Highly recommend these guys.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Wilmington and surrounding areas",
+    "subheading": "Local electrical contractors who know the neighborhoods",
+    "areas": [
+      "Wilmington",
+      "Carolina Beach",
+      "Wrightsville Beach",
+      "Leland",
+      "Hampstead",
+      "Surf City",
+      "Castle Hayne",
+      "Porters Neck"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for electrical work that actually gets done?",
+    "body": "Call now for an on-the-spot quote. We show up when we say we will, in company trucks, ready to work.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (910) 399-7676"
+  },
+  "design": {
+    "primary_color": "#B91C1C",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

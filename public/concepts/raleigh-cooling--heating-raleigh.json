@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Raleigh Cooling & Heating",
+    "phone": "(919) 910-8565",
+    "email": "msg.heating.air@gmail.com",
+    "city": "Raleigh",
+    "state": "NC",
+    "industry": "HVAC",
+    "tagline": "Keeping Raleigh comfortable, one system at a time",
+    "logo_url": "",
+    "google_rating": "5 stars (31 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "AC quits at 3pm on a *Saturday?* We got you",
+    "subheadline": "No runaround, no upselling — just fast, honest HVAC work that actually fixes the problem the first time",
+    "cta_primary": "Get Fast Service",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "clock",
+      "text": "Same-Day Service"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "No Hidden Fees"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "AC, Heat, and Everything In Between",
+    "subheading": "From quick thermostat swaps to full system replacements — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Air Conditioning Repair & Installation",
+      "description": "From emergency repairs when your AC dies mid-summer to complete system installations with ductless options. We explain everything, work fast, and get temperatures even throughout your home.",
+      "icon": "fan"
+    },
+    {
+      "title": "Heating System Service",
+      "description": "Furnace acting up? We diagnose the real problem and fix it right. Whether it's a quick repair or full replacement, you'll have reliable heat when you need it most.",
+      "icon": "flame"
+    },
+    {
+      "title": "Thermostat Installation & Setup",
+      "description": "Smart thermostats installed efficiently with full system explanation. We arrive early, work clean, and make sure you understand how to get the most from your new controls.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Complete System Replacement",
+      "description": "Full HVAC replacements done right the first time. Simple process, fair quotes, and systems that work trouble-free for years. No regrets, just comfortable temperatures year-round.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Straight Talk HVAC for Raleigh Families",
+    "body": "We're the HVAC team that shows up when we say we will, explains what's actually wrong, and fixes it without the sales pitch. Whether it's a quick repair or major installation, we keep Raleigh homes comfortable with honest work and fair pricing. Ask our neighbors — they'll tell you the same thing."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Raleigh Neighbors Say"
+  },
+  "reviews": [
+    {
+      "name": "Stanley A.",
+      "location": "Raleigh",
+      "text": "Needed ductless AC options and these guys really knew their stuff. Spent almost an hour explaining everything before the quick installation. Professional work all around.",
+      "rating": 5
+    },
+    {
+      "name": "Kaitlynn J.",
+      "location": "Raleigh",
+      "text": "Thermostat install went perfectly. They showed up early and took time to walk me through the new system. Been working great ever since.",
+      "rating": 5
+    },
+    {
+      "name": "Mladen M.",
+      "location": "Raleigh",
+      "text": "Fast scheduling, quick arrival, no nonsense service. Friendly tech who got it done right. Best HVAC experience I've had in Raleigh.",
+      "rating": 5
+    },
+    {
+      "name": "Ryan L.",
+      "location": "Raleigh",
+      "text": "Had both AC and furnace replaced 6 months ago. Zero issues since then, exactly what they quoted. Simple process, no regrets at all.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Triangle",
+    "subheading": "Fast, reliable HVAC service throughout the Raleigh area",
+    "areas": [
+      "Raleigh",
+      "Cary",
+      "Apex",
+      "Wake Forest",
+      "Durham",
+      "Chapel Hill",
+      "Morrisville",
+      "Garner"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fix That HVAC Problem?",
+    "body": "Don't sweat it another day. Call now for fast service and honest pricing on all your heating and cooling needs.",
+    "cta_primary": "Get Service Today",
+    "cta_secondary": "Call (919) 910-8565"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1A1A2E",
+    "font_heading": "Bebas Neue",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

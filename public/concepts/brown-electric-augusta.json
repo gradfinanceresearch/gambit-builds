@@ -1,0 +1,111 @@
+{
+  "business": {
+    "name": "Brown Electric",
+    "phone": "(706) 793-9338",
+    "email": "last@johnathonbrownelectric.com",
+    "city": "Augusta",
+    "state": "GA",
+    "industry": "electrician",
+    "tagline": "Honest electrical work that keeps Augusta powered",
+    "logo_url": "",
+    "google_rating": "5 stars (2 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Every wire, every outlet* — handled right the first time",
+    "subheadline": "When Augusta needs electrical work done honest and done well, they call Brown Electric",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "phone",
+      "text": "Always Answer Our Phone"
+    },
+    {
+      "icon": "heart",
+      "text": "Honest & Trustworthy"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Full electrical services",
+    "subheading": "From small repairs to complete installations — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Electrical Repairs",
+      "description": "Outlets not working? Lights flickering? We track down the problem and fix it right — no guesswork, just solutions that last.",
+      "icon": "zap"
+    },
+    {
+      "title": "Panel Upgrades",
+      "description": "Old electrical panels can't handle modern demands. We upgrade your system to keep your home safe and fully powered.",
+      "icon": "plug"
+    },
+    {
+      "title": "New Installations",
+      "description": "Adding outlets, switches, or lighting? We run the wires clean and install everything to code — exactly how it should be done.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Wiring Services",
+      "description": "Whether it's rewiring an old house or running new circuits, we make sure every connection is solid and up to standard.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Augusta's honest electrician",
+    "body": "When you call Brown Electric, you get straight talk and quality work. No upselling, no surprises — just electrical services done right. We've built our reputation in Augusta one job at a time, treating every home like it's our own. Your electrical problems get solved, and you know exactly what you're paying for."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Augusta says"
+  },
+  "reviews": [
+    {
+      "name": "Allclean P.",
+      "location": "Augusta, GA",
+      "text": "Henry Brown is incredibly kind and hardworking. Completely honest and trustworthy — I recommend him for any electrical work you need done.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Augusta and surrounding areas",
+    "subheading": "Professional electrical services throughout the CSRA",
+    "areas": [
+      "Augusta",
+      "Martinez",
+      "Evans",
+      "Grovetown",
+      "Harlem",
+      "Appling",
+      "Thomson",
+      "Waynesboro"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for honest electrical work?",
+    "body": "Call Brown Electric today. We'll give you a straight answer about what needs fixing and what it'll cost — no surprises, just solutions.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (706) 793-9338"
+  },
+  "design": {
+    "primary_color": "#065F46",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

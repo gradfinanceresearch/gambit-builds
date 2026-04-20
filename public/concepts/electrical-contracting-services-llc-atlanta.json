@@ -1,0 +1,111 @@
+{
+  "business": {
+    "name": "Electrical Contracting Services, LLC",
+    "phone": "(404) 488-1031",
+    "email": "info@electrical-contracting.net",
+    "city": "Atlanta",
+    "state": "GA",
+    "industry": "electrician",
+    "tagline": "Smart electrical work for Atlanta homes and businesses",
+    "logo_url": "",
+    "google_rating": "5 stars (3 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Every wire, every outlet — *done right*",
+    "subheadline": "Atlanta's smartest electrical contractor. We know exactly how electricity works and how to install it safely in your space.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "zap",
+      "text": "Expert Installation"
+    },
+    {
+      "icon": "phone",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Complete Electrical Solutions",
+    "subheading": "From simple outlets to complex installations, we handle every electrical need with precision and expertise."
+  },
+  "services": [
+    {
+      "title": "Outlet & Switch Installation",
+      "description": "New outlets, GFCI upgrades, switch replacements. Every connection tested and code-compliant.",
+      "icon": "plug"
+    },
+    {
+      "title": "Panel Upgrades",
+      "description": "Electrical panel modernization and circuit additions. Safe, efficient power distribution for your property.",
+      "icon": "zap"
+    },
+    {
+      "title": "Wiring Services",
+      "description": "Complete rewiring, new construction wiring, and electrical troubleshooting. Smart installation every time.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Code Compliance",
+      "description": "Bringing older electrical systems up to current codes. Safety inspections and permit-ready work.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Smart Electrical Work in Atlanta",
+    "body": "Electrical Contracting Services, LLC brings deep electrical knowledge to every job in Atlanta. We understand how electricity works and install it right the first time. Our team handles everything from simple repairs to complex installations with the expertise that comes from years of hands-on experience."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Atlanta Says About Our Work"
+  },
+  "reviews": [
+    {
+      "name": "Eric S.",
+      "location": "Atlanta, GA",
+      "text": "The smartest electrical contractor I've worked with. These guys know everything about electricity and how to install it properly.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Atlanta & Surrounding Areas",
+    "subheading": "Professional electrical services throughout metro Atlanta",
+    "areas": [
+      "Atlanta",
+      "Decatur",
+      "Marietta",
+      "Alpharetta",
+      "Sandy Springs",
+      "Roswell",
+      "Dunwoody",
+      "Brookhaven"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Smart Electrical Work?",
+    "body": "Get expert electrical installation and repair from Atlanta's most knowledgeable contractor. Free estimates on all projects.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (404) 488-1031"
+  },
+  "design": {
+    "primary_color": "#0F4C75",
+    "accent_color": "#3EDBF0",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Clance Company Multiservice",
+    "phone": "(478) 718-1063",
+    "email": "info@clancecompanymulti.com",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "painter",
+    "tagline": "Professional painting and home services in Macon",
+    "logo_url": "",
+    "google_rating": "5 stars (8 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Matt's crew* fixes whatever needs fixing",
+    "subheadline": "From emergency roof tarps in the rain to pristine paint jobs — we show up when Macon needs us most.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Matt"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "phone",
+      "text": "Emergency Response"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Competitive Pricing"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE HANDLE",
+    "heading": "Paint, Fix, Clean — Done Right",
+    "subheading": "No project too small, no emergency too urgent"
+  },
+  "services": [
+    {
+      "title": "Interior & Exterior Painting",
+      "description": "From staining new construction to refreshing old walls — we handle brushes and sprayers with equal precision.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Roofing Repairs",
+      "description": "Leaks don't wait for good weather. Neither do we. Emergency tarps and permanent fixes.",
+      "icon": "home"
+    },
+    {
+      "title": "Yard Maintenance",
+      "description": "Grass cutting, limb removal, leaf cleanup. Your yard, looking like you always wanted.",
+      "icon": "fan"
+    },
+    {
+      "title": "Home Repairs",
+      "description": "Partially finished projects? Construction issues? We step in and get things done right.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "The Clance Company Story",
+    "body": "Matt Clance built this business on one simple idea: when Macon homeowners need help, we show up. Whether it's an emergency roof repair in the rain or a meticulous paint job that transforms your home, our crew treats every project like it's our own house. Based right here in Macon, we've earned our reputation one satisfied neighbor at a time."
+  },
+  "reviews_section": {
+    "label": "WORD AROUND TOWN",
+    "heading": "What Macon Says About Matt's Work"
+  },
+  "reviews": [
+    {
+      "name": "Mandi H.",
+      "location": "Macon",
+      "text": "Matt and his crew saved us! Came out the week after we called and finished a project perfectly. So professional.",
+      "rating": 5
+    },
+    {
+      "name": "Michael F.",
+      "location": "Macon",
+      "text": "Not your average painters! Very professional crew, competitive prices, A+++ work. Will definitely use again.",
+      "rating": 5
+    },
+    {
+      "name": "Danielle A.",
+      "location": "Macon",
+      "text": "Our roof started leaking in pouring rain. Matt came out immediately and put a tarp up while it was still raining. Amazing service.",
+      "rating": 5
+    },
+    {
+      "name": "Bridgette A.",
+      "location": "Macon",
+      "text": "Matt did extraordinary staining and painting work on our new home. His expertise and quality requirements really showed.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Middle Georgia",
+    "subheading": "Quality work within reach",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Milledgeville",
+      "Perry",
+      "Forsyth",
+      "Gray",
+      "Byron",
+      "Centerville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Get Started?",
+    "body": "Call Matt today for your free estimate. Whether it's painting, repairs, or emergency work — we're here to help.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFBF7",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

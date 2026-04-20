@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Roberts Electrical LLC",
+    "phone": "(910) 515-3047",
+    "email": "robertselectrical910@gmail.com",
+    "city": "Wilmington",
+    "state": "NC",
+    "industry": "electrician",
+    "tagline": "Reliable electrical solutions for Wilmington homes and businesses",
+    "logo_url": "",
+    "google_rating": "5 stars (43 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When your *lights go out*, we show up",
+    "subheadline": "Licensed electrician handling everything from ancient wiring to tankless water heater circuits. On time, every time.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "clock",
+      "text": "Same-Day Response"
+    },
+    {
+      "icon": "phone",
+      "text": "Always Communicates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every Wire, Every Circuit",
+    "subheading": "From tracking down dangerous issues to installing new systems — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Electrical Troubleshooting",
+      "description": "GFCI issues, circuit breaker problems, mysterious outages — we track down the problem and fix it fast.",
+      "icon": "zap"
+    },
+    {
+      "title": "Panel & Circuit Work",
+      "description": "Upgrading old panels, adding circuits, fixing breakers that won't stay put. Done right the first time.",
+      "icon": "plug"
+    },
+    {
+      "title": "Switch & Outlet Repair",
+      "description": "4-way switches, dead outlets, flickering lights — we diagnose the issue and get everything working again.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Old House Rewiring",
+      "description": "Ancient insulated wires causing problems? We specialize in updating century-old electrical systems safely.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Zach Roberts — Your Wilmington Electrician",
+    "body": "When electrical problems strike, Wilmington homeowners call Roberts Electrical. We've built our reputation on showing up on time, explaining what we're doing, and fixing it right. Whether it's a dangerous wiring issue in your 100-year-old house or a tricky tankless water heater circuit, we handle it with precision and leave your place cleaner than we found it."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Wilmington Says"
+  },
+  "reviews": [
+    {
+      "name": "Jo-Marie C.",
+      "location": "Wilmington",
+      "text": "Zach and Austin tackled our complicated job with complete precision. Extremely neat work and cleaned up perfectly before leaving.",
+      "rating": 5
+    },
+    {
+      "name": "Kellyanne C.",
+      "location": "Wilmington",
+      "text": "Our 100-year-old house had dangerous electrical scares with ancient wiring. Zach was always responsive and fixed everything in hours.",
+      "rating": 5
+    },
+    {
+      "name": "Eric R.",
+      "location": "Wilmington",
+      "text": "Spectacular service! Timely, professional, and I'll definitely use him again. Solid guy with a great work ethic and business approach.",
+      "rating": 5
+    },
+    {
+      "name": "Randy W.",
+      "location": "Wilmington",
+      "text": "Quick excellent work on GFCI and circuit breaker issues affecting my tankless water heater. Always communicated visit times and showed up punctually.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Greater Wilmington",
+    "subheading": "Fast response times throughout the Cape Fear region",
+    "areas": [
+      "Wilmington",
+      "Carolina Beach",
+      "Wrightsville Beach",
+      "Leland",
+      "Belville",
+      "Castle Hayne",
+      "Hampstead",
+      "Surf City"
+    ]
+  },
+  "cta": {
+    "heading": "Electrical Problem? We're On It",
+    "body": "Don't wait for a small issue to become dangerous. Call Roberts Electrical for fast, professional service you can trust.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "(910) 515-3047"
+  },
+  "design": {
+    "primary_color": "#B91C1C",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

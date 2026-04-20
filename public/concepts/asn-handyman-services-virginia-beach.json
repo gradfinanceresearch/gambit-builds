@@ -1,0 +1,104 @@
+{
+  "business": {
+    "name": "ASN Handyman Services",
+    "phone": "(757) 944-8919",
+    "email": "tyreegray05@gmail.com",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "industry": "handyman",
+    "tagline": "Every job done right, every time",
+    "logo_url": "",
+    "google_rating": "5 stars (3 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "The fix you need, *when you need it*",
+    "subheadline": "Virginia Beach handyman who shows up ready to work. No job too small, no problem too weird.",
+    "cta_primary": "Get Your Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "phone",
+      "text": "Fast Response Times"
+    },
+    {
+      "icon": "tool",
+      "text": "Fully Equipped"
+    },
+    {
+      "icon": "check",
+      "text": "Job Done Right"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "From quick fixes to full repairs",
+    "subheading": "We handle the stuff that's been on your to-do list for months"
+  },
+  "services": [
+    {
+      "title": "Home Repairs & Maintenance",
+      "description": "Leaky faucets, squeaky doors, loose railings — the everyday stuff that drives you crazy until it's fixed.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Fixture Installation",
+      "description": "Ceiling fans, light fixtures, towel bars, and anything else that needs mounting to your walls or ceiling.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Drywall & Touch-ups",
+      "description": "Patch holes, fix cracks, and make your walls look like nothing ever happened.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "General Carpentry",
+      "description": "Custom shelving, trim work, cabinet repairs, and wood projects that require steady hands and sharp tools.",
+      "icon": "saw"
+    }
+  ],
+  "about": {
+    "heading": "Built on honest work and fair prices",
+    "body": "ASN Handyman Services has been keeping Virginia Beach homes in top shape with reliable repairs and honest pricing. We believe every job deserves the same attention to detail, whether it's a five-minute fix or a full-day project. Your satisfaction is our reputation."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Virginia Beach neighbors say"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Virginia Beach and surrounding areas",
+    "subheading": "Quick response times throughout the region",
+    "areas": [
+      "Virginia Beach",
+      "Norfolk",
+      "Chesapeake",
+      "Portsmouth",
+      "Suffolk",
+      "Hampton",
+      "Newport News",
+      "Kempsville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to cross something off your list?",
+    "body": "Get your free estimate today. No hidden fees, no surprises — just honest work at fair prices.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (757) 944-8919"
+  },
+  "design": {
+    "primary_color": "#B91C1C",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

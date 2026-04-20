@@ -1,0 +1,136 @@
+{
+  "business": {
+    "name": "24 HR Emergency Plumber Charlotte",
+    "phone": "(704) 703-2321",
+    "email": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "industry": "plumber",
+    "tagline": "When pipes fail, we answer",
+    "logo_url": "",
+    "google_rating": "5 stars (26 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Pipe burst at *3am*? We're already on our way.",
+    "subheadline": "Real 24/7 emergency plumbing across Charlotte. No answering service, no callbacks — just fast repairs when you need them most.",
+    "cta_primary": "Get Emergency Help",
+    "cta_secondary": "Call (704) 703-2321"
+  },
+  "trust_badges": [
+    {
+      "icon": "clock",
+      "text": "True 24/7 Response"
+    },
+    {
+      "icon": "phone",
+      "text": "Direct Emergency Line"
+    },
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "truck",
+      "text": "Mobile Service Fleet"
+    }
+  ],
+  "services_section": {
+    "label": "EMERGENCY FIXES",
+    "heading": "Every plumbing crisis we handle",
+    "subheading": "From midnight pipe bursts to weekend sewer backups — we fix what breaks, when it breaks."
+  },
+  "services": [
+    {
+      "title": "Emergency Pipe Repairs",
+      "description": "Burst pipes, cracked lines, and water damage prevention. We stop the leak first, then fix it right.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Sewer Line Clearing",
+      "description": "Backed up sewers and drain blockages cleared fast. No waiting days for an appointment.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Water Line Replacement",
+      "description": "Corroded supply lines and pressure problems fixed with quality materials that last.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Leak Detection & Repair",
+      "description": "Hidden leaks behind walls and under slabs located with precision tools and repaired quickly.",
+      "icon": "shield"
+    },
+    {
+      "title": "Shut-off Valve Service",
+      "description": "Broken water shut-offs and emergency valve repairs to get your water control back.",
+      "icon": "plug"
+    }
+  ],
+  "about": {
+    "heading": "Charlotte's true emergency plumbing response",
+    "body": "When other plumbers say \"we'll call you back,\" we're already loading the truck. Real 24-hour service across Charlotte means answering your emergency call personally and arriving with everything needed to fix it right the first time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Charlotte neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Aleena P.",
+      "location": "Elizabeth",
+      "text": "Fixed our broken shut-off valve super fast. No runaround, just got it done.",
+      "rating": 5
+    },
+    {
+      "name": "Ahmed A.",
+      "location": "Ballantyne",
+      "text": "Sewer backup cleared in no time. These guys know what they're doing.",
+      "rating": 5
+    },
+    {
+      "name": "Maria T.",
+      "location": "Dilworth",
+      "text": "Found our hidden leak and fixed it without tearing up half the house.",
+      "rating": 5
+    },
+    {
+      "name": "Parker A.",
+      "location": "Steele Creek",
+      "text": "Cracked drain line repair was clean and quick. Barely knew they were here.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE ZONE",
+    "heading": "Emergency service across Charlotte",
+    "subheading": "Fast response to every neighborhood in the metro area",
+    "areas": [
+      "Elizabeth",
+      "Ballantyne",
+      "Dilworth",
+      "Steele Creek",
+      "Myers Park",
+      "Uptown",
+      "South End",
+      "NoDa",
+      "Plaza Midwood",
+      "University City"
+    ]
+  },
+  "cta": {
+    "heading": "Plumbing emergency happening right now?",
+    "body": "Don't wait for morning or Monday. Call our emergency line and get a real plumber headed your way.",
+    "cta_primary": "Call Emergency Line",
+    "cta_secondary": "Request Service"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFBF0",
+    "text_color": "#1A1A2E",
+    "font_heading": "Bebas Neue",
+    "font_body": "Work Sans",
+    "layout_variant": "dark"
+  }
+}

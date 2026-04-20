@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Atkins Electric Company",
+    "phone": "(706) 399-2055",
+    "email": "atkinselectric@aol.com",
+    "city": "Augusta",
+    "state": "GA",
+    "industry": "electrician",
+    "tagline": "Same-day service, done right the first time",
+    "logo_url": "",
+    "google_rating": "4.4 stars (127 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*Power problems?* We're already on our way",
+    "subheadline": "The Augusta electrician who shows up when others won't. Licensed, experienced, and answering your call.",
+    "cta_primary": "Get Service Today",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "phone",
+      "text": "Same-Day Response"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.4/5 Stars (127 Reviews)"
+    },
+    {
+      "icon": "clock",
+      "text": "Emergency Available"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every electrical job, handled",
+    "subheading": "From smoking outlets to full panel upgrades — we fix what's broken and install what you need"
+  },
+  "services": [
+    {
+      "title": "Emergency Electrical Repair",
+      "description": "When the lights go out or outlets start smoking, we respond fast. Your safety comes first, and we'll restore power quickly and safely.",
+      "icon": "zap"
+    },
+    {
+      "title": "Outlet & Switch Installation",
+      "description": "New outlets, GFCI upgrades, switch replacements. Clean installations that work right from day one.",
+      "icon": "plug"
+    },
+    {
+      "title": "Panel Upgrades & Service",
+      "description": "Old electrical panels can't handle modern demands. We upgrade safely and bring your home up to code.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Lighting Installation",
+      "description": "Porch lights, ceiling fans, sconces, recessed lighting. Professional installation that looks clean and lasts.",
+      "icon": "lightbulb"
+    }
+  ],
+  "about": {
+    "heading": "Serving Augusta with honest electrical work",
+    "body": "Atkins Electric Company has been Augusta's go-to electrician for reliable service when you need it most. We handle everything from emergency repairs to planned installations, and we show up when we say we will. Licensed, insured, and committed to getting your electrical problems solved right the first time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Augusta homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Tara M.",
+      "location": "Augusta",
+      "text": "A++ service! Super friendly, on time, and got the job done right. Another electrician said it couldn't be done — Atkins knocked it out effortlessly.",
+      "rating": 5
+    },
+    {
+      "name": "Tatiana W.",
+      "location": "Augusta",
+      "text": "Showed up same day and restored power to part of our house super quick. Very impressed and grateful!",
+      "rating": 5
+    },
+    {
+      "name": "MacArthur W.",
+      "location": "Augusta",
+      "text": "Had a smoking sconce above our son's crib. Aaron came out right away and fixed it perfectly. Excellent service and peace of mind!",
+      "rating": 5
+    },
+    {
+      "name": "Michele R.",
+      "location": "Augusta",
+      "text": "Called late evening for urgent morning work. Mr. Atkins returned my call right away and came out first thing. Prompt and kind service.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Augusta and surrounding areas",
+    "subheading": "Fast response throughout Richmond County and beyond",
+    "areas": [
+      "Augusta",
+      "Evans",
+      "Martinez",
+      "Grovetown",
+      "Hephzibah",
+      "North Augusta",
+      "Harlem",
+      "Thomson"
+    ]
+  },
+  "cta": {
+    "heading": "Electrical problems don't wait — neither do we",
+    "body": "Call today for same-day service. We'll diagnose the issue, explain your options, and get your power back on safely.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (706) 399-2055"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#EF4444",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

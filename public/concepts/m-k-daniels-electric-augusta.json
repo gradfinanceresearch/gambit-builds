@@ -1,0 +1,123 @@
+{
+  "business": {
+    "name": "M K DANIELS ELECTRIC",
+    "phone": "(706) 863-8007",
+    "email": "",
+    "city": "Augusta",
+    "state": "GA",
+    "industry": "electrician",
+    "tagline": "Reliable electrical work that gets it right the first time",
+    "logo_url": "",
+    "google_rating": "5 stars (3 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Augusta's *straight-shooting* electrician",
+    "subheadline": "No sales pitch. No surprises. Just quality electrical work explained in plain English so you understand every wire.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5-Star Google Rating"
+    },
+    {
+      "icon": "phone",
+      "text": "Always On Time"
+    },
+    {
+      "icon": "check",
+      "text": "Work Done Right"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Fair Pricing"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every wire, switch, and outlet — handled",
+    "subheading": "From ceiling fans to panel upgrades, we explain what we're doing and why"
+  },
+  "services": [
+    {
+      "title": "Ceiling Fan Installation",
+      "description": "Mount it right, wire it clean, test the remote. Your fan will run quiet and look sharp for years to come.",
+      "icon": "fan"
+    },
+    {
+      "title": "Electrical Repairs",
+      "description": "Fix what's wrong without breaking the bank. We'll show you what caused the problem so it doesn't happen again.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Panel & Wiring Work",
+      "description": "Upgrade old panels, fix bad wiring from previous jobs. We clean up other people's mistakes without talking trash.",
+      "icon": "zap"
+    },
+    {
+      "title": "Light Installation",
+      "description": "Indoor, outdoor, fancy or simple. Proper mounting, clean connections, switches that work like they should.",
+      "icon": "lightbulb"
+    }
+  ],
+  "about": {
+    "heading": "Straight talk, quality work",
+    "body": "Mark Daniels has been solving Augusta's electrical problems with honest work and fair prices. No mystery charges, no unnecessary upsells — just the electrical work you need, done right the first time. We explain what we're doing so you understand your electrical system."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Augusta neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Ralph G.",
+      "location": "Augusta, GA",
+      "text": "Professional work at a fair price. Mark explained everything he was doing, which helped me understand my electrical system better. Fixed previous bad work without badmouthing anyone.",
+      "rating": 5
+    },
+    {
+      "name": "Nell A.",
+      "location": "Augusta, GA",
+      "text": "Called for ceiling fan installation. Arrived on time, got to work immediately. Very professional and the fan runs whisper quiet.",
+      "rating": 5
+    },
+    {
+      "name": "Michael M.",
+      "location": "Augusta, GA",
+      "text": "Quick service, excellent prices, great people. Definitely calling them for any future electrical needs.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Augusta and surrounding areas",
+    "subheading": "Fast response times throughout the CSRA",
+    "areas": [
+      "Augusta",
+      "Martinez",
+      "Evans",
+      "Grovetown",
+      "Hephzibah",
+      "Waynesboro",
+      "Thomson",
+      "Appling"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your electrical work done right?",
+    "body": "Call for a straight answer about your electrical needs. No pressure, no surprises — just honest pricing for quality work.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (706) 863-8007"
+  },
+  "design": {
+    "primary_color": "#065F46",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

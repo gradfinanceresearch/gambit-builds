@@ -1,0 +1,123 @@
+{
+  "business": {
+    "name": "Dps Electrical Contractors Inc.",
+    "phone": "(910) 794-1151",
+    "email": "",
+    "city": "Wilmington",
+    "state": "NC",
+    "industry": "electrician",
+    "tagline": "When the lights matter, we answer",
+    "logo_url": "",
+    "google_rating": "5 stars (5 reviews)",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "When the power's out, *we pick up*",
+    "subheadline": "Mike's been wiring New Hanover County for fifteen years. GFI trips, panel upgrades, or complete rewires — we handle it right the first time.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "phone",
+      "text": "We Actually Answer"
+    },
+    {
+      "icon": "clock",
+      "text": "On-Time Promise"
+    },
+    {
+      "icon": "star",
+      "text": "5-Star Local Reviews"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every wire, outlet, and panel",
+    "subheading": "From simple outlet replacements to complete electrical overhauls"
+  },
+  "services": [
+    {
+      "title": "Panel Upgrades & Service Calls",
+      "description": "Old panels can't handle today's electrical demands. We upgrade safely and bring everything up to current code standards.",
+      "icon": "zap"
+    },
+    {
+      "title": "GFI & Outlet Installation",
+      "description": "Bathroom outlets, kitchen GFIs, or adding power where you need it. Fast installation with proper safety protocols.",
+      "icon": "plug"
+    },
+    {
+      "title": "Complete Home Rewiring",
+      "description": "Full electrical system replacement for older homes. Clean, code-compliant work that passes inspection every time.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Emergency Electrical Repair",
+      "description": "Power outages, sparking outlets, or electrical emergencies. We respond quickly and fix it safely.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Family-owned electrical contractors in Wilmington",
+    "body": "DPS Electrical has been serving New Hanover County for over a decade. Mike and the team handle everything from simple outlet repairs to complete electrical system overhauls. When you call, you get straight answers and reliable work — no upselling, no surprises. Just honest electrical service that keeps the lights on."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What our neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Alan S.",
+      "location": "Wilmington",
+      "text": "Called ten electricians about a GFI issue — DPS was the only one who called back. Mike showed up on time and fixed it efficiently.",
+      "rating": 5
+    },
+    {
+      "name": "William W.",
+      "location": "New Hanover County",
+      "text": "Top-notch work whether it's big jobs or small ones. Safety is their priority and they literally saved my life. Been serving this area for fifteen years.",
+      "rating": 5
+    },
+    {
+      "name": "Wayne M.",
+      "location": "Wilmington",
+      "text": "Great family-owned company.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the greater Wilmington area",
+    "subheading": "Reliable electrical service throughout New Hanover County",
+    "areas": [
+      "Wilmington",
+      "Wrightsville Beach",
+      "Carolina Beach",
+      "Leland",
+      "Hampstead",
+      "Castle Hayne",
+      "Monkey Junction",
+      "Porters Neck"
+    ]
+  },
+  "cta": {
+    "heading": "Need an electrician who answers the phone?",
+    "body": "Call DPS for fast, reliable electrical work. We show up on time, work safely, and get your power back where it should be.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (910) 794-1151"
+  },
+  "design": {
+    "primary_color": "#1E3A5F",
+    "accent_color": "#C0986B",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

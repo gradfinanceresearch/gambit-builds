@@ -1,0 +1,100 @@
+{
+  "business": {
+    "name": "J S J Landscaping LLC",
+    "phone": "landscapeservicesga@gmail.com",
+    "email": "landscapeservicesga@gmail.com",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "landscaper",
+    "tagline": "Macon yards, done right",
+    "logo_url": "",
+    "google_rating": "",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Macon Yards That Actually *Look Good*",
+    "subheadline": "No fancy talk — just solid landscaping work that makes your neighbors ask who did it.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "tool",
+      "text": "Professional Equipment"
+    },
+    {
+      "icon": "clock",
+      "text": "Reliable Scheduling"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "What We Handle",
+    "subheading": "From overgrown disasters to weekly maintenance — we've got the tools and know-how"
+  },
+  "services": [
+    {
+      "title": "Lawn Care & Maintenance",
+      "description": "Weekly cuts, edging, and cleanup. Your grass stays healthy, your neighbors stay impressed.",
+      "icon": "fan"
+    },
+    {
+      "title": "Landscape Design & Install",
+      "description": "Turn that bare patch into something worth looking at. Plants, beds, walkways — the whole picture.",
+      "icon": "home"
+    },
+    {
+      "title": "Tree & Shrub Services",
+      "description": "Pruning, removal, planting. Keep the good ones healthy, get rid of the problem ones.",
+      "icon": "saw"
+    },
+    {
+      "title": "Cleanup & Debris Removal",
+      "description": "Storm damage, overgrown mess, construction leftovers — we haul it all away and leave it clean.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Landscaping Macon Since Day One",
+    "body": "J S J Landscaping LLC handles the outdoor work that Macon homeowners need done right. We show up when we say we will, use proper equipment, and leave your property looking better than we found it. Simple as that."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon Says"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where We Work",
+    "subheading": "Serving Macon and surrounding Middle Georgia communities",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Perry",
+      "Milledgeville",
+      "Gray",
+      "Forsyth",
+      "Byron",
+      "Centerville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fix That Yard?",
+    "body": "Get a straight answer on what it'll take and what it'll cost. No pressure, just honest landscaping advice for your Macon property.",
+    "cta_primary": "Request Estimate",
+    "cta_secondary": "Email Us"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1A1A2E",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

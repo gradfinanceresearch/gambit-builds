@@ -1,0 +1,104 @@
+{
+  "business": {
+    "name": "M&M Outdoor Solutions",
+    "phone": "",
+    "email": "mmoutdoorsolutions1@gmail.com",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "landscaper",
+    "tagline": "Transforming Macon yards one project at a time",
+    "logo_url": "",
+    "google_rating": "",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "Macon Yards That *Make the Neighbors* Notice",
+    "subheadline": "From overgrown disasters to picture-perfect landscapes — we handle the heavy lifting while you enjoy the results.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "clock",
+      "text": "Same-Day Estimates"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Local References"
+    },
+    {
+      "icon": "tool",
+      "text": "Full-Service Crew"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every Square Foot Covered",
+    "subheading": "Complete outdoor solutions from design to maintenance"
+  },
+  "services": [
+    {
+      "title": "Landscape Design & Installation",
+      "description": "Custom designs that work with Georgia's climate and your budget. We plant what thrives, not what dies in our heat.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Lawn Care & Maintenance",
+      "description": "Weekly cuts, seasonal cleanups, and the kind of attention that keeps grass green through summer scorchers.",
+      "icon": "fan"
+    },
+    {
+      "title": "Hardscaping & Patios",
+      "description": "Stone patios, walkways, and retaining walls built to last. No shortcuts, no settling, no callbacks.",
+      "icon": "brick"
+    },
+    {
+      "title": "Tree & Shrub Services",
+      "description": "Pruning, removal, and planting. We know which trees belong in Middle Georgia and which ones don't.",
+      "icon": "saw"
+    }
+  ],
+  "about": {
+    "heading": "Rooted in Macon",
+    "body": "M&M Outdoor Solutions brings professional landscaping to Middle Georgia properties. We understand local soil conditions, seasonal challenges, and what it takes to create outdoor spaces that thrive year-round. Every project gets our full attention, from initial design through final cleanup."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon Says"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Middle Georgia",
+    "subheading": "Professional landscaping throughout the region",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Centerville",
+      "Byron",
+      "Perry",
+      "Forsyth",
+      "Gray",
+      "Milledgeville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a Yard You'll Actually Want to Show Off?",
+    "body": "Free estimates on all landscaping projects. We'll walk your property, discuss your vision, and give you a straight answer on what it takes.",
+    "cta_primary": "Schedule Estimate",
+    "cta_secondary": "Email Us"
+  },
+  "design": {
+    "primary_color": "#5B21B6",
+    "accent_color": "#10B981",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

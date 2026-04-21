@@ -1,0 +1,104 @@
+{
+  "business": {
+    "name": "One Hour Heating & Air Conditioning® of Chattanooga",
+    "phone": "john@onehourheatandair.com",
+    "email": "john@onehourheatandair.com",
+    "city": "Chattanooga",
+    "state": "TN",
+    "industry": "HVAC",
+    "tagline": "Fast HVAC repairs when you need them most",
+    "logo_url": "",
+    "google_rating": "",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "One Hour *Promise* — Your System Fixed Fast",
+    "subheadline": "When your AC dies in July or your heat quits in January, we're already on our way. That's the One Hour guarantee.",
+    "cta_primary": "Get Fast Service",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "clock",
+      "text": "One Hour Service Promise"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "phone",
+      "text": "Emergency Response"
+    },
+    {
+      "icon": "check",
+      "text": "Upfront Pricing"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIX",
+    "heading": "Every System, Every Problem",
+    "subheading": "From emergency repairs to full replacements — we handle it all in one hour or less"
+  },
+  "services": [
+    {
+      "title": "Emergency AC Repair",
+      "description": "System down? We're rolling within the hour. No waiting around when Tennessee heat hits.",
+      "icon": "fan"
+    },
+    {
+      "title": "Heating System Service",
+      "description": "Furnace acting up? Heat pump struggling? We diagnose and fix it fast — before you freeze.",
+      "icon": "flame"
+    },
+    {
+      "title": "HVAC Installation",
+      "description": "New construction or full system replacement. Professional installation that works right the first time.",
+      "icon": "home"
+    },
+    {
+      "title": "Preventive Maintenance",
+      "description": "Keep your system running smooth with regular tune-ups. Catch problems before they become emergencies.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "The One Hour Difference in Chattanooga",
+    "body": "One Hour Heating & Air Conditioning® brings fast, reliable HVAC service to Chattanooga and surrounding areas. Our technicians arrive within one hour of your call, equipped to handle any heating or cooling emergency. No excuses, no delays — just the service you need when you need it most."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Chattanooga Says"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Greater Chattanooga",
+    "subheading": "One hour service promise extends throughout the Tennessee Valley",
+    "areas": [
+      "Hixson",
+      "Red Bank",
+      "East Ridge",
+      "Soddy-Daisy",
+      "Harrison",
+      "Signal Mountain",
+      "Lookout Mountain",
+      "Collegedale"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for the One Hour Promise?",
+    "body": "Don't wait around for HVAC service. Get a technician to your door within one hour — guaranteed. Call now for immediate response.",
+    "cta_primary": "Schedule Service",
+    "cta_secondary": "Call Emergency Line"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

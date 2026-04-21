@@ -1,0 +1,104 @@
+{
+  "business": {
+    "name": "Chattanooga Handyman - Punch List Solutions",
+    "phone": "Call for Service",
+    "email": "punchlistsols@gmail.com",
+    "city": "Chattanooga",
+    "state": "TN",
+    "industry": "handyman",
+    "tagline": "Every item checked off",
+    "logo_url": "",
+    "google_rating": "",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "That *punch list* isn't going anywhere",
+    "subheadline": "Door won't close right? Outlet sparking? Trim gap driving you crazy? We handle the stuff that's been bugging you for months.",
+    "cta_primary": "Get Your List Fixed",
+    "cta_secondary": "Send Your List"
+  },
+  "trust_badges": [
+    {
+      "icon": "check",
+      "text": "Every Item Completed"
+    },
+    {
+      "icon": "tool",
+      "text": "All Tools & Materials"
+    },
+    {
+      "icon": "clock",
+      "text": "No Job Too Small"
+    },
+    {
+      "icon": "phone",
+      "text": "Local Chattanooga Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIXES",
+    "heading": "From annoying to done",
+    "subheading": "The little things that make your house feel like home again"
+  },
+  "services": [
+    {
+      "title": "Doors & Windows That Actually Work",
+      "description": "Sticky doors, loose handles, windows that won't stay up, weatherstripping that's seen better days. We make them work like they should.",
+      "icon": "home"
+    },
+    {
+      "title": "Electrical Quick Fixes",
+      "description": "Outlets that don't work, switches doing nothing, ceiling fans wobbling like they're about to take off. Safe, code-compliant repairs.",
+      "icon": "zap"
+    },
+    {
+      "title": "Trim & Touch-Up Work",
+      "description": "Gaps around baseboards, nail holes from old pictures, scuff marks that won't scrub off. Details that make rooms look finished.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Shelves, Hooks & Hardware",
+      "description": "Mount that TV properly, hang shelves that won't sag, install towel bars that actually stay put. Done right the first time.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Built for the stuff others skip",
+    "body": "Most contractors want the big jobs. We're here for everything else — the punch list items, the honey-do list, the little repairs that somehow never get done. Based in Chattanooga, we show up with the right tools and get your list crossed off."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors say"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Chattanooga & surroundings",
+    "subheading": "Local handyman services throughout the greater Chattanooga area",
+    "areas": [
+      "Chattanooga",
+      "Hixson",
+      "Red Bank",
+      "Signal Mountain",
+      "Soddy-Daisy",
+      "East Ridge",
+      "Collegedale",
+      "Ooltewah"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to check everything off?",
+    "body": "Send us your list — photos help. We'll give you a straight quote and get it all handled in one visit when possible.",
+    "cta_primary": "Send Your List",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

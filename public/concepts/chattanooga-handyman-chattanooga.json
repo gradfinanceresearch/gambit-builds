@@ -1,0 +1,115 @@
+{
+  "business": {
+    "name": "Chattanooga Handyman",
+    "phone": "",
+    "email": "chattanoogahandyman@gmail.com",
+    "city": "Chattanooga",
+    "state": "TN",
+    "industry": "handyman",
+    "tagline": "The fix you need, when you need it",
+    "logo_url": "",
+    "google_rating": "",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "*One call* handles it all",
+    "subheadline": "From squeaky hinges to full kitchen installs — we're the Chattanooga crew that actually shows up on time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "clock",
+      "text": "Same-Day Service"
+    },
+    {
+      "icon": "tool",
+      "text": "All Jobs Welcome"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "No Job Too Small"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every Fix Under One Roof",
+    "subheading": "Why call five different contractors when one phone call gets it done?"
+  },
+  "services": [
+    {
+      "title": "Kitchen & Bath Updates",
+      "description": "New faucets, cabinet hardware, tile work, vanity installs — we handle the upgrades that make your space feel brand new.",
+      "icon": "home"
+    },
+    {
+      "title": "Electrical & Plumbing Fixes",
+      "description": "Outlets not working? Toilet running? We tackle the electrical and plumbing repairs that other guys won't touch.",
+      "icon": "zap"
+    },
+    {
+      "title": "Carpentry & Repairs",
+      "description": "Loose railings, squeaky floors, trim work, deck repairs — if it's wood and it's broken, we'll make it solid again.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Drywall & Painting",
+      "description": "Patch holes, fix cracks, fresh paint — we prep and paint until your walls look like they were never damaged.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Door & Window Service",
+      "description": "Sticky doors, broken locks, window screens, weatherstripping — we make sure everything opens, closes, and seals tight.",
+      "icon": "home"
+    },
+    {
+      "title": "Furniture Assembly",
+      "description": "IKEA nightmares, office furniture, playground sets — bring us the box and the instructions, we'll handle the rest.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Chattanooga's Go-To Fix-It Crew",
+    "body": "We're the handyman service Chattanooga calls when something needs doing right. No project too big, no repair too small — just honest work at fair prices. From Lookout Mountain to downtown, we keep homes and businesses running smooth."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Chattanooga Says"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Greater Chattanooga",
+    "subheading": "Fast, reliable handyman service throughout the Tennessee Valley",
+    "areas": [
+      "Chattanooga",
+      "Hixson",
+      "Red Bank",
+      "East Ridge",
+      "Soddy-Daisy",
+      "Signal Mountain",
+      "Lookout Mountain",
+      "Harrison",
+      "Ooltewah"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Cross It Off Your List?",
+    "body": "Stop putting off that repair. One call gets your project scheduled, quoted, and handled by pros who show up when they say they will.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#B45309",
+    "accent_color": "#1F2937",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "business": {
+    "name": "Consolidated Home Repair",
+    "phone": "",
+    "email": "consolidatedhomerepair@gmail.com",
+    "city": "Raleigh",
+    "state": "NC",
+    "industry": "handyman",
+    "tagline": "Every fix, one call",
+    "logo_url": "",
+    "google_rating": "",
+    "years_in_business": ""
+  },
+  "hero": {
+    "headline": "The fix you need, *without the runaround*",
+    "subheadline": "One number handles everything — from squeaky hinges to full bathroom renovations. Raleigh homeowners know who to call.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "tool",
+      "text": "All Trades, One Call"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "No Job Too Small"
+    },
+    {
+      "icon": "home",
+      "text": "Local Raleigh Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIXES",
+    "heading": "What We Handle",
+    "subheading": "From the tiny repairs that drive you crazy to the big projects that transform your space"
+  },
+  "services": [
+    {
+      "title": "Plumbing Repairs",
+      "description": "Leaky faucets, running toilets, clogged drains — we fix what's broken and prevent what's about to break.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Electrical Work",
+      "description": "New outlets, ceiling fans, light fixtures, and electrical troubleshooting. Safe, code-compliant work every time.",
+      "icon": "zap"
+    },
+    {
+      "title": "Carpentry & Trim",
+      "description": "Custom shelving, door installation, crown molding, and those finishing touches that make a house feel complete.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Drywall & Painting",
+      "description": "Patch holes, texture matching, full room painting — making walls look like the damage never happened.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Bathroom Renovations",
+      "description": "Complete bathroom makeovers from tile to fixtures. Transform your most-used room into something you actually enjoy.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Built Different in Raleigh",
+    "body": "We consolidated all the trades under one roof because jumping between contractors is exhausting. One estimate, one timeline, one team responsible for getting it right. Been serving Raleigh homeowners with honest work and fair pricing."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Neighbors Say"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where We Work",
+    "subheading": "Serving Raleigh and the surrounding Triangle communities",
+    "areas": [
+      "Raleigh",
+      "Cary",
+      "Apex",
+      "Durham",
+      "Chapel Hill",
+      "Wake Forest",
+      "Garner",
+      "Morrisville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fix What's Broken?",
+    "body": "Stop putting off those repairs. One call gets everything on your list handled by people who actually show up when they say they will.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Today"
+  },
+  "design": {
+    "primary_color": "#1E3A5F",
+    "accent_color": "#C0986B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#2D3748",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

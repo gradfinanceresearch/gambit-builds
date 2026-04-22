@@ -1,0 +1,137 @@
+{
+  "business": {
+    "name": "Newberry Landscaping and Design",
+    "phone": "(478) 284-8957",
+    "email": "",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "landscaper",
+    "tagline": "Your yard's new best friend",
+    "logo_url": "",
+    "google_rating": "5 stars (5 reviews)",
+    "years_in_business": "",
+    "photo_refs": [
+      "places/ChIJLc7p2TsJ9IgR_UzOFWiNOoc/photos/AU_ZVEHwBOsoECz1dMoOt1vAfowQiGeHqdzsj_uQZ5RkbMhPfc6DT0sutKY5EnVtTJhGKovnp8tXvgo4tahVKAtaPa6q9sneFSQSyzhe4adyGWe2Krr_yxN6PZ3a54slwqr4CWTXCZlsHzTpYZPym4Xi5Bf5G0pdm9J0gFXPY7Pr0NtwfiHpth1KNV9wzkBJPUGJvBPqgGyGpxLTC9nZn4WKCMPORNoKAyKrp0GDpXADTcY53YpvsIiXXl8NwW5VA_UEJGPLm0QzDPq7nsY6PPm_99K3_fsAAmhrrOoh6Gok8LY4EA"
+    ],
+    "hours": [
+      "Monday: 9:00 AM – 8:00 PM",
+      "Tuesday: 9:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 9:00 AM – 8:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "google_maps_uri": "https://maps.google.com/?cid=9744256221951446269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Macon Yards That *Actually Get Done*",
+    "subheadline": "Mowing, trimming, pressure washing, trees — one crew that shows up on time and takes pride in the work.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (478) 284-8957"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "5+ Google Reviews"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Beyond Just Mowing",
+    "subheading": "A wide array of services to keep your property looking sharp"
+  },
+  "services": [
+    {
+      "title": "Lawn Care & Maintenance",
+      "description": "Regular mowing, trimming, edging, and blowing. We show up on schedule and do it right.",
+      "icon": "home"
+    },
+    {
+      "title": "Pressure Washing",
+      "description": "Driveways, sidewalks, decks, and siding. Strip away the grime and bring back the clean.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Tree Services",
+      "description": "Pruning, removal, and maintenance. Professional tree work that keeps your property safe.",
+      "icon": "saw"
+    },
+    {
+      "title": "Landscape Design",
+      "description": "Custom designs that work with your space, budget, and lifestyle. Function meets beauty.",
+      "icon": "paintbrush"
+    }
+  ],
+  "about": {
+    "heading": "Pride in Every Job",
+    "body": "We're the Macon landscaping team that shows up when we say we will. One call handles everything from weekly cuts to major tree work."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon Says"
+  },
+  "reviews": [
+    {
+      "name": "Peter N.",
+      "location": "Macon, GA",
+      "text": "Solid, dependable service. Always on time with fantastic results and clear pride in their work. Wide range of services beyond basic lawn care.",
+      "rating": 5
+    },
+    {
+      "name": "A. M.",
+      "location": "Macon, GA",
+      "text": "They handle our yard plus pressure washing and tree services. Always professional, polite, and deliver great results.",
+      "rating": 5
+    },
+    {
+      "name": "Matt W.",
+      "location": "Macon, GA",
+      "text": "Carson does amazing work!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Middle Georgia",
+    "subheading": "Professional landscaping throughout the region",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Centerville",
+      "Byron",
+      "Perry",
+      "Forsyth",
+      "Gray",
+      "Milledgeville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a Yard You're Proud Of?",
+    "body": "Join the schedule that Macon trusts. Free estimates on everything from weekly maintenance to complete landscape design.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Fraunces",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "business": {
+    "name": "Taylors Mark Howard Electric",
+    "phone": "(864) 301-9545",
+    "email": "",
+    "city": "Greenville",
+    "state": "SC",
+    "industry": "electrician",
+    "tagline": "The electrician other electricians can't handle",
+    "logo_url": "",
+    "google_rating": "4.9 stars (71 reviews)",
+    "years_in_business": "",
+    "photo_refs": [
+      "places/ChIJm9IXHYQrWIgRM8nf1YpIn5A/photos/AU_ZVEGtoKrokCwL4FSxF-v_V_aicpksjsPE4qv1uVB0IwaV6SzivRBTDMDrsk9Tu8DWTIDVju-CuGfLxYj4mOUFkP9YoAM2_U_FW2ecSsS6ovh9YYDSdwhyW1VBh-e8atZgL-fTO4BdI80ERQiLJwwDU6yGzFWahe6lNxkkvoo6yW1iaRFXSdNVbcOO0n6JcFt-sXt1_T66473kvlXL9fStp0wtQ2gAs5ghKq0F61CKFzFeamDT3UhggUxcZ9-ngVAgObKo_drIpN366H8TnTufs1WxbcqMB8MP5rWNQkwIwIYyZHK4zrmg6t1X6Pr7fOY1RxDWzBu7QQLOCedyVAVgTk_zaC_FnwWqOLkoBwG9KESK2wA7dEK6zuwugdaLKUB7-SDqDz791EVTqfJ-tMaeMHm0hG1vjNu6ds_D1AlyVXE",
+      "places/ChIJm9IXHYQrWIgRM8nf1YpIn5A/photos/AU_ZVEE3XKlBQPzqh23l9a3VCfN4t03gwwx0ApCKbZssrUb6jFqKgWcOUKQe1GcdN7ddKJbfN758ZNf1SpfU6sN8Xs9zrUoPimME4usWOXBGfW80B8iBxKrHUl21GkEUyrM9zho3m_2BshdVNY9W7OSCcoHblsn3KnlOeTroct6aAg5FdLCnXOSU0uzxpoK7FHWM4HC4tv7Qrf5mZQxWLKp34UFqDv15-8sNgSFJWq-duKI7M1DmnDxEWiD065mT2UhQb3W5i10aIRhyCk4EbDhpHvR036xnAPRg2Oibm7WxSkb2hWx_Jr8SVHN_ExnUnZdkvj5N-iK76Q8BA71ifHyngpLosxl-HpIhtEbvjo1KKqQ00A_W4mWq6jRjeq9dYKpoaUu8vt3YS9ydPpDJB62s3WhKs7MjK3dTnR6UQL5KpTVUWkha",
+      "places/ChIJm9IXHYQrWIgRM8nf1YpIn5A/photos/AU_ZVEG6LIZWzoneWcejNrzXrEDLYXjj9f1ANX8rz5LJeQcIqaKSHCPqPwv8LqDl4x5-ngC-h088Yb9sgRnFmQ1BhwB7sw9iIr7Z-yven72iJiPSA73_bEzf6ncJ-Kz1ifDkbEKez_1SZyTjkX-Eiy7OWqQ4Uu5OHVYHyFwuamokD9NaDYyCbS-wKWefbqRh3KEddALhIrhbvuysnTLeviDRVpuIBtxDPpGeF-KpoP95jsrfFY-aD1vWLnjZSkwcxcY4pIgZPbOSdqfFIobz4i9D34KJBnS--ZoPK0fUAhOLO6chMULQyQVw76R273k73XzB8I20-ohRPKFSBIdJzZ6KlFElqMQpxEZZHEMdtQlc3jQKETdDqyvAGrY7r1vkY5lI9SwXxVWeMsc7FPnFO2Ys67tRwRrtgLB_2srh_nQ_GsajvMs",
+      "places/ChIJm9IXHYQrWIgRM8nf1YpIn5A/photos/AU_ZVEG1Jd0_mPoXbSMYGQC2SEOO81dR-2SbAAuajCxqCvj5irna2bkWVEq-NycJOe-aMp10Ubq8GXZcInvB3FnDo4uI07pThgZedOM0IUoUfe6A2mF6gGsV4e0osC5S-Ls0Hn9L0Qkq6y4aQLPX-sUrpQ-6MoLpxl732VzQD93d0ncaVHTGVpfC3nSnzGneI5MXANXjyedfx4t3U2OUo8vKepQb6AWUh_ELSVK45bfUEQUrrW_1xpJ1DMJlWc0fU9XD3shO_lJKvln9cG3s3VJvWEKvkFSxWPK5ngjCSuS2hIep9jUxeSasvQ45okVP4tu3eA_-Fomo5fK2uZoinXpRFZryDZfJD9tJji2fyTjw-Rj_VSloFvmDU6BdbgDbL68gQEujQlw8e6uIL-PdQoB37nARnd_R7Rg-MAckvQ73PWILGQ"
+    ],
+    "hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "google_maps_uri": "https://maps.google.com/?cid=10421127823889516851&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The electrician *other electricians* can't handle",
+    "subheadline": "When three pros say it can't be done, we show up and do it anyway",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "70+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Greenville Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every wire, panel, and outlet",
+    "subheading": "From the simple stuff to the jobs others won't touch"
+  },
+  "services": [
+    {
+      "title": "Panel Upgrades",
+      "description": "Old panels that need replacing. New circuits that need adding. We handle the power where it starts.",
+      "icon": "zap"
+    },
+    {
+      "title": "Service Repairs",
+      "description": "Service masts, main panels, overhead connections. The heavy-duty stuff that keeps your power flowing.",
+      "icon": "plug"
+    },
+    {
+      "title": "Fixture Installation",
+      "description": "Chandeliers, ceiling fans, custom lighting. Installed right the first time.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Electrical Troubleshooting",
+      "description": "Mystery problems, flickering lights, dead outlets. We find what's wrong and fix it.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "One electrician, real solutions",
+    "body": "We're the Greenville electrician who shows up when others say it can't be done. Fair pricing, honest work, and we answer the phone."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Greenville says about our work"
+  },
+  "reviews": [
+    {
+      "name": "Hunter M.",
+      "location": "Greenville, SC",
+      "text": "Mark accomplished what 3 other electricians said couldn't be done. Most competent and best price too.",
+      "rating": 5
+    },
+    {
+      "name": "Jordan F.",
+      "location": "Greenville, SC",
+      "text": "Professional, timely, excellent work at reasonable price. Replaced my service mast perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "Donna W.",
+      "location": "Greenville, SC",
+      "text": "Returned my call within one day, installed two chandeliers the next. Fair pricing, courteous and professional.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Greenville and surrounding areas",
+    "subheading": "Local electrician covering the upstate",
+    "areas": [
+      "Greenville",
+      "Spartanburg",
+      "Anderson",
+      "Easley",
+      "Greer",
+      "Simpsonville",
+      "Mauldin",
+      "Taylors"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get the job done right?",
+    "body": "Free quotes, fair pricing, and we show up when we say we will. Call the electrician Greenville trusts.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (864) 301-9545"
+  },
+  "design": {
+    "primary_color": "#0F4C75",
+    "accent_color": "#3EDBF0",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

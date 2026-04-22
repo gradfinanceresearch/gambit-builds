@@ -1,0 +1,146 @@
+{
+  "business": {
+    "name": "Southern boy's Do It All LLC",
+    "phone": "(706) 908-8860",
+    "email": "",
+    "city": "Augusta",
+    "state": "GA",
+    "industry": "handyman",
+    "tagline": "From doors to decks — we handle it all",
+    "logo_url": "",
+    "google_rating": "4.8 stars (36 reviews)",
+    "years_in_business": "",
+    "photo_refs": [
+      "places/ChIJ82rD80bP-YgRs9tB6Z-6rPU/photos/AU_ZVEG2076KOuCp_PSh11onQRShg-MhGFoElXhOl3ShzrkhsgyRP884bqTi5DLuHmFHU1gnl0_TWpyvSpLKe8RNHl8kx5FqzNmWTAlKaqex2KFdgjJLq1D9duOdlg96frYaE8zIxejkTwhz5ExrVQWY7WWNgAam1k347HX4UAcoyb7YtrbZ2EIy4MNXKVipXkrnLyn8G80l20OGkVUaEpnOC17p46B4GQGC00B4Rzui-YlAGmSXhP4fQK_b5M5WQavMalRXIhL0xIKcQqVIvAczllUj6U85GszRkJzbzbbovKsUcg",
+      "places/ChIJ82rD80bP-YgRs9tB6Z-6rPU/photos/AU_ZVEExXjFC5NayK-GTE-pbK4ZusEM6Eh1uyV8EPXYxcHrZTgOzqnx1U1xz_KjlmgsKGITBGaaYv_rbqnJzOsVw0qxR__1EdyIU36LBhWJn7trKE_tuqYlEeH8bV5-9GlaWh64BJ5tptQfjEbSOWWvXcPzIzttBPA9iG2W2k3_f4sHCr1IoJtVMrP2LmGUVRj-w-CxiBTKldu3hA3WwXPOAUfsMXLTEpDkWWBhMHGuvyvW0a_NN2zwBv7yLGaWOx8s36VIggctUcYA1kWs_1jYQ5GkllmYn0LNJD1uCBPgMrv2v-g",
+      "places/ChIJ82rD80bP-YgRs9tB6Z-6rPU/photos/AU_ZVEFzMz8HR9uEIp6LlvV77GsF6CZ5tmvddJHoUVHDEStQ0vNkblC-tF50w3RcP_wdZxj8VF4KOsa5ZFM5XSz-PWZAj584Mkj3Ui3TNneWtea92iGm_nrDyRpWWdYiEdRG4GwwO8ypsWMs0ITA-ORsG8qqR1eR8ksqE7Pkej1hleDB9HlrwviAE4zsanVaeQyta7N2p2QsWMCErVlDAI-ubmEUerV-upMOUOvvruEGIF2-a2DMiTkQt7NqG0Qi6W_auy1sfqe9wMo5N2cmyMy1AuCBoi3Sbn398ZuDrCQADoYusg",
+      "places/ChIJ82rD80bP-YgRs9tB6Z-6rPU/photos/AU_ZVEEUp9X-meOjcTnpMxdRa1tvC6GYneNiAkVb-uEq7y8JC3yly5_3wjOYL45jUt36R9qJms_6w1ye__wYyIM6hA1uNH2EwLLbRXbJDmUXs4OWkybeDX4eJRGU03b8n2IkXHfhYaxNTN7AgyZ7FJOcLJ4yghPqpbwgjC_NFhYLM6Z2b-4E-YBiUN7VOf5mTDRvR31R621qR8sih7wzrLClkw5bJ8MkjxVh42hSVeJdYuwEcHsXszYQD45PuXsIx8Uv9jdzYAvDhnv9r6BxOZ8u4Onl8PmPq7nbG7HPEwZcj6epWg",
+      "places/ChIJ82rD80bP-YgRs9tB6Z-6rPU/photos/AU_ZVEEcuMx3-iPBe3op26aWDV8q71HOFDiLEJiTg8efx39ri7AiEgXiunhXg3UL7ktiiL-sFwHcOfKb959aAhvgEiw_69ArkyEJQaTpOEuNMlaXfhBn1kYno6urA_HYkd_LvNlNpb6CZtlfM8J_Z3fghWOkw39MZq10RkwiiEes7YpMrWq4zJNhiUM-6nb54jVAZ64IY8MbGUZO6qErFyh_WZ7BXCnRhlVDSMDpXUxRCj6fwdfreCbC-yTZRNVEA6KyniB-Y8l_J9lfPTIQMwnh89Q8E2_aXbNgxay_nfTctj088A"
+    ],
+    "hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_uri": "https://maps.google.com/?cid=17702729431262550963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The *go-to crew* for everything your home needs",
+    "subheadline": "One call fixes doors, bathrooms, fences, storm damage — whatever life throws at your house.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.8★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Augusta Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "If it's broken, we fix it",
+    "subheading": "From quick repairs to full remodels — no job too big or small"
+  },
+  "services": [
+    {
+      "title": "Home Repairs",
+      "description": "Wood rot, drywall, electrical fixes. We put your house back together right.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Bathroom Remodels",
+      "description": "Complete makeovers from start to finish. We walk you through every step.",
+      "icon": "home"
+    },
+    {
+      "title": "Fencing",
+      "description": "New fences built with your family and pets in mind. Clean work, quick timeline.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Door Installation",
+      "description": "Old doors falling apart? We install them correctly the first time.",
+      "icon": "shield"
+    },
+    {
+      "title": "Storm Damage Repair",
+      "description": "Hurricane damage, roof repairs, deck restoration. We rebuild what storms break.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Augusta's reliable handyman team",
+    "body": "We're Josh, Amanda, and the crew that shows up when we say we will. Real people answering the phone, not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Augusta homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Sara W.",
+      "location": "Augusta, GA",
+      "text": "My old door was falling apart and wasn't even installed right. Josh went out of his way to help me. Reliable, honest, and amazing quality work.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer K.",
+      "location": "Augusta, GA",
+      "text": "Josh and Amanda walked us through every step of our bathroom remodel. Gave us options and advice. Some of the hardest workers out there!",
+      "rating": 5
+    },
+    {
+      "name": "Jana S.",
+      "location": "Augusta, GA",
+      "text": "Just had my fence done and couldn't be happier! Kept my dogs and kids' safety in mind. Clean, polite crew finished in less than a week.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Augusta and beyond",
+    "subheading": "Quick response times throughout the CSRA",
+    "areas": [
+      "Augusta",
+      "Evans",
+      "Martinez",
+      "Grovetown",
+      "Aiken",
+      "North Augusta",
+      "Hephzibah",
+      "Thomson"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get it done right?",
+    "body": "Free estimates on all projects. Call Josh and the crew — we'll walk you through it.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "(706) 908-8860"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFEF7",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

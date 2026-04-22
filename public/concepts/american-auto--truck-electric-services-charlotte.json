@@ -1,0 +1,141 @@
+{
+  "business": {
+    "name": "American Auto & Truck Electric Services",
+    "phone": "(704) 333-0561",
+    "email": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "industry": "electrician",
+    "tagline": "Charlotte's starter & alternator specialists",
+    "logo_url": "",
+    "google_rating": "4.8 stars (112 reviews)",
+    "years_in_business": "",
+    "photo_refs": [
+      "places/ChIJaXewkn2gVogROqS17Rd4GHs/photos/AU_ZVEErJVhiJUvx6c0a94WqUR9vqpeoW0RJnU91_sPAvWNpZTxYgjCe70hvFE_0jK5HHQN1S-PE7OOyPMA97iqJMZK9riH6Yt1LBfi21BBcQchhU4Bt5CBfqrWZWBqWBUZ1QAyMRe0NulEcIMetZYqOzaXoHPDunEZhSNhvtSk5kVTA2aCsL8XYYyXflSUf8qcf7xd_5qcpoWaXLQb3yCgLlZv_xKwUoSjp5zXUiPvpZbCo3yrQEq49aQG1UtRpvAg8fIwBHOBwDXqmf6VDHPwGYoFZ_p5w_N8i5djSvFbjB5JJDw",
+      "places/ChIJaXewkn2gVogROqS17Rd4GHs/photos/AU_ZVEFoZg5HVhdxDWA7sYysiMeZazCJZD4je0-Hz2Vkf4mw7gUr2jTCO5QTucRv0VRZ7pgrGhp5rC_nO0sUwW-IcL55sQoEjHlQeF929Jd-GbbMskGIPRmLa79cWbyKcpnwGmj7cBYHMNGRfuxaAAn4O2dtek67fm6uTjAE4fYm7Lk_qBuExlz9L_ALq-omJxy5jqswtffSY3DnCacHiIgE0iqQHwOk2eTEn211GAdsTJuW7pwTG1rs04a_HLBdDQu8gSbXKLKRk5jEjhWtuqLIQ2Ft7nHhoRgyfLqrrr-wmPrvlbajX8pdZpwhRZ_w8Jd3HgudnHaQ1PDDIAlZCdbCyYKs40i_md_Lugso7w848zTIM_ttgR9dbWlU_o1l-wYa5WTQTLe7lI7ssSuyGNSP2RKpkLJuKzNWLyhVHU5rL93E2Q",
+      "places/ChIJaXewkn2gVogROqS17Rd4GHs/photos/AU_ZVEEX4spXsxrZDYHbj5IKHsbWGU0Zhxv9wzIuEJWHmEhJyHgcmm7Ysi88B9KbNKNey4Vz9pbbrw6s1kd8s_NhYYVQWOROFsYJrBObK46jHVOK5Uuntfgqef7AktxS-xqRG65zJEYTzLnAYBX90LTzW4M8JbWLE_wQziQnMgDL9e14aZrW8T-t8dIsIpdY7TKFuEQVcdJHh7bCsb4mB6-4ppa-tSx5cYlcToApm2lRzMdeH68rPHemBKGhVbKzGpEs9G_NwyuHfB98RV9X3OJNb8ozien7iNkNNN3tXEyjAV59if65iK0nN1fB9mGxROzU0cBJFY5R1PR3gpYnS6BUcxSxa4BcCd8_Ppp1ZqaekdkicHe4WMCbESijcTzeIgPXWvoOgucQkIkNZJdvfEf3FAHXw00pBbubF0tN8cysejYTVYlo",
+      "places/ChIJaXewkn2gVogROqS17Rd4GHs/photos/AU_ZVEHbW2iMSWdau_pFPGRXDy5y7LfV0uYkWYhQRlEMlewWtOEyqHqg9_Eh2YD_aMKUjRMVBqUFSgconeCLvo4bst1ZBMcJHacECQIcyK1MeVmGmfdPmyyJDjy9Kw0iTpo3O4oaFCusUCJKkOiuGmrXJXEqprEdJ8ccuZsdEbTm3cj3y5oJh2ROLyi1OHUSgYWdsSjk9tmlSaG8i66zk8Bi2SjCA1wu1j073AkjoCIJYBp5wjHIzbD4084svpp2sDGSeh6JNO9V_Yrs8eSY4YpPajlpyw7h4Qv8kxNLtmWsidse2bxs5EUadwf_fOWgdyGfm0dmEucquNPCEoK4NZbwThh5SM__YNmhsJgTHnz2WoiBg_yx9I9l8PvRA_pJgT1a9dmEAIj-hDtyX8Okg704s_3Cn_979YnTUl0yfca5E4jLYQ",
+      "places/ChIJaXewkn2gVogROqS17Rd4GHs/photos/AU_ZVEHmd7We1L24dwzpCxJyNEqcfMg-GT7a4iQwNglIxthuZPZVzWowvP0tvZZ3pycLWpSlYnhouYnJQg6g3keGOTb-VQBXcKdJ1_U-Y9K0q3gyjoqFr_VSTPlonLJ4v47qQV8LN7vdpi7Xe-FpP0wAM7DOFFN9mAta-B_mzvhCwnKNsxaOsnVz4pFzqNlu2YSOpR255bztV0-NxALY7K25bl0IMPLohSaYbUjK6eaAV11P2tg96oe7WhFCcs4ap5D8eQvdVgrIQcNLpxO7sJSa42CkZ3b3JkOnCTDjIfVP8-D9bQgG3D8abHJndSLeIxUwIqnMPJOeg47ayH2TG_mVKiZ7FB_KVvF3fEZNOEFW6rRel6DEwXy2K5vo8LMtaw8ajC8l76dGCbZKUsSlw17JGK4drGM4YhlsT_f6XcIQe4CKVkSD"
+    ],
+    "hours": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_uri": "https://maps.google.com/?cid=8869971510273877050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Dead battery? Bad starter? *We rebuild it right*",
+    "subheadline": "Same-day rebuilds on starters, alternators, and electrical systems — cars to heavy trucks.",
+    "cta_primary": "Get Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.8★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "110+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Charlotte Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Starters, Alternators & Everything Electric",
+    "subheading": "From quick rebuilds to complete electrical diagnosis"
+  },
+  "services": [
+    {
+      "title": "Starter Rebuilds",
+      "description": "Complete starter motor rebuilding in-house. Most jobs finished same day.",
+      "icon": "zap"
+    },
+    {
+      "title": "Alternator Service",
+      "description": "Full alternator testing, repair, and rebuilding for all makes and models.",
+      "icon": "plug"
+    },
+    {
+      "title": "Electrical Diagnosis",
+      "description": "Track down electrical gremlins in cars, trucks, and heavy equipment.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Window & Seat Motors",
+      "description": "Power window motors, seat motors, and accessory electrical repair.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Charlotte Auto Electric Since Day One",
+    "body": "We're the shop other mechanics send their electrical work to. One call, real answers, fair prices."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Charlotte Says"
+  },
+  "reviews": [
+    {
+      "name": "Logan P.",
+      "location": "Charlotte, NC",
+      "text": "Good work, affordable pricing, and fast service. Rebuilt my '01 Landcruiser starter in under an hour.",
+      "rating": 5
+    },
+    {
+      "name": "Jerry P.",
+      "location": "Charlotte, NC",
+      "text": "Satisfied for years with their workmanship. Haven't had issues with any starters or alternators rebuilt here.",
+      "rating": 5
+    },
+    {
+      "name": "Rickey J.",
+      "location": "Charlotte, NC",
+      "text": "Owner is friendly and knowledgeable, fit me into his busy schedule. All my windows, seats, and lights work perfectly now.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Charlotte & Surrounding Areas",
+    "subheading": "Auto electrical services throughout the greater Charlotte region",
+    "areas": [
+      "Charlotte",
+      "Gastonia",
+      "Concord",
+      "Huntersville",
+      "Matthews",
+      "Pineville",
+      "Cornelius",
+      "Monroe"
+    ]
+  },
+  "cta": {
+    "heading": "Starter Acting Up? We'll Test It Free",
+    "body": "Bring it by or call ahead. Most rebuilds finished same day, all work backed by our guarantee.",
+    "cta_primary": "Get Free Test",
+    "cta_secondary": "Call (704) 333-0561"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

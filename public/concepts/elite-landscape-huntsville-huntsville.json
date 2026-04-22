@@ -1,0 +1,139 @@
+{
+  "business": {
+    "name": "Elite Landscape Huntsville",
+    "phone": "(256) 694-3063",
+    "email": "",
+    "city": "Huntsville",
+    "state": "AL",
+    "industry": "landscaper",
+    "tagline": "",
+    "logo_url": "",
+    "google_rating": "5 stars (15 reviews)",
+    "years_in_business": "",
+    "photo_refs": [
+      "places/ChIJ8_JcCcxzYogR2xtf1wj01P0/photos/AU_ZVEGjOnhAv65DVWnxo2UmKz40TxyWhq5ljEiMfHhVDQtAWXQT-JomCp0LJRLQDuGDEGDohEtihVeQUh01k166n5rTxzj247VejRoTzqTuPR6NNRycs3CcA2eBrLkPj2rIcb0tfuIZCDU57W1rvK5fjhjoJ4jkzd-axhse8-gHN764g2CmEoQC9BRi27LTQdm43Td4jhN62n-pWt6SPSPLWOuEYTTtcWIu7Hc7kw7yP5ZtVa0mg5FF4myp7VgzRejn9VEdkpUXaurEGWH2aP7S55hfn8hVd8eKaZJY5X1qQCn5Bw",
+      "places/ChIJ8_JcCcxzYogR2xtf1wj01P0/photos/AU_ZVEHH-Hp9Psd00hV0-N54eVrD7cOPfUd6OdRc-2WCqZPCWH_jq5aASoF-SQdNPe2FQk5Yn4rqsOAmeXmPwpylSdsJqLLyiwUNJLj28VXbATaNe1X1v1Ikfh7dIijcWtFb9kODCcOMZCDnS0JwpsZU_Zp-WY8-wjPS63JP7wh2GNroGRsHfKqX9TTC-t1p6fBG8ClZK0jN2vI1giy4XEiqsdz6bRaaP_YNTOfq-F5iMxL4tOHTYTPLcB3n7DfHp-36e4OUrIn9z3Nsy_g_FYnTquUqFX5G4zFRgAqzjZK3XsIppEvaPW46agrL2D4sfr9rI-M6XPlaU6HA7cgkJy79kHJluKGy842LBC1zcvXrnQbou2zq5m-5uJJNxMaPSClC6wHbDyEk0NVVTg1olYQO3tgNq6s84BzFE5nSG50mBu_XRTQ-mz_dwpAq4H76FQ",
+      "places/ChIJ8_JcCcxzYogR2xtf1wj01P0/photos/AU_ZVEGnV6pw-LpQpVByeYLV9pcVVyLb5IFJBjEVsQzZs2NZaHKt8DYEBB_AcCOrRcKo_yRqSbizw120OsNVEicv3ZTVdHRGPlFGP9eWHpHrSCSaxiCdPXgvbGF5jcO4fdUSuA7cFT4AhYQiQ2cQXE7r_VTDLC8teA3JXno_yCJmq2bB3QYHbFTg2dBhGCgKUfmW7240dPW9mxzFxeFlE0lrPfHVMN-eiGEaEWjhn2YS_ixHfv6AW18FWBYveKotRA1jqi6-jmaoBwwDFAfIIOc3maQKkc4NDLT5kCuL9ANuQ-4aFIIo_Zx-XOBgyQcLuS5wjh7JFpYCh27k3VavmjBiftr4CDwugR3vENBIrLh0fBtbGSNoNGUr8uARoWPeZxBdt9dcL3uh3geABRhecytAB-OTPoqMbcxZ260cHTy1uizUHMTdwivQ-hz9RqiQ-G3s"
+    ],
+    "hours": [
+      "Monday: 6:00 AM – 5:30 PM",
+      "Tuesday: 6:00 AM – 5:30 PM",
+      "Wednesday: 6:00 AM – 5:30 PM",
+      "Thursday: 6:00 AM – 5:30 PM",
+      "Friday: 6:00 AM – 5:30 PM",
+      "Saturday: 7:00 AM – 3:30 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_uri": "https://maps.google.com/?cid=18290512305468677083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your Yard *Done Right* — Every Season",
+    "subheadline": "Rob and his crew show up when they say they will. Rain or shine, spring through fall.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "15+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Complete Yard Care",
+    "subheading": "From weekly mowing to fall cleanup — one crew handles it all"
+  },
+  "services": [
+    {
+      "title": "Lawn Maintenance",
+      "description": "Weekly mowing, edging, and trimming to keep your grass looking sharp all season long.",
+      "icon": "home"
+    },
+    {
+      "title": "Drainage Solutions",
+      "description": "French drain systems and proper grading to handle water issues before they damage your yard.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Stump Removal",
+      "description": "Complete stump grinding and removal to clear space for new landscaping or lawn restoration.",
+      "icon": "saw"
+    },
+    {
+      "title": "Seasonal Cleanup",
+      "description": "Spring preparation and fall debris removal to keep your property looking professional year-round.",
+      "icon": "fan"
+    }
+  ],
+  "about": {
+    "heading": "Reliable Huntsville Landscaping",
+    "body": "We're the crew your neighbors call when they want their yard handled right. One call gets you consistent service from people who show up on schedule."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Huntsville Says"
+  },
+  "reviews": [
+    {
+      "name": "Timothy H.",
+      "location": "Huntsville, AL",
+      "text": "Struggled with backyard grass for years — had Rob install drainage and finally got it right. Professional work.",
+      "rating": 5
+    },
+    {
+      "name": "Amber P.",
+      "location": "Huntsville, AL",
+      "text": "Used Robert for years. Very reliable, responsive, punctual, and takes great care of every part of the job.",
+      "rating": 5
+    },
+    {
+      "name": "Nicole B.",
+      "location": "Huntsville, AL",
+      "text": "Consistently reliable for our commercial property. Never miss a service and always leave it looking professional.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving North Alabama",
+    "subheading": "Professional landscaping throughout the Tennessee Valley",
+    "areas": [
+      "Huntsville",
+      "Madison",
+      "Decatur",
+      "Athens",
+      "Arab",
+      "Guntersville",
+      "Scottsboro",
+      "Albertville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a Yard That Looks Right?",
+    "body": "Get your free quote from the crew Huntsville trusts. No surprises, just honest work done on schedule.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (256) 694-3063"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

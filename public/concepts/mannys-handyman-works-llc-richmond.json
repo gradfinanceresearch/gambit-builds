@@ -1,0 +1,151 @@
+{
+  "business": {
+    "name": "Manny's Handyman Works LLC",
+    "phone": "(804) 241-8369",
+    "email": "",
+    "city": "Richmond",
+    "state": "VA",
+    "industry": "handyman",
+    "tagline": "Your go-to handyman for reliable home repairs and improvements",
+    "logo_url": "",
+    "google_rating": "4.9 stars (66 reviews)",
+    "years_in_business": "",
+    "photo_refs": [
+      "places/ChIJkYFYBuUpL0gRXS_TTf1aYIQ/photos/AU_ZVEGkwMpgJMVyj1mHlQbMEHHbUFm6KYOFX1czSQ4_a5v-F-Mlht6lrWOagfLPTvUnKJ8ZjRLVDcdbRVSg0Btf034Msh6glCADei_Uq61Tn3yjSVDVWqgoHzLz7tfoUIiwr2VYDeK_B_Uh2qJgZWjcFfygA4-rLnFgGPDV_Z5Yov4ZC3LJZYASJH79bLJ3Ayh53HGwnAr1yG_FfIZp4H7WhYR50cVyITruC_bzd68CaiQi8gucQFtGv0Zh-DQd7u8Ch-bkglsLdKdhSMBDduBd-1vXF07LkO96Btczad2o117tqI9bKD6UYOIVWnxkbfdq2waWT0HRiqNNgotHkM3nl65KUomSvK4TkP6cu1X0xzFtk7nZChMMBreAQdTeeC7_3BUWhDjsqLlCIBePeMe7BK9LDuEbLgAy7QT2XsznJt2NIg",
+      "places/ChIJkYFYBuUpL0gRXS_TTf1aYIQ/photos/AU_ZVEFp5zNMoB0KcuWpx1mIFaMeaxSR5YsEbkwo22LcnGR1-jEJoYGyDPvbUHxVs2DsecL-arjzjiEO9lhewG89Y9yFGea0KDayyFIA618L5k-Bqh6gnSbjtVZ-stQKcw6Yt3iGKTMf9w9BvID7fqC9GJldGhFrMpvDIbZsgG9zDV_V9hMdM91UdEJ_4S3dzpL239R2gQWZ1czzWnJwcOz6Tkm0lhD-HhEEKhwjjkNQ9U9hdknRNJHR4BzBn-MWaZfXl5rGbUELuZS7OzbCkLVQBQ5rwDYX__OGoUyBPzLcnOEPLt3u3FoH14Lgm5rYD4V5I4sMEZyWJV0hrUehx1UAL3BFNvaiq5RT1iDID4MvdVq90L5Oeyjw3PjAMnyC_p5ACZIVCeZHfdUDDXt5aoV9pEpe3u9hJymXhtYad1hysqE4",
+      "places/ChIJkYFYBuUpL0gRXS_TTf1aYIQ/photos/AU_ZVEGNFNq_HeQL45sD_EFmLtXUwk3oa3Xo7dvsyiMgQ6c61yAVeHrtP35fMTQ-J6je0PTqQ_x1ONdDGZCRDb-1KbSm_6ax2RABldDuqtDhl2c68rQzWsYLlfYyLIV5ZWH0XVT33QzF82c_SmB-wpNeIqIgQxk83-Q9s7yFzLgYLCxX1TMINckT65JAV_ivviUlTbR0zfjFrBbX9aGNHWOKqLYw2F4W7cF5tzMXW89PxLgDvUPe6FsLkiKHMdVHwbov-Da_3cbS9oM5MNzZi0cX5g8heulRbbSqBSisJw9Xi4-tiA",
+      "places/ChIJkYFYBuUpL0gRXS_TTf1aYIQ/photos/AU_ZVEGEC45VsR9wiwZTILcWadVpV2N88HaCeq5qWL_kabPCaY61X7n7vsIMW28TNXKc5r7MPtYB4jaGNm_atdU74UbtdfcPhz3LX_BWptyh8TlmbgA_4VNPv3paIbhPD5T_3pCteKliDCXHpU7HdjzK2p8Vf2yr2T6CFq7Yx__nrotl5dsu80hEdAL0iNLbz6aKpV13nRr32GXd_GSoCcGU85xLdIpn5M9F503D3eZ3debTV2AwGUfys_2_IaBNkh6de0w3uRZxesq1udvzZYKJHfNBXWDnA0v6B4dJ5R7EUVbsnYw0Hwp6L5psTiByrZKzGIJwFy4fBTjinF4mTbnNX4SzSuPgWGQEIhgbkHgdzhCfAWas9cQTUtJFq18Vl1wZxRwhUi9UasFeCZB0l7ycUVimVh9pe4i_rYqZ1NetXk5W8Pw",
+      "places/ChIJkYFYBuUpL0gRXS_TTf1aYIQ/photos/AU_ZVEFcZ7jqlJD2UYKSwoJybPTTVmAvVa-2iwisjTd0UeaQwfiHIe2-M6aVYauN9FOZb4S9SftpDt9NRVrCqOc4G9tTKxWHGj1N_iMmSL5ZtuUduICYRQ4-__RDP3vbiNHRwu9-weuzm6U-si4ipiekRz6qHDzjmw3q1XztmDSukfQ8C0L1swt86NFsUOpRc1HQcHmJSDZLqOApxUMyY4T4Vgvi3gjnKyfAmbfSUwUaiZG28EF_R0euSqaqu0I0GmCgnPBbcvcY7YcYWhNNhoRVMPTusQ8B1MDPsm5m78VOuXMiccN45IZIBdgdJTlCSu5jyxSTix2FXPjtCTwAtHm1CXQ__deTyV8xsgBwU3R0CT1XrbDOVW9SR-pXbGAs0xDQ0SmhzOJ99HmrxjpUxy8GQgLeaxfeF_vaGvIysEKXPQrpYFg3"
+    ],
+    "hours": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "google_maps_uri": "https://maps.google.com/?cid=9538724054749622109&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The Fix-It Guy *Richmond Calls First*",
+    "subheadline": "From leaky toilets to laminate floors — one call handles it all.",
+    "cta_primary": "Get Your Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "60+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Richmond Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every Project, Done Right",
+    "subheading": "From quick repairs to full room makeovers"
+  },
+  "services": [
+    {
+      "title": "Plumbing Repairs",
+      "description": "Toilet fixes, leak repairs, and faucet installations. No job too small.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Electrical Work",
+      "description": "Light fixture replacements, outlet installations, and electrical troubleshooting.",
+      "icon": "zap"
+    },
+    {
+      "title": "Flooring Installation",
+      "description": "Laminate, vinyl, and hardwood flooring professionally installed.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Interior Painting",
+      "description": "Walls, ceilings, and trim painting with clean, professional results.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Door & Window Service",
+      "description": "Door seal replacement, draft fixes, and window installations.",
+      "icon": "home"
+    },
+    {
+      "title": "General Repairs",
+      "description": "Bed frame tightening, blind installation, mailbox replacement, and more.",
+      "icon": "ruler"
+    }
+  ],
+  "about": {
+    "heading": "Real Work, Real Results",
+    "body": "We're Richmond handymen who show up when we say we will. Clear communication, upfront pricing, no surprises."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Richmond Says"
+  },
+  "reviews": [
+    {
+      "name": "Du'Neika E.",
+      "location": "Richmond, VA",
+      "text": "Manny replaced my door seal and fixed the draft perfectly. Communication was seamless — I knew when to expect him and the cost estimate. He explained everything clearly.",
+      "rating": 5
+    },
+    {
+      "name": "Deb W.",
+      "location": "Richmond, VA",
+      "text": "If I could give 10 stars, I would! Excellent customer service and accommodated a same-day repair. His team is amazing too!",
+      "rating": 5
+    },
+    {
+      "name": "Sion !.",
+      "location": "Richmond, VA",
+      "text": "Incredible work on multiple services — toilet repair, light fixtures, painting, laminate flooring, and more. All completed professionally.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Richmond & Beyond",
+    "subheading": "Fast response times across the metro area",
+    "areas": [
+      "Richmond",
+      "Henrico",
+      "Glen Allen",
+      "Short Pump",
+      "Mechanicsville",
+      "Midlothian",
+      "Chesterfield",
+      "Colonial Heights"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Get It Fixed?",
+    "body": "Free estimates, upfront pricing, and the work gets done right the first time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (804) 241-8369"
+  },
+  "design": {
+    "primary_color": "#1B4D8C",
+    "accent_color": "#E8A630",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

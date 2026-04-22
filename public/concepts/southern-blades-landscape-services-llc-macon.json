@@ -1,0 +1,146 @@
+{
+  "business": {
+    "name": "Southern Blades Landscape Services LLC",
+    "phone": "(478) 954-7989",
+    "email": "",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "landscaper",
+    "tagline": "",
+    "logo_url": "",
+    "google_rating": "4.7 stars (43 reviews)",
+    "years_in_business": "",
+    "photo_refs": [
+      "places/ChIJAaDil0Tl84gRJmqTT44q3vE/photos/AU_ZVEF7nRZXMSFknlDB-1fEFIzEtv6wPECRwb-V-fL97tLl6Vn8Q5oE4TqKzHssiRz7D8M7nUw1z-RCxDMzhEcRcRWajLN-Wcnj_Zon6A1izk1pF_BBUENnVf9jRmhCewryHhHp1ECcVzHNLF6gin65ZFz3hHNigrxPAtHDLZ4NOxV6lDi_b0DgMxHFjRO9sDDUw9GdaPBu4RLSXjojJDS42_p9xOEOXH5JzZ78B1ofa6ubegwPYTMWG0qYYB8sg509ctZUxax2wyMF4lf19Wrjq19I-MCmgN8soZJwDMV5z6_0UQ",
+      "places/ChIJAaDil0Tl84gRJmqTT44q3vE/photos/AU_ZVEFF2tnZmQc6FelnO7ksUgnW-BK95Kh3AH3h2LYPePf6V71ZuRjKk0V4N5J0Ak5jDy73hl7tpL2oJUj6cG-MJllDryigX6N3TbJIKU-U7JrpkoF0MBmAZY5EfiFVkx85pTJrd-SzLW5W0uoI7gNTs7DXSsURWJxO1tZ9XfsLRLAZmP58CAM884wPJO1YBqLcoyL88-o4ZZEIRp4EY54_FTo918-ryt2yYex96XFnr4nLWHYob1DV3fhrGAgHNJxmuxsgspJJxYPY0uJphLcCiG2dyexO0pE4SSiqiDcQl4FZmQ",
+      "places/ChIJAaDil0Tl84gRJmqTT44q3vE/photos/AU_ZVEHLhxSzO5lWR7p4vMEehqQrtHL6Pfb9BUqzAcz3VZI3J4o340B-bSV2ln3AirhL5XM5p3hhVS3e7RTb14e-4cHVyMtQsgRPu3fpxaT05YPpgFbaDg9u7e4LIjTLg9QSFJ7Lqaiv8Rxv7he_Ag7HES55313ac5mUOfMxuTXjFWQKYQ1JiVUVCTNGKGpVIBULBexxEOyHPyftuVolkER1lHSYLs-6lsIqrwbiL96KHdlZrKzh1N9xeBnXMEJKtnB1NvlYHYRkAt83v8fRByymxRKElBfYxMqi-dsg4yHacGfstg",
+      "places/ChIJAaDil0Tl84gRJmqTT44q3vE/photos/AU_ZVEFY6Xs-RZNCc7O-nLpzIHEFgAPxwRTIVbr6RR4Dzaivn1N-BFEJWm4ZY_X6JV_B5V44RzzYjOadhD7tuk6lQVIaKJ_rPZgIfv5r0L9WXi8eEC8Z3KBw7gsUDfhCKJTnplhC4-etNb-uyqWREDXxJ3RsJ976B95kuJyhivUlOLjOv4pBfIKt6aIl4i5_PS0RDWkp9k8913uz0bPJjtiHQ0OR9jwajW_SFq4IAEwbdrzJMPRG84xO3Ee9GtNYcAMFxNwpDSN6aXWdr4q91FvSsacJR0ODRcQme7HTcMFojBFakA",
+      "places/ChIJAaDil0Tl84gRJmqTT44q3vE/photos/AU_ZVEFO2Ms-GfmHYPfwgpQKYOj92DwdfjCDU-jYjbMy0t2ZkfxHY4HFgIXhSD15HpXk6bgPmtSfsj2EjKvnquyXRp9XTbeNqnxH1n6epM4gY3SeaEBwDbFVmAL0DSCaEkzS7blIFAwU8oUlNPai2VNFAHTOW14PLYO6NeHutTQ_BuG8kCVIT4UY7MxzNTHuMNVpRdJHw_eV2NbZpkMDOFgAGYGj0N5HBtBKiPOk2npwoIBDNGMg7Oe7XRAO3rrRhmIyouLr4rqicOf0CvR9_iza8GFztOx2KtwAAZhjQs6YDfluDA"
+    ],
+    "hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_uri": "https://maps.google.com/?cid=17428414398679181862&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Macon's *go-to crew* for yards that work",
+    "subheadline": "From overgrown lots to market-ready landscapes — we show up with sharp blades and straight answers.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.7★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "40+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Macon Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every blade of grass, every branch",
+    "subheading": "From weekly cuts to complete property makeovers"
+  },
+  "services": [
+    {
+      "title": "Lawn Care & Maintenance",
+      "description": "Regular cuts, edging, and cleanup to keep your property looking sharp every week.",
+      "icon": "home"
+    },
+    {
+      "title": "Tree Services & Removal",
+      "description": "Safe removal of problem trees and light pruning to open up your space.",
+      "icon": "saw"
+    },
+    {
+      "title": "Landscape Design & Install",
+      "description": "Custom designs that fit your budget and transform your property's curb appeal.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Stone & Hardscape Work",
+      "description": "Fire pits, walkways, and stone cutting for your outdoor projects.",
+      "icon": "brick"
+    },
+    {
+      "title": "Property Cleanup",
+      "description": "Complete site cleanup after construction or storm damage.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Real crew, real results",
+    "body": "We're the Macon landscape team that answers the phone and shows up when promised. One call handles everything from cutting tall grass to designing market-ready yards."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Ian m.",
+      "location": "Macon, GA",
+      "text": "Needed help cutting stones for my fire pit project. They responded same day with a great price so I could finish before the holidays.",
+      "rating": 5
+    },
+    {
+      "name": "Jimmy M.",
+      "location": "Macon, GA",
+      "text": "Southern Blades delivered as promised — on time and professional. They fell a large tree and did cleanup from their work and the previous contractor. Affordable and trustworthy.",
+      "rating": 5
+    },
+    {
+      "name": "Angelina M.",
+      "location": "Macon, GA",
+      "text": "Delivered exactly what was agreed on for prepping my property before market. Braydon had great design ideas and kept everything within budget. Very satisfied.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Middle Georgia",
+    "subheading": "Professional landscape services throughout the region",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Milledgeville",
+      "Perry",
+      "Forsyth",
+      "Gray",
+      "Byron",
+      "Centerville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your yard handled?",
+    "body": "Free quotes, honest pricing, and crews that show up when they say they will. Let's talk about your property.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (478) 954-7989"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

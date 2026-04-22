@@ -1,0 +1,141 @@
+{
+  "business": {
+    "name": "Xtreme Landscaping",
+    "phone": "(478) 621-3964",
+    "email": "",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "landscaper",
+    "tagline": "Your yard's next level starts here",
+    "logo_url": "",
+    "google_rating": "4.9 stars (8 reviews)",
+    "years_in_business": "",
+    "photo_refs": [
+      "places/ChIJO02B4F_3HWoRYKGHvBMnrpE/photos/AU_ZVEG8qLWdTQ7vQgl_jDEwxT8K7YX9vGWvsFODnzX4sqpwo_5SNs_loJCd4Bt3Vo8TrSJ2yO4lzPV8vP0-05aveHK86-SVhnqCe341PC4oZfCQjfVrrfiv985BHPQ2flSZif7pDDgw4cVMdWydFYgP3Sk2V3ieU0jtUQ2gZDiLdIOh2czicRjD6c9ArN7dv9bgP1PCkcWN9HOLItOvbJQJqKvP37yATPp5nyZihcIBbIK0e7qBWp4cjN2O7xy5pWZtCS-7pWXF5T7g7zCDBdn_q76iDqwmxffB_mKFoEBEGp_8Jw",
+      "places/ChIJO02B4F_3HWoRYKGHvBMnrpE/photos/AU_ZVEFN3kIuALjLFLpEXeH0rEjR9yylx6c6VblzKQR_mT-LqqiZ0e1o7AEVMo9lP1kVRLVQbjnbxxXLDYBuJ5whixWCXRiSvLyA9UiogbwDKYWptZB9pMjUwD80ZUHJGdADYsCV9UYBGsIVHtz2E51o-6Dq8Wd6GYqqHxB7oSvXjBg1LHVtXrfiW8YqrjygECLlWqkA4hjdiaPchQUK1CeUNrrmCT4D5CapKD_GdYEEvFJawYkC_9gAb87zEZ-vCmfOSZaHnuai1HW8e-w-HDC8OrAYWpH15ix2YNg-lKN1vl4opw",
+      "places/ChIJO02B4F_3HWoRYKGHvBMnrpE/photos/AU_ZVEF4pM5m9vwKrzcgoH0-VCPRN9TF8cYYLpCU_DRofMvQBCjfhGNL9UG9-8OAQTRXbVpzkM5-96hTogeVKfdiKXUjChmZrVLiZ3Qp-C0Ona-FA7DiMmEk8IwzZZp-fnotx-z-er2cuUUozWbYsHAOeFUCY-9XXezkrj24D8IBMhqk9nobVu3axqbO9hKC8NucXSuE0H0t5u1VJjPm0BbXQsqCErmhfkuZGkTCrtmdTAcEB7phlhxVf8oS2WQxfcWhzMove5-SBfnWFkqk88Gq5B37KWf32FHHqI4_GAwoy-Gkfw",
+      "places/ChIJO02B4F_3HWoRYKGHvBMnrpE/photos/AU_ZVEFUCcqfinDmhc7FI8cN2pU1-nYFoKo82jrOIwa1gGvsty2b3uxUSzwliJGy4fvUj0SGO9DJK1lOgOpIVdAux_MyL5yT8hVSpXIelyCwwWC0blh-3fmdW3f2G09EhxBjy64DARmn48Z9UszLJuAwIcwQdzCRS-_nYDTLq04LRnIFj2RLF7X7D1tOkaCmMBBZ3Y6M3REXrClOYW0i28ahNnsAeHaP9pCn7R7vg86hs79iFXxroKGd9gQKo9xde7gfsa7_-AP1S9GLKffBwXOaRFryJICHZ1SMPEx00N3EVv3uag",
+      "places/ChIJO02B4F_3HWoRYKGHvBMnrpE/photos/AU_ZVEFOEO282bSBrLFQV7J4-ntdQWEXRIYlJAoug2MgeHU6M_fNsSwWlNLEFQVX3IKnDv8twdCVIs-udXMYGaJZmJi2HiELYRIx_LPqhrY0jp1ZiJq5F9bIxuPAwdxUo2ZG-T5Kb3pznvmEI-l_wVAVuPvEdyIqhYN627GX6JcG6rDtg1WZbetP2MF2IOQEnjqz6DgxtGOFazKygTRXtv_xhQvoo7q-IkIlHb8MuiYs-gA3yCqa6jJ9hFyTsNdTnT5txBl0fgHPlGCEgrWPMoKWLD_XE2KHQPzXziah8xRmjScUvg"
+    ],
+    "hours": [
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 8:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_uri": "https://maps.google.com/?cid=10497370747168072032&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Macon lawns that make *neighbors jealous*",
+    "subheadline": "Same-day estimates, same-week service. When we say we'll be there, we show up.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Everything your yard needs",
+    "subheading": "From weekly cuts to complete makeovers"
+  },
+  "services": [
+    {
+      "title": "Lawn Mowing & Trimming",
+      "description": "Weekly cuts, edge trimming, and cleanup. Your grass stays healthy and your edges stay sharp.",
+      "icon": "home"
+    },
+    {
+      "title": "Landscape Design",
+      "description": "New plantings, garden beds, and outdoor spaces. We'll make your vision real.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Yard Cleanup",
+      "description": "Leaf removal, debris clearing, and seasonal prep. Get your yard ready for any season.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Maintenance Programs",
+      "description": "Regular service schedules that keep your property looking its best year-round.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Built for Macon yards",
+    "body": "We're the landscaping team that shows up when we say we will. One call gets your yard handled right."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Cristina A.",
+      "location": "Macon, GA",
+      "text": "Excellent experience with Xtreme Landscaping. Needed lawn service ASAP and he was ready to do the job when he came for the estimate. Very polite, professional and thorough.",
+      "rating": 5
+    },
+    {
+      "name": "Ashley M.",
+      "location": "Macon, GA",
+      "text": "We've used this company for almost a year and are always beyond satisfied! Always polite and does a great job. Support this small business - you won't be disappointed!",
+      "rating": 5
+    },
+    {
+      "name": "Jasmine H.",
+      "location": "Macon, GA",
+      "text": "Always on time, fast, friendly and does an excellent job trimming and cutting. Does random check ups to make sure my yard looks good. Never had a complaint.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Macon and surrounding areas",
+    "subheading": "Local landscaping team covering Middle Georgia",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Milledgeville",
+      "Perry",
+      "Forsyth",
+      "Gray",
+      "Centerville",
+      "Byron"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a yard that stands out?",
+    "body": "Free estimates, honest pricing, and service that shows up when promised. Let's talk about your project.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Today"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

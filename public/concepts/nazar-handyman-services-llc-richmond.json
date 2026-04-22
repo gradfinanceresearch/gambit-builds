@@ -1,0 +1,141 @@
+{
+  "business": {
+    "name": "Nazar Handyman Services LLC",
+    "phone": "(804) 309-6805",
+    "email": "",
+    "city": "Richmond",
+    "state": "VA",
+    "industry": "handyman",
+    "tagline": "",
+    "logo_url": "",
+    "google_rating": "5 stars (6 reviews)",
+    "years_in_business": "",
+    "photo_refs": [
+      "places/ChIJn0NBdUnFDgAR_xsc7ViJIAE/photos/AU_ZVEFsYYyR7w94f_kopnGLqGZ5yryx9WB09YgnbbfifwzHqT2WHS1B7zA5ncqyf_GStwWgRLctpn-zTt1W2elbid6mCJu1NykupBo8JEGIhsdhpPnMpMG7Eefqqz0-6BaDa_mvzkOU6ss49mncDd20AjXH7HsIWEezPQop8rD53QYUHpwjU1YO-l4XtdQe1vkg25e-lNPvHJLtgcKGJVOx-a0iQTrRviFCECekY404p1ib43PvJ6lRQZpVUKuA73jDIFewVrEk0juXTD20k8bKvOIadVhHapINs2G5ltMkZ6cbcg",
+      "places/ChIJn0NBdUnFDgAR_xsc7ViJIAE/photos/AU_ZVEGITYNnSA7EXqT5TLaHF53D2PU_1NqIB9-jd_DZ_55M3gAvKBJPdR96KhAXSlkwTtRXo-r4qk5dN-lIVLSvfJ2Jw_Hv4NfXl72-9m6pwEvH2-2BN4D4DM10h-i9gzGAhyTdFs_CvXwFoMwKxwtIuCOU6CANagtRy09QHRPJYiJX70wlZnWZ9y_5RxZiREIT7HoB-Dx_6Jr7l1bmQmdnqkr14GDYW7HikXQWYiltZ6qtvpw_d2qxcVGxLrqf7gs1V_Udmc30sHvDEbs_heQ8nvJ1C7SB3OTSN-O17U53l0pmEA",
+      "places/ChIJn0NBdUnFDgAR_xsc7ViJIAE/photos/AU_ZVEEOLA9solGUAl5t03-5E63sb03Fd2ZjdDJk8PA00zSjvBUjGDhkIKQNV0HJrO6I9V2m0EQQqsik79zXzaHgTPc1p9FkPC3hLbZNQwxLjoUD8jHD0VAosqbCnRmwFTIctfYtd0gEfqqcdJsBy6MIIUNiLTMu2pepswyii-piERsqXpsYNC4XIO6C79tlHrl3RwZeE19arIkIa-XqNdG1Odej3CNY-kGz-oyYuMgH85hum44r6Iv4hPxLH2c25YSwOOhFXmtVBaGcx18IjxT4yM-TyEhaHDH-DTWaxjpBtpuk1g",
+      "places/ChIJn0NBdUnFDgAR_xsc7ViJIAE/photos/AU_ZVEEsLAQOeKYF0wl22v3K31_VJqaFApFXnSckSHmhHAcZXQV9Jkb9yTPcXc46x7sr0GIaokNABWjGm7KBQ_iE1nFce1FZ3lBly-s-PnuT9il4IcsWbK-LJzQlvJdZcXuG3guhndZXwaroOSnQptNE4any8K937HyOSRvCve_lvDxRu9eHnB8oYPJ3w-eNjMfmDUxvYsS0lDXIccb6sOPYw97c_uKILlBcK65vQCA9yFDq0-nbLeu7i7Gb3aukCS2TT1rdjHMM9cSzQE7MDqi1PuZGTUbFhhLdnXP2Ohnsb08A0A",
+      "places/ChIJn0NBdUnFDgAR_xsc7ViJIAE/photos/AU_ZVEHsevcyBCNqRhqkiBbDxn87KNxuxXxjVQiAQc7MU-GWhD_LFocxpWIDZVTBgAtLSthjFUM60BRuYvAoPiugzBn2uFepgetZxvDtbx4CQU0JMuafZW3gxUUd1FIfe2AZoCQE8bK6_SGpR5ZcT40k1976QPKneB1VSamCsPEpBKmOH6c85KjRMUevH6Z0sPzH0MsqPrx-P7DyCwvCdpM4bfQjO7sjZyMVH6oyxafwjW_TaDqd9POx30fsHyW4I9dmQOO_MDurEdS5ExCcU4bULqzSmNu06flDwdrcg2FjQuxqkA"
+    ],
+    "hours": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 10:00 AM – 5:00 AM",
+      "Sunday: Closed"
+    ],
+    "google_maps_uri": "https://maps.google.com/?cid=81215808320838655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The handyman *Richmond calls back*",
+    "subheadline": "From ceiling fans to garbage disposals — one guy who shows up when he says he will.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Richmond Team"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "One call fixes it all",
+    "subheading": "From the small stuff to the projects you've been putting off"
+  },
+  "services": [
+    {
+      "title": "Home Repairs & Maintenance",
+      "description": "Fix what's broken, tune up what's not. Door handles, shelving, touch-ups — the stuff that makes home feel right.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Electrical & Plumbing",
+      "description": "Ceiling fans, light fixtures, toilet installs, garbage disposals. The jobs that need doing right the first time.",
+      "icon": "zap"
+    },
+    {
+      "title": "Interior Projects",
+      "description": "Paint jobs, sliding pantry shelves, screen repairs. Making your space work better for how you actually live.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Custom Solutions",
+      "description": "Every house is different. We figure out what works for yours and make it happen.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Built on repeat customers",
+    "body": "We're the Richmond handyman team that does it right the first time. Real people answering the phone — not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Richmond says"
+  },
+  "reviews": [
+    {
+      "name": "Dana L.",
+      "location": "Richmond, VA",
+      "text": "Used Nazar's services multiple times — always happy with the quality, timeliness and communication. Can't recommend highly enough!",
+      "rating": 5
+    },
+    {
+      "name": "Marissa S.",
+      "location": "Richmond, VA",
+      "text": "He's been our go-to handyman for 4 years. Painted our garage, installed lights and fans, toilets, garbage disposals — helped with so many projects.",
+      "rating": 5
+    },
+    {
+      "name": "Alex M.",
+      "location": "Richmond, VA",
+      "text": "One of the best handymen I've worked with. Honest, fairly priced, shows up on time. Very professional and always does great work.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Richmond & surrounding areas",
+    "subheading": "Local team, local knowledge",
+    "areas": [
+      "Richmond",
+      "Henrico",
+      "Glen Allen",
+      "Short Pump",
+      "Mechanicsville",
+      "Chester",
+      "Midlothian",
+      "Chesterfield"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to cross it off your list?",
+    "body": "Call or text for a free quote. Same day response, upfront pricing, no surprises.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (804) 309-6805"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFBF7",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

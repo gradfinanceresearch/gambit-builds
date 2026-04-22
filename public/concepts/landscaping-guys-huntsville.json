@@ -1,0 +1,141 @@
+{
+  "business": {
+    "name": "Landscaping Guys",
+    "phone": "(256) 288-4768",
+    "email": "",
+    "city": "Huntsville",
+    "state": "AL",
+    "industry": "landscaper",
+    "tagline": "Your yard's transformation team",
+    "logo_url": "",
+    "google_rating": "4.9 stars (13 reviews)",
+    "years_in_business": "",
+    "photo_refs": [
+      "places/ChIJQ9ayU3RiOqkR3lJOvqj7s3o/photos/AU_ZVEEHh5LsP8nETaZXgaNn6d0a8BYp2goruu1_qhxe0zK0TspUj1Sdt0Mct6YJKe3i0rfXuLa_KO8gDP52Oz_3AaYzWmZIMEJ-swJnTNpjEMVg08cGiaMJVGz1j0GCc8o76pYfz88mA-wFanzeo5wzZIXAF7vLIO4iQQhNgH7vUKRViEiXVlAqH0Q4g4hSsPUVl4Z2QlgM_ON44-wtjxRIK4PL_sJTGutB6KU9bLMbDXGd9txLWWWkLWvkwrXaVLUZZxzmv6_2Dy5nTPZcwuuB-QmeXcSKc-wOJU8sfnV287wkQQ",
+      "places/ChIJQ9ayU3RiOqkR3lJOvqj7s3o/photos/AU_ZVEGQXfcKO82axXxh0LD84GoEUhJ_Ruds02v0aYKkZ2zqxCluCF8i5smaJosJh5CdZgHkuyPvfhlC5ZAFCQeZhA9BghodCJnhzDT7ZQskRpmsvAh_HgYTtbs-j6OQJWON4eXmJEe0ch12Kw14NuqT3L4pyDrKdkZIhrzeDpfAcXgjO7__IReGe5ncvxMOrWreZT-wyzB0mWXqjlNeLWBsAqy9-XcHF9I5W2TaLsZEB0AG3T7RfQ5D_qbolvjxQ8YTANYkxuQiujEYrjorY4cOEYCV1_pIL47-wXUUxAKr4YCszw",
+      "places/ChIJQ9ayU3RiOqkR3lJOvqj7s3o/photos/AU_ZVEFlC4WOD9o4c5nQVl2i2Qi264ORFkJpNdr_-7xm_8NPVps-UBA3K-mIMtFn6I_Y-Skhwcu0ZZ60htDuYhU30JhlVPTL2xOGEdOh7KhnDQ3Y0CtCmD8pCeoYvaYJmIQsgFlO_C6NblYh9X32cbZ5h51NzWdtLsqvL2BuvNoIg1rlrvDgHHAhWc6KZ83lsEA0Kn3PYzB9OxDflgCVHCqiA31gDBxRTLIX5riGwEWJBJ6LbM7sydhXVlhFG1quqTKyHXpNqCqfplmxZsq5X7JXXQf3LIZS2YmhFBJaIkhuBi10dA",
+      "places/ChIJQ9ayU3RiOqkR3lJOvqj7s3o/photos/AU_ZVEHMv3___B4OSgiIijbyZHh0lBkoTFuNIsSGlpq28-Wkz1v-3orO3VpqDwd_qjwbQDGq4DJAxypTL0Bfdbwb9rLuLAlr4CZWfQKS7fnyO2_eDzPyOnJbLM_mpjOabm1BV-WQOiWlAuyLfTAuDU9Xc_tQ6Yvl5DNlcQp82PMkqrfiXGP3K2ZBBMu3MlV4k_TUnbSg60W8ey8mwpo9PlKpBtiRn-9kQ8DYAIg8LdSH9PSk9fKFflGKVP5wbl4k_axmL2BFUXFuC4mKrxPUwSUof1t6__f1WWFIIM2-SV-Pp1Jlww",
+      "places/ChIJQ9ayU3RiOqkR3lJOvqj7s3o/photos/AU_ZVEGYtZHWMiM4o0RmGSaCH-NbjT2NIlNdLZzTUbYLlIlFyET_ecC13YsZHM6G_hHZCSCDT6sjEuRm5xbnScFcwg9Jiv7ygZ1S53vdJdYjiwffx0PcMXCUYiOD0Vd9c8ClyfQixtgYgYpm38zSfAkgjjcffl1PnNH051zZTvx1-MSNybma3ZMxZ_Eu6LabHP4paf0zZRSsdy2Mx9ZsjL9OG3hDhE3M4HoxSatZ6Osw2m_jQLqlyaEFTtAis8UYuSjNS4mc8nzVkdAIaW11cOO-53spDVJNolYP0_ygaQbBAVb_wA"
+    ],
+    "hours": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_uri": "https://maps.google.com/?cid=8841687195624297182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The yard crew *Huntsville trusts* for real results",
+    "subheadline": "Sod, drainage, plant beds — we handle what needs fixing and make it look right.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "10+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Huntsville Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "What we fix and build",
+    "subheading": "From dead lawns to drainage problems — one crew, multiple skills"
+  },
+  "services": [
+    {
+      "title": "Lawn Installation & Repair",
+      "description": "Remove old grass, prep soil, install new sod. We handle irrigation heads and get everything growing right.",
+      "icon": "home"
+    },
+    {
+      "title": "Drainage Solutions",
+      "description": "Standing water ruining your yard? We install systems that actually work and keep water moving where it should.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Plant Beds & Landscaping",
+      "description": "Design and install plant beds that look good now and grow better over time. No cookie-cutter layouts.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Irrigation Repair",
+      "description": "Broken sprinkler heads, timing issues, coverage problems. We fix what's not working and upgrade what needs it.",
+      "icon": "fan"
+    }
+  ],
+  "about": {
+    "heading": "Built different in Huntsville",
+    "body": "We're the landscaping crew that shows up when promised and finishes what we start. Real solutions for real yard problems."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "D H.",
+      "location": "Huntsville, AL",
+      "text": "Jesus made my plant beds look beautiful and installed a drainage system. Reasonable prices and excellent work!",
+      "rating": 5
+    },
+    {
+      "name": "Anna P.",
+      "location": "Huntsville, AL",
+      "text": "Jesus and team completed several projects at my home. Very good quality at fair prices. Always responds promptly and shows up when promised.",
+      "rating": 5
+    },
+    {
+      "name": "William B.",
+      "location": "Huntsville, AL",
+      "text": "Great job re-sodding my lawn! They prepped the dirt, ordered new sod, and reset all irrigation heads. Replaced any that malfunctioned too.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where we work in North Alabama",
+    "subheading": "Serving Huntsville and surrounding communities",
+    "areas": [
+      "Huntsville",
+      "Madison",
+      "Decatur",
+      "Athens",
+      "Harvest",
+      "Hampton Cove",
+      "Gurley",
+      "New Market"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix your yard problems?",
+    "body": "Free quotes, honest pricing, and work that lasts. Let's talk about what your property needs.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (256) 288-4768"
+  },
+  "design": {
+    "primary_color": "#B45309",
+    "accent_color": "#1F2937",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

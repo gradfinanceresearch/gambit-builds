@@ -1,0 +1,108 @@
+{
+  "business": {
+    "name": "Commercial Landscape Services",
+    "phone": "(256) 489-9132",
+    "email": "",
+    "city": "Huntsville",
+    "state": "AL",
+    "industry": "landscaper",
+    "tagline": "Professional grounds keeping that works as hard as you do",
+    "logo_url": "",
+    "google_rating": "5 stars (2 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=5368075311623492090&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Every property* tells a story — make yours legendary",
+    "subheadline": "Commercial grounds that work for your business, not against it. Licensed team, reliable schedules, results that last.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Huntsville Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Everything your property needs",
+    "subheading": "From weekly maintenance to seasonal cleanups — one team, one standard"
+  },
+  "services": [
+    {
+      "title": "Commercial Lawn Care",
+      "description": "Weekly mowing, edging, and trimming that keeps your business looking sharp year-round.",
+      "icon": "home"
+    },
+    {
+      "title": "Landscape Maintenance",
+      "description": "Pruning, mulching, and plant care to keep your grounds healthy and professional.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Seasonal Cleanup",
+      "description": "Spring prep and fall cleanup services that prepare your property for every season.",
+      "icon": "fan"
+    },
+    {
+      "title": "Property Enhancement",
+      "description": "Planting, bed renovation, and landscape improvements that boost your curb appeal.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Built for Huntsville businesses",
+    "body": "We're a Huntsville landscaping team that shows up when scheduled and does what we promise. Your property gets the attention it deserves — every single time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What our clients say"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Huntsville and surrounding areas",
+    "subheading": "Professional landscaping services throughout North Alabama",
+    "areas": [
+      "Huntsville",
+      "Madison",
+      "Decatur",
+      "Athens",
+      "Harvest",
+      "Research Triangle",
+      "Jones Valley",
+      "Monte Sano"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to transform your commercial property?",
+    "body": "Get a detailed quote tailored to your property's needs. No surprises, just honest pricing and reliable service you can count on.",
+    "cta_primary": "Request Quote",
+    "cta_secondary": "Call (256) 489-9132"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

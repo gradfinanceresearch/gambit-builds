@@ -1,0 +1,116 @@
+{
+  "business": {
+    "name": "4 Seasons Landscaping & Lawn Service",
+    "phone": "(478) 781-2439",
+    "email": "",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "landscaper",
+    "tagline": "Every season, every yard, done right",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": [
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_uri": "https://maps.google.com/?cid=4525182960138931914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Macon's *Year-Round* Yard Experts",
+    "subheadline": "Spring cleanup to winter prep — we handle what each season throws at your landscape.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Macon Team"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every Season Covered",
+    "subheading": "From spring cleanup to winter protection, we keep your landscape looking its best all year long"
+  },
+  "services": [
+    {
+      "title": "Lawn Care & Maintenance",
+      "description": "Weekly mowing, edging, and trimming to keep your grass healthy and looking sharp.",
+      "icon": "home"
+    },
+    {
+      "title": "Landscape Installation",
+      "description": "New plantings, garden beds, and hardscape features designed for Georgia's climate.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Seasonal Cleanup",
+      "description": "Spring prep, fall leaf removal, and winter protection for your plants and lawn.",
+      "icon": "fan"
+    },
+    {
+      "title": "Irrigation & Drainage",
+      "description": "Sprinkler installation, repair, and drainage solutions to protect your investment.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Four Seasons, One Team",
+    "body": "We're a Macon landscaping crew that understands Georgia's weather. Every season brings different challenges — we're ready for all of them."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon Says"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Macon & Surrounding Areas",
+    "subheading": "Professional landscaping services throughout middle Georgia",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Perry",
+      "Centerville",
+      "Byron",
+      "Forsyth",
+      "Gray",
+      "Milledgeville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Better Landscaping?",
+    "body": "Get your free quote today and see why Macon trusts us with their outdoor spaces year-round.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (478) 781-2439"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

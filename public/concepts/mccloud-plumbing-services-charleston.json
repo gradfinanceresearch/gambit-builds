@@ -1,0 +1,140 @@
+{
+  "business": {
+    "name": "McCloud Plumbing Services",
+    "phone": "(843) 822-6545",
+    "email": "info@mccloudplumbingsc.com",
+    "city": "Charleston",
+    "state": "SC",
+    "industry": "plumber",
+    "tagline": "Charleston's Trusted Plumbing Professionals",
+    "logo_url": "",
+    "google_rating": "5 stars (23 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "google_maps_uri": "https://maps.google.com/?cid=18159553899328977321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When Charleston pipes act up, *we show up*",
+    "subheadline": "Real plumber, real truck, real solutions — not a call center.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "20+ Google Reviews"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every pipe, every fixture, every flow",
+    "subheading": "From kitchen sinks to full repiping — handled right the first time."
+  },
+  "services": [
+    {
+      "title": "Leak Repair",
+      "description": "Stop water damage before it starts. We find the source and fix it permanently.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Drain Cleaning",
+      "description": "Clogs cleared fast with professional equipment. No harsh chemicals.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Repiping & PEX Installation",
+      "description": "Upgrade old pipes to modern PEX. Better flow, fewer problems.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Fixture Installation",
+      "description": "Sinks, toilets, water heaters installed properly the first time.",
+      "icon": "home"
+    },
+    {
+      "title": "Emergency Plumbing",
+      "description": "When disaster strikes, we're ready to respond and restore.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Quinton McCloud",
+    "body": "Charleston plumber who answers his own phone. One call gets you the guy who actually does the work."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Charleston neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Dustin S.",
+      "location": "Charleston, SC",
+      "text": "Quinton was fantastic — excellent communicator, super friendly, and tackled a job that turned out way more difficult than expected.",
+      "rating": 5
+    },
+    {
+      "name": "Kristi S.",
+      "location": "Charleston, SC",
+      "text": "Quintin is great! Went above and beyond for our repair.",
+      "rating": 5
+    },
+    {
+      "name": "Joe M.",
+      "location": "Charleston, SC",
+      "text": "Kitchen remodel plumbing including new sink, rerouted piping, PEX upgrade, and 3 new toilets. Could not be more impressed with the results.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Charleston and surrounding areas",
+    "subheading": "Local plumber for local problems.",
+    "areas": [
+      "Charleston",
+      "Mount Pleasant",
+      "North Charleston",
+      "Summerville",
+      "Goose Creek",
+      "Hanahan",
+      "Isle of Palms",
+      "Folly Beach"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix it right?",
+    "body": "Call the plumber Charleston trusts. Free estimates, upfront pricing, no surprises.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (843) 822-6545"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1A1A2E",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

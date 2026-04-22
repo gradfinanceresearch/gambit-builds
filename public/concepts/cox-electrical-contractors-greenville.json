@@ -1,0 +1,131 @@
+{
+  "business": {
+    "name": "Cox Electrical Contractors",
+    "phone": "(864) 438-2652",
+    "email": "",
+    "city": "Greenville",
+    "state": "SC",
+    "industry": "electrician",
+    "tagline": "",
+    "logo_url": "",
+    "google_rating": "5 stars (2 reviews)",
+    "years_in_business": "",
+    "photo_refs": [
+      "places/ChIJEUWYJTElWIgRQzQVfVm2SXQ/photos/AU_ZVEGXRM1hAiw4VwxE_M7kR4_S8hwb_4D1Gafxzzklb1TaSTj80rPjWYcfJgPqBq8hb72rihzwTyBImK8xB4MYlLfdB7GnCLEdSEvm3KD-AdcgSMM4Jupq-JeWYG7dxsbvhzZgwM7ken97MBTop18YehYj4a11wOcV4nbP2TXQWQp121hVxjNUsz-IAsvek6Ddx_BeRl-KkPLiM223r9ttzuiJsdVBIm2lOVVQkkQher954JdkIs0OoGEBVOHWtSfXlcFkPqMyufCFx1iOabkube8cEy8NQz0XSOR1J3yglq8"
+    ],
+    "hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "google_maps_uri": "https://maps.google.com/?cid=8379429077166404675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Power problems?* We fix them fast",
+    "subheadline": "Licensed Greenville electricians who show up on time and get it done right the first time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Greenville Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every wire, outlet, and panel",
+    "subheading": "Professional electrical services for your home and business"
+  },
+  "services": [
+    {
+      "title": "Panel Upgrades",
+      "description": "Old panel can't handle modern demands? We install new electrical panels that keep up with your power needs.",
+      "icon": "zap"
+    },
+    {
+      "title": "Outlet Installation",
+      "description": "Need more outlets or upgrading to GFCI? We wire new outlets anywhere you need power.",
+      "icon": "plug"
+    },
+    {
+      "title": "Lighting Solutions",
+      "description": "From ceiling fans to under-cabinet lights, we handle all your lighting installation and repairs.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Electrical Repairs",
+      "description": "Flickering lights, dead outlets, or breakers that keep tripping? We diagnose and fix electrical problems.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Greenville's go-to electrical team",
+    "body": "We're a local Greenville electrical contractor that shows up when we say we will. One call, real people answering."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What customers say"
+  },
+  "reviews": [
+    {
+      "name": "Dylan N.",
+      "location": "Greenville, SC",
+      "text": "Had them install a new panel in my house. Did a great job.",
+      "rating": 5
+    },
+    {
+      "name": "Jaime L.",
+      "location": "Greenville, SC",
+      "text": "They were on time, reasonably priced, and got the job done.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Greenville and surrounding areas",
+    "subheading": "Professional electrical services throughout the Upstate",
+    "areas": [
+      "Greenville",
+      "Spartanburg",
+      "Anderson",
+      "Greer",
+      "Simpsonville",
+      "Mauldin",
+      "Taylors",
+      "Easley"
+    ]
+  },
+  "cta": {
+    "heading": "Need an electrician? Let's talk",
+    "body": "Free estimates on all electrical work. Licensed, insured, and ready to solve your power problems.",
+    "cta_primary": "Get Quote",
+    "cta_secondary": "Call (864) 438-2652"
+  },
+  "design": {
+    "primary_color": "#991B1B",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

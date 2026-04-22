@@ -1,0 +1,141 @@
+{
+  "business": {
+    "name": "J&J Cleaning and Lawn Services, LLC",
+    "phone": "(478) 508-2531",
+    "email": "",
+    "city": "Macon",
+    "state": "GA",
+    "industry": "landscaper",
+    "tagline": "",
+    "logo_url": "",
+    "google_rating": "5 stars (34 reviews)",
+    "years_in_business": "",
+    "photo_refs": [
+      "places/ChIJSfxLveb984gR2lxJbZ1k-F0/photos/AU_ZVEGEn4po8fdkooL80My4DEHuRGzgWMNjCXoiV2jdzmVIh6hMJrPqm5c_kumHB_epwpPu8oEVy8vpeA_k2NLmVE1UQ0JcHUj70FeaiVN-nVOpqr1mfMJjAgi8bgHHir0kcPlGgVKXh2RtFqWu50GYD4T8tbW5FM342FyOwtA9Wlm_Eu7988426SSBVVoPn2fQgEZ_7Hrclv9u4WI0go6MGqRRgO5xvGJB5ziJxIpgFdBZhbYZINHSnsLgWl1-sU1iybxavKT3bJ9CQ2U4Ob-zZPyOmPZ41kbQvf5pKCTW8J4Fvw",
+      "places/ChIJSfxLveb984gR2lxJbZ1k-F0/photos/AU_ZVEHQIA_03NCWBW9cWOSy7rTNF2dCJDyEvcn2k47RLAmDvyxD4eA75KLz6GZbGCB9d9VIfefZ8k9OVPuHw1FYvWruirY1krWgFhwU-6FQWFppDAv9YZWeoNwb9rC4k0rHpBRCSQtrDxHN90HGrUtoDFxpQ9L9BfR6NtvU0mUZAKNgjLU5cOiH_aden6TlFTKZi2D3HAHUcrI9rD2f3mARSOqEczHvvgfpqQ29XpaPCPRhh3zujlSg9S-1Cur022aa4moXlGK0NcM9RlxwkVvnJhTkJO86CQYwKRnCOecbP8R5AQ",
+      "places/ChIJSfxLveb984gR2lxJbZ1k-F0/photos/AU_ZVEFvC9l3hqBpn6ICN7tKRgCj3u0--hmL7G9Cy2F-gc6x-hmX4eo5zkqNaJorqrhjXDszncSSkH0PfDOT3qbVjM0wjFBFdvI4ZxNySiu5qzzjXlnHy1MmkDVYqLe4nmvmj_aso20N5GbdBtMnIUmIPqXsIEggvLXROsKzLr9susD1i2Hx-EIESnX4JUYrlqVAx-gcFrVR-bi_QzhP-dm6f7QytZxfKEpwgr4-pDN8h1a4t1pgswIlaFpU28s62kgQrLKLkwuOrDH1j7ODpr5TGiXNO4k3voGRYb52P-WYWG0x9w",
+      "places/ChIJSfxLveb984gR2lxJbZ1k-F0/photos/AU_ZVEE17zmsuZXFtl88Hh8JoPl2dw1dQXRHyrwg4xlSJEOFkVtQZAEBA-orjJVFhOMWOsqwPa4auDua-kPWO4Ky9E_UkTh6PgWLzv_-fR-MoAdsMobs4vGwzHVSMg97jRAll8qc76SciVZM9q4kwZwdwgUR0s4aQgvaMwTlDIOvYJWzKFg9VQAfy7oxzRPUt4BLrDisOkSkApjlFXzCR9rISN65O25higZMIV0cflIGIf5YJiVPlNYqRp4sUPiHM0rf04XycI8mFKCFlfnCZTGZrpsI9f-FBg-DmMgaCrbhPIxo6C36fRw_H5F5Z2w6vX-vMvWr4TSd74Rg-pcyuC7QDM3qyISovhG3g3oMAJJiZChW9jy_6oGRnU5cm-MWrsHAieMViTwTTdbdEvXZk226fnZSjqCE8VcRrNG7nZ-xn_A",
+      "places/ChIJSfxLveb984gR2lxJbZ1k-F0/photos/AU_ZVEFy0LK4GJnTHZVyPLd8KFZNNzQbP4-eCAaaqo6wLpD9FS43oqz7CN_G9KHTeJJeKJ3tkf-gRDu0u6N2lv5mdJZVZyT_oTN8excHR_mheJJ9teH0q_Y-iZtBOVBylSzt99mU4-ZTOT3rU4YnuueHkYc5BHRv4xGjl9gNtHeOONQbhXyZQW-K4krVoNL0cN12dxp__UX9hTmIM9l6k25ibQhdhd5k8xH5Lt4LK8fDyxove5TYDIeU6d0oiYU5WasQtH5_70XOCyD3gzKYEUUfPnI3KryMOHrdQQzASvGatT72tg"
+    ],
+    "hours": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_uri": "https://maps.google.com/?cid=6771272667057708250&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The lawn crew *Macon neighbors* keep calling back",
+    "subheadline": "When other companies ghost you, we show up — same crew, same quality, every single time.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Macon Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Everything your yard needs",
+    "subheading": "From overgrown disasters to weekly maintenance — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Lawn Mowing & Maintenance",
+      "description": "Weekly cuts, edging, and trimming that keeps your grass looking sharp all season long.",
+      "icon": "home"
+    },
+    {
+      "title": "Cleanup & Restoration",
+      "description": "Overgrown yards, tall weeds, brush removal — we tackle the jobs others won't touch.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Bush & Shrub Services",
+      "description": "Trimming, shaping, and removal of unwanted plants that are taking over your space.",
+      "icon": "saw"
+    },
+    {
+      "title": "Property Cleanup",
+      "description": "Complete yard cleanouts and debris removal to get your property back in shape.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Same crew shows up every time",
+    "body": "We're the Macon lawn team that actually keeps their word. When we say we'll be there, we show up."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Macon homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Charlotte L.",
+      "location": "Macon, GA",
+      "text": "Been through so many lawn services before finding Mr. Reese and his crew. They're trustworthy, consistent, and reliable — exactly what I needed for my elderly Mom.",
+      "rating": 5
+    },
+    {
+      "name": "Alysha R.",
+      "location": "Macon, GA",
+      "text": "After two surgeries, my grass was sky-high. These guys cleaned everything up perfectly — mowed, trimmed bushes, pulled weeds, the whole job.",
+      "rating": 5
+    },
+    {
+      "name": "Amanda R.",
+      "location": "Macon, GA",
+      "text": "Best lawn service I've had since moving here. My yard was terrible and no one else would follow through. They kept their word and were incredibly helpful.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Macon and surrounding areas",
+    "subheading": "Quality lawn care throughout Middle Georgia",
+    "areas": [
+      "Macon",
+      "Warner Robins",
+      "Centerville",
+      "Byron",
+      "Kathleen",
+      "Bonaire",
+      "Perry",
+      "Fort Valley"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a yard that actually gets maintained?",
+    "body": "Free quotes, honest pricing, and the same reliable crew every time. Call today and see why Macon keeps choosing J&J.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (478) 508-2531"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "business": {
+    "name": "Ron Handyman",
+    "phone": "(706) 951-0862",
+    "email": "",
+    "city": "Augusta",
+    "state": "GA",
+    "industry": "handyman",
+    "tagline": "The fix-it guy Augusta trusts",
+    "logo_url": "",
+    "google_rating": "4.9 stars (195 reviews)",
+    "years_in_business": "",
+    "photo_refs": [
+      "places/ChIJ0bYWwQ_R-YgRNQCNNC98rlg/photos/AU_ZVEFN_xDUvSvflR7dSPi3VsfqSB0FM6rHHRiAO5_howu3wADE_PE1WrUeebhRpp9aIQRfCg0Xhc75UsYuIBiMgiQuWQQMXjytSd1ehkZ8igT_qOIKrrpNSUkNua_PgRMM6KR9O4FL_Pu9vEGXHWgs8M7FhTxsr3L9_Vts1EB2rcPL9fpFZ0aXpYwHYYuQFIZiSS8riNlWFZk86_mbLgDOBSWHM6zWBaeEudkTPCZN7aws4YPTKAbLkZrX80DXfhcp-Dsm3LSuvBzODc6ztLRAEiVANkpr1slbtBJqr1CZo8CM5mZsBnGitxN2icqhrh2M_q3Sz4BKRxkSwjJxvwrJ1EpYsJUMUN2t52ejpkjPaM0sPYIRtFQeM2XZ6T2Xgig0sLCi5l1V02Wu2ZpmoBnluH5NMXpTjRuqHL7elqbXa_HnvyHF",
+      "places/ChIJ0bYWwQ_R-YgRNQCNNC98rlg/photos/AU_ZVEEz2g0DloG6-lccRzlWEuxdv-tZ7WomTKhSW2eXVilV0XAS5f7VJ_hsaLEhFuYLmx4z_E8jwl208eRJmQDNxOt1m36bg589ylw38aHcNetLpBrkKQTswjr78rEPWO-R_28HC6WK0L3r440i3eVwdOPb-PfBrb6canVyvkS5MuuIUhQTb8sfPnvOduC2Z7LGCVSgJktZjHRVD_Bh8ZKkNKpCCSqfvBf_PZq9dIqa11tolIBJAEtt9ziCceQo91qm8hjOWgpzDDMlj7XyJD-I4RwOpLfdOe7t2KFTQulycn_3Xw",
+      "places/ChIJ0bYWwQ_R-YgRNQCNNC98rlg/photos/AU_ZVEGNxzGb7SXRudaxvVW24LiQdR3pe8vAg4Yd7cpEHK-gTiCKKvf9Dh3p8rsPBQie2a5y5xC8xmeak3wneTCNkbmvdLnxNTTufqIyI1wOnMHa6voiwEiR9VUtZZpHFBOGbdOPocH7-oMy3_cfup1JFU6C2kPycbeT006voeJWM-WAvIcS5vMV2c8gWwfVRBJAf4xyxgaHpsDNTXj-1W-GADb6ozdo3pe9WzIvY5yaBcKeS_q0oPtUXekg419oWzXO3J45QS9o-PrMc8bfZ0pSCQziXQIa1uvMYODhI2UUk1F6Sqa9ndbYuBK7NYPOEM1iAsVuPReJz2reu2kUm4Nmxzzd3vfkqGw4JP2HdqvHI0cR6gSiJuhdb2Bwim279RImTb4Lh4MFC4mog6kR8kn_KFSa-uLi4o3jv_HSBRE2ijVkDQ",
+      "places/ChIJ0bYWwQ_R-YgRNQCNNC98rlg/photos/AU_ZVEFJ-N6cb9f6IPWocu2XDuN3NVY0IxVZA0mCpd3HqEMo1KZVQz5IbxkPalpAhh0pU6aaC12pkvtYFNHnvlwp90cdLXgCqmi6YFNTbI5yah08KMURiL023kKU2HHZ7n9gw1vwDT_B_DTlOq2TgMyXsnFEyz9mxViUQ5Xli-K_pnlA3ZeXwrnvar9AmY1Ivqe9chBykvk5Yk9qxVtNOrdkzxRjS-4aViBQPYnA-wzP-q3uUvW2V96znQAFxrRKPYoCL23k8T2uf-YtE4_YDEXpxjkVs_jAskOED9JRdTNko33wnA",
+      "places/ChIJ0bYWwQ_R-YgRNQCNNC98rlg/photos/AU_ZVEEE9ICfDD-6M6dac5Dkx8JnXLZhy4orTH6XYvaVQG4SKZJY9G4y8avns9WMHIatMefSsiphsDF7RjE1QBq4GPGfaSCiKd2M2OjDfAM4BdlHaS_vv17bCDjGP8aVxf3-pmo03qWBCXiLOEtDGrMk8kRDiVcdWX_mhRrS26nhpoM3JbNdsT5xadIFrGkwakYKzN1inzxPtaeGF_Igar4vSIcHm9QNRuTPJ3r8nThZOTCqIlR3FjAJN5b2omTpYXbDDcUF4P3NmhhKpaLFvPslJRoyTzQk_8BJs2NVXih09_TUOpja0acRSVhmSyp0-sKndSXEYbiBBkepl8s4Gqmq8rTvX2m7ev8QnBnad8dUqvqlQ1wVV88jAKGTh6pD-EBXhwZUaYc-Fv9o37g9iRgyw8ocmAgcvgFMoNxHIVOJsHmCMQkx"
+    ],
+    "hours": [
+      "Monday: 8:00 AM – 9:00 PM",
+      "Tuesday: 8:00 AM – 9:00 PM",
+      "Wednesday: 8:00 AM – 9:00 PM",
+      "Thursday: 8:00 AM – 9:00 PM",
+      "Friday: 8:00 AM – 9:00 PM",
+      "Saturday: 8:00 AM – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "google_maps_uri": "https://maps.google.com/?cid=6390181463472275509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The handyman who *actually* shows up",
+    "subheadline": "Garage storage, door repairs, wall fixes — whatever's on your list, we handle it right the first time.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "190+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Augusta Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "From small repairs to bigger projects",
+    "subheading": "One call handles it all"
+  },
+  "services": [
+    {
+      "title": "Door Installation & Repair",
+      "description": "Interior doors, exterior doors, trim work. Proper installation with attention to detail.",
+      "icon": "home"
+    },
+    {
+      "title": "Wall & Drywall Repair",
+      "description": "Holes, cracks, damage from pets or accidents. Make it look like new again.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Garage Storage Solutions",
+      "description": "Ceiling-mounted shelves, bike pulleys, organization systems. Get your space back.",
+      "icon": "wrench"
+    },
+    {
+      "title": "General Home Repairs",
+      "description": "The odd jobs and fix-it tasks that pile up. We knock them out efficiently.",
+      "icon": "ruler"
+    }
+  ],
+  "about": {
+    "heading": "Augusta's go-to handyman",
+    "body": "We're the Augusta team that shows up when we say we will. Real fixes, fair prices, no run-around."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Augusta neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Taylor D.",
+      "location": "Augusta, GA",
+      "text": "Ron did a fantastic job! Got us in within a week for ceiling-mounted storage and bike pulleys. Meticulous installation, kind and punctual.",
+      "rating": 5
+    },
+    {
+      "name": "Nicole W.",
+      "location": "Augusta, GA",
+      "text": "Fixed a door and other odds and ends. Highly skilled, fair price, great communicator. On time and professional.",
+      "rating": 5
+    },
+    {
+      "name": "Zyreena B.",
+      "location": "Augusta, GA",
+      "text": "Ron is a miracle worker! My dog damaged windows and chewed a hole in the wall. Made my sunroom look brand new!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Augusta and surrounding areas",
+    "subheading": "Local handyman for local projects",
+    "areas": [
+      "Augusta",
+      "Evans",
+      "Martinez",
+      "Grovetown",
+      "Harlem",
+      "Thomson",
+      "Waynesboro",
+      "Louisville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to cross things off your list?",
+    "body": "Call Ron for your next repair project. Upfront pricing, quality work, no hassles.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (706) 951-0862"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#F97316",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

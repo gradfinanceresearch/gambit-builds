@@ -1,0 +1,141 @@
+{
+  "business": {
+    "name": "Alvarez Painting Inc",
+    "phone": "(631) 512-7769",
+    "email": "",
+    "city": "Huntsville",
+    "state": "AL",
+    "industry": "painter",
+    "tagline": "Precision painting and drywall repair",
+    "logo_url": "",
+    "google_rating": "5 stars (25 reviews)",
+    "years_in_business": "",
+    "photo_refs": [
+      "places/ChIJZVd3qICXj0URzOR66-o2KZY/photos/AU_ZVEF8hKVrVwFZTtP4OyCbJKKCwcspK5A7k1Y2yFvbpasGKTPJWJ37mMjT9B1xkXJGKACn2xO5BF4elMmT5fCwGtslwnxPf1rbxy9AQcu3qjgQSlG1mivsvX0OKKqDvU5MBmtYsJhEJMuerMGgMtBHh3v2sTWj90L3LFFNDRDx6QMLPaU-5DzQla_OlJI31FSH84QmAAc-Nf4jYckjka9hmOQcKpYKkiNCe6yhYPcfVP0vgECWKxbEftp86fhCze4rsjuVGvj3qSgPXQPitytBB4qApzz4SB48t7dJG-bx1_wxOA",
+      "places/ChIJZVd3qICXj0URzOR66-o2KZY/photos/AU_ZVEGiW7iGQao83peWz8jFSEucWRjIPDPTtsoch68stTug4uDLrjPL2O2EWg_qbSn81a8aM5SbJaxSI3jjUi0NDbnD1EXE-qOH4amx379GP9PloibIevUf-3lguv6gbqMbkVQshluwKbH1w3xo0YWWRNzYKaP_fi_5B6-A5WqM2Suh_m4BtBU8H655i-e3ksuCpvtPckzGDrlEvsdJbwCCnc_OSDpXagxfjspPg2pQVwE-B6Z102QnrwZfjZeCJfGsaeWIKnSMAT88t0YuILIUaXLyjKI8psFUePwD3s1VKv2GMw",
+      "places/ChIJZVd3qICXj0URzOR66-o2KZY/photos/AU_ZVEFYYtMEx_ZYEbi7UBXAaOPPu12yET-eHtSK-W9UUbGK_w143uTOyb7oUxvJ3VSNAyy0ANBeSjeahjp286NTWUnu_wyl9SRxfqn2nFmsunO6uPHIT-H5bQJqtv7PASnu7Lk1Ab4GXP3tZTyVzV9NAMwdaiDWOL5Nkty9URxCfHtnsYVvY3YSVyohBEDJLFf1EjUOMfmgzp8Kdf8QSGraqHJTRb6E6JAwTvCf8GRmjQFLgLmil27DXnc1_zy6Bozd9KYNvnaWWeCVtU-H6ldDOVTNTR_HgEgrppSEFG1phb5Viw",
+      "places/ChIJZVd3qICXj0URzOR66-o2KZY/photos/AU_ZVEHIiihCHeN56XJpxei7oPzJEy_NIoM8fx-pL9iZi18ULBuvAuVdo0dY3z-BB6FxX6w0l9kBi2iAXY2bgqGocTIcbq6hBqDLBDrq0uWsQy3BE493PQTDXdpjc0iQpL_57fUxviW_y7Ot2QJcwH-BoRgsb_0YmNWbeErnLvFZMYRv12ZHkSdG96Euksc18FyWfrQE18XW4txhXQmoL698AaapKcbpuEELpPuQtTg2TCn3TtRejduUO7CMm0cOj45eceGFBIgA5Bv0GEhgm_CPT1WIQ9HgQsiDgfYLPcqHuQyqZg",
+      "places/ChIJZVd3qICXj0URzOR66-o2KZY/photos/AU_ZVEG7IrvJmqlgynzVHSq51Nfn4A7Nlmt5GxjrTWqrsxXRynnhkPwhrmI10qaxIQ8L2G_KOMyA3WLiB3GO1R67vrNCMg2FjL_Nc9SRhJqrF1kUYzcUnXid-6DPqhigxitsZiXvMX4mbcjvg_bSSSfcxSpJAWES0FrYrwq-s2xQzHPmGvO2YklsCkq6kPnrFdjicZi-OAR3K-hvhU4m3KpORnev1ik0ZPLko5NswvP4R4cMOQ4DiOCvzDx1az0gHiDfGqjL1jB0Ifh5z4-a2q0Bhk7IOQ5T2UoNcSCCCNyDyiCxPA"
+    ],
+    "hours": [
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 7:00 AM – 8:00 PM",
+      "Sunday: Open 24 hours"
+    ],
+    "google_maps_uri": "https://maps.google.com/?cid=10820239962335274188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Every brush stroke* counts in Huntsville",
+    "subheadline": "From drywall repairs to perfect paint matches — Jose and his crew handle it all with exceptional attention to detail.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "20+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Huntsville Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Interior & Exterior Excellence",
+    "subheading": "Complete painting services with drywall repair expertise"
+  },
+  "services": [
+    {
+      "title": "Interior Painting",
+      "description": "Walls, ceilings, and trim painted with precision. We handle prep work, nail pop repairs, and color matching.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Exterior Painting",
+      "description": "Weather-resistant finishes that protect and beautify your home's exterior surfaces.",
+      "icon": "home"
+    },
+    {
+      "title": "Drywall Repair",
+      "description": "From water damage to nail pops, we fix it right before painting so you can't tell there was ever a problem.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Color Matching",
+      "description": "Perfect paint matches for touch-ups and repairs. We match existing colors flawlessly.",
+      "icon": "lightbulb"
+    }
+  ],
+  "about": {
+    "heading": "Built on Quality Craftsmanship",
+    "body": "Jose leads a crew that takes pride in every detail — from thorough prep work to spotless cleanup. We're the Huntsville painters who show up early and stay until it's perfect."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Huntsville Says"
+  },
+  "reviews": [
+    {
+      "name": "Denise S.",
+      "location": "Huntsville, AL",
+      "text": "Jose and his crew do outstanding work. Very professional with exceptional quality. They clean up everything when finished, even wiping down doorknobs.",
+      "rating": 5
+    },
+    {
+      "name": "Kati L.",
+      "location": "Huntsville, AL",
+      "text": "Amazing service — professional, efficient and high quality! Painted 1000sf walls, ceilings and trim in 4 days plus fixed all our drywall nail pops.",
+      "rating": 5
+    },
+    {
+      "name": "Phillip C.",
+      "location": "Huntsville, AL",
+      "text": "Fixed water leak damage in my living room — repaired the sheetrock and painted perfectly. You can't tell where the leak was and the paint match is flawless.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving North Alabama",
+    "subheading": "Professional painting throughout the Tennessee Valley",
+    "areas": [
+      "Huntsville",
+      "Madison",
+      "Decatur",
+      "Athens",
+      "Scottsboro",
+      "Arab",
+      "Guntersville",
+      "Albertville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for exceptional painting work?",
+    "body": "Jose and his crew are ready to transform your space with the same attention to detail that earned them perfect 5-star reviews.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Today"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#F97316",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

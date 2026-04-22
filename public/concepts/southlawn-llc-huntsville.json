@@ -1,0 +1,137 @@
+{
+  "business": {
+    "name": "Southlawn LLC",
+    "phone": "(256) 679-9867",
+    "email": "",
+    "city": "Huntsville",
+    "state": "AL",
+    "industry": "landscaper",
+    "tagline": "Your Huntsville lawn care team",
+    "logo_url": "",
+    "google_rating": "5 stars (26 reviews)",
+    "years_in_business": "",
+    "photo_refs": [
+      "places/ChIJpVnnEhBMwIQRNfR5Xkdl1Zk/photos/AU_ZVEEO5foNW3ATHnD1SOjYNuJJKLLD10FIj9j2kIvVMWwpobJwAqyQaPOrZaRd9MkwHiYHYtb-f27qn9HJZIMIWIlzV1prOqlumOaj1apEBtyp-9XTmGKijvdj4bIn0LT_G7mkmnI9nmsjYdfAQuvvrGIOUHD16jvcmlmpH_QEVf_ngf1G7s0LTbmjukQnhyVoQHfydMkIByT9CUiFrneb19C9qE0Tv2DoCOb2uaRa9ETG8adH-jZKOKMNYOITzBMqnuzudhYbd0EdK_5sAoo0w-YtC8-D7lK0CEt16Gz-1aZMcg"
+    ],
+    "hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Closed"
+    ],
+    "google_maps_uri": "https://maps.google.com/?cid=11084877415044478005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Best lawn in the *neighborhood* — guaranteed",
+    "subheadline": "Call ahead, show up on time, get results. That's how we do lawn care in Huntsville.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "25+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Huntsville Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Lawn, Pest & Weed Control",
+    "subheading": "Three services, one team, one call"
+  },
+  "services": [
+    {
+      "title": "Lawn Care & Treatment",
+      "description": "Fertilization, aeration, and seasonal treatments to keep your grass healthy and thick.",
+      "icon": "home"
+    },
+    {
+      "title": "Pest Control",
+      "description": "Targeted treatments for insects and pests that damage your lawn and landscape.",
+      "icon": "shield"
+    },
+    {
+      "title": "Weed Control",
+      "description": "Pre-emergent and post-emergent applications to eliminate weeds and prevent new growth.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Lawn Analysis & Planning",
+      "description": "We identify problem areas and create a treatment plan specific to your yard's needs.",
+      "icon": "lightbulb"
+    }
+  ],
+  "about": {
+    "heading": "Knowledge & Pride",
+    "body": "We're a Huntsville lawn care team that takes pride in what we do. Professional service, fair pricing, and results you can see from the street."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Huntsville Says"
+  },
+  "reviews": [
+    {
+      "name": "Brian M.",
+      "location": "Huntsville, AL",
+      "text": "Very knowledgeable, professional and take pride in what they do. Lawn, pest and weed control services at low cost. Would recommend them as your lawn service providers.",
+      "rating": 5
+    },
+    {
+      "name": "Dan W.",
+      "location": "Huntsville, AL",
+      "text": "Professional and knowledgeable. They call ahead and show up on time. Promptly respond to calls and employees are friendly.",
+      "rating": 5
+    },
+    {
+      "name": "Terrence B.",
+      "location": "Huntsville, AL",
+      "text": "Will have your yard looking the best in your neighborhood! Service is top notch and the professionalism is the best I've seen!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Huntsville & Beyond",
+    "subheading": "Professional lawn care throughout North Alabama",
+    "areas": [
+      "Huntsville",
+      "Madison",
+      "Decatur",
+      "Athens",
+      "Meridianville",
+      "Harvest",
+      "Hampton Cove",
+      "Research Park"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for the best lawn on your block?",
+    "body": "Free quotes, honest pricing, and results you can see. Call today and join the neighbors who already know us.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (256) 679-9867"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Merriweather",
+    "font_body": "Source Sans 3",
+    "layout_variant": "stacked"
+  }
+}

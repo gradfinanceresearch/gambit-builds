@@ -1,0 +1,140 @@
+{
+  "business": {
+    "name": "Halo Heating & Cooling",
+    "phone": "(615) 383-4822",
+    "email": "",
+    "city": "Nashville",
+    "state": "TN",
+    "industry": "HVAC",
+    "tagline": "Nashville HVAC repair and installation",
+    "logo_url": "",
+    "google_rating": "4.7 stars (135 reviews)",
+    "years_in_business": "",
+    "photo_refs": [
+      "places/ChIJX9V7WvNhZIgRnwbq3ky8_rk/photos/AU_ZVEH600F4erH_3P-5vCbb55GJ1OE207w9eKfhe96SYhc0tOv3OoaazPVT2NsGiPOGrPD6P9VjTTF1N4iDGVlqWIrPF06qe2DIJBVgWeiXzxK9WVxU3Pu7WwMj--O3uuX_vmZTwT5IoaTVPnmn-ayM3YZ-_F-Y-Nb5xHtZ3Bnim-A6qg1uWa5MoUS6ArBRYEJUyvosr2Zta6OjBOM4xDKo7dyBK9QjZjMnhQGl1h-PCHWBFBtgXUDigLVC03QxHN8Y0eqM7iYWKdfcwv3zdOGPq7FsnnA29tMhu64YKKlT0_c-JZOoMraOrKI6FpqjSxKH5R_9dRFBwkEwvBRJtNJa4Y6txYc3b82kulPwJGgsGtQMYUudzyCm_xsfuGlKwRt7_RuOSDXv6aOVOmHgu0v6m5k6inT4hLrNCAp0jWCgrvWIJA",
+      "places/ChIJX9V7WvNhZIgRnwbq3ky8_rk/photos/AU_ZVEFulv5wBW2Ebmn45O-57t0kIiUt6jVIPINRLZ02PHdAR-JAWDXMG9gB02rJbxKU73pbWcrauGIiv2WCz2YxvuXONR5m3WZInDttvi4hNA63MlQUATtX-bYHYumNuS32J3e6UXJ1DRPAaIT7F1aOBqLO1RXg4pnaBUAjGpN3e0I-3GrnAo4Rdgl2cO4W-ysAXwoG9_zRy6rgipid3SSxXqhHvF3jspX2pwn4Tur-Vjh7_87b4pf06GE97GoxoeEXKtKteCs10Wo_LrvyZtM2GFxsQqqpeAYTzjYdKxkrUJ5arQ",
+      "places/ChIJX9V7WvNhZIgRnwbq3ky8_rk/photos/AU_ZVEFxnaG4T14VwtmeMSjEXq01mSHmSfsCl9VNsombgJXsMzlcxDBFFs2pKSAkiwJVq6bl3nM1Li69ZA0UjbkmcpsQr_N_O9VuhmGM9g3ySnba-CLgIYYW_bbw8GltRER3fRhOBnHch8gxeECD5FXaOtz8FbU9e6O3PP1ZP46GACSWawTnupwYvEvTSAoCHvDzwBt060H6ebbAfuCohDOKKhc81UmLnP5dFVYX-RIe1KYkhh3hLNT16RH-fM7qro77tnwMdZ2W-jtn9j_1cE6689JzU3MGPKnMED6HL_aX26Bz6w",
+      "places/ChIJX9V7WvNhZIgRnwbq3ky8_rk/photos/AU_ZVEGaHm3SvXGoC8Y160Cm3Q-capvULzzHCWyBAoUKky-ekIPlnTnmQqAGzwAIltcDAnV85lJx7eExF2hV6AyXorObyeast-oKhtQg2xtbt-7Cd94-dD3gWwMEOmlSLxDPcK_pZSPeUDvxcFbDr6p8s77xfMebQQa94VFU13TSOOe1soI6puqfSS5NvIu1l0i0od5fhpC9OVo2kqri0QSW2oZF45FP0gSu0iWTVlRUWpv4QPlgpIHXco_J1VR5nzz-MqQZ2fONrNlMwhMSO1MicJn4ZdfQYTW_aWzveinZh7hZwA"
+    ],
+    "hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "google_maps_uri": "https://maps.google.com/?cid=13402356579444590239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Nashville's HVAC team that *shows up early*",
+    "subheadline": "When your system quits, we don't. Real techs, not salespeople trying to upsell you on $11K duct replacements.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.7★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "130+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Nashville Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "AC, Heat, and Everything Between",
+    "subheading": "From ancient units to brand new installs — we handle it all"
+  },
+  "services": [
+    {
+      "title": "AC Repair & Service",
+      "description": "Compressor died? Not blowing cold? We'll diagnose the real problem and fix it right the first time.",
+      "icon": "fan"
+    },
+    {
+      "title": "Heating System Repair",
+      "description": "Heat pump acting up or furnace on the fritz? We service all makes and models, from newer units to the ancient ones.",
+      "icon": "flame"
+    },
+    {
+      "title": "HVAC Installation",
+      "description": "New unit installations with same-day turnaround when possible. Clean work, no surprises.",
+      "icon": "home"
+    },
+    {
+      "title": "Smart Thermostat Install",
+      "description": "Nest, Honeywell, Ecobee — we'll get your smart thermostat wired up and working properly.",
+      "icon": "thermometer"
+    }
+  ],
+  "about": {
+    "heading": "Straight Talk, No Upsells",
+    "body": "We're the Nashville HVAC team that shows up on time and tells you what you actually need. No high-pressure sales, no inflated estimates."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Nashville Says"
+  },
+  "reviews": [
+    {
+      "name": "Melinda S.",
+      "location": "Nashville, TN",
+      "text": "AC quit on Sunday, called Monday morning and they had someone out that afternoon. Quick response when I needed it most.",
+      "rating": 5
+    },
+    {
+      "name": "J G.",
+      "location": "Nashville, TN",
+      "text": "Nest thermostat install exceeded expectations. Got me in within 3 days, tech arrived early and was ultra polite. Great person who explained everything.",
+      "rating": 5
+    },
+    {
+      "name": "Donna Y.",
+      "location": "Nashville, TN",
+      "text": "Other company wanted $11K for duct replacement. Halo gave me an honest assessment and saved me thousands. No sales pressure.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where We Work",
+    "subheading": "Serving Nashville and surrounding communities",
+    "areas": [
+      "Nashville",
+      "Franklin",
+      "Brentwood",
+      "Murfreesboro",
+      "Hendersonville",
+      "Mount Juliet",
+      "Smyrna",
+      "Antioch"
+    ]
+  },
+  "cta": {
+    "heading": "System Acting Up? We're Ready",
+    "body": "Fast diagnosis, honest pricing, and work that lasts. Call now or request your free estimate online.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (615) 383-4822"
+  },
+  "design": {
+    "primary_color": "#065F46",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

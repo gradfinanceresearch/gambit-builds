@@ -1,0 +1,138 @@
+{
+  "business": {
+    "name": "Andrade's Painting",
+    "phone": "(256) 288-4985",
+    "email": "",
+    "city": "Huntsville",
+    "state": "AL",
+    "industry": "painter",
+    "tagline": "",
+    "logo_url": "",
+    "google_rating": "4.9 stars (22 reviews)",
+    "years_in_business": "",
+    "photo_refs": [
+      "places/ChIJa87e_clrYogRYVbTR0Fiw78/photos/AU_ZVEHHklZRtaL13HdOTZvYKnyy3kXtbfIDpl8PjYmXS8wnenBITjPwijTEXTQrceeDHOj5zuiPaT71K-5cfIxeG5WsJQJsIqJRaCDKIXX6Z0SbVFGMIclX2oHXGFdLIrmOQL1wR5ul_U6Z6nKUqo6TfR3lFtsYk4P_E-y07jwrC0egJLNMwxGC4U4r-qUepIRYauR-R6eDkU0B6bW3FCRmXp8k5AMf4hG9BZmTbZZnrKwE_k14UHyyhGT7-8XKRyt5T96B3Rmfel6tgA3lXH_rGcIQGGXlAIMLbaRQGV70oUOWaA",
+      "places/ChIJa87e_clrYogRYVbTR0Fiw78/photos/AU_ZVEGmJVaz0vMPKRh2zIm7AvEXI5Gn2jXz513_0j_fPWiD02LP9VQVuV5dKXhlDidk8aOBfm1VP3nYdI4Gvt0ZEHi422vqa5oglCC7e1P6A-rra1XUjgpxjbKE-aICAYq9t_BbJ-NCmU4lzaRHrBalQQEpw5nGGam_aEGOY1ziZdVZQxDUWMLXwnBKe1p4qBUiNyog561_cF9e3L9oyn37YuwyHpjRU7VlZRfYQ4nQIImT8c9eWT24RDG4zn-IcY0knLbFBTxmrnMY6pEqhbqNGRKPQyRHIgjR4-SnrRwAGTDzfA",
+      "places/ChIJa87e_clrYogRYVbTR0Fiw78/photos/AU_ZVEHYozbqllf4iJQ7c8COsOiUNR3-Smwhud08Mgeax0WmsYhuG-4oScCoO1XSnFGSqKpzd48nDQQhgeDp5BCifdD0brnpirACjmFpOLBXcBZ1sdt5_o-WUn9lSTQY7rJYesHjcG-4ajPKpoqEvOhWsE5qKY2YXBX8KBHvw_neErj_ipUfErRX8gJ4P0FoERCTauUp7vSU7CFbq2R9qhinQ-fOehC5QaFmheWr3SMeRQDQpS1ac1tZoiFM2jpER1ajJRW-kQB43HuCF_Bc_Ivhnk8Va4f1fCZt_ndBMgI0tygMcQ",
+      "places/ChIJa87e_clrYogRYVbTR0Fiw78/photos/AU_ZVEHfAqNAOEIf4ZmI0EURHdqD33opGEsayQNwZIdPeIlVCJ_k7x_afoDFSPYtV0pTYgQ0vxPGmSYcs0eajxcd7PL0v-BHLqQ0BEEYZM9BK9QImXP1aOAcjzhijRypBCW-F0dtVTxvInjupH1SEKpqucYlMgikp2fdkKeSfKr4mw4G5uvvvu12dRRtGwgQUuWY0_UnPbT6-aZJtDZBNtXxn9nc3mUl3n0nb9WtkUI_8-v4jPBAX4fk92i7OXeNNy2ELRQgWEA12HH7VyFKfwSAuO-i1kBQKax15AISeG8jf3tE9w",
+      "places/ChIJa87e_clrYogRYVbTR0Fiw78/photos/AU_ZVEG_lfF7l2xNNOr48NPy1fWgN4JaBM3obhri61bxFLS7mAVkNGhzXEcll8mGU-MfrffGGd55Z7sJlBN6dTDJSJUbp0wrRBQrkhUqWZHZOYIk3KPlwN6zdrIZz6OZiWDljLh8hkmb1-3JUiwfsifhKmpficYHU4O7TOPCGo52lOxV7s_PyTeI5nVRdMpSXAa-jBg_kcRv736hHAptJwNGGr4ar942PH76iZYKhreErX1ghlS9YF5BdE4teT9NRJzUKLtEGzyhzrY1Jxo7W0RE2OIIXjZob9iCfHH1MaWy6dRrbg"
+    ],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=13817996114220242529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Huntsville's *meticulous* painting crew",
+    "subheadline": "Every surface prepped right, every edge clean, every day on schedule.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "20+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Huntsville Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Interior & Exterior Painting",
+    "subheading": "From single rooms to whole houses — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Interior Painting",
+      "description": "Transform your home's interior with professional painting services including walls, ceilings, trim, and accent features using premium paints and expert techniques.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Exterior Painting",
+      "description": "Protect and beautify your home's exterior with weather-resistant paints and professional application for siding, trim, doors, and shutters.",
+      "icon": "home"
+    },
+    {
+      "title": "Cabinet Refinishing",
+      "description": "Refresh your kitchen and bathroom cabinets with expert refinishing services, including sanding, priming, and applying durable finishes.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Pressure Washing",
+      "description": "Prepare surfaces for painting and maintain your property's appearance with professional pressure washing for driveways, decks, and exterior surfaces.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Drywall Repair",
+      "description": "Complete drywall repair and patching services to ensure smooth, flawless surfaces before painting applications.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Sergio & His Crew",
+    "body": "We're a Huntsville painting team that shows up every morning ready to work. Meticulous prep, clean execution, and your project done when we say it will be."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Huntsville Says"
+  },
+  "reviews": [
+    {
+      "name": "Nancy R.",
+      "location": "Huntsville, AL",
+      "text": "Great communication and completed job on time. Work was clean and excellent for our theater room. Highly recommend and we'll use them again.",
+      "rating": 5
+    },
+    {
+      "name": "Brendan K.",
+      "location": "Huntsville, AL",
+      "text": "Sergio and his team were awesome. Very prompt and professional. Had our fence and pergola stained — not a speck of stain anywhere it shouldn't be.",
+      "rating": 5
+    },
+    {
+      "name": "Barbara M.",
+      "location": "Huntsville, AL",
+      "text": "Came highly recommended by a neighbor for kitchen cabinets and bathrooms. Reasonable estimate, arrived promptly every morning, meticulously prepped everything.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving North Alabama",
+    "subheading": "Professional painting throughout the Tennessee Valley",
+    "areas": [
+      "Huntsville",
+      "Madison",
+      "Decatur",
+      "Athens",
+      "Albertville",
+      "Scottsboro",
+      "Guntersville",
+      "Arab"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get started?",
+    "body": "Call Sergio for a free estimate. We'll walk through your project and give you honest, upfront pricing.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (256) 288-4985"
+  },
+  "design": {
+    "primary_color": "#9A3412",
+    "accent_color": "#059669",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

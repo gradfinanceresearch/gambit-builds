@@ -1,0 +1,115 @@
+{
+  "business": {
+    "name": "Harrison Remodeling and Construction",
+    "phone": "(859) 339-6360",
+    "email": "info@harrisonsconstruction.com",
+    "city": "Huntington",
+    "state": "WV",
+    "industry": "concrete contractor",
+    "tagline": "Built to Last",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=4669339021582893480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Concrete That *Actually* Lasts",
+    "subheadline": "From driveways to foundations — we pour it right the first time.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Huntington Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE POUR",
+    "heading": "Every Pour Matters",
+    "subheading": "From your driveway to your foundation — we get it level, strong, and finished right."
+  },
+  "services": [
+    {
+      "title": "Driveways & Walkways",
+      "description": "Smooth pours that handle West Virginia weather and heavy loads. Proper drainage built in.",
+      "icon": "home"
+    },
+    {
+      "title": "Foundation Work",
+      "description": "Level foundations and basement floors. We dig it right and pour it stronger.",
+      "icon": "brick"
+    },
+    {
+      "title": "Patios & Slabs",
+      "description": "Backyard patios and garage slabs. Reinforced concrete that won't crack or settle.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Concrete Repair",
+      "description": "Fix cracks, level sunken sections, and restore old concrete to working condition.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Built for Huntington",
+    "body": "We're a Huntington concrete team that shows up when we say we will. One call gets you real answers and honest pricing."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Neighbors Say"
+  },
+  "reviews": [
+    {
+      "name": "Elizabeth S.",
+      "location": "Huntington, WV",
+      "text": "Incredibly responsive and reasonably priced. Could not be happier with the quality of their work and would recommend them to anyone.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving the Tri-State",
+    "subheading": "Concrete services throughout Huntington and surrounding communities.",
+    "areas": [
+      "Huntington",
+      "Barboursville",
+      "Hurricane",
+      "Wayne",
+      "Kenova",
+      "Chesapeake",
+      "Proctorville",
+      "Ironton"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Pour Your Project?",
+    "body": "Get a straight answer and honest quote. No games, no surprises.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (859) 339-6360"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bebas Neue",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

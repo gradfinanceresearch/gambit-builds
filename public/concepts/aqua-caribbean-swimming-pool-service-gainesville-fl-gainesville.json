@@ -1,0 +1,126 @@
+{
+  "business": {
+    "name": "Aqua Caribbean Swimming Pool Service, Gainesville FL",
+    "phone": "(352) 505-0859",
+    "email": "thomas@aqua-caribbean.com",
+    "city": "Gainesville",
+    "state": "FL",
+    "industry": "pool service",
+    "tagline": "Crystal clear pools, guaranteed",
+    "logo_url": "",
+    "google_rating": "3.2 stars (13 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=8405320253670716874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "From *pond green* to crystal clear",
+    "subheadline": "When your pool needs serious help, we show up with the right tools and get it done.",
+    "cta_primary": "Get Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "star",
+      "text": "3.2★ on Google"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Pool cleaning that works",
+    "subheading": "From regular maintenance to complete rescues"
+  },
+  "services": [
+    {
+      "title": "Pool Cleaning & Maintenance",
+      "description": "Weekly cleaning, chemical balancing, and equipment checks. Keep your pool swim-ready all season.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Green Pool Recovery",
+      "description": "Turn that swamp back into a swimming pool. We handle the worst cases and get results.",
+      "icon": "shield"
+    },
+    {
+      "title": "Equipment Repair",
+      "description": "Pumps, filters, and motors fixed right the first time. No guesswork, just solutions.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Chemical Balancing",
+      "description": "Perfect pH, alkalinity, and chlorine levels. Safe water that feels good on your skin.",
+      "icon": "thermometer"
+    }
+  ],
+  "about": {
+    "heading": "Pool service done right",
+    "body": "We're a Gainesville pool service team that shows up when we say we will. One call gets you clear water and working equipment."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What customers say"
+  },
+  "reviews": [
+    {
+      "name": "James H.",
+      "location": "Gainesville, FL",
+      "text": "Pool looked like a pond for 2.5 years with frogs and everything. Thomas showed up on time and got it crystal clear.",
+      "rating": 5
+    },
+    {
+      "name": "Smelly D.",
+      "location": "Gainesville, FL",
+      "text": "My pool has never looked so inviting. Very pleased with how Thomas got my green pool crystal clear.",
+      "rating": 5
+    },
+    {
+      "name": "Aaron L.",
+      "location": "Gainesville, FL",
+      "text": "Very professional and pays attention to detail. They go above and beyond for pool service needs.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving North Central Florida",
+    "subheading": "Pool service throughout the Gainesville area",
+    "areas": [
+      "Gainesville",
+      "Alachua",
+      "High Springs",
+      "Newberry",
+      "Archer",
+      "Hawthorne",
+      "Micanopy"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a clean pool?",
+    "body": "Free estimates on all pool cleaning and repair work. Call today and get your pool back.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (352) 505-0859"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

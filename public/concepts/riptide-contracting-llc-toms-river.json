@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Riptide Contracting LLC",
+    "phone": "(732) 773-4510",
+    "email": "cameron@riptidecontractors.com",
+    "city": "Toms River",
+    "state": "NJ",
+    "industry": "concrete contractor",
+    "tagline": "Built to Last",
+    "logo_url": "",
+    "google_rating": "4.8 stars (22 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=13613490707755423419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Concrete that *stands the test* — every pour, every time",
+    "subheadline": "From stamped patios to pool decks, we build what your neighbors compliment",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.8★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "20+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Toms River Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "What We Pour",
+    "subheading": "Every project starts with solid ground and ends with concrete that lasts"
+  },
+  "services": [
+    {
+      "title": "Stamped Concrete",
+      "description": "Custom patterns and textures that turn ordinary concrete into something neighbors notice.",
+      "icon": "brick"
+    },
+    {
+      "title": "Pool Decks & Patios",
+      "description": "From tear-out to finish, we handle the whole job. Non-slip surfaces built for Jersey weather.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Driveways & Walkways",
+      "description": "Smooth pours with proper drainage. Built to handle traffic and freeze-thaw cycles.",
+      "icon": "home"
+    },
+    {
+      "title": "Pavers & Coping",
+      "description": "Complete hardscape solutions. We rip out the old and install systems that work together.",
+      "icon": "ruler"
+    }
+  ],
+  "about": {
+    "heading": "Built Right the First Time",
+    "body": "We're the Toms River concrete crew that shows up when we say we will. One call, one team, one solid result."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What People Say"
+  },
+  "reviews": [
+    {
+      "name": "Karen K.",
+      "location": "Toms River, NJ",
+      "text": "Exceptional experience with Eric and the crew. All questions answered, made the whole process easy. Absolutely love my concrete patio.",
+      "rating": 5
+    },
+    {
+      "name": "Derek S.",
+      "location": "Toms River, NJ",
+      "text": "Riptide has done several jobs for me, but my favorite is the stamped concrete in my backyard. Always get compliments on it.",
+      "rating": 5
+    },
+    {
+      "name": "Philip C.",
+      "location": "Toms River, NJ",
+      "text": "Eric is awesome. Use him all the time for concrete and pavers — always great quality work. Great company, great prices.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where We Work",
+    "subheading": "Serving Ocean County and surrounding communities",
+    "areas": [
+      "Toms River",
+      "Brick",
+      "Point Pleasant",
+      "Lakewood",
+      "Jackson",
+      "Manchester",
+      "Berkeley",
+      "Seaside Heights"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Pour?",
+    "body": "Free estimates on all concrete work. Call today, pour tomorrow.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (732) 773-4510"
+  },
+  "design": {
+    "primary_color": "#065F46",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Amerilogic",
+    "phone": "(301) 676-9234",
+    "email": "wmrcl@hagerstownpd.org",
+    "city": "Hagerstown",
+    "state": "MD",
+    "industry": "HVAC",
+    "tagline": "Hagerstown's HVAC experts",
+    "logo_url": "",
+    "google_rating": "5 stars (146 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=13073011412339903669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your heat dies at *midnight*, we answer",
+    "subheadline": "Hagerstown HVAC team that shows up when we say we will — even Friday nights",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "140+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Hagerstown Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every System, Every Fix",
+    "subheading": "From emergency repairs to complete installations"
+  },
+  "services": [
+    {
+      "title": "Emergency HVAC Repair",
+      "description": "System down? We diagnose fast and fix it right the first time.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Heating System Service",
+      "description": "Furnace repairs, heat pump service, and winter tune-ups.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Air Conditioning Repair",
+      "description": "AC not cooling? We handle everything from simple fixes to full replacements.",
+      "icon": "fan"
+    },
+    {
+      "title": "Complete System Installation",
+      "description": "New HVAC systems sized right for your home and installed clean.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "One Call Gets It Done",
+    "body": "We're the Hagerstown HVAC team that actually picks up the phone. Real techs, not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Hagerstown Says"
+  },
+  "reviews": [
+    {
+      "name": "Evan &.",
+      "location": "Hagerstown, MD",
+      "text": "Alder was responsive and compassionate when my mother-in-law's heat wasn't working. He came out Friday evening and worked diligently to fix the issue.",
+      "rating": 5
+    },
+    {
+      "name": "Koy E.",
+      "location": "Hagerstown, MD",
+      "text": "Exceptional job fixing my heating system! Timely, professional, and efficient. Great communication and very respectful of my home.",
+      "rating": 5
+    },
+    {
+      "name": "Vincent T.",
+      "location": "Hagerstown, MD",
+      "text": "Alder and gang rocks! Beyond overjoyed with the finished product. Clean, quick and knowledgeable work.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where We Work",
+    "subheading": "Serving Hagerstown and surrounding communities",
+    "areas": [
+      "Hagerstown",
+      "Martinsburg",
+      "Chambersburg",
+      "Waynesboro",
+      "Frederick",
+      "Shepherdstown",
+      "Boonsboro",
+      "Williamsport"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fix Your HVAC?",
+    "body": "Free estimates on all repairs and installations. Same-day service when you need it most.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (301) 676-9234"
+  },
+  "design": {
+    "primary_color": "#B45309",
+    "accent_color": "#1F2937",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

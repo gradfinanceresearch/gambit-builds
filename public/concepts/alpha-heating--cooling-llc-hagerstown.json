@@ -1,0 +1,121 @@
+{
+  "business": {
+    "name": "Alpha Heating & Cooling LLC",
+    "phone": "(240) 396-8376",
+    "email": "alphahc29@gmail.com",
+    "city": "Hagerstown",
+    "state": "MD",
+    "industry": "HVAC",
+    "tagline": "Comfort. Performance. Trust.",
+    "logo_url": "/images/alpha-heating-cooling-logo.png",
+    "google_rating": "5 stars (2 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=15908877354367797415&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Hagerstown's *Straight-Shooter* HVAC Team",
+    "subheadline": "No pressure tactics, no inflated quotes — just honest repair vs. replace advice and work that lasts.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (240) 396-8376"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Hagerstown Team"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every System, Every Season",
+    "subheading": "From emergency repairs to complete installations"
+  },
+  "services": [
+    {
+      "title": "Heat Pump Service",
+      "description": "Keep your heat pump running efficiently year-round. Complete diagnostics and repairs.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "AC Repair & Installation",
+      "description": "Fast cooling system fixes and new unit installations when replacement makes sense.",
+      "icon": "fan"
+    },
+    {
+      "title": "Furnace Work",
+      "description": "Gas and electric furnace repair, maintenance, and replacement services.",
+      "icon": "flame"
+    },
+    {
+      "title": "System Replacement",
+      "description": "Honest advice on repair vs. replace with transparent pricing and multiple options.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Built on Trust",
+    "body": "We're the Hagerstown HVAC team that gives you straight answers. No pressure to buy new when a repair will do the job."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Hagerstown Says"
+  },
+  "reviews": [
+    {
+      "name": "Warren M.",
+      "location": "Hagerstown",
+      "text": "I highly recommend Alpha Heating and Cooling! RJ takes pride in his company and service. He gave me options for repair vs purchase with no pressure to buy new.",
+      "rating": 5
+    },
+    {
+      "name": "Juan J.",
+      "location": "Hagerstown",
+      "text": "I've worked with Alpha across multiple properties for several years. RJ is an absolute professional who operates with total transparency and integrity.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Greater Hagerstown Area",
+    "subheading": "Fast response times throughout Washington County",
+    "areas": [
+      "Hagerstown",
+      "Williamsport",
+      "Boonsboro",
+      "Smithsburg",
+      "Sharpsburg",
+      "Funkstown",
+      "Clear Spring",
+      "Hancock"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Honest HVAC Service?",
+    "body": "Get straight talk about your heating and cooling needs. Free estimates, fair pricing, no pressure tactics.",
+    "cta_primary": "Schedule Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#B91C1C",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

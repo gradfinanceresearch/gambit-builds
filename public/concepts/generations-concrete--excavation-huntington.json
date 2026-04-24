@@ -1,0 +1,108 @@
+{
+  "business": {
+    "name": "Generations Concrete & Excavation",
+    "phone": "(304) 555-0123",
+    "email": "info@generationsconcrete.us",
+    "city": "Huntington",
+    "state": "WV",
+    "industry": "concrete contractor",
+    "tagline": "Built to last generations",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=11222749283052580386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Concrete work that *outlasts the weather*",
+    "subheadline": "From driveways to foundations — poured right the first time in Huntington",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Concrete & Dirt Work",
+    "subheading": "Every pour, every cut, every grade — handled"
+  },
+  "services": [
+    {
+      "title": "Driveways & Walkways",
+      "description": "New concrete driveways and walkways that handle West Virginia weather. Proper base prep, steel reinforcement when needed.",
+      "icon": "home"
+    },
+    {
+      "title": "Foundation Work",
+      "description": "Residential and commercial foundations. Footers, slabs, and basement walls poured to spec.",
+      "icon": "brick"
+    },
+    {
+      "title": "Site Excavation",
+      "description": "Dirt work for new construction. Site prep, grading, and utility trenching with proper equipment.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Concrete Repair",
+      "description": "Crack repair, resurfacing, and concrete replacement. Fix settling slabs and damaged sections.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Built for Huntington",
+    "body": "We're a Huntington concrete team that shows up when we say we will. One call, one crew, one job done right."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Customers Say"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Tri-State",
+    "subheading": "Concrete and excavation throughout the region",
+    "areas": [
+      "Huntington",
+      "Charleston",
+      "Hurricane",
+      "Barboursville",
+      "Milton",
+      "Kenova",
+      "Wayne",
+      "Chesapeake"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Pour?",
+    "body": "Get your free estimate today. No hidden fees, no surprises — just straight talk about your concrete project.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Today"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FEFFFE",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Legacy Concrete Finishing Inc",
+    "phone": "(304) 638-1017",
+    "email": "legacyconcretefinishing@gmail.com",
+    "city": "Huntington",
+    "state": "WV",
+    "industry": "concrete contractor",
+    "tagline": "Built to Last",
+    "logo_url": "",
+    "google_rating": "4.8 stars (5 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=5188551854561608220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Concrete That *Stands the Test of Time*",
+    "subheadline": "Every pour, every finish, every detail — done right the first time.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.8★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every Type of Concrete Project",
+    "subheading": "From driveways to decorative finishes"
+  },
+  "services": [
+    {
+      "title": "Driveways & Sidewalks",
+      "description": "Poured and finished to handle Huntington weather year after year. Proper slope, reinforcement, and curing.",
+      "icon": "home"
+    },
+    {
+      "title": "Decorative Concrete",
+      "description": "Stamped patterns, exposed aggregate, and colored concrete. Custom finishes that make your property stand out.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Repair & Restoration",
+      "description": "Crack repair, resurfacing, and concrete restoration. We fix what time and weather have damaged.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Pool Decks",
+      "description": "Non-slip surfaces and proper drainage around pools. Safe, attractive finishes built for wet conditions.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Built Right, Built to Last",
+    "body": "We're a Huntington concrete team that takes pride in every pour. When you call, you get real people who show up when promised."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Huntington Says"
+  },
+  "reviews": [
+    {
+      "name": "Shane L.",
+      "location": "Huntington, WV",
+      "text": "Very helpful with questions about sealer around my pool. Would definitely recommend them.",
+      "rating": 5
+    },
+    {
+      "name": "Jon B.",
+      "location": "Huntington, WV",
+      "text": "Amazing company to deal with. Went over the top to help me out and did a great job!",
+      "rating": 5
+    },
+    {
+      "name": "Kevin P.",
+      "location": "Huntington, WV",
+      "text": "This is a good place and great business.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Tri-State",
+    "subheading": "Huntington and surrounding communities",
+    "areas": [
+      "Huntington",
+      "Barboursville",
+      "Hurricane",
+      "Milton",
+      "Ashland",
+      "Ironton",
+      "Kenova",
+      "Wayne"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Start Your Concrete Project?",
+    "body": "Free estimates on all concrete work. Call today and let's discuss what you need.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (304) 638-1017"
+  },
+  "design": {
+    "primary_color": "#065F46",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

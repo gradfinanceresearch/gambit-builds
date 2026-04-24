@@ -1,0 +1,108 @@
+{
+  "business": {
+    "name": "Roofing Road",
+    "phone": "",
+    "email": "usinfo@louisvilleroofdoctor.com",
+    "city": "Louisville",
+    "state": "KY",
+    "industry": "roofer",
+    "tagline": "Louisville's Roofing Specialists",
+    "logo_url": "",
+    "google_rating": "",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=4646452756720423635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Storm damage? *We climb up* so you don't have to",
+    "subheadline": "Real roofers with real ladders — not a call center halfway across the country.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Louisville Team"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every roof, every repair",
+    "subheading": "From missing shingles to complete tear-offs"
+  },
+  "services": [
+    {
+      "title": "Storm Damage Repair",
+      "description": "Hail, wind, and tree damage handled fast. We work with your insurance to get it covered.",
+      "icon": "shield"
+    },
+    {
+      "title": "Roof Replacement",
+      "description": "Complete tear-off and install when repairs won't cut it. New shingles, new gutters, new peace of mind.",
+      "icon": "home"
+    },
+    {
+      "title": "Leak Detection",
+      "description": "Water spots on your ceiling? We find where it's getting in and seal it up right.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Gutter Service",
+      "description": "Clean, repair, or replace gutters and downspouts. Keep the water flowing away from your foundation.",
+      "icon": "pipe"
+    }
+  ],
+  "about": {
+    "heading": "Built for Louisville weather",
+    "body": "We're a Louisville roofing team that shows up when we say we will. One call, one crew, one bill."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors say"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Covering Louisville & surrounding areas",
+    "subheading": "Serving Jefferson County and beyond",
+    "areas": [
+      "Louisville",
+      "Jeffersontown",
+      "St. Matthews",
+      "Lyndon",
+      "Middletown",
+      "Anchorage",
+      "Prospect",
+      "La Grange"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix that roof?",
+    "body": "Free estimate, honest pricing, no pressure. Just real answers about what your roof needs.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Today"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#EF4444",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

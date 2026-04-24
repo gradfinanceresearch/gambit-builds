@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Seamless Solutions Gutter and Crawlspace LLC",
+    "phone": "(910) 218-6735",
+    "email": "fmseamlessgutter@gmail.com",
+    "city": "Wilmington",
+    "state": "NC",
+    "industry": "gutter installer",
+    "tagline": "Seamless gutters, seamless service",
+    "logo_url": "",
+    "google_rating": "5 stars (13 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=5329684507268940286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*One call* — gutters done right the first time",
+    "subheadline": "Same-day quotes, next-week installs. No leaks, no mess, no surprises.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "13+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Wilmington Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Gutters & More",
+    "subheading": "From seamless installs to exterior cleaning — we handle what protects your home"
+  },
+  "services": [
+    {
+      "title": "Seamless Gutter Installation",
+      "description": "Custom-fitted gutters cut on-site. No joints, no leaks, just clean lines that last.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Gutter Replacement",
+      "description": "Out with the old, in with gutters that actually work. Quick turnaround from quote to install.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Exterior Cleaning",
+      "description": "Windows, siding, and surfaces that shine. Complete exterior wash services.",
+      "icon": "home"
+    },
+    {
+      "title": "Crawlspace Solutions",
+      "description": "Foundation protection and moisture control. Keeping your home dry from top to bottom.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Zak & Byron's Wilmington Team",
+    "body": "We're the gutter crew your neighbors already know. One call gets you both owners on-site — not a sales guy, not a subcontractor."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Wilmington Says"
+  },
+  "reviews": [
+    {
+      "name": "Jill K.",
+      "location": "Wilmington, NC",
+      "text": "Professional from estimate to completion. On time, cleaned up, and did a beautiful installation job.",
+      "rating": 5
+    },
+    {
+      "name": "Jerry T.",
+      "location": "Wilmington, NC",
+      "text": "Zack and Byron were friendly professionals with affordable prices. Quality work — can't say enough.",
+      "rating": 5
+    },
+    {
+      "name": "Nicole S.",
+      "location": "Wilmington, NC",
+      "text": "Same-day quote, quick install with fantastic results. Fast but quality work.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Cape Fear Region",
+    "subheading": "Local team covering Wilmington and surrounding communities",
+    "areas": [
+      "Wilmington",
+      "Leland",
+      "Carolina Beach",
+      "Wrightsville Beach",
+      "Hampstead",
+      "Castle Hayne",
+      "Rocky Point",
+      "Southport"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for gutters that actually work?",
+    "body": "Same-day quotes, next-week installs. Call the team Wilmington trusts.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (910) 218-6735"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "All American Home Repair LLC.",
+    "phone": "(334) 695-1069",
+    "email": "jdlewis@dothanoverheaddoor.com",
+    "city": "Dothan",
+    "state": "AL",
+    "industry": "handyman",
+    "tagline": "Complete transformations, one fix at a time",
+    "logo_url": "",
+    "google_rating": "4.5 stars (8 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=7316670426739935544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The fix-anything crew *Dothan* calls first",
+    "subheadline": "Decks, roofs, complete transformations — we handle it all and keep the job site spotless.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.5★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Dothan Team"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Satisfaction Guaranteed"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every project handled with care",
+    "subheading": "From small repairs to complete transformations"
+  },
+  "services": [
+    {
+      "title": "Deck Repair & Refinishing",
+      "description": "Repair damaged boards, replace railings, and repaint for a like-new finish. We keep your workspace clean throughout the job.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Roof & Flashing Work",
+      "description": "Fix leaks, replace damaged shingles, and repair flashing. Proper diagnosis means lasting repairs.",
+      "icon": "home"
+    },
+    {
+      "title": "Interior Renovations",
+      "description": "Complete room makeovers, drywall repair, and custom improvements. Transform your space from top to bottom.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "General Home Repairs",
+      "description": "Doors, windows, trim work, and everything in between. One call handles all your repair needs.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Real workmanship, fair estimates",
+    "body": "We're a Dothan handyman team that shows up when scheduled and leaves your property cleaner than we found it. Paul and the crew handle everything from small fixes to complete home transformations."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Dothan homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "katie h.",
+      "location": "Dothan, AL",
+      "text": "Amazing workmanship on our complete transformation. They do an awesome job and I highly recommend All American Home Repair!",
+      "rating": 5
+    },
+    {
+      "name": "Roger a.",
+      "location": "Dothan, AL",
+      "text": "First rate deck repair and repainting. Great job and kept the work site cleaned up. Will definitely use again.",
+      "rating": 5
+    },
+    {
+      "name": "Cory R.",
+      "location": "Dothan, AL",
+      "text": "Fair estimate, knows what he's doing. Very polite, clean, respectful. I'll always call them first - very happy customer.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Dothan and surrounding areas",
+    "subheading": "Local team, local knowledge",
+    "areas": [
+      "Dothan",
+      "Enterprise",
+      "Ozark",
+      "Eufaula",
+      "Troy",
+      "Headland",
+      "Slocomb",
+      "Webb"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to start your project?",
+    "body": "Fair estimates, quality work, and a clean job site. Call Paul and the All American team today.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (334) 695-1069"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

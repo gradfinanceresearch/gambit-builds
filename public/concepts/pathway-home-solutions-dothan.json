@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "Pathway home Solutions",
+    "phone": "(334) 796-1163",
+    "email": "hello@pathwayhomesolutions.com",
+    "city": "Dothan",
+    "state": "AL",
+    "industry": "handyman",
+    "tagline": "Built to last, designed to save",
+    "logo_url": "",
+    "google_rating": "5 stars (4 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=12175200503634908310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The project *no one else* wanted? We'll take it.",
+    "subheadline": "Dothan's fix-anything team that shows up with solutions, not excuses.",
+    "cta_primary": "Get Your Free Quote",
+    "cta_secondary": "Call (334) 796-1163"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIX",
+    "heading": "Every project, every problem",
+    "subheading": "The jobs others won't touch? That's where we start."
+  },
+  "services": [
+    {
+      "title": "Door & Window Installation",
+      "description": "New installs, replacements, and repairs that others walk away from.",
+      "icon": "home"
+    },
+    {
+      "title": "Landscaping Projects",
+      "description": "Design and installation that transforms your outdoor space within budget.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Energy Efficiency Upgrades",
+      "description": "Insulation, weatherstripping, and improvements that cut your bills.",
+      "icon": "shield"
+    },
+    {
+      "title": "Home Repairs",
+      "description": "Everything from minor fixes to major renovations done right.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Custom Carpentry",
+      "description": "Built to last solutions tailored to your space and needs.",
+      "icon": "saw"
+    }
+  ],
+  "about": {
+    "heading": "Built different",
+    "body": "We're the Dothan handyman team that tackles what others won't. One call handles everything from damaged doors to full landscaping projects."
+  },
+  "reviews_section": {
+    "label": "WORD SPREADS",
+    "heading": "What Dothan neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "San J.",
+      "location": "Dothan, AL",
+      "text": "Handled a large landscaping project and two exterior door replacements that others wouldn't touch. Came in on budget and saved me $5,000 on supplies with smart ideas.",
+      "rating": 5
+    },
+    {
+      "name": "Chaise S.",
+      "location": "Dothan, AL",
+      "text": "Great work! Very experienced and knowledgeable. Builds to last and made my home much more energy efficient.",
+      "rating": 5
+    },
+    {
+      "name": "Kiersten A.",
+      "location": "Dothan, AL",
+      "text": "Really nice team that does great quality work. Already have them scheduled for my bedroom project - can't wait!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving the Wiregrass",
+    "subheading": "Your local team across southeast Alabama",
+    "areas": [
+      "Dothan",
+      "Enterprise",
+      "Ozark",
+      "Eufaula",
+      "Troy",
+      "Andalusia",
+      "Geneva",
+      "Hartford"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix what's broken?",
+    "body": "Get your free quote today. No project too big, too small, or too complicated for our Dothan team.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#1E3A5F",
+    "accent_color": "#C0986B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

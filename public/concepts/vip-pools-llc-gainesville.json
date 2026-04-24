@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "VIP POOLS LLC",
+    "phone": "(352) 474-1981",
+    "email": "vippools@yahoo.com",
+    "city": "Gainesville",
+    "state": "FL",
+    "industry": "pool service",
+    "tagline": "Crystal Clear. Always Ready.",
+    "logo_url": "",
+    "google_rating": "4.5 stars (15 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=7651463854262672243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Pool Problems? *We Actually Show Up*",
+    "subheadline": "When other companies are too busy or quote you crazy prices, we're the ones who answer the phone and fix what's broken.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.5★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Gainesville Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Pool Service That Works",
+    "subheading": "From weekly maintenance to leak detection — we have the equipment and know-how"
+  },
+  "services": [
+    {
+      "title": "Weekly Pool Cleaning",
+      "description": "Chemical balancing, skimming, and vacuuming. Your pool stays swim-ready without you lifting a finger.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Leak Detection & Repair",
+      "description": "Professional equipment to find and fix leaks fast. No guesswork, no plugging jets — real repairs.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Equipment Repair",
+      "description": "Pumps, filters, heaters — when your pool equipment quits, we get it running again.",
+      "icon": "fan"
+    },
+    {
+      "title": "Pool Maintenance",
+      "description": "Regular service to keep everything balanced and working. Reliable scheduling you can count on.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Gainesville Pool Service Done Right",
+    "body": "We're the pool team that shows up when we say we will. No excuses, no runarounds — just straight answers and real repairs."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Gainesville Says"
+  },
+  "reviews": [
+    {
+      "name": "Lilly S.",
+      "location": "Gainesville, FL",
+      "text": "Alec is our go-to guy! Love not having to worry about keeping the pool clean and chemicals balanced. Always professional and they've fixed several issues for us.",
+      "rating": 5
+    },
+    {
+      "name": "Pete R.",
+      "location": "Gainesville, FL",
+      "text": "Said what he was going to do and delivered. Other companies just plugged jets — VIP had the real equipment to detect, find and repair our leak professionally.",
+      "rating": 5
+    },
+    {
+      "name": "Chrissy C.",
+      "location": "Gainesville, FL",
+      "text": "Called multiple pool services for quotes. Some weren't interested, others had outrageous pricing. Found this gem and Jose was absolutely amazing.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving North Central Florida",
+    "subheading": "Pool service throughout Gainesville and surrounding communities",
+    "areas": [
+      "Gainesville",
+      "Alachua",
+      "Newberry",
+      "High Springs",
+      "Archer",
+      "Micanopy",
+      "Hawthorne",
+      "Cross Creek"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Pool Service That Actually Shows Up?",
+    "body": "Get an honest quote from a local team that knows pools. No runarounds, no crazy pricing — just straight talk and real results.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (352) 474-1981"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

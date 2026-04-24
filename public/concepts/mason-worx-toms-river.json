@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Mason Worx",
+    "phone": "(732) 314-0816",
+    "email": "info@patricktsharkey.com",
+    "city": "Toms River",
+    "state": "NJ",
+    "industry": "concrete contractor",
+    "tagline": "Solid concrete work, delivered fast",
+    "logo_url": "",
+    "google_rating": "5 stars (17 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=4170456837471825807&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Concrete Done *Right* in Toms River",
+    "subheadline": "No shortcuts. No delays. Just solid work that lasts — often finished ahead of schedule.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (732) 314-0816"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "17+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Toms River Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "From Pour to Finish",
+    "subheading": "Every concrete job handled with the same attention to detail"
+  },
+  "services": [
+    {
+      "title": "Concrete Driveways",
+      "description": "New driveways poured to last decades. Proper base prep and reinforcement every time.",
+      "icon": "home"
+    },
+    {
+      "title": "Foundation Work",
+      "description": "Residential and commercial foundations. Footings, slabs, and structural concrete.",
+      "icon": "brick"
+    },
+    {
+      "title": "Patios & Walkways",
+      "description": "Custom outdoor spaces. Stamped, colored, or traditional finish options available.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Concrete Repairs",
+      "description": "Crack repair, resurfacing, and restoration. Fix what's broken, strengthen what's weak.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Built on Honest Work",
+    "body": "We're a Toms River concrete crew that shows up when scheduled and finishes when promised. No surprises, no excuses."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Customers Say"
+  },
+  "reviews": [
+    {
+      "name": "Isaac P.",
+      "location": "Toms River, NJ",
+      "text": "Amazing professional job delivered faster than projected. Alex was friendly and knowledgeable to work with.",
+      "rating": 5
+    },
+    {
+      "name": "Joe K.",
+      "location": "Toms River, NJ",
+      "text": "Used them on two jobs recently. Done on schedule, great communication, well priced. Thank you Sendy, Moshe, Israel!",
+      "rating": 5
+    },
+    {
+      "name": "Katy M.",
+      "location": "Toms River, NJ",
+      "text": "Amazing experience. Alex was really nice to deal with. The whole crew was fast with expert work. Can't recommend enough!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where We Pour",
+    "subheading": "Serving Ocean County and surrounding areas",
+    "areas": [
+      "Toms River",
+      "Brick",
+      "Lakewood",
+      "Jackson",
+      "Beachwood",
+      "Pine Beach",
+      "Island Heights",
+      "Bayville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Start Your Concrete Project?",
+    "body": "Get an honest quote from a crew that delivers on time. No pressure, just straight answers about your job.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#F97316",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Barlow Condensed",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

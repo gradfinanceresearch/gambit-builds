@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "HoneyDo Handyman Services, LLC",
+    "phone": "",
+    "email": "tyler072001@yahoo.com",
+    "city": "Dothan",
+    "state": "AL",
+    "industry": "handyman",
+    "tagline": "Every item on your list — handled",
+    "logo_url": "",
+    "google_rating": "5 stars (5 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=2253898543558047763&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "That *honey-do list* isn't getting shorter",
+    "subheadline": "TV mounts, roof repairs, toilet swaps — we knock out what's been sitting there for months.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "5+ Google Reviews"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIXES",
+    "heading": "What's on your list?",
+    "subheading": "From quick fixes to bigger repairs — we handle it all"
+  },
+  "services": [
+    {
+      "title": "TV Mounting & Setup",
+      "description": "Get that flat screen off the floor and onto the wall right. Cables hidden, level perfect.",
+      "icon": "home"
+    },
+    {
+      "title": "Roof & Gutter Repair",
+      "description": "Stop the drip before it becomes a flood. Shingles, gutters, and downspouts fixed fast.",
+      "icon": "shield"
+    },
+    {
+      "title": "Plumbing Repairs",
+      "description": "Toilet replacement, faucet fixes, and those annoying leaks that won't quit.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Home Maintenance",
+      "description": "Door adjustments, cabinet repairs, weatherstripping — the stuff that makes home feel right.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Tyler & the HoneyDo team",
+    "body": "We're the Dothan handyman service that actually shows up when we say we will. One call handles your whole list."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Christine G.",
+      "location": "Dothan, AL",
+      "text": "Preston was amazing! Professional, kind, and knowledgeable. Tyler provided seamless TV mounting service.",
+      "rating": 5
+    },
+    {
+      "name": "DBMC A.",
+      "location": "Dothan, AL",
+      "text": "Tyler did an outstanding job on our roof repair! Professional, knowledgeable, and efficient. Quality work done in a timely manner.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer H.",
+      "location": "Dothan, AL",
+      "text": "Tyler was very nice and respectful and did a great job replacing our toilet. Definitely have more jobs for him!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Wiregrass",
+    "subheading": "Fast response times across Dothan and surrounding communities",
+    "areas": [
+      "Dothan",
+      "Enterprise",
+      "Ozark",
+      "Hartford",
+      "Headland",
+      "Ashford",
+      "Webb",
+      "Cowarts"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to cross things off that list?",
+    "body": "Free quotes on everything from quick fixes to bigger projects. Same honest pricing, no surprises.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Tyler"
+  },
+  "design": {
+    "primary_color": "#991B1B",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

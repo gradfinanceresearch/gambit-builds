@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Done Wright Seamless Gutters LLC",
+    "phone": "(910) 599-6334",
+    "email": "wrightfamilyinstallations@gmail.com",
+    "city": "Wilmington",
+    "state": "NC",
+    "industry": "gutter installer",
+    "tagline": "One call, one crew, gutters done right",
+    "logo_url": "",
+    "google_rating": "5 stars (64 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=17942319161593892571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Gutters *done Wright* the first time",
+    "subheadline": "Tyler shows up when he says he will — and finishes in one day.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "60+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Wilmington Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Seamless gutters that actually work",
+    "subheading": "No leaks, no mess, no coming back to fix it"
+  },
+  "services": [
+    {
+      "title": "Seamless Gutter Installation",
+      "description": "Custom-fitted gutters cut on-site. No joints to leak, no patches to fail.",
+      "icon": "home"
+    },
+    {
+      "title": "Gutter Repair & Maintenance",
+      "description": "Fix what's broken, clean what's clogged. Get your gutters working again.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Downspout Installation",
+      "description": "Proper drainage means water goes where it should — away from your foundation.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Custom Color Matching",
+      "description": "Gutters that blend with your home's style, not fight against it.",
+      "icon": "paintbrush"
+    }
+  ],
+  "about": {
+    "heading": "Tyler Wright — Owner, Installer",
+    "body": "One truck, one crew, fair prices. We're the Wilmington gutter team that shows up and gets it done right the first time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Wilmington says about our work"
+  },
+  "reviews": [
+    {
+      "name": "Natasha J.",
+      "location": "Wilmington, NC",
+      "text": "Tyler was professional and timely — did excellent work at a fair price. I was dreading getting gutters because of our home's decorative features, but they looked great.",
+      "rating": 5
+    },
+    {
+      "name": "David L.",
+      "location": "Wilmington, NC",
+      "text": "Tyler owns the company and did an excellent job. His price was really good — much better than the big companies. Came when he said and finished in one day.",
+      "rating": 5
+    },
+    {
+      "name": "Donald S.",
+      "location": "Wilmington, NC",
+      "text": "Tyler's quality of work is exceptional — a true experienced pro. On time, dependable, fair prices. He'll be my go-to gutter expert going forward.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Wilmington and the Cape Fear region",
+    "subheading": "One day installation throughout the area",
+    "areas": [
+      "Wilmington",
+      "Wrightsville Beach",
+      "Carolina Beach",
+      "Leland",
+      "Southport",
+      "Shallotte",
+      "Hampstead",
+      "Surf City"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for gutters that actually work?",
+    "body": "Call Tyler directly for a free estimate. No pushy sales calls, just straight talk about what your home needs.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (910) 599-6334"
+  },
+  "design": {
+    "primary_color": "#9A3412",
+    "accent_color": "#059669",
+    "bg_color": "#FFFBF7",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

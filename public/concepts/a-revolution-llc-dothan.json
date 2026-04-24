@@ -1,0 +1,138 @@
+{
+  "business": {
+    "name": "A Revolution LLC",
+    "phone": "(334) 479-0447",
+    "email": "info@revolutiontechnologies.com",
+    "city": "Dothan",
+    "state": "AL",
+    "industry": "handyman",
+    "tagline": "Complete home solutions, one call away",
+    "logo_url": "",
+    "google_rating": "5 stars (8 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=3488534906555583763&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Everything* under one roof — painting to plumbing",
+    "subheadline": "The Dothan handyman team that handles kitchens, electrical, flooring, and every job in between.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Kitchen to basement — we handle it all",
+    "subheading": "Complete home renovations and repairs by one trusted team"
+  },
+  "services": [
+    {
+      "title": "Kitchen Remodeling",
+      "description": "Cabinet refacing, countertops, plumbing, electrical, and paint. Complete kitchen transformations.",
+      "icon": "home"
+    },
+    {
+      "title": "Interior & Exterior Painting",
+      "description": "Whole house painting with prep work and attention to detail. Fresh walls that get compliments.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Electrical Services",
+      "description": "New outlets, lighting fixtures, panel upgrades. Safe, code-compliant electrical work.",
+      "icon": "zap"
+    },
+    {
+      "title": "Plumbing Repairs",
+      "description": "Sink installations, pipe repairs, fixture replacements. Water flowing where it should.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Flooring Installation",
+      "description": "Hardwood, tile, vinyl, and carpet. Professional installation with proper prep work.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Custom Carpentry",
+      "description": "Built-in shelving, trim work, steps, and custom projects. Handcrafted solutions for your space.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "One team, every trade",
+    "body": "We're the Dothan handyman crew that shows up with the right tools and skills for whatever your home needs. No job too big, no detail too small."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Dothan homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Robert P.",
+      "location": "Dothan, AL",
+      "text": "Incredible job painting our whole house — people comment on the excellent work. They also refaced all the kitchen cabinets perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "Susan E.",
+      "location": "Dothan, AL",
+      "text": "Wonderful work! They gave me a new kitchen and dining area with fresh paint, crown molding, new lighting, and sink installation.",
+      "rating": 5
+    },
+    {
+      "name": "Charlotte F.",
+      "location": "Dothan, AL",
+      "text": "They've done so many jobs for me — kitchen remodel, electrical, flooring, plumbing, and custom steps. Everything completed successfully and beautifully.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Dothan and surrounding areas",
+    "subheading": "Professional handyman services throughout the Wiregrass region",
+    "areas": [
+      "Dothan",
+      "Enterprise",
+      "Ozark",
+      "Troy",
+      "Eufaula",
+      "Abbeville",
+      "Hartford",
+      "Geneva",
+      "Ashford"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to start your next project?",
+    "body": "From quick repairs to complete renovations, we handle every detail. Get your free estimate today.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (334) 479-0447"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Fraunces",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Junk removal service + handyman",
+    "phone": "(404) 861-7353",
+    "email": "gabby@junkitatl.com",
+    "city": "Atlanta",
+    "state": "GA",
+    "industry": "handyman",
+    "tagline": "Clear it out, fix it up",
+    "logo_url": "",
+    "google_rating": "5 stars (28 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=5893590761725939316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Clear it out, *fix it up* — one call does both",
+    "subheadline": "Junk removal AND handyman repairs. Same crew, same trip, done right.",
+    "cta_primary": "Get Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Haul & Fix in One Trip",
+    "subheading": "Why hire two crews when one can handle both jobs?"
+  },
+  "services": [
+    {
+      "title": "Furniture & Appliance Removal",
+      "description": "Beds, couches, refrigerators, washers — we haul it all out safely and clean up after.",
+      "icon": "home"
+    },
+    {
+      "title": "Construction Debris Cleanup",
+      "description": "Renovation mess, old fixtures, drywall scraps. We clear the space so you can move forward.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Same-Day Repairs",
+      "description": "Broken doors, loose fixtures, minor plumbing issues. Fix what needs fixing while we're there.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Property Cleanouts",
+      "description": "Basements, garages, whole houses. Complete clearing with optional repair work included.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "One Team, Two Skills",
+    "body": "Atlanta junk removal with handyman skills. We show up on time, work fast, and fix things while we're at it."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Atlanta Says"
+  },
+  "reviews": [
+    {
+      "name": "Mel N.",
+      "location": "Atlanta, GA",
+      "text": "Muhammad removed my full bedroom set, couch, and chair with ottoman all by himself. I was in a bind and he helped with such professionalism and kindness!",
+      "rating": 5
+    },
+    {
+      "name": "Hafid Z.",
+      "location": "Atlanta, GA",
+      "text": "Outstanding service! Done with high efficiency and great attention to detail. The team was polite, on time, and made the whole process smooth.",
+      "rating": 5
+    },
+    {
+      "name": "Alissa R.",
+      "location": "Atlanta, GA",
+      "text": "Went above and beyond during our pickup. Honest pricing, same day removal, and friendly service. Will absolutely recommend to family and friends.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Metro Atlanta",
+    "subheading": "Fast response across the Atlanta area",
+    "areas": [
+      "Atlanta",
+      "Decatur",
+      "East Point",
+      "College Park",
+      "Forest Park",
+      "Hapeville",
+      "Chamblee",
+      "Doraville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to clear out and fix up?",
+    "body": "Call now for honest pricing and same-day service. One crew handles both jobs.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (404) 861-7353"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

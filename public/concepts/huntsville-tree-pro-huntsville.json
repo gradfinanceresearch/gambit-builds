@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Huntsville Tree Pro",
+    "phone": "(256) 936-9114",
+    "email": "marc.byers@huntsvilleal.gov",
+    "city": "Huntsville",
+    "state": "AL",
+    "industry": "tree service",
+    "tagline": "Professional Tree Services",
+    "logo_url": "",
+    "google_rating": "5 stars (14 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=13695486999299593094&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Cut, ground, cleaned up* — like we were never here",
+    "subheadline": "Same crew shows up on time, does the work right, and leaves your yard cleaner than they found it.",
+    "cta_primary": "Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "14+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Huntsville Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every job handled right",
+    "subheading": "From dangerous removals to clean stump grinding — one call covers it all"
+  },
+  "services": [
+    {
+      "title": "Tree Removal",
+      "description": "Safe removal of hazardous, diseased, or unwanted trees. We handle the big ones without touching your house or fence.",
+      "icon": "saw"
+    },
+    {
+      "title": "Stump Grinding",
+      "description": "Complete stump removal down to wood chips. No ugly stumps left behind — just smooth, plantable ground.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Tree Trimming & Pruning",
+      "description": "Proper cuts to keep trees healthy and away from your roof. Crown thinning and deadwood removal.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Storm Cleanup",
+      "description": "Emergency tree removal after storms. We clear fallen trees and debris to get you back to normal fast.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Huntsville's tree crew",
+    "body": "We're the team your neighbors call when trees need to go. Professional work, fair quotes, and we clean up every branch."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Huntsville homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Daniel R.",
+      "location": "Huntsville, AL",
+      "text": "Michael and his team were on time, meticulous, and pleasant to work with. Did exactly what they quoted without any upselling. True professionals!",
+      "rating": 5
+    },
+    {
+      "name": "Ines O.",
+      "location": "Huntsville, AL",
+      "text": "Great experience with Michael! Professional, knowledgeable and the price was right for stump removal. Highly recommended.",
+      "rating": 5
+    },
+    {
+      "name": "William N.",
+      "location": "Huntsville, AL",
+      "text": "Clean, punctual team that took extra care to prevent damage to shrubs, house, and neighbors' property. Great work.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving North Alabama",
+    "subheading": "Professional tree services throughout the Tennessee Valley",
+    "areas": [
+      "Huntsville",
+      "Madison",
+      "Decatur",
+      "Athens",
+      "Scottsboro",
+      "Arab",
+      "Guntersville",
+      "Albertville",
+      "Cullman",
+      "Hartselle"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to clear those trees?",
+    "body": "Free estimates on all tree work. We'll walk your property, explain the job, and give you an honest price.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "(256) 936-9114"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

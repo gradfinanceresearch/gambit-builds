@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Mr. Handy ATL",
+    "phone": "(404) 953-9286",
+    "email": "info@handyandyatlanta.com",
+    "city": "Atlanta",
+    "state": "GA",
+    "industry": "handyman",
+    "tagline": "Fix it right the first time",
+    "logo_url": "",
+    "google_rating": "4.9 stars (93 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=429609140832745899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Xavier's crew* — the handyman Atlanta calls",
+    "subheadline": "From loose trim to full floor replacements, we show up ready to work",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "90+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Atlanta Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every job handled right",
+    "subheading": "One call covers it all"
+  },
+  "services": [
+    {
+      "title": "Flooring & Trim Work",
+      "description": "Hardwood installation, trim replacement, and finish carpentry that looks like it was always there.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Furniture Assembly",
+      "description": "Patio sets, office furniture, and anything with mysterious instructions — assembled fast and solid.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Home Repairs",
+      "description": "The daily fixes that keep your home working — from squeaky doors to wobbly shelves.",
+      "icon": "home"
+    },
+    {
+      "title": "Moving Assistance",
+      "description": "Heavy lifting, careful handling, and quick reassembly at your new place.",
+      "icon": "ruler"
+    }
+  ],
+  "about": {
+    "heading": "Real people, real solutions",
+    "body": "Xavier and the Mr. Handy ATL crew handle everything from quick fixes to full project work. We're the team Atlanta calls when it needs done right."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Atlanta says"
+  },
+  "reviews": [
+    {
+      "name": "Relief M.",
+      "location": "Atlanta, GA",
+      "text": "Xavier went above and beyond. Stayed longer to make sure we had a solution. His professionalism and communication were excellent from start to finish.",
+      "rating": 5
+    },
+    {
+      "name": "Adam S.",
+      "location": "Atlanta, GA",
+      "text": "Xavier and his team did a fantastic job replacing the hardwood floors in my condo. Great attitude the entire time and went above and beyond delivering quality work.",
+      "rating": 5
+    },
+    {
+      "name": "Harrison G.",
+      "location": "Atlanta, GA",
+      "text": "He did a great job installing the trim for my new microwave. Highly recommend. Very friendly and professional.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Covering metro Atlanta",
+    "subheading": "From downtown to the suburbs",
+    "areas": [
+      "Atlanta",
+      "Decatur",
+      "Marietta",
+      "Sandy Springs",
+      "Roswell",
+      "Alpharetta",
+      "Buckhead",
+      "East Point"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get it fixed?",
+    "body": "Call Xavier's crew for your free estimate. Same honest pricing, same quality work that earned us 4.9 stars.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (404) 953-9286"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#F97316",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

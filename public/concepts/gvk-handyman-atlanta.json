@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "GVK Handyman",
+    "phone": "(470) 223-1208",
+    "email": "handymanrepairsatlanta@gmail.com",
+    "city": "Atlanta",
+    "state": "GA",
+    "industry": "handyman",
+    "tagline": "The fix you need, when you need it",
+    "logo_url": "/api/placeholder/200/80",
+    "google_rating": "5 stars (17 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=15830378948470118690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*One call* handles it all",
+    "subheadline": "From furniture assembly to TV mounts — we show up on time and clean up after ourselves.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "17+ Google Reviews"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Atlanta Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every project, handled right",
+    "subheading": "From quick repairs to complete installations"
+  },
+  "services": [
+    {
+      "title": "Furniture Assembly",
+      "description": "Beds, desks, shelving — we make sense of those instruction manuals so you don't have to.",
+      "icon": "hammer"
+    },
+    {
+      "title": "TV & Electronics Mounting",
+      "description": "Wall-mounted TVs, sound systems, and cable management that looks clean and stays secure.",
+      "icon": "plug"
+    },
+    {
+      "title": "Home Repairs",
+      "description": "Drywall patches, door adjustments, cabinet fixes, and all the small stuff that adds up.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Basement Finishing",
+      "description": "Turn that empty space into something useful — flooring, walls, lighting, and trim work.",
+      "icon": "home"
+    },
+    {
+      "title": "General Maintenance",
+      "description": "Seasonal upkeep, minor plumbing fixes, basic electrical work, and preventive repairs.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Built for Atlanta homes",
+    "body": "We're the Atlanta handyman team that shows up when we say we will. Real quotes before we start, clean work areas when we're done."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Mia B.",
+      "location": "Atlanta, GA",
+      "text": "Mykola did an amazing job assembling my furniture! Quick and efficient with fair pricing.",
+      "rating": 5
+    },
+    {
+      "name": "Beverly A.",
+      "location": "Atlanta, GA",
+      "text": "Very detail-oriented with accurate quotes upfront. Shows up on time and cleans up after. Great work.",
+      "rating": 5
+    },
+    {
+      "name": "Alisha G.",
+      "location": "Atlanta, GA",
+      "text": "Professional and thorough. Helped with many home upgrades and our basement remodel. Would definitely recommend.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Atlanta & surrounding areas",
+    "subheading": "Local handyman service throughout metro Atlanta",
+    "areas": [
+      "Atlanta",
+      "Decatur",
+      "Marietta",
+      "Sandy Springs",
+      "Roswell",
+      "Alpharetta",
+      "Smyrna",
+      "Dunwoody"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to check it off your list?",
+    "body": "Get an accurate quote before we start. No surprises, no hidden fees.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (470) 223-1208"
+  },
+  "design": {
+    "primary_color": "#065F46",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

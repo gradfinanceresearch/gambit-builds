@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Top Notch Tree Service",
+    "phone": "(256) 551-8388",
+    "email": "brallen20@hotmail.com",
+    "city": "Huntsville",
+    "state": "AL",
+    "industry": "tree service",
+    "tagline": "Clean cuts, clean cleanup, clean price",
+    "logo_url": "",
+    "google_rating": "5 stars (45 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=14861005363249571705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Tree work done *right the first time*",
+    "subheadline": "Storm damage, overgrowth, or removals — John and his crew handle it all and leave your yard cleaner than they found it.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (256) 551-8388"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "45+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Huntsville Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every cut counts",
+    "subheading": "Professional tree services with the cleanup you expect"
+  },
+  "services": [
+    {
+      "title": "Tree Removal",
+      "description": "Complete removal including stump grinding. We handle the big ones and the tricky ones.",
+      "icon": "saw"
+    },
+    {
+      "title": "Tree Trimming & Pruning",
+      "description": "Strategic cuts to keep your trees healthy and your property safe. No guesswork.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Storm Damage Cleanup",
+      "description": "When nature makes a mess, we restore order. Emergency response for blocked driveways and damaged trees.",
+      "icon": "shield"
+    },
+    {
+      "title": "Lot Clearing",
+      "description": "Full property clearing for new construction or landscape renovation projects.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "John & crew — Huntsville tree experts",
+    "body": "We're the tree service team that shows up when we say we will, does exactly what we quoted, and leaves your property spotless."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Huntsville says"
+  },
+  "reviews": [
+    {
+      "name": "Candace C.",
+      "location": "Huntsville, AL",
+      "text": "John did excellent work trimming trees at my home. His team left zero debris behind — they raked the yard and blew off the patio areas! Very reasonable price for the amount of work.",
+      "rating": 5
+    },
+    {
+      "name": "Teddie B.",
+      "location": "Huntsville, AL",
+      "text": "We recommend Top Notch with the highest rating! John and his crew do excellent work quickly, clean up perfectly, and charge a fantastic price. Helped us after storm damage blocked our driveway.",
+      "rating": 5
+    },
+    {
+      "name": "Sheila T.",
+      "location": "Huntsville, AL",
+      "text": "BEST tree service EVER! Best price and service! Had two large backyard trees removed with expertise and outstanding professionalism. John and his crew are awesome!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Huntsville & surrounding areas",
+    "subheading": "Professional tree service throughout Madison County",
+    "areas": [
+      "Huntsville",
+      "Madison",
+      "Decatur",
+      "Athens",
+      "Arab",
+      "Guntersville",
+      "Scottsboro",
+      "Albertville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get started?",
+    "body": "Free estimates, honest pricing, and cleanup that'll impress your neighbors. Let's talk about your trees.",
+    "cta_primary": "Get Your Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#0F4C75",
+    "accent_color": "#3EDBF0",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

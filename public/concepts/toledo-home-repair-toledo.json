@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Toledo Home Repair",
+    "phone": "(419) 537-3506",
+    "email": "ken@toledohomerepair.net",
+    "city": "Toledo",
+    "state": "OH",
+    "industry": "painter",
+    "tagline": "Done right the first time",
+    "logo_url": "",
+    "google_rating": "5 stars (18 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=9775779521775239753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The painter Toledo trusts with their *historic homes*",
+    "subheadline": "Ken and his crew show up on time, finish when promised, and paint your mailbox for free.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Ken"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Toledo Team"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Painting & repairs that last",
+    "subheading": "From power washing to historic home restoration — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Exterior Painting",
+      "description": "Complete house painting including gutters, trim, and siding. We prep everything properly so the paint actually sticks.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Interior Painting",
+      "description": "Clean, careful interior work. Drop cloths stay down, trim gets taped, and we clean up completely.",
+      "icon": "home"
+    },
+    {
+      "title": "Power Washing",
+      "description": "Deep cleaning before we paint. Gets the dirt and old paint off so the new coat bonds properly.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Home Repairs",
+      "description": "Fix what's broken before we paint it. Siding repairs, trim work, and small carpentry projects.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Ken Stout knows Toledo homes",
+    "body": "Local contractor who takes pride in doing the job right the first time. Real crew, real trucks, real results."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Toledo homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Stephanie T.",
+      "location": "Toledo",
+      "text": "Ken and his team were amazing to work with. Fast, professional, and made sure all tasks were completed correctly. Highly recommend!",
+      "rating": 5
+    },
+    {
+      "name": "Chris J.",
+      "location": "Toledo",
+      "text": "Power washed and painted our entire exterior, including gutters and trim. Even painted our mailbox at no extra cost. Couldn't be happier.",
+      "rating": 5
+    },
+    {
+      "name": "Christine N.",
+      "location": "Toledo",
+      "text": "Recently completed work on my historic home — not an easy job. Ken is honest, professional, and does top notch work.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Toledo & surrounding areas",
+    "subheading": "Local team covering Lucas County and beyond",
+    "areas": [
+      "Toledo",
+      "Maumee",
+      "Perrysburg",
+      "Sylvania",
+      "Oregon",
+      "Rossford",
+      "Waterville",
+      "Swanton"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get started?",
+    "body": "Call Ken directly for a free estimate. No pressure, just honest pricing and straight answers about your project.",
+    "cta_primary": "Get Quote Today",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#0F4C75",
+    "accent_color": "#3EDBF0",
+    "bg_color": "#FAFBFC",
+    "text_color": "#1A1A2E",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

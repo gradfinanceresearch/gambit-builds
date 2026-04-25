@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Hylite Painting Co.",
+    "phone": "(419) 450-7684",
+    "email": "hylitepainting@gmail.com",
+    "city": "Toledo",
+    "state": "OH",
+    "industry": "painter",
+    "tagline": "Sharp lines, honest work",
+    "logo_url": "",
+    "google_rating": "4.2 stars (29 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=11743701982369542316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Sharp lines* that make the difference",
+    "subheadline": "Interior, exterior, color matching — we show up and get it done right the first time.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.2★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Toledo Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every surface, inside and out",
+    "subheading": "From touch-ups to full repaints — residential and commercial"
+  },
+  "services": [
+    {
+      "title": "Exterior Painting",
+      "description": "Full house painting, trim work, and prep. Scraping, priming, and protecting your investment from Toledo weather.",
+      "icon": "home"
+    },
+    {
+      "title": "Interior Painting",
+      "description": "Bedrooms, bathrooms, kitchens, accent walls. Clean lines and zero mess left behind.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Color Consultation",
+      "description": "Help picking the right colors for your space. We know what works and what doesn't.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Surface Prep & Repair",
+      "description": "Patching, sanding, priming. The foundation work that makes the finish coat look professional.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Toledo painters who answer the phone",
+    "body": "We're a Toledo painting crew that shows up when scheduled and cleans up when done. Straight lines, fair pricing, no surprises."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Toledo homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Jim G.",
+      "location": "Toledo, OH",
+      "text": "Used Hylite several times this year. Recently painted our fireplace, bedroom and bathroom. Unbelievable price and great service. Extremely happy with results.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer B.",
+      "location": "Toledo, OH",
+      "text": "Excellent job on exterior and interior of our home. Perfectly straight edges, very well done. Prompt, professional, and everything cleaned up perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "Christopher B.",
+      "location": "Toledo, OH",
+      "text": "Great quality job at a very fair price. They were responsive to our social distancing requests and careful around our landscaping.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Toledo and surrounding areas",
+    "subheading": "Professional painting services throughout Northwest Ohio",
+    "areas": [
+      "Toledo",
+      "Sylvania",
+      "Maumee",
+      "Perrysburg",
+      "Oregon",
+      "Swanton",
+      "Holland",
+      "Waterville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to start your painting project?",
+    "body": "Call for a free estimate. We'll walk your property, discuss colors, and give you upfront pricing with no hidden fees.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (419) 450-7684"
+  },
+  "design": {
+    "primary_color": "#B91C1C",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Affordable Tree Service 1",
+    "phone": "(256) 375-4249",
+    "email": "acetreebham@att.net",
+    "city": "Huntsville",
+    "state": "AL",
+    "industry": "tree service",
+    "tagline": "Licensed Tree Care You Can Trust",
+    "logo_url": "",
+    "google_rating": "5 stars (11 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=16502894882339138262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When the neighbors call *us first*",
+    "subheadline": "Same crew, same quality — tree by tree across Huntsville",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "10+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every tree, every stump",
+    "subheading": "Complete removal and cleanup in hours, not days"
+  },
+  "services": [
+    {
+      "title": "Tree Removal",
+      "description": "Dead, dangerous, or unwanted trees cleared safely. Large oaks to backyard hazards — we handle it all.",
+      "icon": "saw"
+    },
+    {
+      "title": "Stump Grinding",
+      "description": "Complete stump removal and cleanup. Your yard left ready for new landscaping or grass.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Tree Trimming",
+      "description": "Professional pruning for health and safety. Overhanging branches and crowded canopies shaped right.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Storm Cleanup",
+      "description": "Emergency tree damage cleared quickly. Fallen trees and broken limbs removed and hauled away.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Huntsville tree crew",
+    "body": "We're the team your neighbors already trust. One call gets you honest pricing and professional cleanup — every time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Huntsville says"
+  },
+  "reviews": [
+    {
+      "name": "Sawyer H.",
+      "location": "Huntsville, AL",
+      "text": "Great service, very friendly. Neighbors were getting work done and we asked them to look at our trees. Great price and absolutely delivered.",
+      "rating": 5
+    },
+    {
+      "name": "5 G.",
+      "location": "Huntsville, AL",
+      "text": "John, Diego, and Diana did tremendous work. Close to 20 stumps and a large dead oak — everything removed and cleaned up in just a few hours.",
+      "rating": 5
+    },
+    {
+      "name": "Seth H.",
+      "location": "Huntsville, AL",
+      "text": "Diego and crew trimmed a really tall tree hanging over my house. Great work for a good price and cleaned up after themselves.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving North Alabama",
+    "subheading": "Professional tree service throughout the Tennessee Valley",
+    "areas": [
+      "Huntsville",
+      "Madison",
+      "Decatur",
+      "Athens",
+      "Scottsboro",
+      "Arab",
+      "Guntersville",
+      "Albertville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to clear that tree?",
+    "body": "Free estimates on all tree work. Same crew that's earned 5 stars from your neighbors.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (256) 375-4249"
+  },
+  "design": {
+    "primary_color": "#0F4C75",
+    "accent_color": "#3EDBF0",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

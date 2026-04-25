@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Think Sharp Construction llc",
+    "phone": "(864) 354-0824",
+    "email": "info@thinksharpconsulting.com",
+    "city": "Greenville",
+    "state": "SC",
+    "industry": "gutter installer",
+    "tagline": "Gutters done right, heights handled for you",
+    "logo_url": "",
+    "google_rating": "4.9 stars (35 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=524903312877645361&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*No ladders required* — we handle the heights",
+    "subheadline": "Husband and wife team serving Greenville with seamless quotes, real-time updates, and gutters that actually work.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "35+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Greenville Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE INSTALL",
+    "heading": "Gutter Solutions That Work",
+    "subheading": "From new installs to leak fixes — we handle what's above so you don't have to"
+  },
+  "services": [
+    {
+      "title": "New Gutter Installation",
+      "description": "Complete gutter systems for homes and additions. Color-matched to your trim.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Gutter Repair & Leak Fixes",
+      "description": "We'll find the problem spots you can't see from the ground and fix them right.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Roof Inspection During Install",
+      "description": "While we're up there, we spot other issues that could cause problems later.",
+      "icon": "home"
+    },
+    {
+      "title": "Sunroom & Addition Gutters",
+      "description": "Extending gutters to new construction and enclosed spaces.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Heights Handled, Problems Solved",
+    "body": "We're the Greenville gutter team that shows up when we say we will, keeps you updated in real time, and finds the problems you didn't know you had."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Greenville Says"
+  },
+  "reviews": [
+    {
+      "name": "Christine S.",
+      "location": "Greenville, SC",
+      "text": "10/10 recommendations. Quote, booking, and work done was seamless. Communication was easy and quick. The husband and wife owners were awesome to work with.",
+      "rating": 5
+    },
+    {
+      "name": "h'Elena P.",
+      "location": "Greenville, SC",
+      "text": "Think Sharp responded quickly and got me on schedule immediately. Minor delays but I was updated in real time. Happy with my new gutters.",
+      "rating": 5
+    },
+    {
+      "name": "Robbie P.",
+      "location": "Greenville, SC",
+      "text": "Added gutters on my sunroom and fixed a leak I didn't know about. Really helped me out because I'm not a fan of heights.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Upstate",
+    "subheading": "Gutter installation and repair across Greenville County",
+    "areas": [
+      "Greenville",
+      "Greer",
+      "Simpsonville",
+      "Mauldin",
+      "Taylors",
+      "Travelers Rest",
+      "Fountain Inn",
+      "Piedmont"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Gutters That Actually Work?",
+    "body": "Quick quotes, real-time updates, and no surprises. We handle the heights so you don't have to climb anything.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (864) 354-0824"
+  },
+  "design": {
+    "primary_color": "#1E3A5F",
+    "accent_color": "#C0986B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

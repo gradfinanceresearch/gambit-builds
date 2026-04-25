@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "B.E.T. Plumbing LLC",
+    "phone": "(412) 733-6355",
+    "email": "profiles@birdeye.com",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "industry": "plumber",
+    "tagline": "Pittsburgh plumbers who *actually answer* the phone",
+    "logo_url": "",
+    "google_rating": "5 stars (104 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=10356354984785579481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Pittsburgh plumbers who *actually answer* the phone",
+    "subheadline": "When your water heater dies at 7am, we're already on our way. Real people, real trucks, real solutions.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "100+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Pittsburgh Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every pipe, drain, and fixture",
+    "subheading": "From emergency repairs to full installations"
+  },
+  "services": [
+    {
+      "title": "Water Heater Service",
+      "description": "New installs, repairs, and same-day replacements. Tank or tankless, we handle both.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Drain Cleaning",
+      "description": "Kitchen sinks, shower drains, main lines. We clear it all without the upsell.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Leak Repair",
+      "description": "Under sinks, behind walls, in basements. Find it fast, fix it right.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Emergency Plumbing",
+      "description": "Burst pipes, flooding, no hot water. We pick up the phone when others won't.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Built for Pittsburgh",
+    "body": "We're the Pittsburgh plumbing team that shows up when we say we will. One call, one plumber, one bill."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Pittsburgh says"
+  },
+  "reviews": [
+    {
+      "name": "Marco A.",
+      "location": "Pittsburgh, PA",
+      "text": "Called late evening and Brandon actually answered at 9 PM. Arrived quickly and was incredibly helpful.",
+      "rating": 5
+    },
+    {
+      "name": "Austin W.",
+      "location": "Pittsburgh, PA",
+      "text": "No hot water this morning, Brandon answered before 8am and was here within an hour. New water heater installed same morning.",
+      "rating": 5
+    },
+    {
+      "name": "Adam B.",
+      "location": "Pittsburgh, PA",
+      "text": "Friendly, honest, prompt, dependable. After trying other plumbers, BET has become our go-to and will be for years to come.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Pittsburgh & surrounding areas",
+    "subheading": "Fast response times across the region",
+    "areas": [
+      "Pittsburgh",
+      "Bethel Park",
+      "Mt. Lebanon",
+      "Upper St. Clair",
+      "McMurray",
+      "Peters Township",
+      "Cranberry Township",
+      "Wexford",
+      "Sewickley",
+      "Fox Chapel"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix what's broken?",
+    "body": "Real plumbers answering real phones. Get your free estimate today and see why Pittsburgh trusts B.E.T.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (412) 733-6355"
+  },
+  "design": {
+    "primary_color": "#1A5632",
+    "accent_color": "#D4A843",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

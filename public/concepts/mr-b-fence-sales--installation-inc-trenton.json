@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Mr B Fence Sales & Installation Inc",
+    "phone": "(609) 882-6727",
+    "email": "admin@homerenoamerica.com",
+    "city": "Trenton",
+    "state": "NJ",
+    "industry": "fence installer",
+    "tagline": "Every post set right, every panel secure",
+    "logo_url": "",
+    "google_rating": "3.6 stars (9 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=4897434999646244492&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Fence posts that *stay put* — panels that last",
+    "subheadline": "Trenton's fence team with the parts others can't find and the skills to install them right",
+    "cta_primary": "Get Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Trenton Team"
+    },
+    {
+      "icon": "star",
+      "text": "3.6★ on Google"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "From fence posts to custom panels",
+    "subheading": "Parts in stock, installation done right"
+  },
+  "services": [
+    {
+      "title": "Fence Installation",
+      "description": "Every post level, every panel secure. Cedar, vinyl, chain link — installed to last.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Custom Fence Panels",
+      "description": "Built to your specs. Cedar panels cut and crafted for your exact dimensions.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Fence Parts & Materials",
+      "description": "Hard-to-find parts in stock. Posts, panels, hardware — we've got what others don't carry.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Fence Repair",
+      "description": "Fallen panels, loose posts, gate problems — we fix what's broken.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Fence parts others can't find",
+    "body": "We're the Trenton fence team with the inventory and know-how to get your project done. Real people, real parts, real installation."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Trenton says about our work"
+  },
+  "reviews": [
+    {
+      "name": "Jay A.",
+      "location": "Trenton, NJ",
+      "text": "Mr. B is a gentleman and businessman. Bought custom cedar panels from him, paid too much by accident, and he gave us back the difference without any hassle.",
+      "rating": 5
+    },
+    {
+      "name": "Ed S.",
+      "location": "Trenton, NJ",
+      "text": "Not a fancy showroom, but they had parts no one else in the region could supply. Kenny was especially helpful.",
+      "rating": 4
+    },
+    {
+      "name": "Bryce D.",
+      "location": "Trenton, NJ",
+      "text": "On time, dependable, really nice work. Would definitely use them again.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Trenton and surrounding areas",
+    "subheading": "Quality fence installation throughout Central New Jersey",
+    "areas": [
+      "Trenton",
+      "Hamilton",
+      "Lawrence",
+      "Princeton",
+      "Ewing",
+      "West Windsor",
+      "Robbinsville",
+      "Hopewell"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fence it right?",
+    "body": "Get your free estimate from Trenton's fence team with the parts and skills to do the job right.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (609) 882-6727"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

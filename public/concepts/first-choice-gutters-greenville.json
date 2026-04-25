@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "First Choice Gutters",
+    "phone": "(864) 680-5404",
+    "email": "firstchoiceconstructors@gmail.com",
+    "city": "Greenville",
+    "state": "SC",
+    "industry": "gutter installer",
+    "tagline": "Upstate's trusted gutter professionals",
+    "logo_url": "",
+    "google_rating": "5 stars (30 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=14314706609388271817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The gutter guy Greenville calls *when it counts*",
+    "subheadline": "Max and his crew show up, get it right, and charge what they quote. No surprises.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Greenville Team"
+    }
+  ],
+  "services_section": {
+    "label": "GUTTER SOLUTIONS",
+    "heading": "From install to repair — we handle it all",
+    "subheading": "One call covers everything your gutters need"
+  },
+  "services": [
+    {
+      "title": "Gutter Installation",
+      "description": "New seamless gutters sized right for your home. Custom cut on-site for perfect fit.",
+      "icon": "home"
+    },
+    {
+      "title": "Gutter Repair",
+      "description": "Storm damage, loose connections, leaks — we fix what's broken instead of selling you new.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Gutter Cleaning",
+      "description": "Clear out leaves and debris so water flows where it should. Regular maintenance prevents bigger problems.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Downspout Service",
+      "description": "Proper drainage away from your foundation. Reconnections, extensions, and replacements.",
+      "icon": "pipe"
+    }
+  ],
+  "about": {
+    "heading": "Max and the First Choice team",
+    "body": "We're the Greenville gutter crew that answers the phone and shows up when we say we will. Real quotes, honest work, fair pricing."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Greenville homeowners are saying"
+  },
+  "reviews": [
+    {
+      "name": "Derrick P.",
+      "location": "Greenville, SC",
+      "text": "Max is professional, dependable, and affordable. Outstanding work and the new gutters look beautiful.",
+      "rating": 5
+    },
+    {
+      "name": "Craig G.",
+      "location": "Greenville, SC",
+      "text": "Fair quote, great communication, and quality work. Will definitely use him for future gutter needs.",
+      "rating": 5
+    },
+    {
+      "name": "Kevin K.",
+      "location": "Greenville, SC",
+      "text": "Quick response and highly recommend their services. Had storm damage repaired perfectly.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving the greater Greenville area",
+    "subheading": "Local gutter services throughout the Upstate",
+    "areas": [
+      "Greenville",
+      "Greer",
+      "Mauldin",
+      "Simpsonville",
+      "Taylors",
+      "Easley",
+      "Travelers Rest",
+      "Fountain Inn"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your gutters handled right?",
+    "body": "Max will come take a look and give you a straight quote. No pressure, no games — just honest pricing on quality work.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (864) 680-5404"
+  },
+  "design": {
+    "primary_color": "#0F4C75",
+    "accent_color": "#3EDBF0",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

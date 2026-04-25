@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "North Alabama Tree Service",
+    "phone": "(256) 374-2193",
+    "email": "newsroom@waaytv.com",
+    "city": "Huntsville",
+    "state": "AL",
+    "industry": "tree service",
+    "tagline": "Trees cut, stumps gone, yard clean",
+    "logo_url": "",
+    "google_rating": "4.9 stars (143 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=16643608204925357088&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The tree guy *even the bees trust*",
+    "subheadline": "JD and crew show up when they say they will — and clean up like they were never here.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "140+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Huntsville Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every tree, every stump, every cleanup",
+    "subheading": "From takedowns to firewood, we handle it all"
+  },
+  "services": [
+    {
+      "title": "Tree Removal",
+      "description": "Safe takedowns of any size tree. We work around power lines, houses, and anything you want to keep.",
+      "icon": "saw"
+    },
+    {
+      "title": "Stump Grinding",
+      "description": "Stumps ground below grade so you can plant, build, or mow right over them.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Storm Cleanup",
+      "description": "When the weather hits, we clear your property fast. Emergency calls get priority.",
+      "icon": "shield"
+    },
+    {
+      "title": "Firewood Sales",
+      "description": "Seasoned hardwood ready to burn. Multiple wood types available — you load, cash or Venmo.",
+      "icon": "flame"
+    }
+  ],
+  "about": {
+    "heading": "JD and the crew",
+    "body": "We're the Huntsville tree team that saves bees, builds bird baths, and cleans up like we were never there. Real people answering the phone."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Marshall D.",
+      "location": "Huntsville, AL",
+      "text": "Needed firewood and NATS came through. Variety of wood to choose from, helpful staff, easy in and out. Had a wonderful fire that evening.",
+      "rating": 5
+    },
+    {
+      "name": "Steve D.",
+      "location": "Huntsville, AL",
+      "text": "JD removed two trees and even saved the bees. Asked him not to cut one to the ground for a bird bath — he was all on-board. If you ask JD something, he obliges.",
+      "rating": 5
+    },
+    {
+      "name": "Terry W.",
+      "location": "Huntsville, AL",
+      "text": "Completely satisfied with North Alabama Tree Service. JD and crew were professional, exceeded expectations, and did great cleanup work.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving North Alabama",
+    "subheading": "Tree service throughout the Tennessee Valley",
+    "areas": [
+      "Huntsville",
+      "Madison",
+      "Decatur",
+      "Athens",
+      "Guntersville",
+      "Scottsboro",
+      "Arab",
+      "Cullman"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get those trees handled?",
+    "body": "Call JD for a quote. He'll come out same day and give you straight pricing on the spot.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (256) 374-2193"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFBF7",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

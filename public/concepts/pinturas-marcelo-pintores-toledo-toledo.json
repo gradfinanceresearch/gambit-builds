@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Pinturas Marcelo, pintores Toledo",
+    "phone": "600 40 19 73",
+    "email": "joinus@toledochamber.com",
+    "city": "Toledo",
+    "state": "OH",
+    "industry": "painter",
+    "tagline": "Professional painting with precision and care",
+    "logo_url": "",
+    "google_rating": "5 stars (9 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=4812474388531353916&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The painter Toledo calls for *perfect finishes*",
+    "subheadline": "Meticulous work, zero mess, exact colors every time",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Toledo Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Interior & Exterior Painting",
+    "subheading": "From color consultation to final cleanup"
+  },
+  "services": [
+    {
+      "title": "Interior Painting",
+      "description": "Complete interior painting with clean, precise work. We protect your furniture and leave no trace behind.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Exterior Painting",
+      "description": "Weather-resistant exterior painting that protects and beautifies your home for years to come.",
+      "icon": "home"
+    },
+    {
+      "title": "Color Consultation",
+      "description": "Expert advice on current trends and perfect color matching. We help you get exactly the look you want.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Surface Preparation",
+      "description": "Proper prep work including moisture repair and surface treatment for lasting results.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Precision painting in Toledo",
+    "body": "We're known for getting the exact color right and working with meticulous cleanliness. You won't even know we've been painting."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Toledo homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Andres M.",
+      "location": "Toledo, OH",
+      "text": "Impeccable work from start to finish. Great professionalism and reliability, always meeting deadlines. Communication is easy and he fully understands what you need.",
+      "rating": 5
+    },
+    {
+      "name": "Esther D.",
+      "location": "Toledo, OH",
+      "text": "I always recommend Marcelo's work. Very clean painting - you can't even tell he's been there. Very professional and knows how to get the exact color right.",
+      "rating": 5
+    },
+    {
+      "name": "Paluiris",
+      "location": "Toledo, OH",
+      "text": "True professional! Fast and efficient work that exceeded my expectations. He worked with meticulous cleanliness - my house looks spotless!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Toledo & surrounding areas",
+    "subheading": "Professional painting services throughout Northwest Ohio",
+    "areas": [
+      "Toledo",
+      "Sylvania",
+      "Maumee",
+      "Oregon",
+      "Perrysburg",
+      "Bowling Green",
+      "Findlay",
+      "Fremont"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a perfect paint job?",
+    "body": "Get your free estimate today. We'll discuss colors, timeline, and give you upfront pricing with no surprises.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call 600 40 19 73"
+  },
+  "design": {
+    "primary_color": "#9A3412",
+    "accent_color": "#059669",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "editorial"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Rose and Yambor Painting",
+    "phone": "(419) 779-5810",
+    "email": "rob@yamborinteriors.com",
+    "city": "Toledo",
+    "state": "OH",
+    "industry": "painter",
+    "tagline": "Old-world craftsmanship meets modern reliability",
+    "logo_url": "",
+    "google_rating": "5 stars (74 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=9534489100231624921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Wallpaper removal* to fresh paint — one crew",
+    "subheadline": "Rob, Drew, and Brandon show up on time, prep right, and leave your home looking better than you imagined.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (419) 779-5810"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "70+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Toledo Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Interior & Exterior Done Right",
+    "subheading": "From prep to final coat — complete painting services"
+  },
+  "services": [
+    {
+      "title": "Interior Painting",
+      "description": "Room by room or whole-house projects. Clean lines, perfect color matching, and zero mess left behind.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Exterior Painting",
+      "description": "Power washing, careful prep, and weather-resistant finishes that protect your home for years.",
+      "icon": "home"
+    },
+    {
+      "title": "Wallpaper Removal",
+      "description": "Complete wallpaper stripping and surface prep. Ready for fresh paint or new wallcovering.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Surface Preparation",
+      "description": "Thorough cleaning, sanding, and priming. The foundation of any paint job that lasts.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Old-World Craftsmen",
+    "body": "Rob, Drew, and Brandon run every job like it's their own home. Toledo painters who take pride in the details that matter."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Toledo Says"
+  },
+  "reviews": [
+    {
+      "name": "Brittany F.",
+      "location": "Toledo, OH",
+      "text": "Rob and Andrew painted our dental office perfectly. Consistent, flexible, and worked around our business hours to avoid any disruption. Absolutely recommend them to anyone.",
+      "rating": 5
+    },
+    {
+      "name": "Kim K.",
+      "location": "Toledo, OH",
+      "text": "They removed wallpaper and painted our family room and kitchen. Although young, they're old-world craftsmen who take real pride in their work.",
+      "rating": 5
+    },
+    {
+      "name": "Trent P.",
+      "location": "Toledo, OH",
+      "text": "Excellent, knowledgeable painters. Thoroughly power-washed and prepped everything. Matched colors perfectly and didn't get stray paint anywhere.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Toledo & Surrounding Areas",
+    "subheading": "Professional painting throughout northwest Ohio",
+    "areas": [
+      "Toledo",
+      "Sylvania",
+      "Maumee",
+      "Perrysburg",
+      "Oregon",
+      "Rossford",
+      "Waterville",
+      "Swanton"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Fresh Paint?",
+    "body": "Call Rob for a free estimate. No pressure, just straight talk about your project and honest pricing.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (419) 779-5810"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "editorial"
+  }
+}

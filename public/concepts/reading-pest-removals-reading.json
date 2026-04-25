@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Reading Pest Removals",
+    "phone": "07886 347683",
+    "email": "bpcontrolservice@gmail.com",
+    "city": "Reading",
+    "state": "PA",
+    "industry": "pest control",
+    "tagline": "Fast wasp nest removal — same day service",
+    "logo_url": "",
+    "google_rating": "5 stars (7 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=8420487747505485754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Wasp nest? *Gone in an hour*",
+    "subheadline": "Reading's go-to team for fast, fuss-free pest removal. We show up the same day.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "7+ Google Reviews"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Reading Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE HANDLE",
+    "heading": "Every pest problem, sorted",
+    "subheading": "From wasp nests to unwanted visitors — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Wasp Nest Removal",
+      "description": "Safe, professional removal of wasp nests from sheds, eaves, and hard-to-reach spots. No fuss, just results.",
+      "icon": "shield"
+    },
+    {
+      "title": "Same-Day Service",
+      "description": "Call us today, sorted today. Most jobs completed within an hour of arrival.",
+      "icon": "zap"
+    },
+    {
+      "title": "Bee & Hornet Control",
+      "description": "Expert removal of bee swarms and aggressive hornet colonies with proper safety equipment.",
+      "icon": "droplet"
+    },
+    {
+      "title": "General Pest Control",
+      "description": "Ants, spiders, and other unwanted pests handled with targeted treatments that work.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Real people, real results",
+    "body": "We're a Reading pest control team that shows up when we say we will. One call gets the job done — no long contracts or hidden fees."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Reading residents say"
+  },
+  "reviews": [
+    {
+      "name": "Chris P.",
+      "location": "Reading",
+      "text": "Called Martin out twice for wasp nest removal. Both times he came same day and sorted it without any fuss. Friendly, reliable, good value.",
+      "rating": 5
+    },
+    {
+      "name": "Ryan K.",
+      "location": "Reading",
+      "text": "Very fast! Wasp nest sorted in less than an hour from calling to finishing up.",
+      "rating": 5
+    },
+    {
+      "name": "Mad M.",
+      "location": "Reading",
+      "text": "Great fast, polite, efficient service. No more wasp nest! Reasonably priced and able to pay by card.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Reading & surrounding areas",
+    "subheading": "Fast response times across Berks County",
+    "areas": [
+      "Reading",
+      "Wyomissing",
+      "West Reading",
+      "Shillington",
+      "Sinking Spring",
+      "Exeter",
+      "Birdsboro",
+      "Kenhorst"
+    ]
+  },
+  "cta": {
+    "heading": "Wasp problem? We'll sort it today",
+    "body": "Call now for same-day service. Most jobs done within an hour. Card payments accepted on-site.",
+    "cta_primary": "Get Quick Quote",
+    "cta_secondary": "Call 07886 347683"
+  },
+  "design": {
+    "primary_color": "#1E3A5F",
+    "accent_color": "#C0986B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

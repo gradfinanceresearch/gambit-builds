@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Bill’s Junk removal",
+    "phone": "(717) 209-6380",
+    "email": "jjjunkremovalllc@gmail.com",
+    "city": "Lancaster",
+    "state": "PA",
+    "industry": "junk removal",
+    "tagline": "Clear it out, haul it away",
+    "logo_url": "",
+    "google_rating": "4.6 stars (84 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=1171407905851967110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Hot tubs, sheds, *chicken coops* — we haul it all",
+    "subheadline": "Lancaster's cleanup crew. One call and it's gone.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.6★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "80+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Lancaster Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE HAUL",
+    "heading": "What needs to go?",
+    "subheading": "From furniture to yard debris, we load it and lose it"
+  },
+  "services": [
+    {
+      "title": "Furniture Removal",
+      "description": "Heavy couches, old beds, broken dressers. We muscle it out so you don't have to.",
+      "icon": "home"
+    },
+    {
+      "title": "Appliance Pickup",
+      "description": "Refrigerators, washers, hot water heaters. We handle the heavy lifting and proper disposal.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Shed & Structure Removal",
+      "description": "Old sheds, hot tub enclosures, chicken coops. We tear down and haul away.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Yard Debris Cleanup",
+      "description": "Brush, branches, landscaping leftovers. We clear your property clean.",
+      "icon": "saw"
+    }
+  ],
+  "about": {
+    "heading": "Bill's crew gets it done",
+    "body": "We're the Lancaster team that shows up when we say we will. Careful with your property, fair with our pricing."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Lancaster says"
+  },
+  "reviews": [
+    {
+      "name": "Greg H.",
+      "location": "Lancaster, PA",
+      "text": "Bill made removing our bushes and shrubs look easy. Prompt, professional, and careful with his machinery on our property.",
+      "rating": 5
+    },
+    {
+      "name": "Jessica G.",
+      "location": "Lancaster, PA",
+      "text": "Extremely responsive removing our shed, hot tub, and enclosure. Professional and timely. Would definitely use again.",
+      "rating": 5
+    },
+    {
+      "name": "Maggie S.",
+      "location": "Lancaster, PA",
+      "text": "Had heavy furniture we couldn't move ourselves. They got everything out fast, were super nice, and the price was very reasonable.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where we haul",
+    "subheading": "Serving Lancaster County and surrounding areas",
+    "areas": [
+      "Lancaster",
+      "York",
+      "Reading",
+      "Ephrata",
+      "Lititz",
+      "Manheim",
+      "Columbia",
+      "Elizabethtown"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to clear it out?",
+    "body": "Free quotes, fair prices, and we show up when promised. Let's get that junk out of your way.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (717) 209-6380"
+  },
+  "design": {
+    "primary_color": "#B91C1C",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

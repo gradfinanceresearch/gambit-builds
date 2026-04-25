@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Renee's wallcoverings plus LLC",
+    "phone": "(419) 514-9628",
+    "email": "rchavez@vistapaint.com",
+    "city": "Toledo",
+    "state": "OH",
+    "industry": "painter",
+    "tagline": "Meticulous work, every wall, every room",
+    "logo_url": "",
+    "google_rating": "5 stars (77 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=3700991491339181091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The painter Toledo parents call first",
+    "subheadline": "Quick, professional work that looks perfect when you walk back in the room.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "70+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Toledo Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Interior & wallcovering services",
+    "subheading": "Every room handled with the same attention to detail"
+  },
+  "services": [
+    {
+      "title": "Interior Painting",
+      "description": "Walls, ceilings, and trim painted with precision. Clean lines, smooth finish, zero mess left behind.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Nursery & Kids' Rooms",
+      "description": "Safe, kid-friendly paints applied while working around nap schedules and family routines.",
+      "icon": "home"
+    },
+    {
+      "title": "Wallcovering Installation",
+      "description": "Professional wallpaper and wall covering application for accent walls and full rooms.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Trim & Detail Work",
+      "description": "Window trim, ceiling lines, and detailed woodwork painted to perfection.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "One person, meticulous work",
+    "body": "Renee handles every Toledo project personally. You get the same careful attention whether it's one nursery or your whole house."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Toledo families say"
+  },
+  "reviews": [
+    {
+      "name": "Brody S.",
+      "location": "Toledo",
+      "text": "Renee did our nursery, master bath, living room, and dining room — everything looks great. Quick, professional, and super friendly.",
+      "rating": 5
+    },
+    {
+      "name": "Lisa S.",
+      "location": "Toledo",
+      "text": "Professional, delivers on commitments, and does meticulous work. Perfect results on window trim and ceiling work.",
+      "rating": 5
+    },
+    {
+      "name": "Kayla H.",
+      "location": "Toledo",
+      "text": "Great to work with and does excellent, quality work. Painted most areas of our rental property with fantastic results.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Toledo & surrounding areas",
+    "subheading": "Professional painting throughout northwest Ohio",
+    "areas": [
+      "Toledo",
+      "Sylvania",
+      "Maumee",
+      "Perrysburg",
+      "Oregon",
+      "Rossford",
+      "Waterville",
+      "Swanton"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for that perfect paint job?",
+    "body": "Free quotes on all interior painting and wallcovering projects. Same meticulous attention to every room.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (419) 514-9628"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "editorial"
+  }
+}

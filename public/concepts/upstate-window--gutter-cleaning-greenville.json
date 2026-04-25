@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Upstate Window & Gutter Cleaning",
+    "phone": "(888) 556-8114",
+    "email": "proklean2016@gmail.com",
+    "city": "Greenville",
+    "state": "SC",
+    "industry": "gutter installer",
+    "tagline": "High roofs, sparkling results",
+    "logo_url": "",
+    "google_rating": "5 stars (62 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=7006430394854091028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The crew that *climbs higher* than the rest",
+    "subheadline": "40-foot windows, awkward angles, impossible gutters — we show up with ladders and get it done.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "60+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Greenville Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE CLIMB",
+    "heading": "What we handle up there",
+    "subheading": "Professional equipment for every height and angle"
+  },
+  "services": [
+    {
+      "title": "Gutter Cleaning & Repair",
+      "description": "Complete gutter maintenance from cleaning to minor repairs. We handle the heights so you don't have to.",
+      "icon": "droplet"
+    },
+    {
+      "title": "High Window Cleaning",
+      "description": "Residential and commercial windows at any height. Ladders, squeegees, and the skills to reach what others can't.",
+      "icon": "home"
+    },
+    {
+      "title": "Pressure Washing",
+      "description": "Driveways, siding, decks, and rooflines. Complete exterior cleaning that makes your property shine.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Holiday Light Installation",
+      "description": "Professional Christmas light hanging for tall peaks and difficult rooflines. Setup and takedown included.",
+      "icon": "lightbulb"
+    }
+  ],
+  "about": {
+    "heading": "Built for the tough jobs",
+    "body": "We're the Greenville crew that doesn't back down from height or difficulty. Professional equipment, fair pricing, and we show up when we say we will."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Greenville says"
+  },
+  "reviews": [
+    {
+      "name": "Tarina J.",
+      "location": "Greenville, SC",
+      "text": "First to reach out for a very high roof cleaning job. Squeezed me in last minute, super fair prices, and did a great job.",
+      "rating": 5
+    },
+    {
+      "name": "Jane R.",
+      "location": "Greenville, SC",
+      "text": "Used them for 10 years. Big windows 40 feet up — the crew is brave and thorough. House sparkles when they leave.",
+      "rating": 5
+    },
+    {
+      "name": "Becky W.",
+      "location": "Greenville, SC",
+      "text": "Amazing what they can do on ladders with awkward, difficult windows. Will keep using them as long as I have this house.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where we climb",
+    "subheading": "Serving the greater Greenville area",
+    "areas": [
+      "Greenville",
+      "Spartanburg",
+      "Anderson",
+      "Easley",
+      "Greer",
+      "Simpsonville",
+      "Mauldin",
+      "Taylors"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for the heights?",
+    "body": "Free estimates on all gutter and window cleaning. Professional equipment, fair pricing, and we show up on time.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Today"
+  },
+  "design": {
+    "primary_color": "#991B1B",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "business": {
+    "name": "Geeks on Site",
+    "phone": "(413) 726-2930",
+    "email": "flast@geeksonsite.com",
+    "city": "Springfield",
+    "state": "MA",
+    "industry": "locksmith",
+    "tagline": "Your Springfield Lock & Key Specialists",
+    "logo_url": "",
+    "google_rating": "",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=17678976651143075692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Locked Out? We're *Already On Our Way*",
+    "subheadline": "Springfield's lock and key team that picks up on the first ring and shows up fast.",
+    "cta_primary": "Get Fast Service",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Springfield Team"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE UNLOCK",
+    "heading": "Every Lock, Every Key, Every Time",
+    "subheading": "From your front door to your car trunk — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Emergency Lockouts",
+      "description": "Locked out of your home, car, or office? We get you back inside fast.",
+      "icon": "shield"
+    },
+    {
+      "title": "Lock Installation",
+      "description": "New locks for doors, windows, safes, and mailboxes. Proper installation every time.",
+      "icon": "home"
+    },
+    {
+      "title": "Key Cutting & Duplication",
+      "description": "House keys, car keys, and specialty keys cut while you wait.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Lock Repair & Rekeying",
+      "description": "Fix broken locks or change the key combination without replacing the hardware.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Springfield's Go-To Lock Team",
+    "body": "We're a Springfield locksmith team that answers the phone and shows up when we say we will. One call, one solution."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Springfield Says"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Springfield & Surrounding Areas",
+    "subheading": "Fast response times throughout the Pioneer Valley",
+    "areas": [
+      "Springfield",
+      "Chicopee",
+      "Holyoke",
+      "West Springfield",
+      "Agawam",
+      "Longmeadow",
+      "East Longmeadow",
+      "Wilbraham"
+    ]
+  },
+  "cta": {
+    "heading": "Need a Locksmith? Call Springfield's Best",
+    "body": "Whether you're locked out or need new keys cut, we're the team Springfield trusts. Free estimates on all work.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (413) 726-2930"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

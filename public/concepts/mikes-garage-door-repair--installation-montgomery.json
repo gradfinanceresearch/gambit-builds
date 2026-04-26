@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Mike's Garage Door Repair & Installation",
+    "phone": "(334) 207-3097",
+    "email": "info@mikeygaragedoors.com",
+    "city": "Montgomery",
+    "state": "AL",
+    "industry": "garage door repair",
+    "tagline": "When your door won't budge, we move",
+    "logo_url": "",
+    "google_rating": "5 stars (17 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=4173259175646995060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The garage door guy *Montgomery calls first*",
+    "subheadline": "Same day service, honest pricing, and we show up when we say we will.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "17+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Montgomery Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Doors that stick, springs that snap, openers that quit",
+    "subheading": "One call handles it all"
+  },
+  "services": [
+    {
+      "title": "Spring Replacement",
+      "description": "Broken springs are dangerous. We handle the heavy lifting so you don't have to risk it.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Opener Repair & Install",
+      "description": "Remote not working? Motor making noise? We fix all brands and install new ones.",
+      "icon": "zap"
+    },
+    {
+      "title": "Track & Cable Repair",
+      "description": "Door off track or cables snapped? We get it rolling smooth again.",
+      "icon": "hammer"
+    },
+    {
+      "title": "New Door Installation",
+      "description": "Complete garage door replacement with professional installation and cleanup.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Mike Strickland — Montgomery's garage door specialist",
+    "body": "Real Montgomery business owner who answers his own phone. When your door breaks, we fix it right the first time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Montgomery homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Joey D.",
+      "location": "Montgomery, AL",
+      "text": "Mike shows up when he says he will! Excellent work for a great price. He's done several jobs for me and I'm always more than satisfied.",
+      "rating": 5
+    },
+    {
+      "name": "Jamie W.",
+      "location": "Montgomery, AL",
+      "text": "Service was top-notch from start to finish. Mike was professional, punctual, and knowledgeable. Had my door working like new in no time.",
+      "rating": 5
+    },
+    {
+      "name": "Xavier F.",
+      "location": "Montgomery, AL",
+      "text": "Mike fixed our bent and off-track door for $500 less than the other quote! On time, detailed communication, took less than an hour.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the River Region",
+    "subheading": "Fast response throughout central Alabama",
+    "areas": [
+      "Montgomery",
+      "Prattville",
+      "Millbrook",
+      "Wetumpka",
+      "Pike Road",
+      "Tallassee",
+      "Elmore",
+      "Coosada"
+    ]
+  },
+  "cta": {
+    "heading": "Door acting up? Let's get it sorted",
+    "body": "Free quotes, honest pricing, and same-day service when you need it most.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Mike"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

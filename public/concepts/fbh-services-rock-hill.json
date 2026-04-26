@@ -1,0 +1,108 @@
+{
+  "business": {
+    "name": "Fbh services",
+    "phone": "(803) 280-3214",
+    "email": "jackson@andrewsheating.com",
+    "city": "Rock Hill",
+    "state": "SC",
+    "industry": "concrete contractor",
+    "tagline": "Rock Hill's concrete team that shows up",
+    "logo_url": "",
+    "google_rating": "",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=34922158703202646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Solid work* for Rock Hill driveways and slabs",
+    "subheadline": "From pour to finish — one crew, one call, done right the first time.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Rock Hill Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE CONCRETE",
+    "heading": "What we pour and fix",
+    "subheading": "Every project measured, mixed, and finished to last"
+  },
+  "services": [
+    {
+      "title": "Driveways & Walkways",
+      "description": "New concrete driveways, sidewalks, and walkways. Properly graded and reinforced.",
+      "icon": "home"
+    },
+    {
+      "title": "Foundation Work",
+      "description": "House foundations, garage slabs, and shed pads. Level and built to code.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Concrete Repair",
+      "description": "Crack repair, resurfacing, and patch work on existing concrete surfaces.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Decorative Concrete",
+      "description": "Stamped patterns, exposed aggregate, and colored concrete finishes.",
+      "icon": "paintbrush"
+    }
+  ],
+  "about": {
+    "heading": "About FBH Services",
+    "body": "We're a Rock Hill concrete team that measures twice and pours once. Real people answering the phone — not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Rock Hill says"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Rock Hill and surrounding areas",
+    "subheading": "Concrete services throughout York County",
+    "areas": [
+      "Rock Hill",
+      "Fort Mill",
+      "York",
+      "Tega Cay",
+      "Indian Land",
+      "Clover",
+      "Lake Wylie",
+      "Lesslie"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to pour? Let's talk concrete",
+    "body": "Free estimates on driveways, slabs, walkways, and repairs. We show up when we say we will.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (803) 280-3214"
+  },
+  "design": {
+    "primary_color": "#B91C1C",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

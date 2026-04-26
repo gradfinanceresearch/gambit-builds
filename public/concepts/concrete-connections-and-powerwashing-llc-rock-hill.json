@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Concrete Connections and Powerwashing LLC",
+    "phone": "(704) 361-2583",
+    "email": "gwbrock7@gmail.com",
+    "city": "Rock Hill",
+    "state": "SC",
+    "industry": "concrete contractor",
+    "tagline": "Concrete that connects your outdoor spaces",
+    "logo_url": "",
+    "google_rating": "3.9 stars (15 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=11374571097156927454&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Concrete that *actually lasts* in Rock Hill",
+    "subheadline": "Stamped patios, building pads, and powerwashing that brings the shine back.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "star",
+      "text": "3.9★ on Google"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE POUR",
+    "heading": "Concrete & Clean",
+    "subheading": "From fresh pours to bringing back the shine"
+  },
+  "services": [
+    {
+      "title": "Stamped Concrete Patios",
+      "description": "Custom patterns and colors that turn your backyard into the hangout spot.",
+      "icon": "brick"
+    },
+    {
+      "title": "Building Pads",
+      "description": "Level, solid foundations for sheds, garages, and outbuildings that won't settle.",
+      "icon": "home"
+    },
+    {
+      "title": "Concrete Sealing",
+      "description": "Restore the color and add years of protection to existing concrete surfaces.",
+      "icon": "shield"
+    },
+    {
+      "title": "Pressure Washing",
+      "description": "Strip away years of grime and bring back that like-new appearance.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Built for Rock Hill Weather",
+    "body": "We're the concrete crew that knows Carolina clay and summer storms. Every pour is mixed right and finished to last."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Rock Hill Says"
+  },
+  "reviews": [
+    {
+      "name": "Breanna J.",
+      "location": "Rock Hill, SC",
+      "text": "Brian and his crew installed a gorgeous stamped concrete pad in our backyard. Extremely professional and helped us choose the perfect patio to relax on.",
+      "rating": 5
+    },
+    {
+      "name": "Tim M.",
+      "location": "Rock Hill, SC",
+      "text": "Outstanding job on my building pad, so good I added an adjoining patio too. Quality and price were second to none.",
+      "rating": 5
+    },
+    {
+      "name": "Simone G.",
+      "location": "Rock Hill, SC",
+      "text": "Just had our patio re-sealed and what a difference! Brought the color back out with a beautiful shine. Very happy with Brian's work.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Rock Hill & Beyond",
+    "subheading": "Concrete services throughout York County",
+    "areas": [
+      "Rock Hill",
+      "Fort Mill",
+      "York",
+      "Tega Cay",
+      "Lake Wylie",
+      "Clover",
+      "Baxter",
+      "India Hook"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Pour?",
+    "body": "Get your free estimate today. We'll walk your space and give you straight pricing on the spot.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (704) 361-2583"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#EF4444",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

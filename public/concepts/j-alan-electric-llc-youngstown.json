@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "J. Alan Electric LLC",
+    "phone": "(330) 881-5169",
+    "email": "service@aeyelectric.com",
+    "city": "Youngstown",
+    "state": "OH",
+    "industry": "electrician",
+    "tagline": "Reliable electrical work when you need it most",
+    "logo_url": "",
+    "google_rating": "4.9 stars (28 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=3810564280703628376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Power Problems? *We Show Up.*",
+    "subheadline": "Licensed Youngstown electrician who answers the phone and fixes it right the first time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (330) 881-5169"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Youngstown Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every Wire, Every Panel, Every Problem",
+    "subheading": "From blown circuits to complete rewiring — we handle the electrical work other contractors can't figure out."
+  },
+  "services": [
+    {
+      "title": "Panel & Circuit Work",
+      "description": "Breaker panels, circuit upgrades, and electrical troubleshooting. We find the problem and fix it right.",
+      "icon": "zap"
+    },
+    {
+      "title": "Outlet & Wiring Repair",
+      "description": "Dead outlets, faulty wiring, and electrical mysteries solved. Fast diagnosis, permanent fixes.",
+      "icon": "plug"
+    },
+    {
+      "title": "Emergency Electrical",
+      "description": "Power outages, electrical emergencies, and after-hours calls. We show up when others won't.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Fan & Fixture Installation",
+      "description": "Ceiling fans, light fixtures, and electrical installations. Properly wired and safely mounted.",
+      "icon": "fan"
+    }
+  ],
+  "about": {
+    "heading": "One Call Gets It Done",
+    "body": "We're the Youngstown electrical team that shows up when we say we will. Real electrician, real truck, real solutions."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Youngstown Says"
+  },
+  "reviews": [
+    {
+      "name": "Kyle B.",
+      "location": "Youngstown, OH",
+      "text": "Jeff fixed our old wiring issue on very short notice and even hung our new ceiling fan. Extremely friendly and very reasonably priced.",
+      "rating": 5
+    },
+    {
+      "name": "reena w.",
+      "location": "Youngstown, OH",
+      "text": "Fair reasonable prices and got the job done in one day! After 3 electricians never came back, Jeff actually showed up.",
+      "rating": 5
+    },
+    {
+      "name": "Adam M.",
+      "location": "Youngstown, OH",
+      "text": "Jeff came out after hours for severed underground wires. Stayed until 9 PM working with a headlamp in a water-filled trench to restore power.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Youngstown & Surrounding Areas",
+    "subheading": "Fast response throughout the Mahoning Valley",
+    "areas": [
+      "Youngstown",
+      "Boardman",
+      "Austintown",
+      "Canfield",
+      "Poland",
+      "Struthers",
+      "Campbell",
+      "Hubbard"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Get Your Power Back?",
+    "body": "Call the electrician Youngstown trusts. Free quotes, honest pricing, and we actually show up.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

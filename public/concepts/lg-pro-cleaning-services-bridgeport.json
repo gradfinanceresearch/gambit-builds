@@ -1,0 +1,108 @@
+{
+  "business": {
+    "name": "L&G Pro Cleaning Services",
+    "phone": "(475) 349-3525",
+    "email": "contactlorycleaning@gmail.com",
+    "city": "Bridgeport",
+    "state": "CT",
+    "industry": "window cleaner",
+    "tagline": "Crystal clear views, every time",
+    "logo_url": "",
+    "google_rating": "5 stars (5 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=2369074268075536224&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Streak-free windows* in Bridgeport",
+    "subheadline": "Inside, outside, high or low — we clean what others won't reach.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Bridgeport Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE CLEAN",
+    "heading": "Windows, screens, and more",
+    "subheading": "Professional cleaning for residential and commercial properties"
+  },
+  "services": [
+    {
+      "title": "Residential Window Cleaning",
+      "description": "Inside and outside window cleaning for homes. Includes screens and sills.",
+      "icon": "home"
+    },
+    {
+      "title": "Commercial Window Service",
+      "description": "Storefront and office building windows. Regular maintenance schedules available.",
+      "icon": "shield"
+    },
+    {
+      "title": "Screen Cleaning",
+      "description": "Remove dirt and debris from window screens. Makes a huge difference in clarity.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Pressure Washing",
+      "description": "Exterior cleaning for driveways, sidewalks, and building surfaces.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Bridgeport's window cleaning team",
+    "body": "We're a local Bridgeport crew that shows up when we say we will. One call gets your windows crystal clear."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors say"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Bridgeport and surrounding areas",
+    "subheading": "Professional window cleaning throughout Fairfield County",
+    "areas": [
+      "Bridgeport",
+      "Fairfield",
+      "Stratford",
+      "Trumbull",
+      "Milford",
+      "Norwalk",
+      "Stamford",
+      "Westport"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for streak-free windows?",
+    "body": "Get your free estimate today. No pressure, just clean windows.",
+    "cta_primary": "Get Quote",
+    "cta_secondary": "Call (475) 349-3525"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

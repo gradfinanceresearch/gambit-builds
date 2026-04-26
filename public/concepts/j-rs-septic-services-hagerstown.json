@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "J R's Septic Services",
+    "phone": "(410) 275-2647",
+    "email": "info@jrsepticservice.com",
+    "city": "Hagerstown",
+    "state": "MD",
+    "industry": "septic service",
+    "tagline": "When nature calls, we answer",
+    "logo_url": "",
+    "google_rating": "5 stars (33 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=8045850682286038261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The septic team *Hagerstown trusts*",
+    "subheadline": "Same-day emergency service. Real answers over the phone. No surprises on the bill.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every septic need handled",
+    "subheading": "From routine pumping to emergency repairs"
+  },
+  "services": [
+    {
+      "title": "Septic Pumping",
+      "description": "Regular maintenance pumping to keep your system running smooth. We'll remind you when it's time.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Emergency Repairs",
+      "description": "System backing up? Alarm going off? We'll diagnose the problem and fix it right.",
+      "icon": "wrench"
+    },
+    {
+      "title": "System Inspections",
+      "description": "Complete system checkups to catch problems before they become expensive headaches.",
+      "icon": "shield"
+    },
+    {
+      "title": "Drain Field Service",
+      "description": "Drain field issues diagnosed and repaired by techs who know what they're looking at.",
+      "icon": "pipe"
+    }
+  ],
+  "about": {
+    "heading": "Real septic pros",
+    "body": "We're the Hagerstown septic team that shows up when we say we will. One call gets you John — not a call center, not a voicemail."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Rebecca H.",
+      "location": "Hagerstown, MD",
+      "text": "Amazing service, professional and came earlier when I called same morning to change appointment time. Very reasonable pricing. Been using them for years.",
+      "rating": 5
+    },
+    {
+      "name": "J. L.",
+      "location": "Hagerstown, MD",
+      "text": "Emergency septic issue and John got out sooner than expected. Very informative and understanding. Reasonably priced. Couldn't ask for better.",
+      "rating": 5
+    },
+    {
+      "name": "Kelly L.",
+      "location": "Hagerstown, MD",
+      "text": "JR's is my first call for septic needs. John is compassionate and timely getting back to you. Called at 4pm, he called back before 5pm and came right out.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Hagerstown & beyond",
+    "subheading": "Same-day service throughout Washington County",
+    "areas": [
+      "Hagerstown",
+      "Williamsport",
+      "Boonsboro",
+      "Smithsburg",
+      "Sharpsburg",
+      "Funkstown",
+      "Clear Spring",
+      "Hancock"
+    ]
+  },
+  "cta": {
+    "heading": "Septic problems don't wait",
+    "body": "Get honest answers and upfront pricing. Call now or request your free quote online.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (410) 275-2647"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFBF5",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

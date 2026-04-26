@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Hoffman Excavating & Hauling LLC",
+    "phone": "(301) 733-5951",
+    "email": "hoffmanx@hotmail.com",
+    "city": "Hagerstown",
+    "state": "MD",
+    "industry": "septic service",
+    "tagline": "Dig deep, build right",
+    "logo_url": "",
+    "google_rating": "4.7 stars (12 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=10442056079257869062&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When the ground needs moving, *we move it right*",
+    "subheadline": "Septic systems, foundations, and excavation work that stands the test of time.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.7★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "10+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Hagerstown Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Excavation & Septic Services",
+    "subheading": "From new installations to emergency repairs"
+  },
+  "services": [
+    {
+      "title": "Septic System Installation",
+      "description": "Complete septic tank and drain field installation. We handle permits, site prep, and final inspection.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Foundation Excavation",
+      "description": "Precise foundation digging to spec. Clean corners, proper depth, ready for your pour.",
+      "icon": "home"
+    },
+    {
+      "title": "Site Grading & Prep",
+      "description": "Level your lot, create proper drainage, prep for construction or landscaping projects.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Emergency Septic Repair",
+      "description": "When your system fails, we dig it up and fix it fast. Tank replacement and line repairs.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Built on Hagerstown Dirt",
+    "body": "Tyler Hoffman and his crew know Maryland soil like the back of their hand. We show up when we say we will and dig it right the first time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Our Customers Say"
+  },
+  "reviews": [
+    {
+      "name": "Robin S.",
+      "location": "Hagerstown, MD",
+      "text": "Tyler and his crew were diligent in their work, making sure all specifications were adhered to and the craftsmanship was neat and tight.",
+      "rating": 5
+    },
+    {
+      "name": "Elinore S.",
+      "location": "Hagerstown, MD",
+      "text": "They walked us through every step days ahead of time and were true professionals! Amazing job replacing our tank.",
+      "rating": 5
+    },
+    {
+      "name": "Josh H.",
+      "location": "Hagerstown, MD",
+      "text": "Tyler and his crew fixed the issues from a previous contractor, was reasonable on their rate and the job turned out excellent.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Hagerstown & Surrounding Areas",
+    "subheading": "Local excavation services throughout Washington County",
+    "areas": [
+      "Hagerstown",
+      "Williamsport",
+      "Boonsboro",
+      "Sharpsburg",
+      "Funkstown",
+      "Smithsburg",
+      "Clear Spring",
+      "Hancock"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Break Ground?",
+    "body": "Get your free estimate today. We'll walk the site, explain the work, and give you an honest price.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (301) 733-5951"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

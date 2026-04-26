@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Jumpstart & lockouts LLC",
+    "phone": "(413) 355-0873",
+    "email": "wspringfield@jumpstartpreschoolma.com",
+    "city": "Springfield",
+    "state": "MA",
+    "industry": "locksmith",
+    "tagline": "Keys locked in? Battery dead? We're on the way.",
+    "logo_url": "",
+    "google_rating": "5 stars (19 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=13837126559999380720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Locked out at *2am*? We answer.",
+    "subheadline": "Springfield's go-to team for lockouts, dead batteries, and flat tires — fast response, fair prices.",
+    "cta_primary": "Get Help Now",
+    "cta_secondary": "Call (413) 355-0873"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "19+ Google Reviews"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Springfield Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Locked Out? Dead Battery? Flat Tire?",
+    "subheading": "One call handles it all"
+  },
+  "services": [
+    {
+      "title": "Car Lockouts",
+      "description": "Keys inside? We'll have you back in your car in minutes, not hours.",
+      "icon": "shield"
+    },
+    {
+      "title": "Jump Starts",
+      "description": "Dead battery got you stranded? We bring the power to get you moving.",
+      "icon": "zap"
+    },
+    {
+      "title": "Flat Tire Service",
+      "description": "Tire goes flat, we handle the fix or swap. Quick roadside help when you need it.",
+      "icon": "wrench"
+    },
+    {
+      "title": "House Lockouts",
+      "description": "Locked out of home? We get you back inside without damaging your door.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Springfield's Emergency Response Team",
+    "body": "We're the Springfield locksmith team that shows up fast and gets the job done right. Real people answering the phone — not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Springfield Says"
+  },
+  "reviews": [
+    {
+      "name": "Everton C.",
+      "location": "Springfield, MA",
+      "text": "Keys locked in the car and they showed up in 20 minutes, took 5 to open it. Great service — got them on speed dial now.",
+      "rating": 5
+    },
+    {
+      "name": "CJ D.",
+      "location": "Springfield, MA",
+      "text": "Flat tire on the highway during a snowstorm — they went above and beyond! Responded quickly in the snow and had me safely back on the road.",
+      "rating": 5
+    },
+    {
+      "name": "Goodie G.",
+      "location": "Springfield, MA",
+      "text": "John helped me get my car started, stayed with me till I filled up gas, and made sure I was safe to go before he left.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Springfield & Beyond",
+    "subheading": "Fast response across the Pioneer Valley",
+    "areas": [
+      "Springfield",
+      "Holyoke",
+      "Chicopee",
+      "West Springfield",
+      "East Longmeadow",
+      "Longmeadow",
+      "Agawam",
+      "Westfield"
+    ]
+  },
+  "cta": {
+    "heading": "Locked Out? Battery Dead? We're Coming.",
+    "body": "Don't wait around hoping someone shows up. Call the team Springfield trusts for fast, reliable emergency service.",
+    "cta_primary": "Get Emergency Help",
+    "cta_secondary": "Call (413) 355-0873"
+  },
+  "design": {
+    "primary_color": "#5B21B6",
+    "accent_color": "#10B981",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

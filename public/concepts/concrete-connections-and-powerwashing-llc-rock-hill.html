@@ -1,0 +1,1052 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Concrete Connections and Powerwashing LLC — concrete contractor in Rock Hill, SC</title>
+<meta name="description" content="Stamped patios, building pads, and powerwashing that brings the shine back."/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700;800&family=Work+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>
+<style>
+:root {
+  --primary: #1F2937;
+  --primary-rgb: 31, 41, 55;
+  --primary-light: #edeeef;
+  --primary-med: #dddfe1;
+  --primary-dark: #1a232f;
+  --accent: #EF4444;
+  --accent-rgb: 239, 68, 68;
+  --bg: #F0F4F8;
+  --surface-alt: #DCEAF8;
+  --surface-alt-card: #E8F0F8;
+  --text: #1A1A2E;
+  --text-on-primary: #ffffff;
+  --text-muted: color-mix(in srgb, #1A1A2E 60%, transparent);
+  --text-subtle: color-mix(in srgb, #1A1A2E 40%, transparent);
+  --border: color-mix(in srgb, #1A1A2E 8%, transparent);
+  --border-strong: color-mix(in srgb, #1A1A2E 15%, transparent);
+  --card-bg: #F0F4F8;
+  --card-shadow: 0 1px 3px rgba(0,0,0,0.04), 0 4px 12px rgba(0,0,0,0.03);
+  --card-shadow-hover: 0 4px 16px rgba(0,0,0,0.08), 0 8px 32px rgba(0,0,0,0.04);
+  --font-heading: 'Oswald', sans-serif;
+  --font-body: 'Work Sans', sans-serif;
+  --radius: 12px;
+  --radius-lg: 20px;
+  --max-w: 1120px;
+  --section-pad: clamp(64px, 8vw, 100px) clamp(20px, 5vw, 48px);
+}
+
+*, *::before, *::after { margin:0; padding:0; box-sizing:border-box; }
+html { scroll-behavior:smooth; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body {
+  font-family: var(--font-body);
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+  overflow-x: hidden;
+}
+
+/* ── Section tinting ───────────────────────── */
+.section-tinted {
+  background: var(--surface-alt);
+}
+.section-tinted .service-card,
+.section-tinted .review-card {
+  background: var(--surface-alt-card);
+}
+
+
+/* ── Icon base ─────────────────────────────── */
+.icon { display: inline-flex; align-items: center; justify-content: center; }
+.icon svg { width: 1em; height: 1em; }
+
+/* ── Scroll animations ─────────────────────── */
+.reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.7s cubic-bezier(0.16, 1, 0.3, 1), transform 0.7s cubic-bezier(0.16, 1, 0.3, 1); }
+.reveal.visible { opacity: 1; transform: translateY(0); }
+.reveal-delay-1 { transition-delay: 0.1s; }
+.reveal-delay-2 { transition-delay: 0.2s; }
+.reveal-delay-3 { transition-delay: 0.3s; }
+.reveal-delay-4 { transition-delay: 0.4s; }
+.reveal-delay-5 { transition-delay: 0.5s; }
+
+/* ── Section label ─────────────────────────── */
+.section-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--primary);
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.section-label::before {
+  content: '';
+  width: 24px;
+  height: 2px;
+  background: var(--primary);
+  border-radius: 1px;
+}
+
+/* ── Typography ────────────────────────────── */
+h1, h2, h3 { font-family: var(--font-heading); line-height: 1.2; }
+h1 em, h2 em { font-style: italic; color: var(--primary); }
+.section-heading {
+  font-size: clamp(1.75rem, 3.5vw, 2.5rem);
+  font-weight: 700;
+  margin-bottom: 16px;
+  letter-spacing: -0.02em;
+}
+.section-sub {
+  font-size: 1.05rem;
+  color: var(--text-muted);
+  max-width: 560px;
+  line-height: 1.7;
+}
+
+/* ── Buttons ───────────────────────────────── */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 28px;
+  border-radius: var(--radius);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  font-family: var(--font-body);
+  border: none;
+  cursor: pointer;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  position: relative;
+  overflow: hidden;
+}
+.btn-primary {
+  background: var(--primary);
+  color: var(--text-on-primary);
+  box-shadow: 0 2px 8px rgba(var(--primary-rgb), 0.25);
+}
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(var(--primary-rgb), 0.35);
+}
+.btn-secondary {
+  background: transparent;
+  color: var(--text);
+  border: 1.5px solid var(--border-strong);
+}
+.btn-secondary:hover {
+  border-color: var(--primary);
+  background: rgba(var(--primary-rgb), 0.04);
+}
+.btn-on-primary {
+  background: var(--bg);
+  color: var(--text);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.btn-on-primary:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0,0,0,0.15); }
+.btn-outline-primary {
+  background: transparent;
+  color: var(--text-on-primary);
+  border: 1.5px solid rgba(255,255,255,0.3);
+}
+.btn-outline-primary:hover { background: rgba(255,255,255,0.1); }
+
+/* ── Stars ─────────────────────────────────── */
+.stars-full { color: var(--accent); }
+.stars-empty { color: var(--border-strong); }
+.review-stars { font-size: 0.95rem; letter-spacing: 2px; margin-bottom: 14px; }
+
+/* ── Responsive ────────────────────────────── */
+@media (max-width: 768px) {
+  .services-grid, .reviews-grid { grid-template-columns: 1fr !important; }
+  .hero-ctas { flex-direction: column; align-items: stretch; }
+  .hero-ctas .btn { justify-content: center; }
+  .split-hero { flex-direction: column !important; }
+  .split-hero-content { text-align: center; padding: 48px 24px !important; }
+  .split-hero-visual { min-height: 300px !important; }
+  .footer-inner { flex-direction: column; gap: 24px; }
+  .areas-grid { justify-content: center; }
+  .trust-badges { gap: 12px; }
+}
+</style>
+</head>
+<body>
+
+<style>
+.gambit-top-strip {
+  background: #0a0a0a;
+  color: #ffffff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  font-size: 0.88rem;
+  font-weight: 500;
+  padding: 10px 24px;
+  text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  letter-spacing: 0.01em;
+}
+.gambit-top-strip strong { font-weight: 700; }
+.gambit-top-strip a {
+  color: #ffffff;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  margin-left: 8px;
+  font-weight: 600;
+}
+.gambit-top-strip a:hover { opacity: 0.8; }
+@media (max-width: 768px) {
+  .gambit-top-strip { font-size: 0.8rem; padding: 9px 16px; line-height: 1.4; }
+  .gambit-top-strip a { display: inline-block; margin-top: 2px; }
+}
+</style>
+<div class="gambit-top-strip">
+  <strong>👋 Hey — this is a free concept I built for Concrete Connections and Powerwashing LLC.</strong>
+  <a href="#gambit-offer">See the offer ↓</a>
+</div>
+
+<style>
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 clamp(20px, 5vw, 48px);
+  height: 72px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(255,255,255,0.92);
+  backdrop-filter: blur(12px) saturate(180%);
+  -webkit-backdrop-filter: blur(12px) saturate(180%);
+  border-bottom: 1px solid var(--border);
+}
+.nav-logo {
+  font-family: var(--font-heading);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  letter-spacing: -0.02em;
+}
+.nav-logo-img { height: 32px; width: auto; object-fit: contain; }
+.nav-right { display: flex; align-items: center; gap: 16px; }
+.nav-phone {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--text-muted);
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.9rem;
+  transition: color 0.2s;
+}
+.nav-phone:hover { color: var(--primary); }
+.nav-phone .icon svg { width: 16px; height: 16px; }
+.nav-cta {
+  background: var(--primary);
+  color: var(--text-on-primary);
+  padding: 9px 20px;
+  border-radius: var(--radius);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.85rem;
+  transition: all 0.2s;
+}
+.nav-cta:hover { opacity: 0.9; transform: translateY(-1px); }
+@media (max-width: 600px) {
+  .nav-phone span { display: none; }
+  .nav-cta { padding: 8px 14px; font-size: 0.8rem; }
+}
+</style>
+<nav class="nav">
+  <a href="#" class="nav-logo">Concrete Connections and Powerwashing LLC</a>
+  <div class="nav-right">
+    <a href="tel:7043612583" class="nav-phone"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg></span><span>(704) 361-2583</span></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaleb%40gambitbuilds.com&su=Concept+mockup+for+Concrete+Connections+and+Powerwashing+LLC" target="_blank" class="nav-cta">Get a Quote</a>
+  </div>
+</nav>
+
+<style>
+.split-hero {
+  display: flex;
+  min-height: calc(100vh - 72px);
+  max-height: 800px;
+}
+.split-hero-content {
+  flex: 1;
+  padding: clamp(48px, 6vw, 80px) clamp(24px, 5vw, 64px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 900px;
+  margin: 0 auto;
+  width: 100%;
+}
+.split-hero-visual {
+  display: none;
+}
+.split-hero-content .hero-eyebrow {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--primary);
+  margin-bottom: 20px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.split-hero-content h1 {
+  font-size: clamp(2.2rem, 4.5vw, 3.2rem);
+  font-weight: 800;
+  line-height: 1.1;
+  margin-bottom: 20px;
+  letter-spacing: -0.02em;
+}
+.split-hero-content .hero-sub {
+  font-size: 1.05rem;
+  color: var(--text-muted);
+  margin-bottom: 36px;
+  max-width: 480px;
+  line-height: 1.7;
+}
+.split-hero-content .hero-ctas { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 40px; }
+.split-hero-content .trust-badges {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.split-hero-content .trust-badge {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--text-muted);
+}
+.split-hero-content .trust-badge .icon { color: var(--primary); font-size: 1rem; }
+.split-hero-content .trust-badge .icon svg { width: 16px; height: 16px; }
+</style>
+<section class="split-hero">
+  <div class="split-hero-content">
+    <div class="hero-eyebrow reveal">Serving Rock Hill, SC</div>
+    <h1 class="reveal reveal-delay-1">Concrete that <em>actually lasts</em> in Rock Hill</h1>
+    <p class="hero-sub reveal reveal-delay-2">Stamped patios, building pads, and powerwashing that brings the shine back.</p>
+    <div class="hero-ctas reveal reveal-delay-3">
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaleb%40gambitbuilds.com&su=Concept+mockup+for+Concrete+Connections+and+Powerwashing+LLC" target="_blank" class="btn btn-primary">Get Free Quote</a>
+      <a href="tel:7043612583" class="btn btn-secondary">Call Now</a>
+    </div>
+    <div class="trust-badges reveal reveal-delay-4">
+      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></span> <span>Licensed &amp; Insured</span></div>
+      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></span> <span>Locally Owned</span></div>
+      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span> <span>3.9★ on Google</span></div>
+      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg></span> <span>Same-Day Quotes</span></div>
+    </div>
+  </div>
+  <div class="split-hero-visual">
+    <div class="hero-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="4" width="22" height="6"/><rect x="1" y="10" width="22" height="6"/><rect x="1" y="16" width="22" height="4"/><line x1="12" y1="4" x2="12" y2="10"/><line x1="6" y1="10" x2="6" y2="16"/><line x1="18" y1="10" x2="18" y2="16"/><line x1="12" y1="16" x2="12" y2="20"/></svg></div>
+  </div>
+</section>
+
+
+
+<style>
+.services-wrap {
+  background: var(--surface-alt);
+}
+.services-section {
+  padding: var(--section-pad);
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
+.services-header {
+  margin-bottom: 48px;
+}
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+.service-card {
+  padding: 32px;
+  border-radius: var(--radius-lg);
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  position: relative;
+}
+.service-card:hover {
+  border-color: rgba(var(--primary-rgb), 0.2);
+  box-shadow: var(--card-shadow-hover);
+  transform: translateY(-4px);
+}
+.service-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  background: rgba(var(--primary-rgb), 0.08);
+  color: var(--primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.service-icon svg { width: 22px; height: 22px; }
+.service-card h3 {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+  letter-spacing: -0.01em;
+}
+.service-card p {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  line-height: 1.65;
+}
+</style>
+<div class="services-wrap">
+<section class="services-section">
+  <div class="services-header">
+    <div class="section-label reveal">WHAT WE POUR</div>
+    <h2 class="section-heading reveal reveal-delay-1">Concrete &amp; Clean</h2>
+    <p class="section-sub reveal reveal-delay-2">From fresh pours to bringing back the shine</p>
+  </div>
+  <div class="services-grid">
+    
+    <div class="service-card reveal reveal-delay-1">
+      <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="4" width="22" height="6"/><rect x="1" y="10" width="22" height="6"/><rect x="1" y="16" width="22" height="4"/><line x1="12" y1="4" x2="12" y2="10"/><line x1="6" y1="10" x2="6" y2="16"/><line x1="18" y1="10" x2="18" y2="16"/><line x1="12" y1="16" x2="12" y2="20"/></svg></div>
+      <h3>Stamped Concrete Patios</h3>
+      <p>Custom patterns and colors that turn your backyard into the hangout spot.</p>
+    </div>
+    <div class="service-card reveal reveal-delay-2">
+      <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></div>
+      <h3>Building Pads</h3>
+      <p>Level, solid foundations for sheds, garages, and outbuildings that won't settle.</p>
+    </div>
+    <div class="service-card reveal reveal-delay-3">
+      <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
+      <h3>Concrete Sealing</h3>
+      <p>Restore the color and add years of protection to existing concrete surfaces.</p>
+    </div>
+    <div class="service-card reveal reveal-delay-4">
+      <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg></div>
+      <h3>Pressure Washing</h3>
+      <p>Strip away years of grime and bring back that like-new appearance.</p>
+    </div>
+  </div>
+</section>
+</div>
+
+
+<style>
+.about-section {
+  padding: var(--section-pad);
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
+.about-inner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 64px;
+  align-items: center;
+}
+.about-text h2 {
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  font-weight: 700;
+  margin-bottom: 16px;
+  letter-spacing: -0.02em;
+}
+.about-text p {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  line-height: 1.75;
+}
+
+/* ── Stats visual ──────────────────────────── */
+.about-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.about-stat {
+  padding: 28px 24px;
+  border-radius: var(--radius-lg);
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  text-align: center;
+}
+.about-stat-icon {
+  color: var(--primary);
+  margin-bottom: 12px;
+  display: flex;
+  justify-content: center;
+}
+.about-stat-icon svg { width: 22px; height: 22px; }
+.about-stat-value {
+  font-family: var(--font-heading);
+  font-size: 1.8rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: var(--text);
+  line-height: 1.1;
+  margin-bottom: 4px;
+}
+.about-stat-label {
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* ── Pull-quote visual ─────────────────────── */
+.about-pullquote {
+  padding: 36px;
+  border-radius: var(--radius-lg);
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  position: relative;
+}
+.about-pullquote-mark {
+  font-family: Georgia, serif;
+  font-size: 4rem;
+  line-height: 1;
+  color: var(--primary);
+  opacity: 0.3;
+  position: absolute;
+  top: 16px;
+  left: 28px;
+}
+.about-pullquote-text {
+  font-size: 1.05rem;
+  font-style: italic;
+  color: var(--text-muted);
+  line-height: 1.7;
+  margin: 16px 0 24px;
+  padding: 0;
+  border: 0;
+}
+.about-pullquote-author {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border);
+}
+.about-pullquote-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+  color: var(--text-on-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.85rem;
+  flex-shrink: 0;
+}
+.about-pullquote-name { font-weight: 600; font-size: 0.88rem; }
+.about-pullquote-location { font-size: 0.78rem; color: var(--text-subtle); }
+
+/* ── Feature list visual ───────────────────── */
+.about-features {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.about-feature {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 18px 22px;
+  border-radius: var(--radius);
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  font-size: 0.92rem;
+  font-weight: 500;
+}
+.about-feature-icon {
+  color: var(--primary);
+  flex-shrink: 0;
+  display: flex;
+}
+.about-feature-icon svg { width: 20px; height: 20px; }
+
+@media (max-width: 768px) {
+  .about-inner { grid-template-columns: 1fr; gap: 32px; }
+  .about-stats { grid-template-columns: 1fr 1fr; gap: 12px; }
+}
+</style>
+<section class="about-section">
+  <div class="about-inner">
+    
+    <div class="about-stats reveal" style="grid-template-columns: 1fr;">
+      
+      <div class="about-stat reveal-delay-1">
+        <div class="about-stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
+        <div class="about-stat-value">3.9★</div>
+        <div class="about-stat-label">Google Rating</div>
+      </div>
+      <div class="about-stat reveal-delay-2">
+        <div class="about-stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></div>
+        <div class="about-stat-value">15+</div>
+        <div class="about-stat-label">Google Reviews</div>
+      </div>
+    </div>
+    <div class="about-text">
+      <div class="section-label reveal">About</div>
+      <h2 class="reveal reveal-delay-1">Built for Rock Hill Weather</h2>
+      <p class="reveal reveal-delay-2">We're the concrete crew that knows Carolina clay and summer storms. Every pour is mixed right and finished to last.</p>
+    </div>
+  </div>
+</section>
+
+<style>
+.reviews-section {
+  padding: var(--section-pad);
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
+.reviews-header { margin-bottom: 48px; }
+.reviews-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+.review-card {
+  padding: 32px;
+  border-radius: var(--radius-lg);
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+}
+.review-text {
+  font-size: 0.92rem;
+  color: var(--text-muted);
+  line-height: 1.7;
+  margin-bottom: 24px;
+  flex: 1;
+  font-style: italic;
+}
+.review-text::before { content: open-quote; font-size: 1.5rem; color: var(--primary); font-family: Georgia, serif; vertical-align: -4px; margin-right: 2px; }
+.review-text::after { content: close-quote; font-size: 1.5rem; color: var(--primary); font-family: Georgia, serif; vertical-align: -4px; margin-left: 2px; }
+.review-author {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border);
+}
+.review-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+  color: var(--text-on-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.9rem;
+  flex-shrink: 0;
+}
+.review-name { font-weight: 600; font-size: 0.88rem; }
+.review-location { font-size: 0.78rem; color: var(--text-subtle); }
+</style>
+<section class="reviews-section">
+  <div class="reviews-header">
+    <div class="section-label reveal">WORD OF MOUTH</div>
+    <h2 class="section-heading reveal reveal-delay-1">What Rock Hill Says</h2>
+  </div>
+  <div class="reviews-grid">
+    
+    <div class="review-card reveal reveal-delay-1">
+      <div class="review-stars"><span class="stars-full">★★★★★</span><span class="stars-empty"></span></div>
+      <div class="review-text">Brian and his crew installed a gorgeous stamped concrete pad in our backyard. Extremely professional and helped us choose the perfect patio to relax on.</div>
+      <div class="review-author">
+        <div class="review-avatar">B</div>
+        <div>
+          <div class="review-name">Breanna J.</div>
+          <div class="review-location">Rock Hill, SC</div>
+        </div>
+      </div>
+    </div>
+    <div class="review-card reveal reveal-delay-2">
+      <div class="review-stars"><span class="stars-full">★★★★★</span><span class="stars-empty"></span></div>
+      <div class="review-text">Outstanding job on my building pad, so good I added an adjoining patio too. Quality and price were second to none.</div>
+      <div class="review-author">
+        <div class="review-avatar">T</div>
+        <div>
+          <div class="review-name">Tim M.</div>
+          <div class="review-location">Rock Hill, SC</div>
+        </div>
+      </div>
+    </div>
+    <div class="review-card reveal reveal-delay-3">
+      <div class="review-stars"><span class="stars-full">★★★★★</span><span class="stars-empty"></span></div>
+      <div class="review-text">Just had our patio re-sealed and what a difference! Brought the color back out with a beautiful shine. Very happy with Brian's work.</div>
+      <div class="review-author">
+        <div class="review-avatar">S</div>
+        <div>
+          <div class="review-name">Simone G.</div>
+          <div class="review-location">Rock Hill, SC</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+.areas-wrap {
+  background: var(--surface-alt);
+}
+.areas-section {
+  padding: var(--section-pad);
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
+.areas-header { margin-bottom: 36px; }
+.areas-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.area-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 20px;
+  border-radius: 100px;
+  background: rgba(var(--primary-rgb), 0.10);
+  border: 1px solid rgba(var(--primary-rgb), 0.15);
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: var(--text);
+  transition: all 0.2s;
+}
+.area-pill:hover {
+  border-color: rgba(var(--primary-rgb), 0.25);
+  background: rgba(var(--primary-rgb), 0.12);
+}
+.area-pill .icon { color: var(--primary); font-size: 0.85rem; }
+.area-pill .icon svg { width: 14px; height: 14px; }
+</style>
+<div class="areas-wrap">
+<section class="areas-section">
+  <div class="areas-header">
+    <div class="section-label reveal">WHERE WE WORK</div>
+    <h2 class="section-heading reveal reveal-delay-1">Serving Rock Hill &amp; Beyond</h2>
+    <p class="section-sub reveal reveal-delay-2">Concrete services throughout York County</p>
+  </div>
+  <div class="areas-grid reveal reveal-delay-3">
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Rock Hill</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Fort Mill</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> York</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Tega Cay</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Lake Wylie</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Clover</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Baxter</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> India Hook</span>
+  </div>
+</section>
+</div>
+
+<style>
+.cta-section {
+  padding: 0 clamp(20px, 5vw, 48px);
+  max-width: var(--max-w);
+  margin: 0 auto clamp(64px, 8vw, 100px);
+}
+.cta-banner {
+  padding: clamp(48px, 6vw, 72px) clamp(32px, 5vw, 64px);
+  border-radius: var(--radius-lg);
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+  color: var(--text-on-primary);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.cta-banner::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(45deg, transparent, transparent 60px, rgba(255,255,255,0.02) 60px, rgba(255,255,255,0.02) 120px);
+  pointer-events: none;
+}
+.cta-banner h2 {
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  font-weight: 700;
+  margin-bottom: 14px;
+  position: relative;
+}
+.cta-banner p {
+  font-size: 1rem;
+  opacity: 0.85;
+  max-width: 480px;
+  margin: 0 auto 32px;
+  position: relative;
+  line-height: 1.65;
+}
+.cta-buttons {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+  position: relative;
+}
+</style>
+<section class="cta-section">
+  <div class="cta-banner reveal">
+    <h2>Ready to Pour?</h2>
+    <p>Get your free estimate today. We'll walk your space and give you straight pricing on the spot.</p>
+    <div class="cta-buttons">
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaleb%40gambitbuilds.com&su=Concept+mockup+for+Concrete+Connections+and+Powerwashing+LLC" target="_blank" class="btn btn-on-primary">Get Free Estimate</a>
+      <a href="tel:7043612583" class="btn btn-outline-primary">Call (704) 361-2583</a>
+    </div>
+  </div>
+</section>
+
+<style>
+.footer {
+  border-top: 1px solid var(--border);
+  padding: 48px clamp(20px, 5vw, 48px);
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
+.footer-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 32px;
+  margin-bottom: 32px;
+}
+.footer-brand { max-width: 280px; }
+.footer-brand-name {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin-bottom: 6px;
+}
+.footer-tagline {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+.footer-links { display: flex; gap: 20px; flex-wrap: wrap; }
+.footer-links a {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 0.88rem;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+.footer-links a:hover { color: var(--primary); }
+.footer-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding-top: 24px;
+  border-top: 1px solid var(--border);
+  font-size: 0.78rem;
+  color: var(--text-subtle);
+}
+.gambit-badge a {
+  color: var(--text-subtle);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.gambit-badge a:hover { color: var(--primary); }
+</style>
+<footer class="footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="footer-brand-name">Concrete Connections and Powerwashing LLC</div>
+      <div class="footer-tagline">Concrete that connects your outdoor spaces</div>
+    </div>
+    <div class="footer-links">
+      <a href="#">Home</a>
+      <a href="#">Services</a>
+      <a href="#">Service Areas</a>
+      <a href="tel:7043612583">(704) 361-2583</a>
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaleb%40gambitbuilds.com&su=Concept+mockup+for+Concrete+Connections+and+Powerwashing+LLC" target="_blank">Contact</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>&copy; 2026 Concrete Connections and Powerwashing LLC</span>
+    <span class="gambit-badge">Concept by <a href="https://gambitbuilds.com" target="_blank">Gambit Builds</a></span>
+  </div>
+</footer>
+<style>
+.gambit-owner-banner {
+  background: #0a0a0a;
+  color: #ffffff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  padding: 80px 48px;
+  text-align: center;
+}
+.gambit-owner-inner { max-width: 720px; margin: 0 auto; }
+.gambit-owner-eyebrow {
+  display: inline-block;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #fbbf24;
+  margin-bottom: 20px;
+  padding: 6px 14px;
+  border: 1px solid rgba(251, 191, 36, 0.3);
+  border-radius: 100px;
+  background: rgba(251, 191, 36, 0.08);
+}
+.gambit-owner-banner h2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  font-size: clamp(1.7rem, 4vw, 2.4rem);
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 20px;
+  letter-spacing: -0.01em;
+  color: #ffffff;
+}
+.gambit-owner-banner h2 em {
+  font-style: normal;
+  color: #fbbf24;
+}
+.gambit-owner-lede {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: rgba(255,255,255,0.85);
+  margin: 0 auto 32px;
+  max-width: 580px;
+}
+.gambit-owner-offer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+  max-width: 640px;
+  margin: 0 auto 36px;
+  text-align: left;
+}
+.gambit-owner-offer-item {
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 10px;
+  padding: 16px 18px;
+}
+.gambit-owner-offer-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #fbbf24;
+  margin-bottom: 6px;
+}
+.gambit-owner-offer-value {
+  font-size: 0.92rem;
+  font-weight: 500;
+  color: #ffffff;
+  line-height: 1.4;
+}
+.gambit-owner-ctas {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+.gambit-btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: #fbbf24;
+  color: #0a0a0a;
+  padding: 15px 34px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1rem;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.gambit-btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 30px rgba(251, 191, 36, 0.3);
+}
+.gambit-btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: transparent;
+  color: #ffffff;
+  padding: 15px 34px;
+  border-radius: 8px;
+  border: 1.5px solid rgba(255,255,255,0.25);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: background 0.2s, border-color 0.2s;
+}
+.gambit-btn-secondary:hover {
+  background: rgba(255,255,255,0.06);
+  border-color: rgba(255,255,255,0.5);
+}
+.gambit-owner-sig {
+  font-size: 0.88rem;
+  color: rgba(255,255,255,0.55);
+  margin-top: 12px;
+}
+.gambit-owner-sig strong { color: rgba(255,255,255,0.85); font-weight: 600; }
+@media (max-width: 768px) {
+  .gambit-owner-banner { padding: 56px 24px; }
+  .gambit-owner-offer { grid-template-columns: 1fr; gap: 10px; }
+  .gambit-owner-ctas { flex-direction: column; }
+  .gambit-btn-primary,
+  .gambit-btn-secondary { width: 100%; justify-content: center; }
+}
+</style>
+<section class="gambit-owner-banner" id="gambit-offer">
+  <div class="gambit-owner-inner">
+    <span class="gambit-owner-eyebrow">Real offer · from Kaleb at Gambit Builds</span>
+    <h2>Want this to be <em>Concrete Connections and Powerwashing LLC's actual website?</em></h2>
+    <p class="gambit-owner-lede">This took me one night. The real version takes 7 business days. You get unlimited revisions for the first 30 days — and if I miss the 7-day deadline for any reason on my end, you get every dollar back. No questions.</p>
+    <div class="gambit-owner-offer">
+      <div class="gambit-owner-offer-item">
+        <div class="gambit-owner-offer-label">Timeline</div>
+        <div class="gambit-owner-offer-value">Live in 7 business days after kickoff</div>
+      </div>
+      <div class="gambit-owner-offer-item">
+        <div class="gambit-owner-offer-label">Revisions</div>
+        <div class="gambit-owner-offer-value">Unlimited for the first 30 days</div>
+      </div>
+      <div class="gambit-owner-offer-item">
+        <div class="gambit-owner-offer-label">Guarantee</div>
+        <div class="gambit-owner-offer-value">Full refund if I miss the deadline</div>
+      </div>
+    </div>
+    <div class="gambit-owner-ctas">
+      <a href="https://calendly.com/kaleb-gambitbuilds/30min" target="_blank" class="gambit-btn-primary">Book a call →</a>
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaleb%40gambitbuilds.com&su=Let%27s+build+Concrete+Connections+and+Powerwashing+LLC%27s+site" target="_blank" class="gambit-btn-secondary">Email Kaleb instead</a>
+    </div>
+    <p class="gambit-owner-sig">Built by <strong>Kaleb Berns</strong> · kaleb@gambitbuilds.com</p>
+  </div>
+</section>
+
+<script>
+(function(){
+  const els = document.querySelectorAll('.reveal');
+  const obs = new IntersectionObserver((entries) => {
+    entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('visible'); obs.unobserve(e.target); } });
+  }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+  els.forEach(el => obs.observe(el));
+})();
+</script>
+
+</body>
+</html>

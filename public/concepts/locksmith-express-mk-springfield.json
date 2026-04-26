@@ -1,0 +1,108 @@
+{
+  "business": {
+    "name": "Locksmith Express MK",
+    "phone": "(813) 461-3387",
+    "email": "locksmithexpressmk@gmail.com",
+    "city": "Springfield",
+    "state": "MA",
+    "industry": "locksmith",
+    "tagline": "Fast. Reliable. Always Ready.",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=16950656382348353667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Locked Out? We're *Already on the Way*",
+    "subheadline": "No games, no gouging — just fast locksmith service when Springfield needs it most.",
+    "cta_primary": "Get Quick Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE UNLOCK",
+    "heading": "Every Lock, Every Door, Every Time",
+    "subheading": "From house keys to car fobs — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Emergency Lockouts",
+      "description": "Car, home, or office — we get you back in fast. No damage, no drama.",
+      "icon": "shield"
+    },
+    {
+      "title": "Lock Installation",
+      "description": "New deadbolts, smart locks, and security upgrades that actually work.",
+      "icon": "home"
+    },
+    {
+      "title": "Key Cutting & Duplication",
+      "description": "House keys, car keys, specialty keys — cut right the first time.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Lock Repair & Rekey",
+      "description": "Fix sticky locks or rekey after moving. Quick turnaround guaranteed.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Springfield's Go-To Locksmith",
+    "body": "We're the Springfield locksmith team that shows up when we say we will. Real techs, real tools, upfront pricing."
+  },
+  "reviews_section": {
+    "label": "CUSTOMER FEEDBACK",
+    "heading": "What Springfield Says"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "SERVICE COVERAGE",
+    "heading": "Serving Springfield & Beyond",
+    "subheading": "Fast response times throughout the Pioneer Valley",
+    "areas": [
+      "Springfield",
+      "Chicopee",
+      "Holyoke",
+      "West Springfield",
+      "Agawam",
+      "Westfield",
+      "East Longmeadow",
+      "Longmeadow"
+    ]
+  },
+  "cta": {
+    "heading": "Locked Out? We're Ready",
+    "body": "Don't wait around — get back inside fast with Springfield's trusted locksmith team.",
+    "cta_primary": "Request Service",
+    "cta_secondary": "Call Direct"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

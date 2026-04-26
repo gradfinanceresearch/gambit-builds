@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Dover Septic Tank Cleaning",
+    "phone": "(803) 684-3041",
+    "email": "jarhett@jpseptics.com",
+    "city": "Rock Hill",
+    "state": "SC",
+    "industry": "septic service",
+    "tagline": "When you need us, we show up",
+    "logo_url": "",
+    "google_rating": "4.3 stars (40 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=11706153651727179049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your septic *backs up*, we show up",
+    "subheadline": "Rock Hill's septic team that answers the phone — even on Sundays and holidays.",
+    "cta_primary": "Get Quote Now",
+    "cta_secondary": "Call (803) 684-3041"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.3★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "40+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Rock Hill Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Septic Problems Fixed Right",
+    "subheading": "From routine pumping to emergency repairs — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Septic Tank Pumping",
+      "description": "Complete tank cleaning and waste removal. We pump it clean and leave your system running smooth.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Emergency Repairs",
+      "description": "Backups, overflows, and system failures. We show up fast when everything goes wrong.",
+      "icon": "wrench"
+    },
+    {
+      "title": "System Inspections",
+      "description": "Full septic system evaluation and maintenance checks. Know what's happening before problems start.",
+      "icon": "shield"
+    },
+    {
+      "title": "Drain Field Service",
+      "description": "Drain field repairs and replacements when your system won't drain properly.",
+      "icon": "pipe"
+    }
+  ],
+  "about": {
+    "heading": "Rock Hill Septic Service",
+    "body": "We're the septic team Rock Hill calls when things get messy. Real people answering the phone, not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Rock Hill Says"
+  },
+  "reviews": [
+    {
+      "name": "Alan H.",
+      "location": "Rock Hill, SC",
+      "text": "When you need them, you NEED them. Dover was very quick to respond, showed up on time, and did the job as quoted. Others didn't even return my calls.",
+      "rating": 5
+    },
+    {
+      "name": "Debbie D.",
+      "location": "Rock Hill, SC",
+      "text": "Super fast service on a Sunday! James and his son were the sweetest gentlemen. Took care of the problem quickly.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer W.",
+      "location": "Rock Hill, SC",
+      "text": "Showed up on Labor Day, reasonably priced, quick and efficient. They worked with our schedule perfectly.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where We Work",
+    "subheading": "Septic service throughout Rock Hill and surrounding communities",
+    "areas": [
+      "Rock Hill",
+      "Fort Mill",
+      "York",
+      "Clover",
+      "Lake Wylie",
+      "Tega Cay",
+      "Indian Land",
+      "Waxhaw"
+    ]
+  },
+  "cta": {
+    "heading": "Septic Emergency? We're Ready.",
+    "body": "Don't wait for it to get worse. Call now for fast septic service that shows up when promised.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (803) 684-3041"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

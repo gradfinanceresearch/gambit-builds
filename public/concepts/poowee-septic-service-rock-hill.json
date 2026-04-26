@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Poo-wee septic service",
+    "phone": "(803) 577-1012",
+    "email": "carolinaflowpros@gmail.com",
+    "city": "Rock Hill",
+    "state": "SC",
+    "industry": "septic service",
+    "tagline": "Rock Hill's trusted septic experts",
+    "logo_url": "",
+    "google_rating": "5 stars (43 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=11563568468848411893&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your septic *backs up*, we show up",
+    "subheadline": "Same-day service, fair prices, and we'll teach you how to keep it running smooth.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "40+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Rock Hill Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every septic service you need",
+    "subheading": "From pumping to repairs — one call handles it all"
+  },
+  "services": [
+    {
+      "title": "Septic Tank Pumping",
+      "description": "Complete tank cleanout and waste removal. We'll locate your tank, pump it clean, and put everything back exactly as we found it.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Tank Location & Inspection",
+      "description": "Can't find your septic tank? We'll locate it fast and check the whole system while we're there.",
+      "icon": "home"
+    },
+    {
+      "title": "System Repairs",
+      "description": "When something's not working right, we diagnose the problem and fix it. No guesswork, just solutions.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Emergency Service",
+      "description": "Septic problems don't wait for business hours. When you need help fast, we're ready to roll.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Real septic pros in Rock Hill",
+    "body": "We're the team your neighbors call when their septic acts up. Fair pricing, straight answers, and we'll show you how to keep your system healthy."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Rock Hill says about our work"
+  },
+  "reviews": [
+    {
+      "name": "Brian C.",
+      "location": "Rock Hill, SC",
+      "text": "Fantastic job and gave great advice on maintaining a healthy septic system. Extremely kind to my kids and me. Highly recommend this company.",
+      "rating": 5
+    },
+    {
+      "name": "Harlan O.",
+      "location": "Rock Hill, SC",
+      "text": "Called about a septic problem — less than an hour later they were here. Very professional, found the tank, pumped it out, fair rates for the work.",
+      "rating": 5
+    },
+    {
+      "name": "Lezah A.",
+      "location": "Rock Hill, SC",
+      "text": "Reached out on a Sunday morning, Tyler came out the same day and got my septic tank cleaned out. Excellent customer service.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Rock Hill and surrounding areas",
+    "subheading": "Fast response times throughout York County",
+    "areas": [
+      "Rock Hill",
+      "Fort Mill",
+      "York",
+      "Tega Cay",
+      "Lake Wylie",
+      "Clover",
+      "Chester",
+      "Lancaster"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your septic handled?",
+    "body": "Free quotes, fair prices, and we show up when we say we will. Call or text us right now.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (803) 577-1012"
+  },
+  "design": {
+    "primary_color": "#1E3A5F",
+    "accent_color": "#C0986B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Bebas Neue",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

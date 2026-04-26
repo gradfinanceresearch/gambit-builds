@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "360 Contractor Services",
+    "phone": "(704) 661-7776",
+    "email": "uscontact@360cas.com",
+    "city": "Rock Hill",
+    "state": "SC",
+    "industry": "concrete contractor",
+    "tagline": "Solid foundations, honest work",
+    "logo_url": "/logo.png",
+    "google_rating": "5 stars (3 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=6088291311506177849&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The concrete crew *Rock Hill trusts*",
+    "subheadline": "Driveways, patios, foundations — built to last decades, not years.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "CONCRETE WORK",
+    "heading": "Every Pour, Every Finish",
+    "subheading": "From foundation to final seal"
+  },
+  "services": [
+    {
+      "title": "Driveways & Walkways",
+      "description": "New pours and repairs that handle Carolina weather and daily wear.",
+      "icon": "home"
+    },
+    {
+      "title": "Patios & Slabs",
+      "description": "Level, reinforced concrete for outdoor living and storage spaces.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Foundation Work",
+      "description": "Footings, slabs, and foundation repairs for residential projects.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Concrete Repair",
+      "description": "Crack repair, resurfacing, and restoration of existing concrete.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Built on Referrals",
+    "body": "We're a Rock Hill concrete team that shows up when we say we will. One call, one crew, one job done right."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Rock Hill Says"
+  },
+  "reviews": [
+    {
+      "name": "Doreen I.",
+      "location": "Rock Hill, SC",
+      "text": "JR and his crews made our garage-to-family-room dream come true. Quality workmanship throughout the project.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer H.",
+      "location": "Rock Hill, SC",
+      "text": "Went above and beyond in every aspect of the job! Highly recommend.",
+      "rating": 5
+    },
+    {
+      "name": "James B.",
+      "location": "Rock Hill, SC",
+      "text": "Nice people. Always friendly.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Greater Rock Hill Area",
+    "subheading": "Your local concrete contractors",
+    "areas": [
+      "Rock Hill",
+      "Fort Mill",
+      "York",
+      "Tega Cay",
+      "Indian Land",
+      "Clover",
+      "Lake Wylie",
+      "Baxter Village"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Pour?",
+    "body": "Free estimates on all concrete work. Call today and we'll walk your project with you.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (704) 661-7776"
+  },
+  "design": {
+    "primary_color": "#1A5632",
+    "accent_color": "#D4A843",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

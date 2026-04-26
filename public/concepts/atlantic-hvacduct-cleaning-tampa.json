@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Atlantic HVAC/Duct Cleaning",
+    "phone": "",
+    "email": "service@flhvacteam.com",
+    "city": "Tampa",
+    "state": "FL",
+    "industry": "gutter installer",
+    "tagline": "Gutters that work when Tampa storms hit",
+    "logo_url": "",
+    "google_rating": "4.9 stars (191 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=4881931110986952510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Tampa's *go-to* gutter crew since day one",
+    "subheadline": "Clean, repair, replace — we handle the whole system so water goes where it should.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "190+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every part of your gutter system",
+    "subheading": "From cleaning out the leaves to full replacements"
+  },
+  "services": [
+    {
+      "title": "Gutter Cleaning",
+      "description": "Clear out debris, check downspouts, test water flow. Your gutters work like new.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Gutter Repair",
+      "description": "Fix leaks, realign sections, replace damaged brackets. Stop the drip before it becomes a problem.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Gutter Installation",
+      "description": "New seamless gutters sized right for your roof. Proper slope, secure mounting, guaranteed flow.",
+      "icon": "home"
+    },
+    {
+      "title": "Downspout Service",
+      "description": "Install, repair, or relocate downspouts. Water goes where you want it, not where it lands.",
+      "icon": "pipe"
+    }
+  ],
+  "about": {
+    "heading": "Tampa gutters done right",
+    "body": "We're the Tampa crew that shows up when we say we will. One call, one team, one bill."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Tampa homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Bridget M.",
+      "location": "Tampa, FL",
+      "text": "We've used Atlantic for multiple jobs and they never disappoint. This time they cleaned our gutters, power washed everything, and sealed our pavers. Amazing work as always.",
+      "rating": 5
+    },
+    {
+      "name": "Christina K.",
+      "location": "Tampa, FL",
+      "text": "Atlantic was referred to us and exceeded expectations. Prompt quote, professional crew, efficient work. Chris and his team were courteous throughout.",
+      "rating": 5
+    },
+    {
+      "name": "Caroline B.",
+      "location": "Tampa, FL",
+      "text": "Scott and Chris showed up on time and take pride in their work. Fastidious describes how they work - the finished job left everything clean and shining.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Tampa Bay",
+    "subheading": "Professional gutter services throughout the region",
+    "areas": [
+      "Tampa",
+      "St. Petersburg",
+      "Clearwater",
+      "Brandon",
+      "Riverview",
+      "Plant City",
+      "Wesley Chapel",
+      "Land O' Lakes"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix those gutters?",
+    "body": "Free quotes, honest pricing, and work that lasts. Let's get your gutters working right.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Today"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFBEB",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

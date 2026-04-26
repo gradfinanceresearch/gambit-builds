@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Lovely Clean Services LLC",
+    "phone": "(475) 302-9267",
+    "email": "347-502-8828contact@everneat.co",
+    "city": "Bridgeport",
+    "state": "CT",
+    "industry": "window cleaner",
+    "tagline": "Where every detail matters",
+    "logo_url": "",
+    "google_rating": "5 stars (28 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=13967347872402915718&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your home, *spotless* — every corner, every time",
+    "subheadline": "We move your things back exactly where they belong. Because the details matter as much as the clean.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "25+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Bridgeport Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every room, every surface, every detail",
+    "subheading": "From baseboards to ceiling fans, we clean what others miss"
+  },
+  "services": [
+    {
+      "title": "Deep House Cleaning",
+      "description": "Every surface scrubbed, every corner reached. We move furniture and put everything back exactly where it belongs.",
+      "icon": "home"
+    },
+    {
+      "title": "Regular Maintenance",
+      "description": "Weekly or bi-weekly cleaning that keeps your home consistently spotless. Same team, same attention to detail.",
+      "icon": "shield"
+    },
+    {
+      "title": "Move-In/Move-Out",
+      "description": "Complete top-to-bottom cleaning for your fresh start. Every inch cleaned before you settle in or hand over keys.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Post-Construction",
+      "description": "Dust, debris, and contractor mess completely removed. Your renovation reveal, properly cleaned.",
+      "icon": "saw"
+    }
+  ],
+  "about": {
+    "heading": "Bridgeport's detail-obsessed cleaning team",
+    "body": "We're the Bridgeport cleaning service that puts your coffee mug back on the exact same coaster. Every detail matters."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Bridgeport neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Ken H.",
+      "location": "Bridgeport, CT",
+      "text": "Bruna and her team did a fantastic job cleaning my house. Very friendly and worked efficiently but carefully. Would definitely recommend them.",
+      "rating": 5
+    },
+    {
+      "name": "Mariel A.",
+      "location": "Bridgeport, CT",
+      "text": "Exceptional service. They come at a convenient time so I can go to work and leave them. When I come home, my house is immaculate and my dogs are smiling.",
+      "rating": 5
+    },
+    {
+      "name": "Abiba J.",
+      "location": "Bridgeport, CT",
+      "text": "Very satisfied with the services. Very thorough and best yet she returns all of my things to their proper place. My OCD could not take it if she didn't.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Bridgeport and surrounding areas",
+    "subheading": "Same attention to detail, every neighborhood",
+    "areas": [
+      "Bridgeport",
+      "Fairfield",
+      "Trumbull",
+      "Stratford",
+      "Milford",
+      "Shelton",
+      "Monroe",
+      "Easton"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a spotless home?",
+    "body": "Free quotes, same-day response, and the kind of cleaning that makes you smile when you walk in the door.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (475) 302-9267"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFBF5",
+    "text_color": "#1A1A2E",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "editorial"
+  }
+}

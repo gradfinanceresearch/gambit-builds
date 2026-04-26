@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Sunshine House Cleaning, LLC",
+    "phone": "(203) 953-2129",
+    "email": "contact@sunshinecleaningspecial.com",
+    "city": "Bridgeport",
+    "state": "CT",
+    "industry": "window cleaner",
+    "tagline": "Making homes sparkle, one room at a time",
+    "logo_url": "",
+    "google_rating": "4.4 stars (7 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=17821393647724922151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The house that *sparkles* when you walk in",
+    "subheadline": "From kitchen sinks to couch cushions — nothing gets missed",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.4★ on Google"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Bridgeport Team"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "THE CLEAN",
+    "heading": "Every corner, every surface",
+    "subheading": "The thorough clean that makes your house feel like home again"
+  },
+  "services": [
+    {
+      "title": "Deep House Cleaning",
+      "description": "Complete top-to-bottom cleaning including under cushions, behind appliances, and all the spots others skip.",
+      "icon": "home"
+    },
+    {
+      "title": "Kitchen & Bathroom Detail",
+      "description": "Sparkling sinks, spotless counters, and bathrooms that shine. We make the hardest-working rooms work harder.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Regular Maintenance",
+      "description": "Weekly, bi-weekly, or monthly service to keep your home consistently fresh and welcoming.",
+      "icon": "shield"
+    },
+    {
+      "title": "Move-In/Move-Out Clean",
+      "description": "Fresh start cleaning for new homes or getting your deposit back when you leave.",
+      "icon": "lightbulb"
+    }
+  ],
+  "about": {
+    "heading": "Vanessa's team knows clean",
+    "body": "We're the Bridgeport house cleaning crew that shows up with the right tools and the right attitude. One clean, and you'll understand why neighbors keep our number."
+  },
+  "reviews_section": {
+    "label": "WORD SPREADS",
+    "heading": "What Bridgeport says"
+  },
+  "reviews": [
+    {
+      "name": "Lucas M.",
+      "location": "Bridgeport, CT",
+      "text": "Vanessa and her team are simply the best! They've been cleaning my home for over a year and I couldn't be happier.",
+      "rating": 5
+    },
+    {
+      "name": "Marcos F.",
+      "location": "Bridgeport, CT",
+      "text": "Great to walk into my house after Vanessa cleans. House smells great, kitchen sink sparkles, everything looks wonderful.",
+      "rating": 5
+    },
+    {
+      "name": "Bill T.",
+      "location": "Bridgeport, CT",
+      "text": "Complete and thorough cleaning from kitchen to bathrooms, even vacuuming under couch cushions. House becomes a 5 star hotel.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE CLEAN",
+    "heading": "Serving Bridgeport & nearby",
+    "subheading": "Your local house cleaning team",
+    "areas": [
+      "Bridgeport",
+      "Stratford",
+      "Fairfield",
+      "Trumbull",
+      "Milford",
+      "Shelton",
+      "Monroe",
+      "Easton"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for that sparkling clean feeling?",
+    "body": "Get your free quote and see why Bridgeport trusts Vanessa's team with their homes.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Today"
+  },
+  "design": {
+    "primary_color": "#1E3A5F",
+    "accent_color": "#C0986B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Merriweather",
+    "font_body": "Nunito Sans",
+    "layout_variant": "editorial"
+  }
+}

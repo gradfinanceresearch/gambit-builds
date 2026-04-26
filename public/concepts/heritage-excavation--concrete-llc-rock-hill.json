@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Heritage excavation & concrete LLC.",
+    "phone": "Contact for Quote",
+    "email": "lloydsunlimited@yahoo.com",
+    "city": "Rock Hill",
+    "state": "SC",
+    "industry": "concrete contractor",
+    "tagline": "Built to last in Rock Hill",
+    "logo_url": "",
+    "google_rating": "4.6 stars (9 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=1261104012953514066&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Driveways that *look right* and last decades",
+    "subheadline": "Mike and the Heritage crew pour concrete the old-school way — level, solid, and built for whatever Carolina weather throws at it.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Heritage"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.6★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE POUR",
+    "heading": "Concrete work that stands the test",
+    "subheading": "From your front steps to that long driveway you've been planning"
+  },
+  "services": [
+    {
+      "title": "Residential Driveways",
+      "description": "New pours and replacements. We work with you on the design and handle all the prep work.",
+      "icon": "home"
+    },
+    {
+      "title": "Foundation Work",
+      "description": "Solid foundations for homes, garages, and outbuildings. Level and built to code.",
+      "icon": "brick"
+    },
+    {
+      "title": "Concrete Slabs",
+      "description": "Patios, walkways, and shop floors. Reinforced properly and finished smooth.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Site Excavation",
+      "description": "Dirt work, grading, and site prep. Getting the ground ready for whatever comes next.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Heritage Excavation & Concrete",
+    "body": "We're a Rock Hill concrete crew that shows up when we say we will. Mike and the team handle everything from excavation to the final finish."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Rock Hill neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "James G.",
+      "location": "Rock Hill, SC",
+      "text": "Needed a long driveway poured after moving in. Mike and his team listened and worked with us on all our changes. Great work and great people.",
+      "rating": 5
+    },
+    {
+      "name": "William W.",
+      "location": "Rock Hill, SC",
+      "text": "Mike and crew are great people and 10/10 on quality of work!",
+      "rating": 5
+    },
+    {
+      "name": "John B.",
+      "location": "Rock Hill, SC",
+      "text": "Great business. Honest and great quality of work.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Rock Hill and surrounding areas",
+    "subheading": "Local concrete contractors covering York County",
+    "areas": [
+      "Rock Hill",
+      "Fort Mill",
+      "York",
+      "Tega Cay",
+      "Lake Wylie",
+      "Clover",
+      "India Hook",
+      "Baxter Village"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to pour your project?",
+    "body": "Get a straight quote on your concrete work. We'll walk the site and give you an honest price.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Heritage"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Jones Septic Service",
+    "phone": "(410) 620-0458",
+    "email": "jonessepticservice2020@yahoo.com",
+    "city": "Hagerstown",
+    "state": "MD",
+    "industry": "septic service",
+    "tagline": "When you need it pumped, we show up",
+    "logo_url": "",
+    "google_rating": "4.9 stars (76 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=3388981278166111685&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The septic pros *Hagerstown trusts*",
+    "subheadline": "Fair prices, clean work, and we answer after hours when emergencies hit.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "70+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Everything septic, handled right",
+    "subheading": "From routine pumping to emergency calls — we've got the equipment and experience"
+  },
+  "services": [
+    {
+      "title": "Septic Tank Pumping",
+      "description": "Regular maintenance pumping to keep your system running smooth. We pump it clean and check for issues while we're there.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Emergency Service",
+      "description": "When your system backs up or overflows, we squeeze you into our schedule fast. Available after hours for urgent calls.",
+      "icon": "shield"
+    },
+    {
+      "title": "System Inspections",
+      "description": "We spot problems before they become disasters. Visual inspection of your tank, lines, and drain field.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Drain Field Repair",
+      "description": "When your drain field isn't draining right, we diagnose the problem and fix it properly the first time.",
+      "icon": "pipe"
+    }
+  ],
+  "about": {
+    "heading": "Family business serving Hagerstown",
+    "body": "We're the Jones family — Doug handles the pumping, Brenda takes your calls. Real people, fair prices, clean work every time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Terry C.",
+      "location": "Hagerstown, MD",
+      "text": "Called them Friday, they were here Saturday morning. Clean, efficient work at a fair price.",
+      "rating": 5
+    },
+    {
+      "name": "Kyle J.",
+      "location": "Hagerstown, MD",
+      "text": "Fantastic family business. Reached them after hours and they squeezed me in the next morning for emergency work.",
+      "rating": 5
+    },
+    {
+      "name": "Tiffany W.",
+      "location": "Hagerstown, MD",
+      "text": "The Jones family squeezed me in for an emergency and got there early. Brenda was sweet, Doug was kind and reasonably priced.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Hagerstown and surrounding areas",
+    "subheading": "Fast response times throughout Washington County",
+    "areas": [
+      "Hagerstown",
+      "Williamsport",
+      "Boonsboro",
+      "Funkstown",
+      "Smithsburg",
+      "Clear Spring",
+      "Hancock",
+      "Sharpsburg"
+    ]
+  },
+  "cta": {
+    "heading": "Need your septic tank pumped?",
+    "body": "Don't wait until it backs up. Call the Jones family for honest service and fair pricing.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (410) 620-0458"
+  },
+  "design": {
+    "primary_color": "#5B21B6",
+    "accent_color": "#10B981",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "business": {
+    "name": "Locksmith Services",
+    "phone": "(413) 777-1260",
+    "email": "contact@referencelocksmith.com",
+    "city": "Springfield",
+    "state": "MA",
+    "industry": "locksmith",
+    "tagline": "Your Springfield Key & Lock Specialists",
+    "logo_url": "",
+    "google_rating": "",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=14049167462404101473&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Locked out?* We're already on our way",
+    "subheadline": "Real locksmiths, real trucks, real solutions — serving Springfield around the clock.",
+    "cta_primary": "Get Help Now",
+    "cta_secondary": "Call (413) 777-1260"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Springfield Team"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Satisfaction Guaranteed"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE UNLOCK",
+    "heading": "Every lock, every situation",
+    "subheading": "From midnight lockouts to high-security installs"
+  },
+  "services": [
+    {
+      "title": "Emergency Lockouts",
+      "description": "House, car, or office — we'll get you back inside without the runaround.",
+      "icon": "home"
+    },
+    {
+      "title": "Lock Installation",
+      "description": "New locks, rekeying, and upgrades for better security and peace of mind.",
+      "icon": "shield"
+    },
+    {
+      "title": "Key Services",
+      "description": "Cutting, duplication, and programming for all types of keys and fobs.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Security Upgrades",
+      "description": "Deadbolts, smart locks, and commercial security systems that actually work.",
+      "icon": "lightbulb"
+    }
+  ],
+  "about": {
+    "heading": "Springfield's lock and key team",
+    "body": "We're Springfield locksmiths who show up when we say we will. One call gets you real help, not a phone tree."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Springfield says"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Springfield & beyond",
+    "subheading": "Fast response across Western Massachusetts",
+    "areas": [
+      "Springfield",
+      "Chicopee",
+      "Holyoke",
+      "West Springfield",
+      "Agawam",
+      "Longmeadow",
+      "East Longmeadow",
+      "Ludlow"
+    ]
+  },
+  "cta": {
+    "heading": "Locked out or need better security?",
+    "body": "Don't wait around — we're already loaded up and ready to roll. Call now for immediate help.",
+    "cta_primary": "Get Fast Help",
+    "cta_secondary": "Call (413) 777-1260"
+  },
+  "design": {
+    "primary_color": "#9A3412",
+    "accent_color": "#059669",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

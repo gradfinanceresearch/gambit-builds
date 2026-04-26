@@ -1,0 +1,133 @@
+{
+  "business": {
+    "name": "Above All Garage Doors, LLC",
+    "phone": "(205) 258-5230",
+    "email": "allaccessoverheaddoor@gmail.com",
+    "city": "Montgomery",
+    "state": "AL",
+    "industry": "garage door repair",
+    "tagline": "When your garage door won't budge, we make it move",
+    "logo_url": "",
+    "google_rating": "4.9 stars (32 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=15572462057929619533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Montgomery's garage door *problem solvers*",
+    "subheadline": "Brian and his team fix what others mess up — from broken springs to bad installs.",
+    "cta_primary": "Get Your Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Montgomery Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIX",
+    "heading": "Every garage door problem has a solution",
+    "subheading": "From springs to openers to complete installs"
+  },
+  "services": [
+    {
+      "title": "Spring Replacement",
+      "description": "Broken spring? We carry the right size and install it properly the first time.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Opener Repair",
+      "description": "Motor issues, remote problems, or safety sensor fixes — we handle all opener brands.",
+      "icon": "zap"
+    },
+    {
+      "title": "Door Installation",
+      "description": "New garage doors installed right, from residential homes to boat dry-docks.",
+      "icon": "home"
+    },
+    {
+      "title": "Track & Hardware",
+      "description": "Bent tracks, worn rollers, and loose hardware repaired or replaced.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Tune-Up Service",
+      "description": "Complete system check to prevent problems before they happen.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Montgomery garage door repair that actually works",
+    "body": "We're the Montgomery team that fixes what others mess up. Real techs, fair pricing, and we stand behind our work."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Montgomery homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Louis H.",
+      "location": "Montgomery, AL",
+      "text": "Brian is the best and very knowledgeable. He fixed the bad installation we'd been living with and got our system working perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "thomas j.",
+      "location": "Montgomery, AL",
+      "text": "Brian was punctual, polite, fast, and very affordable. Installed two struts and tuned up my door. Saved me lots of money.",
+      "rating": 5
+    },
+    {
+      "name": "Nancy T.",
+      "location": "Montgomery, AL",
+      "text": "Great to work with! They did what they said and corrected an error with no hassles. Finding companies with this ethic is rare.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Montgomery and surrounding areas",
+    "subheading": "Local garage door repair across central Alabama",
+    "areas": [
+      "Montgomery",
+      "Millbrook",
+      "Wetumpka",
+      "Prattville",
+      "Pike Road",
+      "Elmore",
+      "Tallassee",
+      "Auburn",
+      "Opelika"
+    ]
+  },
+  "cta": {
+    "heading": "Garage door stuck? We'll get it moving.",
+    "body": "Free quotes on all repairs and installations. Call Brian's team for honest pricing and solid work.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (205) 258-5230"
+  },
+  "design": {
+    "primary_color": "#5B21B6",
+    "accent_color": "#10B981",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

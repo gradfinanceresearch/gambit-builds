@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Parkway Concrete Products",
+    "phone": "(803) 684-1746",
+    "email": "info@parkwayconcrete.com",
+    "city": "Rock Hill",
+    "state": "SC",
+    "industry": "concrete contractor",
+    "tagline": "Pay for what you pour",
+    "logo_url": "",
+    "google_rating": "5 stars (16 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=1707236385839944259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Small loads*, big results — concrete done right",
+    "subheadline": "Perfect for jobs under 5 yards. Same quality concrete, two-thirds the delivery cost.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "16+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Rock Hill Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE POUR",
+    "heading": "Small batch concrete that shows up on time",
+    "subheading": "We specialize in jobs under 5 yards — perfect sizing, perfect pricing"
+  },
+  "services": [
+    {
+      "title": "Small Load Delivery",
+      "description": "Under 5 yards? We've got you covered. Pay only for what you use, not what the truck holds.",
+      "icon": "home"
+    },
+    {
+      "title": "Driveways & Walkways",
+      "description": "Fresh concrete poured to last. From residential driveways to commercial walkways.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Foundations & Slabs",
+      "description": "Solid foundation work that sets your project up right from the ground up.",
+      "icon": "brick"
+    },
+    {
+      "title": "Concrete Repair",
+      "description": "Fixing cracks, replacing sections, and bringing old concrete back to life.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Rock Hill's concrete specialists",
+    "body": "We're the team Rock Hill calls when they need concrete done right — not just delivered, but poured with care."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Rock Hill says about our work"
+  },
+  "reviews": [
+    {
+      "name": "Mike L.",
+      "location": "Rock Hill, SC",
+      "text": "Reliability and quality concrete — it doesn't get better. Lisa schedules like a partner, Chuck and Bud show up on time with a can-do attitude.",
+      "rating": 5
+    },
+    {
+      "name": "Jim P.",
+      "location": "Rock Hill, SC",
+      "text": "Perfect for jobs under 5 yards. Cost per yard is almost the same, delivery charge is two-thirds the cost. Driver gave valuable advice that made the job easier.",
+      "rating": 5
+    },
+    {
+      "name": "Stephanie",
+      "location": "Rock Hill, SC",
+      "text": "Third time using Parkway — super nice people who go above and beyond. They take pride in their work and care for your property.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE POUR",
+    "heading": "Serving Rock Hill and surrounding areas",
+    "subheading": "Local concrete delivery throughout York County",
+    "areas": [
+      "Rock Hill",
+      "Fort Mill",
+      "York",
+      "Tega Cay",
+      "Indian Land",
+      "Clover",
+      "Lake Wylie",
+      "Newport"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to pour?",
+    "body": "Get honest pricing on your concrete project. No hidden fees, just straight talk about what you need.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (803) 684-1746"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#EF4444",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

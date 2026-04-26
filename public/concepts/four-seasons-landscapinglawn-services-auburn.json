@@ -1,0 +1,131 @@
+{
+  "business": {
+    "name": "Four Seasons Landscaping-Lawn Services",
+    "phone": "(334) 444-5610",
+    "email": "info@4seasonslawnandlandscaping.com",
+    "city": "Auburn",
+    "state": "AL",
+    "industry": "landscaper",
+    "tagline": "Your yard. Year-round.",
+    "logo_url": "",
+    "google_rating": "3.9 stars (7 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=17630740411282071270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The Auburn team that *stays* with your yard",
+    "subheadline": "From sodding to irrigation — one call handles it all",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "3.9★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Auburn Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE HANDLE",
+    "heading": "Every season, every service",
+    "subheading": "Complete lawn and landscape solutions for Auburn properties"
+  },
+  "services": [
+    {
+      "title": "Sodding & Seeding",
+      "description": "Fresh grass installation and repair. We handle the prep work, grading, and installation.",
+      "icon": "home"
+    },
+    {
+      "title": "Irrigation Systems",
+      "description": "New installs, repairs, and modern app-controlled upgrades for efficient watering.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Landscape Design",
+      "description": "Complete redesign projects with detailed plans, timelines, and material lists.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Drainage Solutions",
+      "description": "Pipe installation and grading to solve water problems and protect your property.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Tree & Plant Installation",
+      "description": "New plantings, replacements, and strategic landscape improvements.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Built for Auburn yards",
+    "body": "We're the Auburn landscaping team that shows up with a plan. Real solutions, real timelines, real results."
+  },
+  "reviews_section": {
+    "label": "WORD FROM CLIENTS",
+    "heading": "Auburn neighbors speak up"
+  },
+  "reviews": [
+    {
+      "name": "Scott C.",
+      "location": "Auburn, AL",
+      "text": "Great company to work with. Richard designed our landscape around our gazebo with detailed plans, costs, and timeline. Once approved, they executed perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "Jeff D.",
+      "location": "Auburn, AL",
+      "text": "Did an amazing job sodding my back yard. On time, professional, and great work.",
+      "rating": 5
+    },
+    {
+      "name": "Jennifer J.",
+      "location": "Auburn, AL",
+      "text": "Taking care of all my lawn needs for 16 years! Fixed irrigation, upgraded to app-friendly system, replaced trees and grass, installed drainage.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE AREAS",
+    "heading": "Serving Auburn & surrounding areas",
+    "subheading": "Professional landscaping throughout Lee County",
+    "areas": [
+      "Auburn",
+      "Opelika",
+      "Notasulga",
+      "Loachapoka",
+      "Waverly",
+      "Salem",
+      "Phenix City"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a better yard?",
+    "body": "Get a detailed plan with costs and timeline. No surprises, no runaround.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#1B4D8C",
+    "accent_color": "#E8A630",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "business": {
+    "name": "Davis Landscape Company",
+    "phone": "(334) 742-3914",
+    "email": "cdavis@davislandscape.com",
+    "city": "Auburn",
+    "state": "AL",
+    "industry": "landscaper",
+    "tagline": "Auburn's trusted landscape team",
+    "logo_url": "",
+    "google_rating": "4.6 stars (8 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=8873274468633699457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Stone pavers* that last, irrigation that works",
+    "subheadline": "Real Auburn crew. Real equipment. Real results you can walk on.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.6★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Auburn Team"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Everything Your Yard Needs",
+    "subheading": "From stone work to sprinkler systems"
+  },
+  "services": [
+    {
+      "title": "Stone Pavers & Hardscaping",
+      "description": "Patios, walkways, and borders that complement your space. Professional installation around synthetic turf and existing features.",
+      "icon": "brick"
+    },
+    {
+      "title": "Irrigation Systems",
+      "description": "Complete sprinkler installation and repair services. We fix what others break and maintain what we install.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Lawn Care & Maintenance",
+      "description": "Regular mowing, edging, and seasonal cleanup to keep your property looking sharp year-round.",
+      "icon": "home"
+    },
+    {
+      "title": "Landscape Design",
+      "description": "Custom planning and installation to transform your outdoor space. Native plants and practical solutions.",
+      "icon": "paintbrush"
+    }
+  ],
+  "about": {
+    "heading": "Auburn Landscape Crew",
+    "body": "We're an Auburn landscape team that shows up when we say we will. Stone work, irrigation, and everything in between."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Auburn Says"
+  },
+  "reviews": [
+    {
+      "name": "Mark F.",
+      "location": "Auburn, AL",
+      "text": "Just finished stone pavers around our synthetic turf patio. The crew protected our lawn mower with a perfect border between yard and turf.",
+      "rating": 5
+    },
+    {
+      "name": "Steven W.",
+      "location": "Auburn, AL",
+      "text": "They installed our irrigation system and came back to fix damage from a gas company contractor. Dylan took care of everything professionally.",
+      "rating": 5
+    },
+    {
+      "name": "Jackie W.",
+      "location": "Auburn, AL",
+      "text": "Excellent service and communication! Very affordable and nice people. Highly recommended!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Auburn & Beyond",
+    "subheading": "Full landscape services throughout Lee County",
+    "areas": [
+      "Auburn",
+      "Opelika",
+      "Phenix City",
+      "Columbus",
+      "Tuskegee",
+      "Alexander City"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Start Your Project?",
+    "body": "Free estimates on stone work, irrigation, and complete landscape services. Local crew, honest pricing.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (334) 742-3914"
+  },
+  "design": {
+    "primary_color": "#0F4C75",
+    "accent_color": "#3EDBF0",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

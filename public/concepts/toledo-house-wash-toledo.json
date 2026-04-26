@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Toledo House Wash",
+    "phone": "(419) 460-4250",
+    "email": "margie@mandmestatesales.com",
+    "city": "Toledo",
+    "state": "OH",
+    "industry": "pressure washer",
+    "tagline": "Making Toledo homes sparkle, one wash at a time",
+    "logo_url": "",
+    "google_rating": "5 stars (8 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=6680195280127426338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your House Will Look *Brand New*",
+    "subheadline": "Professional soft washing that makes neighbors stop and stare — without the pressure damage.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "10+ Google Reviews"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Toledo Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WASH",
+    "heading": "House, Deck, Patio — Everything Sparkling",
+    "subheading": "Soft washing techniques that clean deep without damaging your surfaces"
+  },
+  "services": [
+    {
+      "title": "House Washing",
+      "description": "Complete exterior cleaning that removes dirt, mildew, and stains. Your siding will look like it was just installed.",
+      "icon": "home"
+    },
+    {
+      "title": "Deck Restoration",
+      "description": "Gentle cleaning that brings weathered wood back to life. No splintering or damage from high pressure.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Patio Cleaning",
+      "description": "Concrete, brick, and stone surfaces cleaned to original color. Years of buildup gone in one session.",
+      "icon": "brick"
+    },
+    {
+      "title": "Soft Wash System",
+      "description": "Low-pressure cleaning with biodegradable solutions. Gets deeper clean than pressure alone, lasts longer too.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Educated in the Craft",
+    "body": "Toledo house washing team that knows the difference between cleaning and damaging. Real soft wash techniques, not just a pressure hose."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Toledo Says"
+  },
+  "reviews": [
+    {
+      "name": "Adam Z.",
+      "location": "Toledo, OH",
+      "text": "Ty is simply the best! Makes every house look amazing. Truly educated in soft washing and completely professional.",
+      "rating": 5
+    },
+    {
+      "name": "William C.",
+      "location": "Toledo, OH",
+      "text": "Incredibly professional. Fair pricing, completed on schedule, excellent quality. Can't believe how good everything looks now!",
+      "rating": 5
+    },
+    {
+      "name": "Yovel A.",
+      "location": "Toledo, OH",
+      "text": "Extremely professional and nice to work with. House looks like new — you can tell she takes time to get everything done right.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Toledo & Surrounding Areas",
+    "subheading": "Professional house washing throughout Northwest Ohio",
+    "areas": [
+      "Toledo",
+      "Maumee",
+      "Perrysburg",
+      "Sylvania",
+      "Oregon",
+      "Rossford",
+      "Northwood",
+      "Holland"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for That Brand New Look?",
+    "body": "Free estimates, fair pricing, and results that make neighbors ask who did your house. One call gets it scheduled.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (419) 460-4250"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

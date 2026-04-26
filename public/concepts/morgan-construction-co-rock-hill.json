@@ -1,0 +1,121 @@
+{
+  "business": {
+    "name": "Morgan Construction Co",
+    "phone": "(803) 328-2164",
+    "email": "mark@scgop.com",
+    "city": "Rock Hill",
+    "state": "SC",
+    "industry": "concrete contractor",
+    "tagline": "Solid foundations, built to last",
+    "logo_url": "",
+    "google_rating": "5 stars (2 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=5524072251880348540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Rock Hill's *concrete crew* — built different",
+    "subheadline": "We walk you through every pour from start to finish. No surprises, no shortcuts.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every pour, every finish",
+    "subheading": "From foundations to final seal"
+  },
+  "services": [
+    {
+      "title": "Foundation Pours",
+      "description": "Residential and commercial foundations built right the first time. We handle excavation to final grade.",
+      "icon": "home"
+    },
+    {
+      "title": "Driveways & Walkways",
+      "description": "Smooth concrete surfaces that last. Proper base prep and reinforcement on every job.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Patio & Outdoor Spaces",
+      "description": "Custom concrete work for outdoor living. Stamped, stained, or traditional finishes available.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Commercial Concrete",
+      "description": "Large-scale pours for commercial projects. Industrial-grade materials and equipment.",
+      "icon": "brick"
+    }
+  ],
+  "about": {
+    "heading": "Built on experience",
+    "body": "We're a Rock Hill concrete team with generations of experience. Real crews, real equipment, real results."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Rock Hill says"
+  },
+  "reviews": [
+    {
+      "name": "Jason F.",
+      "location": "Rock Hill, SC",
+      "text": "Bryan and his crew are excellent. They guided us through every step of construction from beginning to end. Highly recommend Morgan Construction for your project.",
+      "rating": 5
+    },
+    {
+      "name": "Trey M.",
+      "location": "Rock Hill, SC",
+      "text": "Outstanding construction company with decades of experience. My family can tackle any building project you're planning.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where we pour",
+    "subheading": "Serving the greater Rock Hill area",
+    "areas": [
+      "Rock Hill",
+      "Fort Mill",
+      "York",
+      "Chester",
+      "Lancaster",
+      "Tega Cay",
+      "Indian Land",
+      "Clover"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to break ground?",
+    "body": "Get a straight quote on your concrete project. We'll walk you through the process from start to finish.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (803) 328-2164"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#F97316",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

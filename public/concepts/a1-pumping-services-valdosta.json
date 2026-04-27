@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "A-1 Pumping Services",
+    "phone": "(229) 247-7774",
+    "email": "a1pumping@att.net",
+    "city": "Valdosta",
+    "state": "GA",
+    "industry": "plumber",
+    "tagline": "Same-day septic and drain service",
+    "logo_url": "/logo.png",
+    "google_rating": "4.7 stars (12 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=17707887142883214533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your septic tank's full, *we're already on the way*",
+    "subheadline": "Same-day service, live person answers, reasonable rates — that's how Valdosta gets unstuck",
+    "cta_primary": "Get Service Today",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.7★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "12+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Valdosta Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Septic, drains, and water flow",
+    "subheading": "Real trucks, real equipment, real results"
+  },
+  "services": [
+    {
+      "title": "Septic Tank Pumping",
+      "description": "Full tank pumping and inspection. We check everything while we're here to keep you flowing smooth.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Drain Cleaning",
+      "description": "Kitchen sinks, bathroom drains, main lines. When water won't go down, we make it move.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Backup Prevention",
+      "description": "Routine maintenance schedules to prevent overflows before they happen. Set it and forget it.",
+      "icon": "shield"
+    },
+    {
+      "title": "Emergency Service",
+      "description": "Overflowing toilets, backed-up tubs. We show up same day, even Sundays.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Live person answers, same day service",
+    "body": "We're the Valdosta septic team that shows up when we say we will. No call centers, no runaround — just honest service at fair rates."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Missy S.",
+      "location": "Valdosta, GA",
+      "text": "Septic tank was full and N.J came out within hours on a Sunday! Very professional, answered all questions, rates are very reasonable.",
+      "rating": 5
+    },
+    {
+      "name": "Candace W.",
+      "location": "Valdosta, GA",
+      "text": "Called at 8:30am, Mickey was out in just over an hour! Pleasant and explained everything he did to fix the issues.",
+      "rating": 5
+    },
+    {
+      "name": "Jessica S.",
+      "location": "Valdosta, GA",
+      "text": "Toilets overflowing, water backing up in tub. Within minutes of arrival, everything was draining and flushing perfectly!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving South Georgia",
+    "subheading": "Same-day service throughout the region",
+    "areas": [
+      "Valdosta",
+      "Tifton",
+      "Moultrie",
+      "Thomasville",
+      "Adel",
+      "Nashville",
+      "Quitman",
+      "Hahira"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get things flowing again?",
+    "body": "Call now for same-day service. Live person answers, fair rates, no surprises.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (229) 247-7774"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#F97316",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

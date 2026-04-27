@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "T. Palmer Septic Service LLC",
+    "phone": "(203) 746-3637",
+    "email": "info@colepublishing.com",
+    "city": "New Haven",
+    "state": "CT",
+    "industry": "septic service",
+    "tagline": "New Haven's trusted septic experts",
+    "logo_url": "",
+    "google_rating": "4.7 stars (32 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=12569204326495138581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your septic backs up, *we show up*",
+    "subheadline": "Family-owned New Haven septic team with 30 years of keeping systems flowing.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.7★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "32+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE HANDLE",
+    "heading": "Complete Septic Solutions",
+    "subheading": "From routine pumping to full system repairs"
+  },
+  "services": [
+    {
+      "title": "Septic Pumping & Cleaning",
+      "description": "Regular maintenance keeps your system running smooth. We pump out tanks and clear buildup before problems start.",
+      "icon": "droplet"
+    },
+    {
+      "title": "System Inspections",
+      "description": "Thorough evaluations for home sales, routine checks, or troubleshooting existing issues.",
+      "icon": "shield"
+    },
+    {
+      "title": "Septic Repairs",
+      "description": "Broken pipes, failing pumps, or drainage issues. We diagnose the problem and fix it right.",
+      "icon": "wrench"
+    },
+    {
+      "title": "New System Installation",
+      "description": "Complete septic system design and installation for new construction or replacements.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "30 Years of Septic Experience",
+    "body": "We're a New Haven family business that's been handling septic systems since day one. Real people answering the phone, not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What New Haven Says"
+  },
+  "reviews": [
+    {
+      "name": "Nancy J.",
+      "location": "New Haven, CT",
+      "text": "Grateful to T. Palmer for helping us out in a pinch! Wonderful experience - they're reliable, professional, and experienced.",
+      "rating": 5
+    },
+    {
+      "name": "Hillary W.",
+      "location": "New Haven, CT",
+      "text": "Great experience with this family business. First-time homeowners with lots of questions and Sara was incredibly informative.",
+      "rating": 5
+    },
+    {
+      "name": "Jillian H.",
+      "location": "New Haven, CT",
+      "text": "Family owned, knowledgeable and trustworthy. Used them for inspection and they're our go-to septic company now.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving New Haven & Surrounding Areas",
+    "subheading": "Local septic service throughout the region",
+    "areas": [
+      "New Haven",
+      "West Haven",
+      "East Haven",
+      "Hamden",
+      "North Haven",
+      "Wallingford",
+      "Branford",
+      "Guilford"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Schedule Service?",
+    "body": "Free estimates on all septic work. Call or message us today.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (203) 746-3637"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFBF5",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

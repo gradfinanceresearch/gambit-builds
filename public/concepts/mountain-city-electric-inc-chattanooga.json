@@ -1,0 +1,115 @@
+{
+  "business": {
+    "name": "Mountain City Electric Inc",
+    "phone": "(423) 756-6777",
+    "email": "ccloud@mtncityelec.com",
+    "city": "Chattanooga",
+    "state": "TN",
+    "industry": "electrician",
+    "tagline": "Power restored, problems solved",
+    "logo_url": "",
+    "google_rating": "5 stars (2 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=12614747584952600852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When the lights go out, we *show up*",
+    "subheadline": "Licensed Chattanooga electricians with trucks ready and tools loaded. No job too big, no hour too late.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Chattanooga Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every outlet, panel, and wire — handled",
+    "subheading": "From storm damage repairs to new installations"
+  },
+  "services": [
+    {
+      "title": "Electrical Repairs",
+      "description": "Outlets not working, breakers tripping, or complete power outages. We diagnose the problem and fix it right.",
+      "icon": "zap"
+    },
+    {
+      "title": "Panel Upgrades",
+      "description": "Old electrical panels can't handle modern loads. We install new panels that keep your power flowing safely.",
+      "icon": "plug"
+    },
+    {
+      "title": "Storm Restoration",
+      "description": "Lightning strikes and storm damage require immediate attention. We restore power when nature interrupts.",
+      "icon": "shield"
+    },
+    {
+      "title": "New Installations",
+      "description": "Adding circuits, installing fixtures, or wiring new construction. Clean work that passes inspection.",
+      "icon": "lightbulb"
+    }
+  ],
+  "about": {
+    "heading": "Mountain City Electric",
+    "body": "We're a Chattanooga electrical team that shows up when we say we will. One call gets you licensed electricians who fix it right the first time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Chattanooga says"
+  },
+  "reviews": [
+    {
+      "name": "William B.",
+      "location": "Chattanooga, TN",
+      "text": "Caring and efficient — showed up on schedule and restored power quickly and completely. Absolutely would use again.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Chattanooga and surrounding areas",
+    "subheading": "Same-day service throughout the Tennessee Valley",
+    "areas": [
+      "Chattanooga",
+      "Hixson",
+      "Red Bank",
+      "East Ridge",
+      "Soddy-Daisy",
+      "Signal Mountain",
+      "Lookout Mountain",
+      "Harrison"
+    ]
+  },
+  "cta": {
+    "heading": "Power problems don't wait — neither do we",
+    "body": "Licensed electricians with trucks loaded and ready. Call now for your free estimate or emergency service.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (423) 756-6777"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFBF5",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Clean As A Whistle Services, LLC",
+    "phone": "(703) 497-2420",
+    "email": "twelter@cleanasawhistle.us",
+    "city": "Fredericksburg",
+    "state": "VA",
+    "industry": "gutter installer",
+    "tagline": "When your gutters quit working, we show up",
+    "logo_url": "",
+    "google_rating": "4.4 stars (7 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=15064473271195568880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your gutters work *until they don't*",
+    "subheadline": "Licensed Fredericksburg crew that cleans, repairs, and installs — plus windows and pressure washing while we're here.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.4★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE HANDLE",
+    "heading": "Gutters, windows, and everything water touches",
+    "subheading": "One crew, multiple problems solved"
+  },
+  "services": [
+    {
+      "title": "Gutter Cleaning & Repair",
+      "description": "Clear the clogs, fix the leaks, get water flowing where it should.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Gutter Installation",
+      "description": "New seamless gutters cut and hung to last decades.",
+      "icon": "home"
+    },
+    {
+      "title": "Window Cleaning",
+      "description": "Inside, outside, screens — crystal clear results.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Pressure Washing",
+      "description": "Siding, patios, driveways — stripped clean of years of buildup.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "The Fredericksburg crew that shows up",
+    "body": "We're the local team your neighbors call when gutters overflow and windows haven't been clean in years. One call handles it all."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Fredericksburg says"
+  },
+  "reviews": [
+    {
+      "name": "Dr. D.",
+      "location": "Fredericksburg, VA",
+      "text": "Jena and Nate did a great job for a very reasonable price. Our windows hadn't been cleaned for YEARS — really gross, grimy, covered in cobwebs. I cannot believe the difference.",
+      "rating": 5
+    },
+    {
+      "name": "Don M.",
+      "location": "Fredericksburg, VA",
+      "text": "Rick and Nate did an outstanding job on our windows and the house has never looked so clean after power washing. You can't beat their price.",
+      "rating": 5
+    },
+    {
+      "name": "Reena V.",
+      "location": "Fredericksburg, VA",
+      "text": "Really impressed with the work. They pulled the weeds then power washed our patio — I have not seen it look so good ever. Great family business.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where we work",
+    "subheading": "Serving Fredericksburg and surrounding communities",
+    "areas": [
+      "Fredericksburg",
+      "Spotsylvania",
+      "Stafford",
+      "King George",
+      "Caroline",
+      "Culpeper",
+      "Orange",
+      "Chancellorsville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for gutters that actually work?",
+    "body": "Free quotes, honest pricing, and the job done right the first time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (703) 497-2420"
+  },
+  "design": {
+    "primary_color": "#1E3A5F",
+    "accent_color": "#C0986B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Nunito Sans",
+    "layout_variant": "split"
+  }
+}

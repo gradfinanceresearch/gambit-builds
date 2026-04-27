@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "3 FELLERS, LLC",
+    "phone": "",
+    "email": "selection@fellers.com",
+    "city": "York",
+    "state": "PA",
+    "industry": "tree service",
+    "tagline": "Tree removal and storm cleanup specialists",
+    "logo_url": "",
+    "google_rating": "5 stars (12 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=2198344301677952433&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When trees come down, *3 Fellers* cleans up",
+    "subheadline": "Storm damage or planned removal — we show up with the gear and get it done right",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "10+ Google Reviews"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local York Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every job gets the same treatment",
+    "subheading": "Professional equipment, clean finish, fair price"
+  },
+  "services": [
+    {
+      "title": "Tree Removal",
+      "description": "Safe takedown of any size tree. We handle the cutting, hauling, and cleanup so your yard looks better than before.",
+      "icon": "saw"
+    },
+    {
+      "title": "Storm Damage Cleanup",
+      "description": "Emergency response for fallen trees and debris. We clear roofs, driveways, and yards to get you back to normal.",
+      "icon": "shield"
+    },
+    {
+      "title": "Stump Grinding",
+      "description": "Complete stump removal below ground level. No more mowing around stumps or tripping hazards in your yard.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Debris Hauling",
+      "description": "Full cleanup and removal of all tree waste. We don't leave a mess — your property stays clean throughout the job.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "York's tree crew that actually shows up",
+    "body": "We're the team your neighbors call when trees need to come down. Professional equipment, fair pricing, and we clean up like we were never there."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What York homeowners are saying"
+  },
+  "reviews": [
+    {
+      "name": "Jacob E.",
+      "location": "York, PA",
+      "text": "Very reasonable pricing and impressed with their knowledge and professionalism. Showed up on time, got the job done quickly, left everything clean and tidy.",
+      "rating": 5
+    },
+    {
+      "name": "Regina T.",
+      "location": "York, PA",
+      "text": "Excellent job removing trees and debris from our shed roof after a storm. Reasonably priced, professional and efficient. Highly recommend!",
+      "rating": 5
+    },
+    {
+      "name": "Kacy H.",
+      "location": "York, PA",
+      "text": "Very impressive job! Asked for minimal yard damage on two large trees in a small yard. Couldn't be happier with their work and cleanup.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving York County",
+    "subheading": "Professional tree service throughout the region",
+    "areas": [
+      "York",
+      "Red Lion",
+      "Dallastown",
+      "Spring Grove",
+      "Hanover",
+      "Dover",
+      "Stewartstown",
+      "Glen Rock"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to clear those trees?",
+    "body": "Free estimates on all tree removal and storm cleanup. Call or email us today to schedule your quote.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Email Us"
+  },
+  "design": {
+    "primary_color": "#B45309",
+    "accent_color": "#1F2937",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

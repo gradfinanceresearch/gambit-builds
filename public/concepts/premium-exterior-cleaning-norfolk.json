@@ -1,0 +1,126 @@
+{
+  "business": {
+    "name": "Premium Exterior Cleaning",
+    "phone": "(757) 500-1020",
+    "email": "jcleaning.service@yahoo.com",
+    "city": "Norfolk",
+    "state": "VA",
+    "industry": "pressure washer",
+    "tagline": "Making Norfolk homes look like new",
+    "logo_url": "",
+    "google_rating": "5 stars (71 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=13485773316076556958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Years of grime* gone in one afternoon",
+    "subheadline": "That concrete you thought was permanently stained? We'll make it look ten years younger.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "70+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Norfolk Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE CLEAN",
+    "heading": "Every surface that needs attention",
+    "subheading": "From driveways that haven't been cleaned in years to siding that's lost its shine"
+  },
+  "services": [
+    {
+      "title": "House Washing",
+      "description": "Siding, brick, and exterior surfaces restored to original condition. Remove years of dirt, mildew, and stains.",
+      "icon": "home"
+    },
+    {
+      "title": "Concrete Cleaning",
+      "description": "Driveways, patios, walkways, and steps. Make concrete look amazing again, even after years of neglect.",
+      "icon": "brick"
+    },
+    {
+      "title": "Deck Restoration",
+      "description": "Power washing and restaining services. Transform weathered decks into outdoor spaces you'll actually want to use.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Gutter & Window Cleaning",
+      "description": "Complete exterior detail work. Gutters, windows, and screens cleaned to perfection.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Particular about the details",
+    "body": "We're the Norfolk pressure washing team that shows up when we say we will. Victor and the crew take their time to do it right — because your home deserves better than a quick rinse."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Norfolk neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Bobbi R.",
+      "location": "Norfolk, VA",
+      "text": "Victor did an outstanding job on our house and concrete patio. The concrete hadn't been cleaned in 10 years and was really grungy — he made it look amazing. Very particular in his work.",
+      "rating": 5
+    },
+    {
+      "name": "Daniel N.",
+      "location": "Norfolk, VA",
+      "text": "Great communication, showed up when he said he would, and did excellent work. Even added on extra power washing with no problem. Will definitely use them again.",
+      "rating": 5
+    },
+    {
+      "name": "Ginny F.",
+      "location": "Norfolk, VA",
+      "text": "Reliable, fair pricing, and excellent work on our deck and gutters. Superior job staining the deck. Highly recommend Victor and his team.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Norfolk and surrounding areas",
+    "subheading": "Professional pressure washing throughout Hampton Roads",
+    "areas": [
+      "Norfolk",
+      "Virginia Beach",
+      "Chesapeake",
+      "Portsmouth",
+      "Suffolk",
+      "Hampton",
+      "Newport News"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to see the difference?",
+    "body": "Free estimates on all exterior cleaning projects. No hidden fees, no pressure — just honest pricing and quality work.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (757) 500-1020"
+  },
+  "design": {
+    "primary_color": "#991B1B",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

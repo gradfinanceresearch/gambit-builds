@@ -1,0 +1,41 @@
+{
+  "name": "Castle Tree Surgeons",
+  "phone": "07703 299422",
+  "email": "tony@castletreesurgeons.co.uk",
+  "city": "York",
+  "state": "PA",
+  "industry": "tree service",
+  "services": [],
+  "brand_colors": [],
+  "nearby_cities": [],
+  "notes": "Issues: very few internal pages (0 \u2014 thin site); no contact form found; weak or missing CTA language; no viewport meta tag (not mobile-responsive). Rating: NEEDS_WORK (score 61)",
+  "google_rating": "4.9 stars (31 reviews)",
+  "review_snippets": [
+    {
+      "name": "Steven E.",
+      "text": "We got James round after we saw the quality of his work next door! Friendly, knowledgable guy and both him and Alex worked really hard to remove 2 trees and grind the stumps out, taking away the rubbish and leaving the garden clean and tidy! Great job and I doubt I will go anywhe",
+      "rating": 5
+    },
+    {
+      "name": "Allison R.",
+      "text": "Tony visited me reguarding a diseased lime tree in my back garden. Explained what the fungus was and showed me in his book to verify what he was telling me. James came and did the removal and he and his colleague were professional, respecful and polite. Came back the following mo",
+      "rating": 5
+    },
+    {
+      "name": "Jill S.",
+      "text": "James did a great job pruning our overgrown Laurel tree & trimming Privet hedges. All waste removed & left tidy.  Professional, efficient and friendly.",
+      "rating": 5
+    },
+    {
+      "name": "Nick O.",
+      "text": "Cant fault Castle tree Surgeons.\nTony and Jamie are very friendly, efficient and did the job really well and quickly from when I first contacted them.\nA very fair price for a great service. Thank you",
+      "rating": 5
+    },
+    {
+      "name": "Mark S.",
+      "text": "Called out Castle Tree Surgeons as we had an unsafe, partially fallen tree. James & the guys were on site the very next morning, worked safely, efficiently & professionally. Great service, greatly appreciated!",
+      "rating": 5
+    }
+  ],
+  "google_maps_uri": "https://maps.google.com/?cid=4783573423753507393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+}

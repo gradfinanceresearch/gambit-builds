@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Best Appliance Repair, LLC.",
+    "phone": "(513) 688-1222",
+    "email": "info@appliancerepaircincinnati.com",
+    "city": "Cincinnati",
+    "state": "OH",
+    "industry": "appliance repair",
+    "tagline": "When your appliances quit, we don't",
+    "logo_url": "",
+    "google_rating": "4.2 stars (25 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=11604234671689804774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Scott knows* what's broken before you finish explaining",
+    "subheadline": "Decades fixing washers, dryers, fridges, and dishwashers. If it plugs in and stopped working, we'll get it running again.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.2★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "25+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Cincinnati Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every appliance, every brand",
+    "subheading": "From newer models other shops won't touch to 14-year-old units you thought were dead"
+  },
+  "services": [
+    {
+      "title": "Washer & Dryer Repair",
+      "description": "Won't spin, won't drain, won't dry? We diagnose and fix laundry machines fast.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Refrigerator & Freezer Service",
+      "description": "Not cooling, making noise, or leaking? We'll get your fridge running like new.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Dishwasher Repair",
+      "description": "Not cleaning, not draining, or won't start? Quick diagnosis and parts ordering.",
+      "icon": "droplet"
+    },
+    {
+      "title": "All Major Brands",
+      "description": "Frigidaire, Whirlpool, GE, Samsung, LG — if it's in your kitchen or laundry room, we fix it.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Scott's been fixing appliances for decades",
+    "body": "We're the Cincinnati repair team other shops refer their tough cases to. Real diagnostics, not guesswork."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Cincinnati homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Erikamarie W.",
+      "location": "Cincinnati, OH",
+      "text": "Scott was exceedingly professional, communicative, and proficient. He immediately diagnosed the broken circulation pump after assessment.",
+      "rating": 5
+    },
+    {
+      "name": "Pete K.",
+      "location": "Cincinnati, OH",
+      "text": "Scott arrived promptly and was very friendly. Within just minutes, the washer was working like new again.",
+      "rating": 5
+    },
+    {
+      "name": "Andy B.",
+      "location": "Cincinnati, OH",
+      "text": "Scott quickly diagnosed the problem with my 14-year-old Frigidaire fridge. I knew this was going to be a pleasant experience.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Cincinnati and surrounding areas",
+    "subheading": "Quick response throughout the metro area",
+    "areas": [
+      "Cincinnati",
+      "Norwood",
+      "Blue Ash",
+      "Sharonville",
+      "Forest Park",
+      "Springdale",
+      "Reading",
+      "Wyoming"
+    ]
+  },
+  "cta": {
+    "heading": "Appliance down? We'll get it running again",
+    "body": "Free estimates on all repairs. Scott will diagnose the problem and give you straight answers about what it'll take to fix it.",
+    "cta_primary": "Schedule Service",
+    "cta_secondary": "Call (513) 688-1222"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FAFAFA",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

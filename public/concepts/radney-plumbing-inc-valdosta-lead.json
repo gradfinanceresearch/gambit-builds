@@ -1,0 +1,26 @@
+{
+  "name": "Radney Plumbing, Inc.",
+  "phone": "(229) 244-1967",
+  "email": "tradney@radney.com",
+  "city": "Valdosta",
+  "state": "GA",
+  "industry": "plumber",
+  "services": [],
+  "brand_colors": [],
+  "nearby_cities": [],
+  "notes": "Issues: very few internal pages (0 \u2014 thin site); no contact form found; weak or missing CTA language; no SSL (HTTP only). Rating: POOR (score 79)",
+  "google_rating": "4.3 stars (11 reviews)",
+  "review_snippets": [
+    {
+      "name": "William H.",
+      "text": "Excellent and professional experience \ud83d\udc4f\ud83d\udc4c\ud83d\udc4d\ud83d\ude00",
+      "rating": 5
+    },
+    {
+      "name": "Shanon D.",
+      "text": "Called them they never called back",
+      "rating": 1
+    }
+  ],
+  "google_maps_uri": "https://maps.google.com/?cid=9073869048819786092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+}

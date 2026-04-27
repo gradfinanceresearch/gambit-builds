@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Sanford and Associates LLC",
+    "phone": "(334) 221-3557",
+    "email": "dsanford5@yahoo.com",
+    "city": "Montgomery",
+    "state": "AL",
+    "industry": "roofer",
+    "tagline": "Montgomery's roof crew you can count on",
+    "logo_url": "",
+    "google_rating": "4.8 stars (43 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=7940516907238360085&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The roof crew Montgomery *trusts most*",
+    "subheadline": "Same-day starts, one-day finishes, and crews that clean up like they were never there.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.8★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "40+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Montgomery Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every roof, handled right",
+    "subheading": "From storm damage to full replacements — we show up ready"
+  },
+  "services": [
+    {
+      "title": "Roof Replacement",
+      "description": "Complete tear-off and install. We work fast, clean up completely, and leave you with a roof that lasts.",
+      "icon": "home"
+    },
+    {
+      "title": "Storm Damage Repair",
+      "description": "Tornado, hail, wind damage — we've seen it all. Fast response to get your home protected again.",
+      "icon": "shield"
+    },
+    {
+      "title": "Leak Repairs",
+      "description": "Find it, fix it, done. No guessing, no callbacks — we handle the problem and the source.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Chimney Work",
+      "description": "Flashing, caps, and leak prevention. The details that keep water out for good.",
+      "icon": "brick"
+    }
+  ],
+  "about": {
+    "heading": "Montgomery roofers who answer the phone",
+    "body": "We're the crew your neighbors call first. Real people, real trucks, and we finish what we start."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Montgomery homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Natalie S.",
+      "location": "Montgomery, AL",
+      "text": "Excellent work at a fair price. Their crew finished our roof in one day and cleaned up perfectly. The owners were helpful throughout the entire process.",
+      "rating": 5
+    },
+    {
+      "name": "Margaret C.",
+      "location": "Montgomery, AL",
+      "text": "After the tornado damage, I got estimates from four companies. Sanford had the best price and worked with my insurance. Professional from start to finish.",
+      "rating": 5
+    },
+    {
+      "name": "Quintez P.",
+      "location": "Montgomery, AL",
+      "text": "Very pleased with today's work! Even handled a last-minute patio roofing addition. Crew showed up early, worked hard, left no trace they were here.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Montgomery and surrounding areas",
+    "subheading": "Local crew, local knowledge",
+    "areas": [
+      "Montgomery",
+      "Prattville",
+      "Millbrook",
+      "Wetumpka",
+      "Pike Road",
+      "Tallassee",
+      "Elmore",
+      "Hope Hull"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your roof handled right?",
+    "body": "Free estimates, honest pricing, and crews that show up when we say we will. Call today.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (334) 221-3557"
+  },
+  "design": {
+    "primary_color": "#1E3A5F",
+    "accent_color": "#C0986B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

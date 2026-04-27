@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Tica Cleaning Service LLC",
+    "phone": "(980) 777-2877",
+    "email": "ticacleaning2@gmail.com",
+    "city": "Gastonia",
+    "state": "NC",
+    "industry": "pressure washer",
+    "tagline": "The clean you notice, the service you remember",
+    "logo_url": "",
+    "google_rating": "5 stars (19 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=17841477324564913976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Every surface* looking like new again",
+    "subheadline": "From driveways to restaurant kitchens — we show up on short notice and deliver results that exceed expectations.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "19+ Google Reviews"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Gastonia Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE CLEAN",
+    "heading": "Every job gets the same attention",
+    "subheading": "Residential homes, commercial kitchens, rental turnovers — one call handles it all"
+  },
+  "services": [
+    {
+      "title": "House Pressure Washing",
+      "description": "Exterior walls, driveways, walkways, and decks. We spot what you miss and clean what you can't reach.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Commercial Cleaning",
+      "description": "Restaurant kitchens, retail spaces, office buildings. Professional results that keep your business running smooth.",
+      "icon": "home"
+    },
+    {
+      "title": "Rental Property Turnover",
+      "description": "Fast turnaround between tenants. Deep clean that gets properties rent-ready on your timeline.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Emergency Response",
+      "description": "Short notice calls welcome. Same-day quotes, next-day service when you need it most.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Real people answering the phone",
+    "body": "We're a Gastonia cleaning team that shows up when we say we will. One call gets you a quote within hours and work done right the first time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What our customers say"
+  },
+  "reviews": [
+    {
+      "name": "Neesie H.",
+      "location": "Gastonia, NC",
+      "text": "Outstanding experience! Called on short notice and they responded promptly. They spotted areas that needed cleaning I hadn't even noticed and went above and beyond.",
+      "rating": 5
+    },
+    {
+      "name": "Ben C.",
+      "location": "Gastonia, NC",
+      "text": "Professional, timely, exceptional work. We use them for our restaurant and they do an incredible job. Top-tier service at very reasonable prices.",
+      "rating": 5
+    },
+    {
+      "name": "Ashley G.",
+      "location": "Gastonia, NC",
+      "text": "Could not be happier with their work on the house. Very thorough, did a great job, and extremely kind. Will definitely call them again.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Gastonia and surrounding areas",
+    "subheading": "Fast response times throughout the greater Charlotte region",
+    "areas": [
+      "Gastonia",
+      "Charlotte",
+      "Belmont",
+      "Mount Holly",
+      "Cramerton",
+      "Dallas",
+      "Bessemer City",
+      "Kings Mountain"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for that fresh, clean look?",
+    "body": "Call now for a free quote. Same professional team, same thorough results, every single time.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (980) 777-2877"
+  },
+  "design": {
+    "primary_color": "#B45309",
+    "accent_color": "#1F2937",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

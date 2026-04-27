@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Affordable brush and tree removal",
+    "phone": "(717) 963-5561",
+    "email": "jaredenfield@gmail.com",
+    "city": "York",
+    "state": "PA",
+    "industry": "tree service",
+    "tagline": "Professional tree and brush removal at honest prices",
+    "logo_url": "",
+    "google_rating": "5 stars (5 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=6838384394801439003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "York's tree guys who *actually show up*",
+    "subheadline": "Same-day service, fair pricing, and we clean up every branch",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "5+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local York Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Trees, stumps, brush — handled",
+    "subheading": "Professional removal and cleanup for residential properties"
+  },
+  "services": [
+    {
+      "title": "Tree Removal",
+      "description": "Safe removal of unwanted or hazardous trees. Full cleanup included with every job.",
+      "icon": "saw"
+    },
+    {
+      "title": "Brush Clearing",
+      "description": "Clear overgrown brush and vegetation. Perfect for property maintenance and landscaping prep.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Stump Removal",
+      "description": "Complete stump grinding and removal. No trace left behind.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Yard Waste Cleanup",
+      "description": "Hauling and disposal of brush piles and yard debris. Quick turnaround available.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Real tree service, real prices",
+    "body": "We're a York team that answers the phone and shows up when promised. One call gets your trees and brush handled right."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What York neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Nate R.",
+      "location": "York, PA",
+      "text": "Very professional and detailed work. Made my tree look great and best of all, affordable pricing!",
+      "rating": 5
+    },
+    {
+      "name": "Adrian V.",
+      "location": "York, PA",
+      "text": "Top notch service and cleanup at competitive prices. Will go above and beyond to take care of you.",
+      "rating": 5
+    },
+    {
+      "name": "Ed L.",
+      "location": "York, PA",
+      "text": "Available next day to clear out brush pile. Fantastic job at very reasonable price. Will call again.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving York County",
+    "subheading": "Professional tree service throughout the region",
+    "areas": [
+      "York",
+      "Red Lion",
+      "Dallastown",
+      "Spring Grove",
+      "Hanover",
+      "Glen Rock",
+      "Dover",
+      "Shrewsbury"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to clear that yard?",
+    "body": "Quick quotes, fair pricing, and we show up when we say we will. Call today for same-day service availability.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (717) 963-5561"
+  },
+  "design": {
+    "primary_color": "#B91C1C",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

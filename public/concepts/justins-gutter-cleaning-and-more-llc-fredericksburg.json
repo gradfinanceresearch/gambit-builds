@@ -1,0 +1,125 @@
+{
+  "business": {
+    "name": "Justin's Gutter Cleaning and More LLC",
+    "phone": "(540) 903-3871",
+    "email": "info@bene69.sg-host.com",
+    "city": "Fredericksburg",
+    "state": "VA",
+    "industry": "gutter installer",
+    "tagline": "When you call, we show up",
+    "logo_url": "",
+    "google_rating": "4.8 stars (15 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=13322994482556214633&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The gutter guy *Fredericksburg calls first*",
+    "subheadline": "24-hour response time. On time, every time, with the gear that gets it done right.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.8★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "15+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Fredericksburg Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Gutters, decks, driveways — handled",
+    "subheading": "One call covers it all"
+  },
+  "services": [
+    {
+      "title": "Gutter Cleaning & Repair",
+      "description": "Complete gutter cleanouts, downspout clearing, and minor repairs. We cover your furniture and clean up after.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Pressure Washing",
+      "description": "House exteriors, decks, sidewalks, and driveways. Professional equipment that strips away years of buildup.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Gutter Guard Installation",
+      "description": "Remove old guards, install new protection systems. Keep leaves out, water flowing.",
+      "icon": "shield"
+    },
+    {
+      "title": "Roof & Gutter Maintenance",
+      "description": "Roof cleaning, gutter inspections, and seasonal maintenance to prevent costly damage.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Real response time",
+    "body": "We're the Fredericksburg team that answers within 24 hours and shows up when we say we will. One guy, one truck, getting it done right."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Kelley W.",
+      "location": "Fredericksburg, VA",
+      "text": "Justin is excellent. Used him twice already — every time I reach out, he responds within 24 hours and completes the work within 24 hours.",
+      "rating": 5
+    },
+    {
+      "name": "Karen S.",
+      "location": "Fredericksburg, VA",
+      "text": "Personable and friendly, showed up on time. Cleaned my deck, gutters, and front sidewalk. Took care to cover my furniture first — everything looks brand new!",
+      "rating": 5
+    },
+    {
+      "name": "Carol F.",
+      "location": "Fredericksburg, VA",
+      "text": "First class service that's hard to find. His attention to detail is second to none — he truly cares about the outcome and the people he serves.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Fredericksburg and surrounding areas",
+    "subheading": "Local service you can count on",
+    "areas": [
+      "Fredericksburg",
+      "Spotsylvania",
+      "Stafford",
+      "King George",
+      "Caroline",
+      "Culpeper"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get it done?",
+    "body": "Free estimates, fast response, and work that lasts. Call or click to get started.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (540) 903-3871"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

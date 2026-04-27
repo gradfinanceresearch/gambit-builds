@@ -1,0 +1,126 @@
+{
+  "business": {
+    "name": "WestNashvilleHandyman,LLC",
+    "phone": "(615) 491-1496",
+    "email": "window.nd.transl@ions.loaded",
+    "city": "Nashville",
+    "state": "TN",
+    "industry": "handyman",
+    "tagline": "Every fix, done right",
+    "logo_url": "",
+    "google_rating": "5 stars (11 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=9789171155381185190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The handyman *West Nashville* calls first",
+    "subheadline": "Deck repairs, fence painting, outdoor fixes — whatever's on your list, we handle it.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "11+ Google Reviews"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Home repairs that stick",
+    "subheading": "From decks to fences to the things you've been putting off"
+  },
+  "services": [
+    {
+      "title": "Deck Repair & Maintenance",
+      "description": "Cleaning, sealing, and bringing tired decks back to life.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Fence Painting & Repair",
+      "description": "Detail work that makes your fence look new again.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Outdoor Home Repairs",
+      "description": "Whatever needs fixing outside — we've got the tools and know-how.",
+      "icon": "wrench"
+    },
+    {
+      "title": "General Handyman Work",
+      "description": "The repairs you've been avoiding, handled properly.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Real repairs by real people",
+    "body": "We're the Nashville handyman team that shows up on time and keeps you updated. One call handles your whole list."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "john a.",
+      "location": "Nashville",
+      "text": "Truly professional and talented. Our deck and driveway are reborn. Reasonably priced and highly recommended.",
+      "rating": 5
+    },
+    {
+      "name": "Linda L.",
+      "location": "Nashville",
+      "text": "Very punctual, keeps you updated by text, and priced fairly. His deck cleaning and sealing work was meticulous and done in a timely manner.",
+      "rating": 5
+    },
+    {
+      "name": "Paula C.",
+      "location": "Nashville",
+      "text": "Very responsive, fairly priced, and extremely nice with outdoor repairs. Honest, lives in the area, and highly reliable.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where we work",
+    "subheading": "Serving Nashville and surrounding communities",
+    "areas": [
+      "Nashville",
+      "Belle Meade",
+      "Brentwood",
+      "Franklin",
+      "Green Hills",
+      "Music Valley",
+      "The Gulch"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to cross things off your list?",
+    "body": "Free estimates on all repairs. We'll text you updates and show up when we say we will.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Today"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

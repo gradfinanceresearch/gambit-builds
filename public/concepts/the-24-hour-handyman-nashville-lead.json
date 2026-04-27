@@ -1,0 +1,41 @@
+{
+  "name": "The 24 Hour Handyman",
+  "phone": "(629) 325-3433",
+  "email": "j@v.hi",
+  "city": "Nashville",
+  "state": "TN",
+  "industry": "handyman",
+  "services": [],
+  "brand_colors": [],
+  "nearby_cities": [],
+  "notes": "Issues: very few internal pages (0 \u2014 thin site); very few images (0 \u2014 minimal visual content); no contact form found; weak or missing CTA language; no viewport meta tag (not mobile-responsive). Rating: POOR (score 92)",
+  "google_rating": "5 stars (20 reviews)",
+  "review_snippets": [
+    {
+      "name": "David M.",
+      "text": "Zach is great! He really helped me out of a bind! He came prepared and had my project completed quickly! I would recommend him to everybody!",
+      "rating": 5
+    },
+    {
+      "name": "Dylan W.",
+      "text": "Zach did a very precise and clean job!!! He repaired some drywall and tile in my master bathroom. Also he added a ceiling fan and tv to my man cave he done the electrical side of it as well as installation. He was very polite and professional 10/10 I will be recommending him to a",
+      "rating": 5
+    },
+    {
+      "name": "Cutter's E.",
+      "text": "Amazing service. Zack made time and came right within the hour. So professional! Thanks again!",
+      "rating": 5
+    },
+    {
+      "name": "Garrison L.",
+      "text": "Zach is very professional and can do it all! I have had him work on several various projects around my house both interior and exterior. He responds quickly, is courteous and is very honest and fair with his estimates and pricing. I highly recommend Zach for all of your handyman ",
+      "rating": 5
+    },
+    {
+      "name": "Susan B.",
+      "text": "Zach is awesome!! He has fixed several things at our home to include a broken toilet & sconce light fixture that fell off the wall. He is professional, knowledgeable & trustworthy. I highly recommend him for handyman services!!",
+      "rating": 5
+    }
+  ],
+  "google_maps_uri": "https://maps.google.com/?cid=14006127208695860674&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+}

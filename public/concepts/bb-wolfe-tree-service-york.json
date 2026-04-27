@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "BB Wolfe Tree Service",
+    "phone": "(717) 495-5957",
+    "email": "chainsawchick717@gmail.com",
+    "city": "York",
+    "state": "PA",
+    "industry": "tree service",
+    "tagline": "When trees need to go, we make it happen",
+    "logo_url": "",
+    "google_rating": "5 stars (6 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=7655920512849343708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Tight spaces?* Big trees? We've got this.",
+    "subheadline": "Same-day quotes, next-day service — while others are booking 8+ weeks out.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "6+ Google Reviews"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local York Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every tree, every situation",
+    "subheading": "From massive pin oaks in impossible spots to stubborn stumps"
+  },
+  "services": [
+    {
+      "title": "Tree Removal",
+      "description": "Big trees, tight spaces, clean results. We handle what others won't touch.",
+      "icon": "saw"
+    },
+    {
+      "title": "Stump Grinding",
+      "description": "Gone to the roots. No trace left behind, ready to replant or pave.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Bush & Shrub Removal",
+      "description": "Overgrown landscaping cleared out completely, roots and all.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Storm Damage Cleanup",
+      "description": "When weather takes down your trees, we clean up the mess fast.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "The York team that shows up",
+    "body": "We're the tree service York calls when the job looks impossible. Quick quotes, faster scheduling, and we clean up like we were never there."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "Neighbors hiring neighbors"
+  },
+  "reviews": [
+    {
+      "name": "Randy L.",
+      "location": "York, PA",
+      "text": "Great pricing, excellent communication. Scheduled next day service and they removed two huge bushes to the roots. Clean job, would recommend.",
+      "rating": 5
+    },
+    {
+      "name": "Elizabeth M.",
+      "location": "York, PA",
+      "text": "Quick quote and lead time while others were 8+ weeks out. Took down a massive pin oak in a tight space very carefully. Cleaned everything perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "Alex K.",
+      "location": "York, PA",
+      "text": "Great guys, fair price. Even our neighbors hired them right after seeing our work done.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving York County",
+    "subheading": "Fast response across the region",
+    "areas": [
+      "York",
+      "Red Lion",
+      "Dallastown",
+      "Spring Grove",
+      "Hanover",
+      "Dover",
+      "Wrightsville",
+      "Delta"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get that tree handled?",
+    "body": "Quick quotes, faster service. Call now or request your free estimate online.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (717) 495-5957"
+  },
+  "design": {
+    "primary_color": "#065F46",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

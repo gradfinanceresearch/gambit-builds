@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Faith and Family Handyman",
+    "phone": "(615) 418-2395",
+    "email": "support@freeclinics.com",
+    "city": "Nashville",
+    "state": "TN",
+    "industry": "handyman",
+    "tagline": "Skilled hands, honest work",
+    "logo_url": "",
+    "google_rating": "5 stars (6 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=9683566297686301358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Every fix* handled with care",
+    "subheadline": "From loose hinges to full room updates — we show up ready to work.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "6 Google Reviews"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "One call handles it all",
+    "subheading": "No job too small, no detail overlooked"
+  },
+  "services": [
+    {
+      "title": "Home Repairs",
+      "description": "Fix what's broken, strengthen what's loose. From drywall patches to squeaky floors.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Carpentry Work",
+      "description": "Custom shelving, trim work, cabinet repairs. Built to last.",
+      "icon": "saw"
+    },
+    {
+      "title": "Painting Projects",
+      "description": "Touch-ups to full rooms. Clean lines, smooth finish.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Maintenance Tasks",
+      "description": "Seasonal tune-ups, preventive fixes. Keep your home running smooth.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Nashville handyman you can count on",
+    "body": "We're the Nashville team that shows up when we say we will. One call, one handyman, quality work every time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Nashville neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Shruti A.",
+      "location": "Nashville, TN",
+      "text": "Skilled handyman who delivered professional, high-quality work. Would definitely hire him again.",
+      "rating": 5
+    },
+    {
+      "name": "Kevin B.",
+      "location": "Nashville, TN",
+      "text": "Polite, professional, and kept me updated throughout. Will definitely use him again.",
+      "rating": 5
+    },
+    {
+      "name": "Ruth E.",
+      "location": "Nashville, TN",
+      "text": "Exceptional job with quality and efficiency. Don't hesitate to contact them.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Nashville and surrounding areas",
+    "subheading": "Quick response throughout Middle Tennessee",
+    "areas": [
+      "Nashville",
+      "Franklin",
+      "Brentwood",
+      "Hendersonville",
+      "Murfreesboro",
+      "Mount Juliet",
+      "Goodlettsville",
+      "Belle Meade"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get it fixed right?",
+    "body": "Free quotes on all projects. Call today and let's talk about what you need done.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFBF5",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "stacked"
+  }
+}

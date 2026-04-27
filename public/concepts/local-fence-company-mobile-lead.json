@@ -1,0 +1,41 @@
+{
+  "name": "Local Fence Company",
+  "phone": "(978) 376-6020",
+  "email": "dan@localfencecompany.com",
+  "city": "Mobile",
+  "state": "AL",
+  "industry": "fence installer",
+  "services": [],
+  "brand_colors": [],
+  "nearby_cities": [],
+  "notes": "Issues: very few internal pages (0 \u2014 thin site); no contact form found; no SSL (HTTP only); no viewport meta tag (not mobile-responsive); table-based layout. Rating: POOR (score 89)",
+  "google_rating": "5 stars (84 reviews)",
+  "review_snippets": [
+    {
+      "name": "Laura G.",
+      "text": "Dan and his team were fantastic! They slotted us into their schedule quickly, were communicative and responsive, and even accommodated an extra part of the project we weren't expecting. The fence looks beautiful and is exactly what we wanted! They were efficient and got the whole",
+      "rating": 5
+    },
+    {
+      "name": "Paula S.",
+      "text": "I was so impressed with the product and services I received from Local Fence in Methuen. Dan made the whole process very easy. He arrived when he said he would, listened to what my needs were, always responded quickly to my questions, and kept me well informed of the progress of ",
+      "rating": 5
+    },
+    {
+      "name": "Laura C.",
+      "text": "This is the second time I've used local fence. I knew they would be the ones to call when extending and updating my fence at my new home. Dan is so easy to work with. He and his crew did such a great job and got the install done in less time than I expected with all the quality!",
+      "rating": 5
+    },
+    {
+      "name": "Melissa G.",
+      "text": "We had an exceptional experience with Local Fence! From the very first consultation to the final installation, Dan was professional, responsive, and truly dedicated to delivering high-quality work.\n\nThe crew arrived on time, worked efficiently, and maintained a clean and safe wor",
+      "rating": 5
+    },
+    {
+      "name": "Lydia C.",
+      "text": "Dan the owner of Local Fence, Methuen, answers questions immediately, does great work and was willing to change a decision I made a third of the way through the project.  The cedar board fence looks great and is very strongly built.  I highly recommend this company!",
+      "rating": 5
+    }
+  ],
+  "google_maps_uri": "https://maps.google.com/?cid=1196735412537784835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+}

@@ -1,0 +1,108 @@
+{
+  "business": {
+    "name": "Decker Sealing and Striping",
+    "phone": "(270) 202-1448",
+    "email": "joedecker44@gmail.com",
+    "city": "Bowling Green",
+    "state": "KY",
+    "industry": "driveway paving",
+    "tagline": "Fresh lines, sealed tight",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=12387312833857756256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your driveway *deserves better* than cracks",
+    "subheadline": "Professional sealcoating and striping that keeps your pavement looking sharp year after year.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Sealcoating & Striping Done Right",
+    "subheading": "Everything your pavement needs to look professional and last longer"
+  },
+  "services": [
+    {
+      "title": "Driveway Sealcoating",
+      "description": "Protective coating that seals out water, oil, and weather damage. Extends pavement life by years.",
+      "icon": "shield"
+    },
+    {
+      "title": "Parking Lot Striping",
+      "description": "Clean, straight lines for parking spaces, fire lanes, and handicap zones. Professional appearance that lasts.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Crack Sealing",
+      "description": "Fill and seal cracks before they spread. Prevents water damage and costly repairs down the road.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Line Repainting",
+      "description": "Fresh paint for faded or worn parking lot lines. Bright, visible markings that meet city codes.",
+      "icon": "paintbrush"
+    }
+  ],
+  "about": {
+    "heading": "Bowling Green Pavement Specialists",
+    "body": "We're a Bowling Green team that shows up when scheduled and finishes the job right. One call handles your entire pavement project."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Bowling Green Says"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Bowling Green & Surrounding Areas",
+    "subheading": "Professional sealcoating and striping throughout Warren County",
+    "areas": [
+      "Bowling Green",
+      "Plano",
+      "Smiths Grove",
+      "Oakland",
+      "Woodburn",
+      "Richardsville",
+      "Alvaton",
+      "Warren County"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Fresh Pavement?",
+    "body": "Free estimates on all sealcoating and striping projects. We'll assess your pavement and give you straight pricing.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (270) 202-1448"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

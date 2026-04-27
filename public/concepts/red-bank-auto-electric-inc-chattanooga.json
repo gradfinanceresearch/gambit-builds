@@ -6,124 +6,122 @@
     "city": "Chattanooga",
     "state": "TN",
     "industry": "electrician",
-    "tagline": "Auto electrical problems solved right the first time",
+    "tagline": "Chattanooga's trusted auto electrical specialists",
     "logo_url": "",
     "google_rating": "4.6 stars (59 reviews)",
-    "years_in_business": ""
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=6080104151471107020&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
   },
   "hero": {
-    "headline": "When three shops can't fix it, *Jason can*",
-    "subheadline": "4.6 stars from 59 customers who know the difference between guessing and knowing",
-    "cta_primary": "Get Diagnosis",
-    "cta_secondary": "Call Jason"
+    "headline": "The Cherokee that *three shops* couldn't fix? We fixed it.",
+    "subheadline": "One honest mechanic. One shop. Problems actually solved.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
   },
   "trust_badges": [
     {
-      "icon": "check",
-      "text": "Won't give up on your problem"
+      "icon": "star",
+      "text": "4.6★ on Google"
     },
     {
-      "icon": "thumbsup",
-      "text": "4.6 stars, 59 reviews"
+      "icon": "users",
+      "text": "60+ Google Reviews"
     },
     {
-      "icon": "heart",
-      "text": "Honest about what you need"
+      "icon": "shield",
+      "text": "Licensed & Insured"
     },
     {
-      "icon": "zap",
-      "text": "Auto electrical specialist"
+      "icon": "mappin",
+      "text": "Local Chattanooga Team"
     }
   ],
   "services_section": {
-    "label": "WHAT WE FIX",
-    "heading": "Every wire, fuse, and connection",
-    "subheading": "When other shops throw in the towel, we're just getting started"
+    "label": "THE WORK",
+    "heading": "Auto Electrical Problems Solved",
+    "subheading": "When other shops give up, we keep going"
   },
   "services": [
     {
-      "title": "Electrical System Diagnosis",
-      "description": "We find the real problem, not just swap parts hoping something works. Complete system testing with professional equipment.",
+      "title": "Electrical Diagnosis",
+      "description": "Find the real problem behind mysterious electrical issues. No guessing, no throwing parts at it.",
       "icon": "zap"
     },
     {
-      "title": "Starter & Alternator Repair",
-      "description": "Dead battery? Won't crank? We test, rebuild, or replace starters and alternators to get you back on the road.",
+      "title": "Alternator & Starter Service",
+      "description": "Complete alternator and starter repair and replacement. Get your car starting and charging properly.",
       "icon": "plug"
     },
     {
-      "title": "Wiring Harness Issues",
-      "description": "Shorts, grounds, and mystery electrical gremlins. We trace every wire until we find what's causing your headaches.",
+      "title": "Battery Testing & Service",
+      "description": "Professional battery testing and replacement. Know before you're stranded.",
       "icon": "lightbulb"
     },
     {
-      "title": "Fuse & Relay Problems",
-      "description": "Something keeps blowing fuses? We'll find why instead of just replacing them over and over.",
-      "icon": "shield"
+      "title": "Wiring Repair",
+      "description": "Fix damaged wiring, shorts, and connection problems that keep coming back.",
+      "icon": "wrench"
     }
   ],
   "about": {
-    "heading": "Jason doesn't quit on tough problems",
-    "body": "Red Bank Auto Electric has built a reputation in Chattanooga for solving the electrical problems other shops can't figure out. We're the place mechanics send their own families when they're stumped. Jason takes on the basket cases, the mystery issues, and the problems that have been to three other shops. If it's got wires, we can fix it."
+    "heading": "One Shop, Real Solutions",
+    "body": "We're the Chattanooga auto electrical team that refuses to give up on your car. When three other shops can't fix it, we can."
   },
   "reviews_section": {
     "label": "WORD OF MOUTH",
-    "heading": "What customers say about Jason's work"
+    "heading": "What Chattanooga Drivers Say"
   },
   "reviews": [
     {
       "name": "George B.",
-      "location": "Chattanooga",
-      "text": "Jason is an excellent mechanic. He fixed my basket case Cherokee when nobody else could get it running right.",
+      "location": "Chattanooga, TN",
+      "text": "Jason is an excellent mechanic. Fixed my basket case Cherokee when nobody else could.",
       "rating": 5
     },
     {
       "name": "Heather G.",
-      "location": "Chicago",
-      "text": "Visiting from Chicago with electrical issues. They checked everything thoroughly, replaced a fuse, and gave honest advice about our battery.",
+      "location": "Chattanooga, TN",
+      "text": "Excellent people, highly recommended! Visiting from Chicago with electrical issues - they checked everything thoroughly and got us sorted out.",
       "rating": 5
     },
     {
       "name": "Ruth K.",
-      "location": "Chattanooga",
-      "text": "Three other shops couldn't fix my van. Jason refused to give up and proved to be both honest and capable. Jump on it if you can get him.",
-      "rating": 5
-    },
-    {
-      "name": "JaNiya C.",
-      "location": "Chattanooga",
-      "text": "Customer service was above and beyond. Even though my problem couldn't be fixed immediately, Jason educated me and I left with confidence.",
+      "location": "Chattanooga, TN",
+      "text": "Took my van to three other shops - nobody could fix it. He refused to give up. Honest and capable - if you're lucky enough to get him, jump on it.",
       "rating": 5
     }
   ],
   "service_areas": {
-    "label": "WHERE WE WORK",
-    "heading": "Serving Chattanooga and surrounding areas",
-    "subheading": "Auto electrical repair throughout the Tennessee Valley",
+    "label": "COVERAGE AREA",
+    "heading": "Serving Chattanooga & Surrounding Areas",
+    "subheading": "Auto electrical service throughout the greater Chattanooga region",
     "areas": [
       "Chattanooga",
       "Red Bank",
       "Hixson",
       "East Ridge",
       "Soddy-Daisy",
+      "Harrison",
       "Signal Mountain",
-      "Lookout Mountain",
-      "Harrison"
+      "Lookout Mountain"
     ]
   },
   "cta": {
-    "heading": "Ready to solve your electrical problem?",
-    "body": "Stop guessing and get a real diagnosis from someone who won't quit until it's fixed right.",
-    "cta_primary": "Call for Diagnosis",
-    "cta_secondary": "Get Directions"
+    "heading": "Ready to Actually Fix Your Car?",
+    "body": "Stop throwing money at shops that can't solve the problem. Get it diagnosed right the first time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (423) 877-5215"
   },
   "design": {
     "primary_color": "#1A5632",
     "accent_color": "#D4A843",
-    "bg_color": "#FFFFFF",
+    "bg_color": "#FEFEFE",
     "text_color": "#1F2937",
-    "font_heading": "Bebas Neue",
-    "font_body": "Work Sans",
-    "layout_variant": "split"
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "editorial"
   }
 }

@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Lussier & Sons Septic Services LLC",
+    "phone": "(860) 669-7775",
+    "email": "j@lussierandsons.com",
+    "city": "New Haven",
+    "state": "CT",
+    "industry": "septic service",
+    "tagline": "Connecticut septic solutions that work",
+    "logo_url": "",
+    "google_rating": "4.3 stars (8 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=3955292394796208521&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your septic fails, we don't",
+    "subheadline": "Local New Haven crew handling pumping, repairs, and full system replacements — fast.",
+    "cta_primary": "Get Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.3★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every septic job — handled",
+    "subheading": "From routine pumping to emergency replacements"
+  },
+  "services": [
+    {
+      "title": "Septic Pumping",
+      "description": "Regular maintenance pumping to keep your system running. We handle residential and commercial tanks.",
+      "icon": "droplet"
+    },
+    {
+      "title": "System Replacement",
+      "description": "Full septic system installation when repairs won't cut it. New systems designed to last.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Emergency Service",
+      "description": "When your system backs up or fails, we respond fast. Available for septic emergencies.",
+      "icon": "shield"
+    },
+    {
+      "title": "Repairs & Maintenance",
+      "description": "Fixing pumps, pipes, and components to extend your system's life. Honest assessments on what needs work.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Shoreline septic team",
+    "body": "We're the New Haven septic crew that shows up when we say we will. One call gets you Jay and the team — not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Scott D.",
+      "location": "New Haven, CT",
+      "text": "Hired Lussier to replace a septic and needed it done fast. They did an excellent job and finished ahead of time. Jay and Sue were very responsive and helpful.",
+      "rating": 5
+    },
+    {
+      "name": "Bill D.",
+      "location": "New Haven, CT",
+      "text": "Jay handles all my septic needs. Local guy serving the Shoreline for many years. Emergency service, pumping, replacements — he handles it all.",
+      "rating": 5
+    },
+    {
+      "name": "Kevin G.",
+      "location": "New Haven, CT",
+      "text": "Reputable trustworthy family business. Very highly recommended!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving New Haven & surrounding areas",
+    "subheading": "Local septic service across the shoreline",
+    "areas": [
+      "New Haven",
+      "East Haven",
+      "West Haven",
+      "Hamden",
+      "Branford",
+      "North Haven",
+      "Guilford",
+      "Madison"
+    ]
+  },
+  "cta": {
+    "heading": "Need septic work? We're ready",
+    "body": "Call for honest pricing on pumping, repairs, or full system replacement. No surprises, just straight answers.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (860) 669-7775"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

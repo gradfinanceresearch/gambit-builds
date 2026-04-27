@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "make no mistake pressure washing",
+    "phone": "(757) 434-3080",
+    "email": "makenomistakespressurewashing@gmail.com",
+    "city": "Norfolk",
+    "state": "VA",
+    "industry": "pressure washer",
+    "tagline": "Clean results, guaranteed",
+    "logo_url": "",
+    "google_rating": "5 stars (53 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=9248511571696187183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When clean matters, *make no mistake*",
+    "subheadline": "House, deck, driveway — we handle it all and show up early.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "50+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Norfolk Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE CLEAN",
+    "heading": "Every surface, every detail",
+    "subheading": "From three-story homes to driveways that haven't been touched in years"
+  },
+  "services": [
+    {
+      "title": "House Washing",
+      "description": "Full exterior cleaning for homes of any size. Siding, brick, vinyl — we handle it all.",
+      "icon": "home"
+    },
+    {
+      "title": "Deck & Patio Cleaning",
+      "description": "Restore your outdoor spaces. Wood, composite, concrete — back to looking new.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Driveway Cleaning",
+      "description": "Oil stains, dirt buildup, years of grime — gone.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Sidewalk Washing",
+      "description": "Complete walkway cleaning that makes the whole property shine.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Jerome and the Norfolk team",
+    "body": "We're the pressure washing crew Norfolk calls when it has to be done right. One call, real results."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Norfolk homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Cassandra H.",
+      "location": "Norfolk, VA",
+      "text": "Used them twice now — they did such a great job the first time I had to call them back. Fantastic work both times.",
+      "rating": 5
+    },
+    {
+      "name": "Nikki P.",
+      "location": "Norfolk, VA",
+      "text": "3-story house plus deck — he covered everything! Showed up early, worked fast, and made sure I was completely satisfied.",
+      "rating": 5
+    },
+    {
+      "name": "Spencer N.",
+      "location": "Norfolk, VA",
+      "text": "The before and after photos say it all. Prompt, professional, efficient. 10/10 recommend.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Norfolk and surrounding areas",
+    "subheading": "Fast response times throughout Hampton Roads",
+    "areas": [
+      "Norfolk",
+      "Virginia Beach",
+      "Portsmouth",
+      "Chesapeake",
+      "Hampton",
+      "Newport News",
+      "Suffolk",
+      "Williamsburg"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for that transformation?",
+    "body": "Free quotes, fair pricing, and results that speak for themselves. See what 53 five-star reviews are talking about.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (757) 434-3080"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

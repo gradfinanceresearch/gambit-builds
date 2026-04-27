@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Septic Inspections By Earthworm Septic Services",
+    "phone": "(860) 367-4516",
+    "email": "earthwormseptic@att.net",
+    "city": "New Haven",
+    "state": "CT",
+    "industry": "septic service",
+    "tagline": "Your septic system's best friend underground",
+    "logo_url": "",
+    "google_rating": "4.8 stars (43 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=3782971229959061882&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your septic *needs answers*, we dig deep",
+    "subheadline": "Licensed inspector answering calls, not voicemail. Real-time insights for buyers, sellers, and worried homeowners.",
+    "cta_primary": "Schedule Inspection",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.8★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "40+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local New Haven Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE DIG",
+    "heading": "Complete Septic Solutions",
+    "subheading": "From inspection to installation, we handle what's underground"
+  },
+  "services": [
+    {
+      "title": "Septic Inspections",
+      "description": "Thorough system evaluation for home sales, purchases, or troubleshooting. Real-time insights and clear reports.",
+      "icon": "shield"
+    },
+    {
+      "title": "Emergency Repairs",
+      "description": "Backups, clogs, and system failures handled fast. We show up when your septic system quits.",
+      "icon": "wrench"
+    },
+    {
+      "title": "System Installation",
+      "description": "Complete septic system design and installation using top-grade materials. Passes inspection every time.",
+      "icon": "home"
+    },
+    {
+      "title": "Maintenance Services",
+      "description": "Pumping, cleaning, and preventive care to keep your system running smooth for years.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Earthworm Septic Services",
+    "body": "New Haven's septic team that picks up the phone and shows up when promised. Real people, real trucks, real solutions."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What New Haven Says"
+  },
+  "reviews": [
+    {
+      "name": "Jenn K.",
+      "location": "New Haven, CT",
+      "text": "From start to finish, the scheduling and service level was impressive. Dave worked with integrity, providing excellent guidance and connecting us with colleagues who could help.",
+      "rating": 5
+    },
+    {
+      "name": "Jesselyn G.",
+      "location": "New Haven, CT",
+      "text": "Even with a full schedule Dave got out to help me quickly. He was prompt and professional. I felt like I was talking to a friend.",
+      "rating": 5
+    },
+    {
+      "name": "Susan M.",
+      "location": "New Haven, CT",
+      "text": "David picked up on the second ring and came that same day. He immediately put our minds at ease. Professional and extremely knowledgeable.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving New Haven & Beyond",
+    "subheading": "Local septic experts covering the greater New Haven area",
+    "areas": [
+      "New Haven",
+      "West Haven",
+      "East Haven",
+      "Hamden",
+      "North Haven",
+      "Wallingford",
+      "Meriden",
+      "Middletown"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for straight answers about your septic?",
+    "body": "No runaround, no surprises. Just honest inspection and reliable service from New Haven's septic specialists.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (860) 367-4516"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

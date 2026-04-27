@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "LeafFree Gutter Services LLC",
+    "phone": "(571) 491-9535",
+    "email": "info@jkgutters.com",
+    "city": "Fredericksburg",
+    "state": "VA",
+    "industry": "gutter installer",
+    "tagline": "Clear gutters, solid protection",
+    "logo_url": "",
+    "google_rating": "5 stars (6 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=141513993825405976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Clean gutters* that actually stay clean",
+    "subheadline": "Myron shows up on time, cleans thoroughly, and fixes what's broken while he's up there.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "6+ Google Reviews"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every gutter, every detail",
+    "subheading": "From cleaning to repairs — we handle what keeps water flowing away from your home"
+  },
+  "services": [
+    {
+      "title": "Gutter Cleaning",
+      "description": "Complete debris removal with downspout clearing and flow testing.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Gutter Repair",
+      "description": "Seal leaks, secure loose sections, and replace damaged components.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Gutter Installation",
+      "description": "New seamless gutters sized and positioned for your roofline.",
+      "icon": "home"
+    },
+    {
+      "title": "Preventive Maintenance",
+      "description": "Regular inspections and maintenance to prevent costly water damage.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Myron and the LeafFree team",
+    "body": "We're the Fredericksburg gutter crew that shows up when scheduled and fixes what needs fixing. Real people answering the phone — not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Jordan T.",
+      "location": "Fredericksburg, VA",
+      "text": "Myron is great! Gutters are clear, and he sealed and secured everything while he was up there. Highly recommend for any gutter work.",
+      "rating": 5
+    },
+    {
+      "name": "Bill A.",
+      "location": "Fredericksburg, VA",
+      "text": "Myron was on time and professional. Cleaned the gutters, caulked end caps and downspouts, plus took photos throughout. Very impressed.",
+      "rating": 5
+    },
+    {
+      "name": "Clarence J.",
+      "location": "Fredericksburg, VA",
+      "text": "Myron did a great job and his experience really shows through his work.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Fredericksburg and surrounding areas",
+    "subheading": "Local gutter services throughout the Northern Virginia region",
+    "areas": [
+      "Fredericksburg",
+      "Stafford",
+      "Spotsylvania",
+      "King George",
+      "Caroline",
+      "Culpeper",
+      "Orange",
+      "Westmoreland"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for gutters that actually work?",
+    "body": "Free estimate with photos and honest pricing. No surprises, no hidden fees.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (571) 491-9535"
+  },
+  "design": {
+    "primary_color": "#1B4D8C",
+    "accent_color": "#E8A630",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

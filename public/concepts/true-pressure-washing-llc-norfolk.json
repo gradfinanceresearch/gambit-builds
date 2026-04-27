@@ -1,0 +1,126 @@
+{
+  "business": {
+    "name": "True Pressure Washing L.L.C.",
+    "phone": "(757) 354-2792",
+    "email": "info@sureshotpressurewashing.com",
+    "city": "Norfolk",
+    "state": "VA",
+    "industry": "pressure washer",
+    "tagline": "Revealing what's underneath",
+    "logo_url": "",
+    "google_rating": "5 stars (3 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=14372676374745674639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*True* results you can see from the street",
+    "subheadline": "Your driveway has a color — we'll show you what it is.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Norfolk Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE CLEAN",
+    "heading": "Every Surface, Every Stain",
+    "subheading": "High-pressure cleaning that brings back the original"
+  },
+  "services": [
+    {
+      "title": "House Washing",
+      "description": "Siding, brick, and exterior surfaces cleaned without damage. Removes mold, mildew, and years of buildup.",
+      "icon": "home"
+    },
+    {
+      "title": "Driveway Cleaning",
+      "description": "Oil stains, tire marks, and grime blasted away. You'll remember what color your concrete actually is.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Patio & Deck Restoration",
+      "description": "Wood and concrete patios cleaned and restored. Safe for plants and outdoor furniture.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Commercial Cleaning",
+      "description": "Storefronts, parking lots, and building exteriors. Keep your business looking professional.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Built on Results",
+    "body": "We're the Norfolk pressure washing team that shows up with the right equipment and gets the job done right. No shortcuts, no damage to your property."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "Norfolk Neighbors Recommend Us"
+  },
+  "reviews": [
+    {
+      "name": "Brandon J.",
+      "location": "Norfolk, VA",
+      "text": "Completely blown away with the before and after results. The attention to detail and hard work really shows. Very reasonable pricing too.",
+      "rating": 5
+    },
+    {
+      "name": "Ethan S.",
+      "location": "Norfolk, VA",
+      "text": "Did a fantastic job on my house, patio and driveway. Didn't even know the true color of my driveway until he was done. Professional and easy to work with.",
+      "rating": 5
+    },
+    {
+      "name": "Dwight J.",
+      "location": "Norfolk, VA",
+      "text": "Did a great job! Highly recommend.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Hampton Roads",
+    "subheading": "Fast response times across Norfolk and surrounding areas",
+    "areas": [
+      "Norfolk",
+      "Virginia Beach",
+      "Chesapeake",
+      "Portsmouth",
+      "Newport News",
+      "Hampton",
+      "Suffolk"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to See the Difference?",
+    "body": "Free estimates on all pressure washing projects. See what True Pressure Washing can reveal.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Today"
+  },
+  "design": {
+    "primary_color": "#1A5632",
+    "accent_color": "#D4A843",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

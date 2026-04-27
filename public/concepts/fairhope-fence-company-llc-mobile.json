@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Fairhope Fence Company LLC",
+    "phone": "(251) 597-6453",
+    "email": "mobile@toprailfence.com",
+    "city": "Mobile",
+    "state": "AL",
+    "industry": "fence installer",
+    "tagline": "Built to last, priced to sell",
+    "logo_url": "",
+    "google_rating": "5 stars (69 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=7028286552341619251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The fence crew *Mobile trusts*",
+    "subheadline": "Perfect fences from day one — no callbacks, no shortcuts, no excuses.",
+    "cta_primary": "Get Your Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "70+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Mobile Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE BUILD",
+    "heading": "Every fence type, done right",
+    "subheading": "From privacy to picket, we handle the full job"
+  },
+  "services": [
+    {
+      "title": "Privacy Fencing",
+      "description": "Wood and vinyl privacy fences that actually stay private. No gaps, no sagging, no shortcuts.",
+      "icon": "home"
+    },
+    {
+      "title": "Picket Fencing",
+      "description": "Classic picket fences built with quality materials. Posts that won't lean, boards that won't warp.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Gate Installation",
+      "description": "Custom gates that swing smooth and latch tight. Single, double, and specialty configurations.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Fence Repair",
+      "description": "Fix what's broken, replace what's beyond saving. We'll make your old fence work like new.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Mobile's fence specialists",
+    "body": "We're the Mobile fence company that shows up when promised and builds it right the first time. One crew, one standard."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Mobile says about us"
+  },
+  "reviews": [
+    {
+      "name": "Paula S.",
+      "location": "Mobile, AL",
+      "text": "Excellent workmanship rebuilding my fence section at a very fair price. Recommend 100 percent!",
+      "rating": 5
+    },
+    {
+      "name": "Adam M.",
+      "location": "Mobile, AL",
+      "text": "Jack and his crew were outstanding! Great attention to detail and respect for our property. Our fence looks amazing.",
+      "rating": 5
+    },
+    {
+      "name": "leeanne s.",
+      "location": "Mobile, AL",
+      "text": "Completed a 300+ foot privacy fence. Great price, on time, and top quality hardware. Attention to detail is superb.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Mobile & surrounding areas",
+    "subheading": "Professional fence installation across the Gulf Coast",
+    "areas": [
+      "Mobile",
+      "Fairhope",
+      "Daphne",
+      "Spanish Fort",
+      "Bay Minette",
+      "Foley",
+      "Gulf Shores",
+      "Orange Beach"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a fence that lasts?",
+    "body": "Free estimates on all fence projects. We'll walk your property line and give you honest pricing upfront.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (251) 597-6453"
+  },
+  "design": {
+    "primary_color": "#991B1B",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

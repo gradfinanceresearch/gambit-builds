@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "United Roofing Co LLC",
+    "phone": "(334) 402-0643",
+    "email": "info@united-inc.com",
+    "city": "Montgomery",
+    "state": "AL",
+    "industry": "roofer",
+    "tagline": "Straight answers about your roof",
+    "logo_url": "",
+    "google_rating": "5 stars (11 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=7995510602467993106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Storm damage or *just getting old*?",
+    "subheadline": "We'll tell you exactly what's happening up there — no sales pitch, just the truth about your Montgomery roof.",
+    "cta_primary": "Get Free Inspection",
+    "cta_secondary": "Call (334) 402-0643"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Montgomery Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every part of your roof system",
+    "subheading": "From storm damage to worn-out shingles — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Storm Damage Inspection",
+      "description": "Hail, wind, and fallen trees leave marks. We'll document every bit of damage for insurance claims.",
+      "icon": "shield"
+    },
+    {
+      "title": "Roof Replacement",
+      "description": "When repair isn't enough, we tear off the old and install new shingles that'll last decades.",
+      "icon": "home"
+    },
+    {
+      "title": "Leak Repair",
+      "description": "Water stains on your ceiling? We'll track down the source and seal it permanently.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Insurance Claims Help",
+      "description": "We work directly with adjusters and document everything to maximize your coverage.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "The roofing team Montgomery trusts",
+    "body": "We're the Montgomery roofers who show up when we say we will. Honest assessments, quality work, and we'll even help you save money with your insurance company."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Montgomery neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Michael M.",
+      "location": "Wetumpka, AL",
+      "text": "Mike came out and did an excellent roof inspection. Very professional and honest — took time to explain everything he found.",
+      "rating": 5
+    },
+    {
+      "name": "Caleb D.",
+      "location": "Montgomery, AL",
+      "text": "Straightforward and honest. I appreciated how clearly Mike explained everything about my roof.",
+      "rating": 5
+    },
+    {
+      "name": "Christina W.",
+      "location": "Montgomery, AL",
+      "text": "Quality and trustworthy! They even pointed out things insurance might cover to save us money.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Montgomery and surrounding areas",
+    "subheading": "Local roofing expertise throughout River Region",
+    "areas": [
+      "Montgomery",
+      "Wetumpka",
+      "Millbrook",
+      "Prattville",
+      "Pike Road",
+      "Shorter",
+      "Hope Hull",
+      "Mathews"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for straight answers about your roof?",
+    "body": "Free inspection, honest assessment, and a clear plan forward. No pressure — just the facts about what your roof needs.",
+    "cta_primary": "Schedule Inspection",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#9A3412",
+    "accent_color": "#059669",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

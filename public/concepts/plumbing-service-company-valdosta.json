@@ -1,0 +1,126 @@
+{
+  "business": {
+    "name": "Plumbing Service Company",
+    "phone": "(229) 247-1144",
+    "email": "office@pscvaldosta.com",
+    "city": "Valdosta",
+    "state": "GA",
+    "industry": "plumber",
+    "tagline": "Licensed & Insured Plumbing Solutions",
+    "logo_url": "",
+    "google_rating": "3.4 stars (17 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=5526361933278560259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your pipes won't *cooperate*",
+    "subheadline": "Valdosta plumbing team that shows up fast and gets it right",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Valdosta Team"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every pipe, drain, and fixture",
+    "subheading": "Standard plumbing repairs and installations handled right"
+  },
+  "services": [
+    {
+      "title": "Leak Repair",
+      "description": "From dripping faucets to burst pipes. We find the source and fix it properly the first time.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Water Heater Service",
+      "description": "Installation, repair, and replacement of all water heater types. Hot water when you need it.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Drain Cleaning",
+      "description": "Clogged sinks, tubs, and main lines cleared with professional equipment.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Fixture Installation",
+      "description": "New sinks, toilets, garbage disposals, and bathroom fixtures installed correctly.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Real techs, real trucks, real answers",
+    "body": "We're a Valdosta plumbing team that shows up when we say we will. One call, one team, one bill."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What customers say"
+  },
+  "reviews": [
+    {
+      "name": "Gaozhoua P.",
+      "location": "Valdosta, GA",
+      "text": "Very good, efficient and professional. Within the hour the two technicians came out to replace our water heater.",
+      "rating": 5
+    },
+    {
+      "name": "Randall H.",
+      "location": "Valdosta, GA",
+      "text": "Amazed when told they would have a technician at my house in 30 minutes! Very friendly and professional, price was reasonable.",
+      "rating": 5
+    },
+    {
+      "name": "Mary P.",
+      "location": "Valdosta, GA",
+      "text": "Matt and Cole know what they're doing and are quick to make changes if needed. Fair pricing and upfront quotes.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving South Georgia",
+    "subheading": "Fast response across Lowndes County and surrounding areas",
+    "areas": [
+      "Valdosta",
+      "Hahira",
+      "Lake Park",
+      "Remerton",
+      "Dasher",
+      "Naylor",
+      "Moody AFB"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix what's broken?",
+    "body": "Licensed plumbers standing by. Free estimates on all work.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (229) 247-1144"
+  },
+  "design": {
+    "primary_color": "#0F4C75",
+    "accent_color": "#3EDBF0",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

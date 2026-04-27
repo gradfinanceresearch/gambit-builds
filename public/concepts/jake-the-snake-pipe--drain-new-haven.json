@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Jake the Snake Pipe & Drain",
+    "phone": "(203) 467-7877",
+    "email": "jake.pipes@aol.com",
+    "city": "New Haven",
+    "state": "CT",
+    "industry": "septic service",
+    "tagline": "When your pipes are in trouble, call the Snake",
+    "logo_url": "",
+    "google_rating": "4.7 stars (36 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=17182209073965537162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When pipes back up, *the Snake* shows up",
+    "subheadline": "Mainline clogs cleared in 30 minutes or less — that's not a promise, that's our track record.",
+    "cta_primary": "Get Emergency Service",
+    "cta_secondary": "Call (203) 467-7877"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.7★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "35+ Google Reviews"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local New Haven Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE CLEAR",
+    "heading": "Every pipe, every drain, every backup",
+    "subheading": "From kitchen sinks to mainline disasters — we handle what's flowing wrong"
+  },
+  "services": [
+    {
+      "title": "Mainline Sewer Backup",
+      "description": "When the whole house backs up, we bring the heavy-duty equipment. Most clears done in under an hour.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Kitchen & Bathroom Drains",
+      "description": "Sink won't drain? Tub backing up? We clear it fast — usually 5-15 minutes per drain.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Emergency Drain Service",
+      "description": "Flooding basement? We answer the emergency line and get there when you need us most.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Septic System Service",
+      "description": "Full septic maintenance and repairs to keep your system flowing properly year-round.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "New Haven's go-to drain team",
+    "body": "We're the New Haven septic and drain team that shows up ready to work. Real trucks, real equipment, real results."
+  },
+  "reviews_section": {
+    "label": "WORD FROM THE STREET",
+    "heading": "What New Haven neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Inez W.",
+      "location": "New Haven, CT",
+      "text": "Very professional young man who cleared my drain in just 5-15 minutes. Quick and reliable service — would call again.",
+      "rating": 5
+    },
+    {
+      "name": "Marie E.",
+      "location": "New Haven, CT",
+      "text": "Daryl is a life saver! Had pipes clogged for 3 days. Another company ripped me off and didn't fix it. A friend recommended Jake the Snake and they actually solved the problem.",
+      "rating": 5
+    },
+    {
+      "name": "Rosalyn M.",
+      "location": "New Haven, CT",
+      "text": "Mainline was backed up completely. Two gentlemen arrived and in less than 30 minutes I was doing laundry again! Professional work.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving New Haven County",
+    "subheading": "Emergency service throughout the greater New Haven area",
+    "areas": [
+      "New Haven",
+      "West Haven",
+      "East Haven",
+      "Hamden",
+      "Branford",
+      "North Haven",
+      "Wallingford",
+      "Milford",
+      "Orange",
+      "Woodbridge"
+    ]
+  },
+  "cta": {
+    "heading": "Pipes backing up? Call the Snake now",
+    "body": "Don't wait for the flood — we answer the emergency line and show up with the right equipment to clear your drains fast.",
+    "cta_primary": "Get Emergency Help",
+    "cta_secondary": "Call (203) 467-7877"
+  },
+  "design": {
+    "primary_color": "#0F4C75",
+    "accent_color": "#3EDBF0",
+    "bg_color": "#FAFAFA",
+    "text_color": "#1A1A2E",
+    "font_heading": "Bebas Neue",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

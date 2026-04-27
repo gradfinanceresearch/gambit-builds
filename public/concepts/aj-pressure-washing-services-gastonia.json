@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "A&J Pressure Washing Services",
+    "phone": "(704) 123-4567",
+    "email": "andres@ajpws.com",
+    "city": "Gastonia",
+    "state": "NC",
+    "industry": "pressure washer",
+    "tagline": "Making Gastonia shine, one surface at a time",
+    "logo_url": "",
+    "google_rating": "4.9 stars (92 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=5907793043817929199&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your House Will Look *Brand New*",
+    "subheadline": "Real pros who show up on time and clean up after ourselves. That's the difference.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "90+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Gastonia Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE CLEAN",
+    "heading": "Every Surface Gets Attention",
+    "subheading": "From your front porch to the back patio — we handle what makes your home shine"
+  },
+  "services": [
+    {
+      "title": "House Washing",
+      "description": "Gentle soft wash removes years of dirt, mildew, and grime. Your siding comes back to life.",
+      "icon": "home"
+    },
+    {
+      "title": "Driveway Cleaning",
+      "description": "Hot water and the right pressure bring concrete and pavers back to their original color.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Roof Cleaning",
+      "description": "Safe, low-pressure method removes algae and stains without damaging shingles.",
+      "icon": "shield"
+    },
+    {
+      "title": "Gutter Cleaning",
+      "description": "Clear out debris and flush your gutters so water flows where it should.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "The A&J Way",
+    "body": "We're the Gastonia pressure washing team that shows up when promised and cleans up before leaving. Andres runs every job personally."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Gastonia Is Saying"
+  },
+  "reviews": [
+    {
+      "name": "Christina A.",
+      "location": "Gastonia, NC",
+      "text": "Cannot say enough good things about A&J. Andres was quick to respond and answered all my questions. From inquiry to completion took less than a week. Still in shock by the amazing job.",
+      "rating": 5
+    },
+    {
+      "name": "Lisa M.",
+      "location": "Gastonia, NC",
+      "text": "Outstanding service from start to finish! Andres came out personally for the quote, communicated clearly, and showed up right on time. He took his time and made sure the work was perfect.",
+      "rating": 5
+    },
+    {
+      "name": "Heather L.",
+      "location": "Gastonia, NC",
+      "text": "Had my house washed, driveway power washed, and gutters cleaned. My house looks amazing! My driveway has never looked so good. Very polite and professional.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Gastonia & Beyond",
+    "subheading": "Fast response times across Gaston County",
+    "areas": [
+      "Gastonia",
+      "Charlotte",
+      "Belmont",
+      "Mount Holly",
+      "Cramerton",
+      "Lowell",
+      "Dallas",
+      "Bessemer City"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for That Brand New Look?",
+    "body": "Free quotes, honest pricing, and work that speaks for itself. See why 90+ Gastonia neighbors trust A&J.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Andres"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

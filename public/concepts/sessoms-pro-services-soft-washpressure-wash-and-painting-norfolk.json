@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Sessoms Pro Services Soft Wash/Pressure Wash and Painting",
+    "phone": "(757) 675-2384",
+    "email": "info@softwashprosva.com",
+    "city": "Norfolk",
+    "state": "VA",
+    "industry": "pressure washer",
+    "tagline": "Soft Wash/Pressure Wash and Painting",
+    "logo_url": "",
+    "google_rating": "4.6 stars (11 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=15213462374808118125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Clean like it matters* — because it does",
+    "subheadline": "No hidden fees, fair pricing, and work that stands up to Norfolk weather.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (757) 675-2384"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.6★ on Google"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Norfolk Team"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every surface gets the right treatment",
+    "subheading": "From gentle soft washing to concrete power cleaning"
+  },
+  "services": [
+    {
+      "title": "Soft Wash House Cleaning",
+      "description": "Low-pressure cleaning that removes mildew and algae without damaging siding or paint.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Gutter Cleaning & Repair",
+      "description": "Complete gutter cleaning with minor repairs when needed. No surprise charges.",
+      "icon": "home"
+    },
+    {
+      "title": "Driveway & Concrete Washing",
+      "description": "High-pressure cleaning that removes oil stains, dirt, and buildup from concrete surfaces.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Exterior Painting Services",
+      "description": "Professional painting for decks, fences, and exterior surfaces after pressure washing prep.",
+      "icon": "paintbrush"
+    }
+  ],
+  "about": {
+    "heading": "Built on repeat customers",
+    "body": "We're a Norfolk pressure washing team that shows up when we say we will. One call, fair pricing, no hidden fees."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Norfolk homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Glenn B.",
+      "location": "Norfolk, VA",
+      "text": "Ernest responded quickly with an upfront quote from photos. No hidden fees, fair price, and thorough work on my gutters.",
+      "rating": 5
+    },
+    {
+      "name": "Pam W.",
+      "location": "Norfolk, VA",
+      "text": "Very professional and delivers the quality we expect. We'll continue calling him for any home projects.",
+      "rating": 5
+    },
+    {
+      "name": "rhonda r.",
+      "location": "Norfolk, VA",
+      "text": "Had our home soft washed and driveway cleaned. Mr Sessoms takes pride in his work! Reasonable prices too.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Norfolk and surrounding areas",
+    "subheading": "Professional washing services throughout Hampton Roads",
+    "areas": [
+      "Norfolk",
+      "Virginia Beach",
+      "Chesapeake",
+      "Portsmouth",
+      "Hampton",
+      "Newport News",
+      "Suffolk",
+      "Williamsburg"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for that first call?",
+    "body": "Get your free quote today. Fair pricing, no surprises, work that lasts.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

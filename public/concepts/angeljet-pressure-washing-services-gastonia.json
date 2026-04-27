@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Angel-Jet Pressure Washing services",
+    "phone": "(704) 966-9192",
+    "email": "7043139500acpw@gmail.com",
+    "city": "Gastonia",
+    "state": "NC",
+    "industry": "pressure washer",
+    "tagline": "Making Houses Glow in Gastonia",
+    "logo_url": "",
+    "google_rating": "5 stars (14 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=12404601744857344138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your HOA Will *Thank* You",
+    "subheadline": "We make concrete so bright it glows in the dark — seriously, check our reviews.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "10+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Gastonia Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WASH",
+    "heading": "Every Surface Gets The Angel Treatment",
+    "subheading": "From green-stained siding to black driveways, we bring it all back to life"
+  },
+  "services": [
+    {
+      "title": "House Washing",
+      "description": "Remove years of grime, mold, and weather stains from your siding. Your house will look brand new again.",
+      "icon": "home"
+    },
+    {
+      "title": "Driveway Cleaning",
+      "description": "Concrete and asphalt restoration that makes your driveway the brightest on the block.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Patio & Walkway Revival",
+      "description": "Front and back patios, stairs, and walkways cleaned to original condition.",
+      "icon": "brick"
+    },
+    {
+      "title": "Full Property Service",
+      "description": "Complete exterior cleaning packages for two-story homes and all outdoor surfaces.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "The Gastonia Team That Shows Up Tomorrow",
+    "body": "When you call Angel-Jet, you get Angel. Real person answering the phone, next-day service, and prices that make sense."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Gastonia Says About Our Work"
+  },
+  "reviews": [
+    {
+      "name": "Tamekia T.",
+      "location": "Gastonia, NC",
+      "text": "Angel-Jet did an excellent job on my house. Should be a while before HOA tries to hit me up again.",
+      "rating": 5
+    },
+    {
+      "name": "Oscar H.",
+      "location": "Gastonia, NC",
+      "text": "Very impressed with the job they did. Our concrete is so bright it glows in the dark! House is incredibly clean.",
+      "rating": 5
+    },
+    {
+      "name": "Shevonn H.",
+      "location": "Gastonia, NC",
+      "text": "Called and Angel accommodated pressure washing my house the very next day. Very satisfied with price and service.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Gastonia & Surrounding Areas",
+    "subheading": "Fast response times throughout the greater Charlotte region",
+    "areas": [
+      "Gastonia",
+      "Charlotte",
+      "Belmont",
+      "Mount Holly",
+      "Kings Mountain",
+      "Cramerton",
+      "Bessemer City",
+      "Dallas"
+    ]
+  },
+  "cta": {
+    "heading": "Ready For That Brand New House Look?",
+    "body": "Call Angel-Jet and see why we're the pressure washing team Gastonia keeps calling back.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (704) 966-9192"
+  },
+  "design": {
+    "primary_color": "#991B1B",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bebas Neue",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

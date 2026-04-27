@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "Shoreline Fence",
+    "phone": "",
+    "email": "paul@shorelinefence.com",
+    "city": "Mobile",
+    "state": "AL",
+    "industry": "fence installer",
+    "tagline": "Built straight, built right",
+    "logo_url": "",
+    "google_rating": "5 stars (10 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=14511490637999270612&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Every fence *perfectly straight* — guaranteed",
+    "subheadline": "Chain link, wood, vinyl, repairs — Mobile's fence crew that measures twice, builds once.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "10+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE BUILD",
+    "heading": "Every fence, every repair, every detail",
+    "subheading": "From new installs to storm damage fixes"
+  },
+  "services": [
+    {
+      "title": "Chain Link Fencing",
+      "description": "Residential and commercial chain link installation. We mix concrete before setting every post for maximum stability.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Wood & Vinyl Fencing",
+      "description": "Privacy fencing, picket fences, and custom designs. Quality materials, precise installation.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Fence Repairs",
+      "description": "Storm damage, gate adjustments, post replacement. We fix what others got wrong.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Staining & Sealing",
+      "description": "Protect your investment with professional wood fence staining and weatherproofing.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Gate Installation",
+      "description": "Custom gates hung right the first time. Proper alignment and smooth operation guaranteed.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Mobile fence specialists",
+    "body": "We're a Mobile fence team that shows up when we say we will. Every post gets concrete mixed on-site, every measurement gets checked twice."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Mobile homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Melanie",
+      "location": "Mobile, AL",
+      "text": "Excellent work! Chain link fence came out perfectly straight. They mixed concrete before setting the poles. Awesome quality and people!",
+      "rating": 5
+    },
+    {
+      "name": "Josh O.",
+      "location": "Mobile, AL",
+      "text": "Great build time, quality work, reasonable pricing. Does great custom work — whatever your needs are, they make it possible.",
+      "rating": 5
+    },
+    {
+      "name": "Becky H.",
+      "location": "Mobile, AL",
+      "text": "Hired them for repairs after Hurricane Sally. Fixed gates that were hung wrong originally, then stained and sealed the fence. Beautiful results.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Mobile and surrounding areas",
+    "subheading": "Quality fence installation throughout the Gulf Coast",
+    "areas": [
+      "Mobile",
+      "Prichard",
+      "Saraland",
+      "Chickasaw",
+      "Satsuma",
+      "Creola",
+      "Bay Minette",
+      "Spanish Fort"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a fence that's built right?",
+    "body": "Free estimates on all fence projects. We'll measure, quote, and deliver quality work on time.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Today"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

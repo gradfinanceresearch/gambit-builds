@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "Apex Refrigerator Repair LLC",
+    "phone": "(859) 414-6485",
+    "email": "apexappliancebusiness@gmail.com",
+    "city": "Cincinnati",
+    "state": "OH",
+    "industry": "appliance repair",
+    "tagline": "When your fridge quits, we show up",
+    "logo_url": "",
+    "google_rating": "5 stars (106 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=2527358854934522881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Nate* answers the phone — not a call center",
+    "subheadline": "Your KitchenAid's making weird noises? We'll have the part and the fix in 4 days max.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "100+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Cincinnati Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIX",
+    "heading": "Every brand, every problem",
+    "subheading": "From ice makers to compressors — we stock the parts that matter"
+  },
+  "services": [
+    {
+      "title": "Ice Maker Repair",
+      "description": "Motor replacements, water line fixes, and getting those cubes flowing again.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Compressor Service",
+      "description": "When it's not cooling right, we diagnose the real problem — not just guess.",
+      "icon": "fan"
+    },
+    {
+      "title": "Door Seal Replacement",
+      "description": "Stop the cold air leaks and cut your electric bill.",
+      "icon": "shield"
+    },
+    {
+      "title": "Temperature Control Issues",
+      "description": "Freezer too cold, fridge too warm? We'll balance it out.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Water Dispenser Repair",
+      "description": "Get that filtered water flowing without the drips and leaks.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "One guy, one truck, real answers",
+    "body": "We're the Cincinnati appliance team that shows up when we say we will. No call centers, no runaround — just Nate and the right parts to get your fridge working."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Cincinnati says"
+  },
+  "reviews": [
+    {
+      "name": "Benjamin B.",
+      "location": "Cincinnati, OH",
+      "text": "Nate was awesome — super easy to talk to and made everything painless. Will definitely call him back and always recommend. 10/10.",
+      "rating": 5
+    },
+    {
+      "name": "Lisa L.",
+      "location": "Cincinnati, OH",
+      "text": "Super quick to respond, came out the next day to diagnose, and had the repair done in less than 4 days. Extremely reasonable pricing and great communication.",
+      "rating": 5
+    },
+    {
+      "name": "Kathy C.",
+      "location": "Cincinnati, OH",
+      "text": "Very professional and knowledgeable about KitchenAid refrigerators. Fixed my ice maker motor and rail glides completely. Would definitely recommend.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Greater Cincinnati",
+    "subheading": "Same-day diagnosis across the metro area",
+    "areas": [
+      "Cincinnati",
+      "Covington",
+      "Newport",
+      "Florence",
+      "Erlanger",
+      "Fort Thomas",
+      "Bellevue",
+      "Dayton",
+      "Mason",
+      "West Chester"
+    ]
+  },
+  "cta": {
+    "heading": "Fridge acting up? We've got the part",
+    "body": "Call now for same-day diagnosis. Most repairs completed within the week with upfront pricing.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (859) 414-6485"
+  },
+  "design": {
+    "primary_color": "#5B21B6",
+    "accent_color": "#10B981",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

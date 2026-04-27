@@ -4,10 +4,10 @@
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>Red Bank Auto Electric Inc — electrician in Chattanooga, TN</title>
-<meta name="description" content="4.6 stars from 59 customers who know the difference between guessing and knowing"/>
+<meta name="description" content="One honest mechanic. One shop. Problems actually solved."/>
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue:wght@400;500;600;700;800&family=Work+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Bitter:wght@400;500;600;700;800&family=Source+Sans+3:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>
 <style>
 :root {
   --primary: #1A5632;
@@ -29,8 +29,8 @@
   --card-bg: #F0F5F1;
   --card-shadow: 0 1px 3px rgba(0,0,0,0.04), 0 4px 12px rgba(0,0,0,0.03);
   --card-shadow-hover: 0 4px 16px rgba(0,0,0,0.08), 0 8px 32px rgba(0,0,0,0.04);
-  --font-heading: 'Bebas Neue', sans-serif;
-  --font-body: 'Work Sans', sans-serif;
+  --font-heading: 'Bitter', sans-serif;
+  --font-body: 'Source Sans 3', sans-serif;
   --radius: 12px;
   --radius-lg: 20px;
   --max-w: 1120px;
@@ -274,83 +274,95 @@ h1 em, h2 em { font-style: italic; color: var(--primary); }
 </nav>
 
 <style>
-.split-hero {
-  display: flex;
-  min-height: calc(100vh - 72px);
-  max-height: 800px;
-}
-.split-hero-content {
-  flex: 1;
-  padding: clamp(48px, 6vw, 80px) clamp(24px, 5vw, 64px);
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  max-width: 900px;
+.hero-editorial {
+  padding: clamp(60px, 10vw, 120px) clamp(20px, 5vw, 48px) 0;
+  max-width: var(--max-w);
   margin: 0 auto;
-  width: 100%;
 }
-.split-hero-visual {
-  display: none;
-}
-.split-hero-content .hero-eyebrow {
-  font-size: 0.8rem;
+.hero-editorial .hero-eyebrow {
+  font-size: 0.78rem;
   font-weight: 600;
   color: var(--primary);
-  margin-bottom: 20px;
-  letter-spacing: 0.08em;
+  margin-bottom: 24px;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
-}
-.split-hero-content h1 {
-  font-size: clamp(2.2rem, 4.5vw, 3.2rem);
-  font-weight: 800;
-  line-height: 1.1;
-  margin-bottom: 20px;
-  letter-spacing: -0.02em;
-}
-.split-hero-content .hero-sub {
-  font-size: 1.05rem;
-  color: var(--text-muted);
-  margin-bottom: 36px;
-  max-width: 480px;
-  line-height: 1.7;
-}
-.split-hero-content .hero-ctas { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 40px; }
-.split-hero-content .trust-badges {
-  display: flex;
-  gap: 20px;
-  flex-wrap: wrap;
-}
-.split-hero-content .trust-badge {
   display: flex;
   align-items: center;
-  gap: 6px;
+  gap: 10px;
+}
+.hero-editorial .hero-eyebrow::before {
+  content: '';
+  width: 40px;
+  height: 2px;
+  background: var(--primary);
+}
+.hero-editorial h1 {
+  font-size: clamp(2.8rem, 7vw, 4.5rem);
+  font-weight: 800;
+  line-height: 1.05;
+  margin-bottom: 32px;
+  letter-spacing: -0.03em;
+  max-width: 900px;
+}
+.hero-editorial .hero-bottom {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 40px;
+  flex-wrap: wrap;
+  padding-bottom: clamp(40px, 6vw, 72px);
+  border-bottom: 1px solid var(--border);
+}
+.hero-editorial .hero-sub {
+  font-size: 1.1rem;
+  color: var(--text-muted);
+  max-width: 400px;
+  line-height: 1.7;
+  margin-bottom: 28px;
+}
+.hero-editorial .hero-ctas { display: flex; gap: 12px; flex-wrap: wrap; }
+.hero-editorial .trust-badges-editorial {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px 24px;
+}
+.hero-editorial .trust-badge {
+  display: flex;
+  align-items: center;
+  gap: 8px;
   font-size: 0.82rem;
   font-weight: 500;
   color: var(--text-muted);
+  white-space: nowrap;
 }
-.split-hero-content .trust-badge .icon { color: var(--primary); font-size: 1rem; }
-.split-hero-content .trust-badge .icon svg { width: 16px; height: 16px; }
+.hero-editorial .trust-badge .icon { color: var(--primary); font-size: 1rem; }
+.hero-editorial .trust-badge .icon svg { width: 16px; height: 16px; }
+@media (max-width: 768px) {
+  .hero-editorial .hero-bottom { flex-direction: column; align-items: flex-start; }
+  .hero-editorial .trust-badges-editorial { grid-template-columns: 1fr; }
+}
 </style>
-<section class="split-hero">
-  <div class="split-hero-content">
-    <div class="hero-eyebrow reveal">Serving Chattanooga, TN</div>
-    <h1 class="reveal reveal-delay-1">When three shops can't fix it, <em>Jason can</em></h1>
-    <p class="hero-sub reveal reveal-delay-2">4.6 stars from 59 customers who know the difference between guessing and knowing</p>
-    <div class="hero-ctas reveal reveal-delay-3">
-      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaleb%40gambitbuilds.com&su=Concept+mockup+for+Red+Bank+Auto+Electric+Inc" target="_blank" class="btn btn-primary">Get Diagnosis</a>
-      <a href="tel:4238775215" class="btn btn-secondary">Call Jason</a>
+<section class="hero-editorial">
+  <div class="hero-eyebrow reveal">Chattanooga, TN</div>
+  <h1 class="reveal reveal-delay-1">The Cherokee that <em>three shops</em> couldn't fix? We fixed it.</h1>
+  <div class="hero-bottom">
+    <div class="reveal reveal-delay-2">
+      <p class="hero-sub">One honest mechanic. One shop. Problems actually solved.</p>
+      <div class="hero-ctas">
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaleb%40gambitbuilds.com&su=Concept+mockup+for+Red+Bank+Auto+Electric+Inc" target="_blank" class="btn btn-primary">Get Free Estimate</a>
+        <a href="tel:4238775215" class="btn btn-secondary">Call Now</a>
+      </div>
     </div>
-    <div class="trust-badges reveal reveal-delay-4">
-      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span> <span>Won't give up on your problem</span></div>
-      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"/></svg></span> <span>4.6 stars, 59 reviews</span></div>
-      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></span> <span>Honest about what you need</span></div>
-      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg></span> <span>Auto electrical specialist</span></div>
+    <div class="trust-badges-editorial reveal reveal-delay-3">
+      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span> <span>4.6★ on Google</span></div>
+      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></span> <span>60+ Google Reviews</span></div>
+      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></span> <span>Licensed &amp; Insured</span></div>
+      <div class="trust-badge"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> <span>Local Chattanooga Team</span></div>
     </div>
-  </div>
-  <div class="split-hero-visual">
-    <div class="hero-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg></div>
   </div>
 </section>
+
+
 
 <style>
 .services-wrap {
@@ -409,35 +421,36 @@ h1 em, h2 em { font-style: italic; color: var(--primary); }
 <div class="services-wrap">
 <section class="services-section">
   <div class="services-header">
-    <div class="section-label reveal">WHAT WE FIX</div>
-    <h2 class="section-heading reveal reveal-delay-1">Every wire, fuse, and connection</h2>
-    <p class="section-sub reveal reveal-delay-2">When other shops throw in the towel, we're just getting started</p>
+    <div class="section-label reveal">THE WORK</div>
+    <h2 class="section-heading reveal reveal-delay-1">Auto Electrical Problems Solved</h2>
+    <p class="section-sub reveal reveal-delay-2">When other shops give up, we keep going</p>
   </div>
   <div class="services-grid">
     
     <div class="service-card reveal reveal-delay-1">
       <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg></div>
-      <h3>Electrical System Diagnosis</h3>
-      <p>We find the real problem, not just swap parts hoping something works. Complete system testing with professional equipment.</p>
+      <h3>Electrical Diagnosis</h3>
+      <p>Find the real problem behind mysterious electrical issues. No guessing, no throwing parts at it.</p>
     </div>
     <div class="service-card reveal reveal-delay-2">
       <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22v-5"/><path d="M9 8V2"/><path d="M15 8V2"/><path d="M18 8v5a6 6 0 0 1-12 0V8z"/></svg></div>
-      <h3>Starter &amp; Alternator Repair</h3>
-      <p>Dead battery? Won't crank? We test, rebuild, or replace starters and alternators to get you back on the road.</p>
+      <h3>Alternator &amp; Starter Service</h3>
+      <p>Complete alternator and starter repair and replacement. Get your car starting and charging properly.</p>
     </div>
     <div class="service-card reveal reveal-delay-3">
       <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6"/><path d="M10 22h4"/><path d="M15.09 14c.18-.98.65-1.74 1.41-2.5A4.65 4.65 0 0 0 18 8 6 6 0 0 0 6 8c0 1 .23 2.23 1.5 3.5A4.61 4.61 0 0 1 8.91 14"/></svg></div>
-      <h3>Wiring Harness Issues</h3>
-      <p>Shorts, grounds, and mystery electrical gremlins. We trace every wire until we find what's causing your headaches.</p>
+      <h3>Battery Testing &amp; Service</h3>
+      <p>Professional battery testing and replacement. Know before you're stranded.</p>
     </div>
     <div class="service-card reveal reveal-delay-4">
-      <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
-      <h3>Fuse &amp; Relay Problems</h3>
-      <p>Something keeps blowing fuses? We'll find why instead of just replacing them over and over.</p>
+      <div class="service-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg></div>
+      <h3>Wiring Repair</h3>
+      <p>Fix damaged wiring, shorts, and connection problems that keep coming back.</p>
     </div>
   </div>
 </section>
 </div>
+
 
 <style>
 .about-section {
@@ -582,33 +595,23 @@ h1 em, h2 em { font-style: italic; color: var(--primary); }
 <section class="about-section">
   <div class="about-inner">
     
-    <div class="about-stats reveal">
+    <div class="about-stats reveal" style="grid-template-columns: 1fr;">
       
       <div class="about-stat reveal-delay-1">
         <div class="about-stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-        <div class="about-stat-value">4.6</div>
+        <div class="about-stat-value">4.6★</div>
         <div class="about-stat-label">Google Rating</div>
       </div>
       <div class="about-stat reveal-delay-2">
         <div class="about-stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></div>
-        <div class="about-stat-value">4</div>
-        <div class="about-stat-label">Reviews</div>
-      </div>
-      <div class="about-stat reveal-delay-3">
-        <div class="about-stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg></div>
-        <div class="about-stat-value">4</div>
-        <div class="about-stat-label">Services Offered</div>
-      </div>
-      <div class="about-stat reveal-delay-4">
-        <div class="about-stat-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></div>
-        <div class="about-stat-value">8</div>
-        <div class="about-stat-label">Cities Served</div>
+        <div class="about-stat-value">59+</div>
+        <div class="about-stat-label">Google Reviews</div>
       </div>
     </div>
     <div class="about-text">
       <div class="section-label reveal">About</div>
-      <h2 class="reveal reveal-delay-1">Jason doesn't quit on tough problems</h2>
-      <p class="reveal reveal-delay-2">Red Bank Auto Electric has built a reputation in Chattanooga for solving the electrical problems other shops can't figure out. We're the place mechanics send their own families when they're stumped. Jason takes on the basket cases, the mystery issues, and the problems that have been to three other shops. If it's got wires, we can fix it.</p>
+      <h2 class="reveal reveal-delay-1">One Shop, Real Solutions</h2>
+      <p class="reveal reveal-delay-2">We're the Chattanooga auto electrical team that refuses to give up on your car. When three other shops can't fix it, we can.</p>
     </div>
   </div>
 </section>
@@ -669,51 +672,40 @@ h1 em, h2 em { font-style: italic; color: var(--primary); }
 <section class="reviews-section">
   <div class="reviews-header">
     <div class="section-label reveal">WORD OF MOUTH</div>
-    <h2 class="section-heading reveal reveal-delay-1">What customers say about Jason's work</h2>
+    <h2 class="section-heading reveal reveal-delay-1">What Chattanooga Drivers Say</h2>
   </div>
   <div class="reviews-grid">
     
     <div class="review-card reveal reveal-delay-1">
       <div class="review-stars"><span class="stars-full">★★★★★</span><span class="stars-empty"></span></div>
-      <div class="review-text">Jason is an excellent mechanic. He fixed my basket case Cherokee when nobody else could get it running right.</div>
+      <div class="review-text">Jason is an excellent mechanic. Fixed my basket case Cherokee when nobody else could.</div>
       <div class="review-author">
         <div class="review-avatar">G</div>
         <div>
           <div class="review-name">George B.</div>
-          <div class="review-location">Chattanooga</div>
+          <div class="review-location">Chattanooga, TN</div>
         </div>
       </div>
     </div>
     <div class="review-card reveal reveal-delay-2">
       <div class="review-stars"><span class="stars-full">★★★★★</span><span class="stars-empty"></span></div>
-      <div class="review-text">Visiting from Chicago with electrical issues. They checked everything thoroughly, replaced a fuse, and gave honest advice about our battery.</div>
+      <div class="review-text">Excellent people, highly recommended! Visiting from Chicago with electrical issues - they checked everything thoroughly and got us sorted out.</div>
       <div class="review-author">
         <div class="review-avatar">H</div>
         <div>
           <div class="review-name">Heather G.</div>
-          <div class="review-location">Chicago</div>
+          <div class="review-location">Chattanooga, TN</div>
         </div>
       </div>
     </div>
     <div class="review-card reveal reveal-delay-3">
       <div class="review-stars"><span class="stars-full">★★★★★</span><span class="stars-empty"></span></div>
-      <div class="review-text">Three other shops couldn't fix my van. Jason refused to give up and proved to be both honest and capable. Jump on it if you can get him.</div>
+      <div class="review-text">Took my van to three other shops - nobody could fix it. He refused to give up. Honest and capable - if you're lucky enough to get him, jump on it.</div>
       <div class="review-author">
         <div class="review-avatar">R</div>
         <div>
           <div class="review-name">Ruth K.</div>
-          <div class="review-location">Chattanooga</div>
-        </div>
-      </div>
-    </div>
-    <div class="review-card reveal reveal-delay-4">
-      <div class="review-stars"><span class="stars-full">★★★★★</span><span class="stars-empty"></span></div>
-      <div class="review-text">Customer service was above and beyond. Even though my problem couldn't be fixed immediately, Jason educated me and I left with confidence.</div>
-      <div class="review-author">
-        <div class="review-avatar">J</div>
-        <div>
-          <div class="review-name">JaNiya C.</div>
-          <div class="review-location">Chattanooga</div>
+          <div class="review-location">Chattanooga, TN</div>
         </div>
       </div>
     </div>
@@ -758,9 +750,9 @@ h1 em, h2 em { font-style: italic; color: var(--primary); }
 <div class="areas-wrap">
 <section class="areas-section">
   <div class="areas-header">
-    <div class="section-label reveal">WHERE WE WORK</div>
-    <h2 class="section-heading reveal reveal-delay-1">Serving Chattanooga and surrounding areas</h2>
-    <p class="section-sub reveal reveal-delay-2">Auto electrical repair throughout the Tennessee Valley</p>
+    <div class="section-label reveal">COVERAGE AREA</div>
+    <h2 class="section-heading reveal reveal-delay-1">Serving Chattanooga &amp; Surrounding Areas</h2>
+    <p class="section-sub reveal reveal-delay-2">Auto electrical service throughout the greater Chattanooga region</p>
   </div>
   <div class="areas-grid reveal reveal-delay-3">
     <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Chattanooga</span>
@@ -768,9 +760,9 @@ h1 em, h2 em { font-style: italic; color: var(--primary); }
     <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Hixson</span>
     <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> East Ridge</span>
     <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Soddy-Daisy</span>
+    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Harrison</span>
     <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Signal Mountain</span>
     <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Lookout Mountain</span>
-    <span class="area-pill"><span class="icon "><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span> Harrison</span>
   </div>
 </section>
 </div>
@@ -821,11 +813,11 @@ h1 em, h2 em { font-style: italic; color: var(--primary); }
 </style>
 <section class="cta-section">
   <div class="cta-banner reveal">
-    <h2>Ready to solve your electrical problem?</h2>
-    <p>Stop guessing and get a real diagnosis from someone who won't quit until it's fixed right.</p>
+    <h2>Ready to Actually Fix Your Car?</h2>
+    <p>Stop throwing money at shops that can't solve the problem. Get it diagnosed right the first time.</p>
     <div class="cta-buttons">
-      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaleb%40gambitbuilds.com&su=Concept+mockup+for+Red+Bank+Auto+Electric+Inc" target="_blank" class="btn btn-on-primary">Call for Diagnosis</a>
-      <a href="tel:4238775215" class="btn btn-outline-primary">Get Directions</a>
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaleb%40gambitbuilds.com&su=Concept+mockup+for+Red+Bank+Auto+Electric+Inc" target="_blank" class="btn btn-on-primary">Get Free Quote</a>
+      <a href="tel:4238775215" class="btn btn-outline-primary">Call (423) 877-5215</a>
     </div>
   </div>
 </section>
@@ -888,7 +880,7 @@ h1 em, h2 em { font-style: italic; color: var(--primary); }
   <div class="footer-inner">
     <div class="footer-brand">
       <div class="footer-brand-name">Red Bank Auto Electric Inc</div>
-      <div class="footer-tagline">Auto electrical problems solved right the first time</div>
+      <div class="footer-tagline">Chattanooga's trusted auto electrical specialists</div>
     </div>
     <div class="footer-links">
       <a href="#">Home</a>

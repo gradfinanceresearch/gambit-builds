@@ -6,112 +6,116 @@
     "city": "Chattanooga",
     "state": "TN",
     "industry": "electrician",
-    "tagline": "Powering Chattanooga homes right",
+    "tagline": "Power problems solved right",
     "logo_url": "",
     "google_rating": "5 stars (4 reviews)",
-    "years_in_business": ""
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=16966783220731863482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
   },
   "hero": {
-    "headline": "When the lights go out, we show up *same day*",
-    "subheadline": "Licensed electricians who answer the phone and fix it right the first time — that's the Triple E difference",
-    "cta_primary": "Get Free Estimate",
+    "headline": "When your power's out, we're *already on the way*",
+    "subheadline": "Same-day service, honest pricing, and electrical work that passes inspection the first time.",
+    "cta_primary": "Get Free Quote",
     "cta_secondary": "Call Now"
   },
   "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "4+ Google Reviews"
+    },
     {
       "icon": "shield",
       "text": "Licensed & Insured"
     },
     {
-      "icon": "clock",
-      "text": "Same Day Service"
-    },
-    {
-      "icon": "star",
-      "text": "5-Star Google Rating"
-    },
-    {
-      "icon": "phone",
-      "text": "We Answer Our Phone"
+      "icon": "mappin",
+      "text": "Local Chattanooga Team"
     }
   ],
   "services_section": {
     "label": "THE WORK",
-    "heading": "Every outlet, panel, and wire — handled",
-    "subheading": "From kitchen remodels to emergency repairs, we wire Chattanooga homes to code"
+    "heading": "Every Wire, Panel, and Outlet",
+    "subheading": "From blown breakers to full kitchen rewires"
   },
   "services": [
     {
-      "title": "Panel & Breaker Service",
-      "description": "Fixing tripped breakers and upgrading electrical panels. Same day response when your power's acting up.",
+      "title": "Panel Upgrades & Repairs",
+      "description": "Breakers tripping? Panel buzzing? We diagnose fast and fix it right.",
       "icon": "zap"
     },
     {
-      "title": "Kitchen & Dining Renovations",
-      "description": "Moving outlets, installing new lighting, and rewiring for modern kitchens. We handle the big jobs.",
+      "title": "Kitchen & Lighting Install",
+      "description": "New construction or remodel lighting. Recessed, pendant, under-cabinet — all of it.",
       "icon": "lightbulb"
     },
     {
-      "title": "New Light Installation",
-      "description": "From single fixtures to fifty new lights — we plan, wire, and install every connection properly.",
+      "title": "Outlet & Switch Work",
+      "description": "Add outlets where you need them. Move switches that make no sense.",
       "icon": "plug"
     },
     {
-      "title": "Outlet Installation & Moving",
-      "description": "Adding outlets where you need them and relocating existing ones for your home updates.",
-      "icon": "wrench"
+      "title": "Emergency Electrical",
+      "description": "Power outages, sparking outlets, burning smells — we handle the urgent stuff.",
+      "icon": "flame"
     }
   ],
   "about": {
-    "heading": "Chattanooga electricians who show up when we say we will",
-    "body": "Triple E Electric serves Chattanooga homeowners with honest electrical work and same-day service. Whether it's a kitchen renovation with fifty new lights or emergency panel repairs, we handle every job with the same attention to detail. Licensed, insured, and ready to wire your home right."
+    "heading": "Chattanooga Electric Work Done Right",
+    "body": "We're the local crew that shows up when we say we will. Real electricians, real trucks, real solutions."
   },
   "reviews_section": {
     "label": "WORD OF MOUTH",
-    "heading": "What Chattanooga homeowners say"
+    "heading": "What Chattanooga Says"
   },
   "reviews": [
     {
       "name": "Billy H.",
       "location": "Chattanooga",
-      "text": "Kitchen and dining room renovation with wall demo, fifty new lights, and outlet moves. Big job but they knocked it out of the park and communicated every step.",
+      "text": "Big kitchen remodel job — walls demolished, fifty new lights installed, receptacles moved. 3E knocked it out of the park and stayed communicative throughout.",
       "rating": 5
     },
     {
       "name": "Sean R.",
       "location": "Chattanooga",
-      "text": "Breaker panel repair same day I called. Quick fix, professional crew, and the boss trusted me to pay later. Outstanding service.",
+      "text": "Breaker panel issues fixed same day. Professional, courteous, and the boss didn't even make me pay right away. Very impressed.",
       "rating": 5
     }
   ],
   "service_areas": {
-    "label": "COVERAGE AREA",
-    "heading": "Serving Chattanooga and surrounding areas",
-    "subheading": "Licensed electrical service throughout Hamilton County",
+    "label": "WHERE WE WORK",
+    "heading": "Chattanooga Area Coverage",
+    "subheading": "Local electric service you can count on",
     "areas": [
       "Chattanooga",
       "Hixson",
       "Red Bank",
       "East Ridge",
       "Signal Mountain",
+      "Lookout Mountain",
       "Soddy-Daisy",
-      "Harrison",
-      "Ooltewah"
+      "Harrison"
     ]
   },
   "cta": {
-    "heading": "Ready to get your electrical work done right?",
-    "body": "Same day service, licensed electricians, and we answer our phone. Get your free estimate today.",
-    "cta_primary": "Get Free Estimate",
+    "heading": "Power Problems? We'll Handle It",
+    "body": "Free estimates on all electrical work. Licensed, insured, and ready to get your lights back on.",
+    "cta_primary": "Get Free Quote",
     "cta_secondary": "Call (423) 421-4459"
   },
   "design": {
     "primary_color": "#9A3412",
     "accent_color": "#059669",
-    "bg_color": "#FFFBF5",
+    "bg_color": "#FFFFFF",
     "text_color": "#1F2937",
-    "font_heading": "DM Serif Display",
-    "font_body": "Source Sans 3",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
     "layout_variant": "split"
   }
 }

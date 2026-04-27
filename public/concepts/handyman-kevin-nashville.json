@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Handyman Kevin",
+    "phone": "(615) 339-4982",
+    "email": "service@callgoodmanors.com",
+    "city": "Nashville",
+    "state": "TN",
+    "industry": "handyman",
+    "tagline": "Nashville's fix-it guy with the truck full of tools",
+    "logo_url": "",
+    "google_rating": "5 stars (29 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=8166095617240524899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The handyman Nashville *actually calls*",
+    "subheadline": "Same-day service with a truck that has every tool. No job too small, no problem too weird.",
+    "cta_primary": "Get Your Free Quote",
+    "cta_secondary": "Call Kevin Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Nashville Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT KEVIN FIXES",
+    "heading": "One call handles it all",
+    "subheading": "From garbage disposals to ceiling fans, microwave swaps to outlet installs"
+  },
+  "services": [
+    {
+      "title": "Appliance Installation",
+      "description": "Microwaves, garbage disposals, and anything that needs mounting or hooking up.",
+      "icon": "plug"
+    },
+    {
+      "title": "Electrical Work",
+      "description": "Outlets, switches, ceiling fans, and basic wiring jobs done right.",
+      "icon": "zap"
+    },
+    {
+      "title": "General Repairs",
+      "description": "The weird problems, broken things, and honey-do lists nobody else wants to tackle.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Lawn Care",
+      "description": "Weekly mowing service that shows up when it's supposed to.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Kevin shows up with the right tools",
+    "body": "Nashville handyman with a fully-stocked truck and a reputation for getting it done the first time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Nashville says about Kevin"
+  },
+  "reviews": [
+    {
+      "name": "Tony S.",
+      "location": "Nashville, TN",
+      "text": "Can't speak highly enough about Kevin! Same-day service for our microwave swap. Professional, polite, and got it done with perfection.",
+      "rating": 5
+    },
+    {
+      "name": "Katherine I.",
+      "location": "Nashville, TN",
+      "text": "Very friendly with a truck outfitted with every tool he might need. Had great ideas for approaching my problem I'd been hesitant to fix.",
+      "rating": 5
+    },
+    {
+      "name": "Nathan W.",
+      "location": "Nashville, TN",
+      "text": "Kevin was great to work with. Showed up every week for mowing, very reliable. Also replaced a ceiling fan and outlet. Great job Kev!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Kevin works all over Nashville",
+    "subheading": "Fast response times throughout Middle Tennessee",
+    "areas": [
+      "Nashville",
+      "Franklin",
+      "Brentwood",
+      "Hendersonville",
+      "Murfreesboro",
+      "Mount Juliet",
+      "Smyrna",
+      "Gallatin"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get it fixed?",
+    "body": "Call Kevin today for your free quote. Same friendly guy, same reliable truck, same job done right.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bebas Neue",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "business": {
+    "name": "Saltwater Septic Tank Pumping Service",
+    "phone": "(860) 912-5204",
+    "email": "saltwaterseptic@gmail.com",
+    "city": "New Haven",
+    "state": "CT",
+    "industry": "septic service",
+    "tagline": "When your septic backs up, we show up",
+    "logo_url": "",
+    "google_rating": "5 stars (2 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=7174391991233507189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your septic backs up, *we show up*",
+    "subheadline": "Licensed New Haven septic pros with the pump truck and know-how to fix it right.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Septic pumping and repairs that actually work",
+    "subheading": "From routine maintenance to emergency cleanouts"
+  },
+  "services": [
+    {
+      "title": "Septic Tank Pumping",
+      "description": "Complete tank cleanout with proper disposal. We pump it all out, not just the easy stuff.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Emergency Service",
+      "description": "Backed up toilet at midnight? We'll get your system flowing again fast.",
+      "icon": "wrench"
+    },
+    {
+      "title": "System Inspections",
+      "description": "Find problems before they become disasters. Full system check and honest assessment.",
+      "icon": "shield"
+    },
+    {
+      "title": "Drain Field Repair",
+      "description": "When the leach field fails, we diagnose the issue and fix it properly.",
+      "icon": "pipe"
+    }
+  ],
+  "about": {
+    "heading": "Real septic pros answering the phone",
+    "body": "We're the New Haven septic team that shows up when we say we will. One call, one truck, one bill."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What New Haven homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Justus V.",
+      "location": "New Haven, CT",
+      "text": "Fantastic emergency septic service! Problem resolved in a few hours and tank emptied completely.",
+      "rating": 5
+    },
+    {
+      "name": "Scott P.",
+      "location": "New Haven, CT",
+      "text": "Very knowledgeable and professional. I highly recommend Saltwater Septic.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving New Haven and surrounding areas",
+    "subheading": "Same-day service throughout the region",
+    "areas": [
+      "New Haven",
+      "West Haven",
+      "East Haven",
+      "Hamden",
+      "North Haven",
+      "Branford",
+      "Milford",
+      "Woodbridge"
+    ]
+  },
+  "cta": {
+    "heading": "Need septic service today?",
+    "body": "Don't wait for a bigger mess. Get your free estimate and let's get your system working right.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (860) 912-5204"
+  },
+  "design": {
+    "primary_color": "#0F4C75",
+    "accent_color": "#3EDBF0",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

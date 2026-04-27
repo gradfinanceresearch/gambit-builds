@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Whistle Clean Power Washing",
+    "phone": "(704) 670-7219",
+    "email": "raymondnotario@gmail.com",
+    "city": "Gastonia",
+    "state": "NC",
+    "industry": "pressure washer",
+    "tagline": "Precision cleaning that shows",
+    "logo_url": "",
+    "google_rating": "4.8 stars (25 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=18227517093434489661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your house, *spotless* — guaranteed",
+    "subheadline": "Every detail matters when Todd's on the job. Roofs, driveways, siding — cleaned right the first time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.8★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "25+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Gastonia Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every surface, every detail",
+    "subheading": "From roof stains to driveway grime — we handle what others miss"
+  },
+  "services": [
+    {
+      "title": "House Washing",
+      "description": "Complete exterior cleaning of siding, trim, and all surfaces. Mildew and stains disappear.",
+      "icon": "home"
+    },
+    {
+      "title": "Roof Cleaning",
+      "description": "Gentle yet thorough roof treatment. Removes algae, moss, and years of buildup safely.",
+      "icon": "shield"
+    },
+    {
+      "title": "Driveway & Walkways",
+      "description": "Concrete and pavement restored to original condition. Oil stains and dirt eliminated.",
+      "icon": "brick"
+    },
+    {
+      "title": "Gutters & Windows",
+      "description": "Complete exterior window cleaning and gutter brightening. Clear views, clean lines.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Built on attention to detail",
+    "body": "Todd's the guy neighbors recommend to neighbors. Every job gets the same perfectionist approach — because your home deserves nothing less."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Gastonia says"
+  },
+  "reviews": [
+    {
+      "name": "J B.",
+      "location": "Gastonia, NC",
+      "text": "Todd is a perfectionist who focuses on every detail. He even cleaned our brick chimney! If we could rate him a 10, we would.",
+      "rating": 5
+    },
+    {
+      "name": "Jessica W.",
+      "location": "Gastonia, NC",
+      "text": "Todd did a great job on our house! The back side had lots of mildew and looks 1,000 times better now. Very easy to communicate with.",
+      "rating": 5
+    },
+    {
+      "name": "Nicholas C.",
+      "location": "Gastonia, NC",
+      "text": "Highly recommend Todd for all exterior cleaning. He cleaned our driveway, walkways, gutters, windows, and trim for a fair price. House looks fantastic!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Gastonia & surrounding areas",
+    "subheading": "Local team, local knowledge",
+    "areas": [
+      "Gastonia",
+      "Charlotte",
+      "Belmont",
+      "Mount Holly",
+      "Cramerton",
+      "Lowell",
+      "Dallas",
+      "Bessemer City"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for that fresh-cleaned look?",
+    "body": "Free quotes, honest pricing, and the kind of detailed work your neighbors will notice. Let's make your house the cleanest on the block.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (704) 670-7219"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

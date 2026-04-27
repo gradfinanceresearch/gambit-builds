@@ -1,0 +1,114 @@
+{
+  "business": {
+    "name": "Steel Monkey Fist Pressure Washing and Handyman",
+    "phone": "(561) 284-5522",
+    "email": "info@mckownpressurewash.com",
+    "city": "Norfolk",
+    "state": "VA",
+    "industry": "pressure washer",
+    "tagline": "When grime fights back, we win",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=2910338489328884438&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Steel Monkey Fist* — Norfolk's Grime Fighter",
+    "subheadline": "Pressure washing that strips years off your home, plus the handyman skills to fix what needs fixing.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Pressure & Repairs",
+    "subheading": "Two skills, one crew — we clean it and fix it"
+  },
+  "services": [
+    {
+      "title": "House Pressure Washing",
+      "description": "Blast away years of dirt, mold, and grime. Your siding will look new again.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Deck & Patio Cleaning",
+      "description": "Restore your outdoor spaces with professional pressure cleaning that won't damage the surface.",
+      "icon": "home"
+    },
+    {
+      "title": "Handyman Repairs",
+      "description": "Fix the small stuff before it becomes big stuff. Maintenance and repairs done right.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Driveway Cleaning",
+      "description": "Oil stains and tire marks don't stand a chance against our equipment and technique.",
+      "icon": "brick"
+    }
+  ],
+  "about": {
+    "heading": "Built Different",
+    "body": "We're the Norfolk pressure washing and handyman team that shows up ready to work. One call gets you both services — no juggling multiple contractors."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Norfolk Says"
+  },
+  "reviews": [
+    {
+      "name": "Lynette N.",
+      "location": "Norfolk, VA",
+      "text": "Vernon did an awesome job pressure washing my home.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where We Work",
+    "subheading": "Serving Norfolk and surrounding Hampton Roads communities",
+    "areas": [
+      "Norfolk",
+      "Virginia Beach",
+      "Portsmouth",
+      "Chesapeake",
+      "Hampton",
+      "Newport News",
+      "Suffolk"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fight Some Grime?",
+    "body": "Get your free quote today. We'll assess the job and give you straight pricing — no surprises, no runaround.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (561) 284-5522"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Bebas Neue",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

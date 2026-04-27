@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Nelms Plumbing",
+    "phone": "(229) 460-4317",
+    "email": "mikenelms73@gmail.com",
+    "city": "Valdosta",
+    "state": "GA",
+    "industry": "plumber",
+    "tagline": "Honest work, honest pricing",
+    "logo_url": "",
+    "google_rating": "4.2 stars (17 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=15412320576653195127&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When Valdosta's pipes *quit working*, we get them working",
+    "subheadline": "Three generations of plumbers who show up when we say we will.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.2★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every pipe, drain, and fixture",
+    "subheading": "From kitchen sinks to sewer lines — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Drain Cleaning",
+      "description": "Pressure jetting and snaking to clear even the toughest blockages. We dig deep to find what's really causing the backup.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Sewer Line Repair",
+      "description": "Complete sewer line diagnostics and repair for residential and rental properties. From clogs to complete line replacement.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Water Heater Service",
+      "description": "Installation, repair, and maintenance on all water heater types. When it quits heating, we get it running.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Well Pump Repair",
+      "description": "Full well system service including pump repair and pressure switch replacement. We keep your water flowing.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Three generations, one phone call",
+    "body": "Mike Nelms runs this family plumbing operation with his sons. When Valdosta calls, we answer."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Valdosta says"
+  },
+  "reviews": [
+    {
+      "name": "Beth D.",
+      "location": "Valdosta, GA",
+      "text": "Went to school with Mike and his wife Lori — always liked them. Not surprised they have a successful business. Their sons came to work on our rental property's sewer.",
+      "rating": 5
+    },
+    {
+      "name": "Dan M.",
+      "location": "Valdosta, GA",
+      "text": "Scheduled them to pressure jet my kitchen drain. Spent two and a half hours getting the blockage cleared — it was way up in the plumbing, but they got it done.",
+      "rating": 5
+    },
+    {
+      "name": "Brenda H.",
+      "location": "Valdosta, GA",
+      "text": "Mike gives an honest opinion, works hard to solve the problem, and tries to take care of his customers. A+ to him and his company!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving South Georgia",
+    "subheading": "Local team covering Valdosta and surrounding communities",
+    "areas": [
+      "Valdosta",
+      "Hahira",
+      "Lake Park",
+      "Quitman",
+      "Moultrie",
+      "Tifton",
+      "Adel",
+      "Nashville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix what's broken?",
+    "body": "Call now for honest pricing and straight answers. Three generations of Valdosta plumbers ready to help.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (229) 460-4317"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFBF7",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

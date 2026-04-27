@@ -1,0 +1,108 @@
+{
+  "business": {
+    "name": "King Armor Asphalt Sealing",
+    "phone": "(270) 943-4513",
+    "email": "wonderfulworksllc@gmail.com",
+    "city": "Bowling Green",
+    "state": "KY",
+    "industry": "driveway paving",
+    "tagline": "Professional Asphalt Services",
+    "logo_url": "",
+    "google_rating": "1.8 stars (5 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=6367574189681225655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your Driveway *Armor* — Built to Last",
+    "subheadline": "Professional asphalt sealing and paving for Bowling Green homes and businesses.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Bowling Green Team"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Complete Asphalt Solutions",
+    "subheading": "From new installation to protective sealing"
+  },
+  "services": [
+    {
+      "title": "Driveway Paving",
+      "description": "New asphalt driveways installed with proper base preparation and grading.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Asphalt Sealing",
+      "description": "Protective sealcoating to extend your pavement's life and improve appearance.",
+      "icon": "shield"
+    },
+    {
+      "title": "Crack Repair",
+      "description": "Fill and seal cracks before they become major problems.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Resurfacing",
+      "description": "Overlay existing asphalt with a fresh new surface layer.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Built for Kentucky Weather",
+    "body": "We're a Bowling Green asphalt team that understands what our climate demands from your driveway."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Customers Say"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving South Central Kentucky",
+    "subheading": "Professional asphalt services throughout the region",
+    "areas": [
+      "Bowling Green",
+      "Franklin",
+      "Scottsville",
+      "Russellville",
+      "Morgantown",
+      "Auburn",
+      "Alvaton",
+      "Plum Springs"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Protect Your Investment?",
+    "body": "Get a free estimate for your driveway project. No hidden fees, upfront pricing.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (270) 943-4513"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Bebas Neue",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

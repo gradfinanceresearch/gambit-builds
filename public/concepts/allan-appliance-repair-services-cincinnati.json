@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Allan Appliance Repair Services",
+    "phone": "(513) 851-1186",
+    "email": "info@allensapplianceservices.com",
+    "city": "Cincinnati",
+    "state": "OH",
+    "industry": "appliance repair",
+    "tagline": "The appliance repair Cincinnati calls first",
+    "logo_url": "",
+    "google_rating": "4.7 stars (46 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=10424925707397311110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Same-day fixes* — no waiting around",
+    "subheadline": "Your washer quits, your dryer won't dry, your fridge runs warm — we show up fast and fix it right the first time.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.7★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "40+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Cincinnati Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIXES",
+    "heading": "Every appliance, every problem",
+    "subheading": "From ice makers to washing machines — we diagnose fast and repair it right"
+  },
+  "services": [
+    {
+      "title": "Washer & Dryer Repair",
+      "description": "Won't spin, won't drain, won't dry — we've seen it all and fixed it all.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Refrigerator Service",
+      "description": "Running warm, making noise, ice maker broken — back to keeping things cold.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Dishwasher Repair",
+      "description": "Not cleaning, not draining, not starting — get back to spotless dishes.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Range & Oven Repair",
+      "description": "Burners not heating, oven temperature off — cooking made simple again.",
+      "icon": "flame"
+    }
+  ],
+  "about": {
+    "heading": "One call fixes it all",
+    "body": "Cincinnati appliance repair team that shows up when we say we will. Real person answers the phone, same person comes to your door."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Cincinnati says"
+  },
+  "reviews": [
+    {
+      "name": "Lindsey H.",
+      "location": "Cincinnati, OH",
+      "text": "Allan came out right away and found the problem immediately. So friendly and very professional — highly recommend him.",
+      "rating": 5
+    },
+    {
+      "name": "Chris M.",
+      "location": "Cincinnati, OH",
+      "text": "Couldn't have been more pleased. He was responsive, knowledgeable, and a pleasure to work with. Same day service and had it fixed by the next morning.",
+      "rating": 5
+    },
+    {
+      "name": "Bobby H.",
+      "location": "Cincinnati, OH",
+      "text": "Scheduled two days out, arrived promptly and had my icemaker fixed in an hour. Really knows what he's doing and prices fairly.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Greater Cincinnati",
+    "subheading": "Fast response across the metro area",
+    "areas": [
+      "Cincinnati",
+      "Springdale",
+      "Forest Park",
+      "Norwood",
+      "Blue Ash",
+      "Montgomery",
+      "Loveland",
+      "Mason",
+      "West Chester",
+      "Fairfield"
+    ]
+  },
+  "cta": {
+    "heading": "Appliance broke? We'll fix it today",
+    "body": "No waiting weeks for a repair appointment. Call now and we'll diagnose the problem and give you an honest quote — usually same day.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (513) 851-1186"
+  },
+  "design": {
+    "primary_color": "#B91C1C",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Fraunces",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

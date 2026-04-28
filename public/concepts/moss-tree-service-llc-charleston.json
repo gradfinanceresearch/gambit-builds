@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Moss Tree Service, LLC",
+    "phone": "(304) 539-1547",
+    "email": "mosstreesrvc@gmail.com",
+    "city": "Charleston",
+    "state": "WV",
+    "industry": "tree service",
+    "tagline": "We show up when trees come down",
+    "logo_url": "",
+    "google_rating": "5 stars (40 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=17964571897661586074&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Trees down? *We're already* on the way",
+    "subheadline": "Charleston's crew that shows up in snowstorms and cleans up like we were never there.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "40+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Charleston Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every tree, every situation",
+    "subheading": "From routine trimming to storm cleanup — one call handles it all"
+  },
+  "services": [
+    {
+      "title": "Tree Removal",
+      "description": "Dangerous trees, fallen trees, trees too close to your house. Gone without a trace.",
+      "icon": "saw"
+    },
+    {
+      "title": "Tree Trimming & Pruning",
+      "description": "Keep your trees healthy and your property safe. Professional cuts that promote growth.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Storm Damage Cleanup",
+      "description": "Ice storms, wind damage, emergency situations. We work through the weather to clear your property.",
+      "icon": "shield"
+    },
+    {
+      "title": "Stump Grinding",
+      "description": "Complete removal down to the roots. Your yard back to normal, ready for whatever comes next.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Charleston tree crew that shows up",
+    "body": "We're the team Charleston calls when trees need to go. Licensed, insured, and equipped for everything from routine trimming to storm emergencies."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Charleston neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "David K.",
+      "location": "Charleston, WV",
+      "text": "Removed a large pine — arrived when they said, did spectacular work, completely cleaned up. Very professional, would be my first choice again.",
+      "rating": 5
+    },
+    {
+      "name": "Melissa T.",
+      "location": "Charleston, WV",
+      "text": "Had a cracked tree threatening my garage. Jimmy gave a reasonable estimate, job was done professionally and cleanly.",
+      "rating": 5
+    },
+    {
+      "name": "Tyler H.",
+      "location": "Charleston, WV",
+      "text": "Ice storm damage — they came out during the snowstorm, fair quote, started as soon as the weather cleared. Excellent work.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Charleston and surrounding areas",
+    "subheading": "Local crew covering the greater Charleston region",
+    "areas": [
+      "Charleston",
+      "Hurricane",
+      "South Charleston",
+      "Dunbar",
+      "Nitro",
+      "Cross Lanes",
+      "Elkview",
+      "Sissonville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to clear those trees?",
+    "body": "Free estimates, fair pricing, and cleanup so thorough you'll forget we were there. Call the crew Charleston trusts.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (304) 539-1547"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FEFDF8",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

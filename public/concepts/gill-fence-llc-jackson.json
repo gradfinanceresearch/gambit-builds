@@ -1,0 +1,121 @@
+{
+  "business": {
+    "name": "Gill Fence LLC",
+    "phone": "(601) 862-9272",
+    "email": "gillfence@gmail.com",
+    "city": "Jackson",
+    "state": "MS",
+    "industry": "fence installer",
+    "tagline": "Your property. Your privacy. Our craft.",
+    "logo_url": "",
+    "google_rating": "3.5 stars (11 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=5070244622283975869&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Built to last* — fences that stand strong in Jackson",
+    "subheadline": "Licensed installers who show up when we say we will and clean up when we're done.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "3.5★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE BUILD",
+    "heading": "Every fence type, done right",
+    "subheading": "From privacy to security, residential to commercial"
+  },
+  "services": [
+    {
+      "title": "Privacy Fencing",
+      "description": "Wood, vinyl, or composite. Full privacy screens that block sight lines and reduce noise.",
+      "icon": "home"
+    },
+    {
+      "title": "Security Fencing",
+      "description": "Chain link, ornamental iron, and commercial-grade barriers. Built for protection.",
+      "icon": "shield"
+    },
+    {
+      "title": "Decorative Fencing",
+      "description": "Picket fences, garden borders, and accent features that add curb appeal.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Fence Repair",
+      "description": "Storm damage, rot, or wear and tear. We fix what's broken and reinforce what's weak.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Jackson fence installers",
+    "body": "We're a Jackson fence team that measures twice and cuts once. Real people answering the phone — not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Jackson neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Mark C.",
+      "location": "Jackson, MS",
+      "text": "Fast response with reasonable quotes. They worked quickly with attention to detail and kept everything clean. Very friendly team.",
+      "rating": 5
+    },
+    {
+      "name": "Jamaul M.",
+      "location": "Jackson, MS",
+      "text": "Great company with integrity. I highly recommend to anyone.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Jackson and surrounding areas",
+    "subheading": "Local fence installation throughout central Mississippi",
+    "areas": [
+      "Jackson",
+      "Pearl",
+      "Ridgeland",
+      "Madison",
+      "Clinton",
+      "Byram",
+      "Terry",
+      "Florence"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for your new fence?",
+    "body": "Licensed Jackson installers with upfront pricing. No surprises, no hidden fees.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (601) 862-9272"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Bond Roofing",
+    "phone": "(919) 787-7979",
+    "email": "info@bondroofs.com",
+    "city": "Raleigh",
+    "state": "NC",
+    "industry": "roofer",
+    "tagline": "The roof over Raleigh",
+    "logo_url": "",
+    "google_rating": "4.8 stars (110 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=11870946442762161676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The roofers *Raleigh calls twice*",
+    "subheadline": "First for the repair. Then for the full replacement.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (919) 787-7979"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.8★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "110+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Raleigh Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every roof, every fix",
+    "subheading": "From emergency patches to complete tear-offs"
+  },
+  "services": [
+    {
+      "title": "Roof Replacement",
+      "description": "Complete tear-off and install. Asphalt, metal, slate — we handle them all.",
+      "icon": "home"
+    },
+    {
+      "title": "Leak Repair",
+      "description": "Find it, fix it, guarantee it. Emergency calls answered.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Storm Damage",
+      "description": "Insurance claims, emergency tarping, full restoration.",
+      "icon": "shield"
+    },
+    {
+      "title": "Roof Inspection",
+      "description": "Honest assessment before you buy or after storms hit.",
+      "icon": "ruler"
+    }
+  ],
+  "about": {
+    "heading": "Built for this",
+    "body": "We're the Raleigh roofing team that shows up when we say we will. One call gets you real roofers, not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Raleigh says"
+  },
+  "reviews": [
+    {
+      "name": "Margie W.",
+      "location": "Raleigh, NC",
+      "text": "Great experience with Bond Roofing who fixed my leaking roof. Scheduling was easy, team was prompt and courteous every visit.",
+      "rating": 5
+    },
+    {
+      "name": "Melissa D.",
+      "location": "Raleigh, NC",
+      "text": "Using Bond Roofing for 10 years. Reliable, excellent work, great communication. The only roofers I trust with my synthetic slate roof.",
+      "rating": 5
+    },
+    {
+      "name": "Bryan H.",
+      "location": "Raleigh, NC",
+      "text": "Wonderful company. Professional, knowledgeable crew worked quickly and cleaned up perfectly. Superior team, competitive pricing.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where we work",
+    "subheading": "Serving the Triangle",
+    "areas": [
+      "Raleigh",
+      "Cary",
+      "Apex",
+      "Durham",
+      "Chapel Hill",
+      "Wake Forest",
+      "Garner",
+      "Holly Springs"
+    ]
+  },
+  "cta": {
+    "heading": "Your roof. Our bond.",
+    "body": "Free estimate, honest pricing, no surprises. The same team that's been fixing Raleigh roofs for years.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

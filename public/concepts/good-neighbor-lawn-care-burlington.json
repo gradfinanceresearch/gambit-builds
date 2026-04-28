@@ -1,0 +1,115 @@
+{
+  "business": {
+    "name": "Good Neighbor Lawn Care",
+    "phone": "",
+    "email": "goodneighborvt@gmail.com",
+    "city": "Burlington",
+    "state": "VT",
+    "industry": "landscaper",
+    "tagline": "Your yard, our promise",
+    "logo_url": "",
+    "google_rating": "5 stars (2 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=15569238231532968587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The lawn crew *Burlington trusts*",
+    "subheadline": "Real neighbors who show up when we say we will — rain or shine.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Burlington Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every blade, every season",
+    "subheading": "From spring cleanup to fall leaf removal"
+  },
+  "services": [
+    {
+      "title": "Lawn Mowing & Maintenance",
+      "description": "Weekly cuts, edging, and cleanup. Your yard stays neat all season long.",
+      "icon": "home"
+    },
+    {
+      "title": "Spring & Fall Cleanup",
+      "description": "Rake, mulch, and prep your lawn for the season ahead.",
+      "icon": "fan"
+    },
+    {
+      "title": "Landscaping & Planting",
+      "description": "Design and install gardens, shrubs, and seasonal plantings.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Snow Removal",
+      "description": "Driveways and walkways cleared when Vermont winter hits.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Built for Burlington seasons",
+    "body": "We're a Burlington lawn care team that knows Vermont weather. One call, one crew, one bill."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Jake D.",
+      "location": "Burlington, VT",
+      "text": "Used them for years. You won't find better service for the price.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Burlington & beyond",
+    "subheading": "Your local lawn care team across Chittenden County",
+    "areas": [
+      "Burlington",
+      "South Burlington",
+      "Winooski",
+      "Colchester",
+      "Essex",
+      "Williston",
+      "Shelburne",
+      "Charlotte"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a lawn you'll love?",
+    "body": "Free estimates, honest pricing, and the neighbors already know our work.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Today"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "stacked"
+  }
+}

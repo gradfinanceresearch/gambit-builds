@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Cooper Tree Service",
+    "phone": "(304) 834-6590",
+    "email": "coopertrees67@gmail.com",
+    "city": "Charleston",
+    "state": "WV",
+    "industry": "tree service",
+    "tagline": "Professional tree removal and care for Charleston homes and businesses",
+    "logo_url": "",
+    "google_rating": "4.8 stars (52 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=6864832682541774966&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When the storm hits, *we're already on the way*",
+    "subheadline": "Same-day estimates, next-day service — Charleston's go-to tree crew for 20+ years",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.8★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "50+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Charleston Team"
+    }
+  ],
+  "services_section": {
+    "label": "TREE WORK",
+    "heading": "Every job from ground to crown",
+    "subheading": "Storm damage to routine maintenance — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Emergency Tree Removal",
+      "description": "Fallen trees, storm damage, dangerous hangers. We show up fast and clean up completely.",
+      "icon": "saw"
+    },
+    {
+      "title": "Tree Trimming & Pruning",
+      "description": "Keep your trees healthy and your property safe. Professional cutting that promotes growth.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Stump Grinding",
+      "description": "Complete stump removal and grinding. Your yard ready for whatever comes next.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Lot Clearing",
+      "description": "Multiple trees, thick brush, complete land clearing. One crew handles the whole job.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Charleston tree crew that shows up",
+    "body": "We're the Charleston tree service your neighbors call first. Real crew, real equipment, real results."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Charleston says"
+  },
+  "reviews": [
+    {
+      "name": "Reca H.",
+      "location": "Charleston, WV",
+      "text": "Jonathan did an amazing job — second tree he's handled for me. Very dependable and reliable. Excellent work, highly recommend!",
+      "rating": 5
+    },
+    {
+      "name": "William P.",
+      "location": "Charleston, WV",
+      "text": "Everything professionally done from quote to completion. Very skilled cutting large spruce near power lines — tree fell exactly where planned.",
+      "rating": 5
+    },
+    {
+      "name": "Marlo L.",
+      "location": "Charleston, WV",
+      "text": "After severe storm damage, they gave estimate same day I called and completed the cleanup job the next day. Crew worked hard!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Covering the Charleston area",
+    "subheading": "Professional tree service throughout Kanawha County",
+    "areas": [
+      "Charleston",
+      "Huntington",
+      "Hurricane",
+      "South Charleston",
+      "Nitro",
+      "Dunbar",
+      "Cross Lanes",
+      "Elkview"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get that tree handled?",
+    "body": "Free estimates on all tree work. Call today and we'll get you taken care of.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (304) 834-6590"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

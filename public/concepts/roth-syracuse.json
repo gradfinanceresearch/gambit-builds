@@ -1,0 +1,121 @@
+{
+  "business": {
+    "name": "Roth",
+    "phone": "(315) 475-0100",
+    "email": "info@roth-usa.com",
+    "city": "Syracuse",
+    "state": "NY",
+    "industry": "septic service",
+    "tagline": "When your system needs work, we know what we're doing",
+    "logo_url": "",
+    "google_rating": "5 stars (5 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=9399063447294770675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Syracuse septic problems? *We fix them right.*",
+    "subheadline": "Real techs with real trucks — no surprises, no excuses.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Syracuse Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every septic job we handle",
+    "subheading": "From routine pumping to emergency repairs"
+  },
+  "services": [
+    {
+      "title": "Septic Pumping",
+      "description": "Regular maintenance keeps your system running. We pump, inspect, and let you know what we find.",
+      "icon": "droplet"
+    },
+    {
+      "title": "System Repairs",
+      "description": "Broken pipes, failed pumps, clogged lines. We diagnose the problem and fix it permanently.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Tank Installation",
+      "description": "New construction or replacement tanks. Proper excavation, installation, and final inspection.",
+      "icon": "home"
+    },
+    {
+      "title": "Emergency Service",
+      "description": "Backups and overflows don't wait. We respond fast when your system fails.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Built for Syracuse septic work",
+    "body": "We're the Syracuse team that shows up when septic systems fail. One call gets you real techs with the right equipment."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What people say about working with us"
+  },
+  "reviews": [
+    {
+      "name": "Derrick B.",
+      "location": "Syracuse, NY",
+      "text": "Great place to work at and has good quality parts",
+      "rating": 5
+    },
+    {
+      "name": "Timothy C.",
+      "location": "Syracuse, NY",
+      "text": "Best products and people",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Syracuse and surrounding areas",
+    "subheading": "Serving Central New York septic systems",
+    "areas": [
+      "Syracuse",
+      "Liverpool",
+      "Baldwinsville",
+      "Clay",
+      "Cicero",
+      "Manlius",
+      "DeWitt",
+      "Camillus"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix your septic system?",
+    "body": "Get a straight answer about what needs to be done and what it costs. No hidden fees, no surprises.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (315) 475-0100"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#EF4444",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

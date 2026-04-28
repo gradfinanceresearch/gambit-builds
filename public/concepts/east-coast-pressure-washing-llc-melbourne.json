@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "East Coast Pressure Washing LLC",
+    "phone": "(321) 320-0543",
+    "email": "eastcoastpressurewashing16@gmail.com",
+    "city": "Melbourne",
+    "state": "FL",
+    "industry": "pressure washer",
+    "tagline": "Derek knows clean",
+    "logo_url": "",
+    "google_rating": "5 stars (114 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=10906609348830736018&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The oil stains that *wouldn't budge*? Gone.",
+    "subheadline": "Derek's soft wash system removes what your DIY pressure washer can't touch. Pool decks, driveways, roofs — one call gets it done.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Derek"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "110+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Melbourne Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE CLEAN",
+    "heading": "Every surface, every stain",
+    "subheading": "Soft wash, pressure wash, and the right approach for each job"
+  },
+  "services": [
+    {
+      "title": "House Washing",
+      "description": "Soft wash system that cleans without damage. Soffits, siding, and full exterior cleaning.",
+      "icon": "home"
+    },
+    {
+      "title": "Driveway & Sidewalk Cleaning",
+      "description": "Oil stains, rust marks, and buildup removed. Concrete and paver restoration.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Roof Soft Washing",
+      "description": "Gentle cleaning that removes algae and stains without damaging shingles.",
+      "icon": "shield"
+    },
+    {
+      "title": "Pool Deck Cleaning",
+      "description": "Non-slip surface restoration. Removes algae, dirt, and weathering safely.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Fence Cleaning",
+      "description": "Vinyl, wood, and composite fence restoration. Any length, any condition.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Derek shows up and gets it done",
+    "body": "Melbourne pressure washing that actually removes the stains you couldn't. Real results, upfront pricing, and we fit you into the schedule fast."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Melbourne says"
+  },
+  "reviews": [
+    {
+      "name": "Sherry S.",
+      "location": "Melbourne, FL",
+      "text": "For perfectionists and clean freaks who want that new house look in one day. Derek knew exactly what I needed and delivered.",
+      "rating": 5
+    },
+    {
+      "name": "Brandon B.",
+      "location": "Melbourne, FL",
+      "text": "Derek fit me into his schedule quickly and soft washed my roof perfectly. Professional, efficient, amazing price.",
+      "rating": 5
+    },
+    {
+      "name": "Decorative P.",
+      "location": "Melbourne, FL",
+      "text": "The rust stains I couldn't remove with any product or pressure washer were completely gone. Highly recommend Derek.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE AREA",
+    "heading": "Covering the Space Coast",
+    "subheading": "Professional pressure washing throughout Brevard County",
+    "areas": [
+      "Melbourne",
+      "Palm Bay",
+      "Cocoa",
+      "Titusville",
+      "Rockledge",
+      "Satellite Beach",
+      "Indialantic",
+      "West Melbourne"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to see those stains disappear?",
+    "body": "Free quotes, fast scheduling, and results that'll make you wonder why you waited. Derek's already helped 110+ neighbors get their clean back.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#F97316",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

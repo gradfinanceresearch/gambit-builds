@@ -1,0 +1,126 @@
+{
+  "business": {
+    "name": "L&M HANDYMAN SERVICES LLC",
+    "phone": "(240) 615-3888",
+    "email": "impallari@gmail.com",
+    "city": "Hagerstown",
+    "state": "MD",
+    "industry": "handyman",
+    "tagline": "One call fixes it all",
+    "logo_url": "",
+    "google_rating": "4.5 stars (8 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=10004078015171480909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Same day* fixes — even Saturdays",
+    "subheadline": "From garbage disposals to drywall patches, we show up when you need us most.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.5★ on Google"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Hagerstown Team"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Everything that breaks, we handle",
+    "subheading": "No job too small, no timeline too tight"
+  },
+  "services": [
+    {
+      "title": "Plumbing Repairs",
+      "description": "Garbage disposals, sink clogs, pipe fixes. We carry the parts and know the tricks.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Drywall & Paint",
+      "description": "Holes, cracks, ceiling damage. Patch it, prime it, paint it smooth.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Home Repairs",
+      "description": "Doors, windows, fixtures, trim work. Whatever's not working right.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Emergency Service",
+      "description": "Weekend calls, urgent fixes, selling your home tomorrow fixes.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Real handymen, real solutions",
+    "body": "We're the Hagerstown team that picks up the phone and shows up on time. No project management fees, no upselling — just honest work."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "Neighbors you can trust"
+  },
+  "reviews": [
+    {
+      "name": "Jim W.",
+      "location": "Hagerstown",
+      "text": "Wonderful job on a bunch of odds and ends. Fit me in fast because I was selling my home. Even came out on Saturday.",
+      "rating": 5
+    },
+    {
+      "name": "Heath B.",
+      "location": "Hagerstown",
+      "text": "Leonardo and his son installed a new garbage disposal. Outstanding, professional job — and they came out on Sunday!",
+      "rating": 5
+    },
+    {
+      "name": "Alicia B.",
+      "location": "Hagerstown",
+      "text": "Very thankful for Miguel's excellent service. Came out on short notice and resolved the kitchen pipe clog.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Hagerstown and surrounding areas",
+    "subheading": "Fast response times throughout Washington County",
+    "areas": [
+      "Hagerstown",
+      "Williamsport",
+      "Boonsboro",
+      "Funkstown",
+      "Sharpsburg",
+      "Smithsburg",
+      "Clear Spring"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix what's broken?",
+    "body": "Call now for same-day service. We answer our phone and show up when we say we will.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (240) 615-3888"
+  },
+  "design": {
+    "primary_color": "#5B21B6",
+    "accent_color": "#10B981",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

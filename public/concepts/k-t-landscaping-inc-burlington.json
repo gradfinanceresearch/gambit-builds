@@ -1,0 +1,115 @@
+{
+  "business": {
+    "name": "K T Landscaping Inc",
+    "phone": "(802) 879-6732",
+    "email": "brian@ktlandscaping.com",
+    "city": "Burlington",
+    "state": "VT",
+    "industry": "landscaper",
+    "tagline": "Burlington's landscape pros",
+    "logo_url": "",
+    "google_rating": "5 stars (3 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=17516753802652455245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Burlington yards that *actually look good*",
+    "subheadline": "From spring cleanup to winter prep — we handle whatever your property throws at us.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Burlington Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every season, every project",
+    "subheading": "From routine maintenance to complete landscape overhauls"
+  },
+  "services": [
+    {
+      "title": "Spring & Fall Cleanup",
+      "description": "Leaf removal, debris clearing, and seasonal prep that gets your property ready.",
+      "icon": "home"
+    },
+    {
+      "title": "Lawn Care & Maintenance",
+      "description": "Mowing, edging, and keeping your grass looking sharp all season long.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Landscape Installation",
+      "description": "New plantings, garden beds, and hardscape features that transform your space.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Winter Services",
+      "description": "Snow removal and winter cleanup when Burlington weather hits hard.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Burlington landscaping done right",
+    "body": "We're the Burlington team that shows up when we say we will. Real people answering the phone, real work getting done."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Burlington says"
+  },
+  "reviews": [
+    {
+      "name": "Bill H.",
+      "location": "Burlington, VT",
+      "text": "Needed unexpected winter cleanup. Seldon came over and took care of business. Nice job.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Burlington & surrounding areas",
+    "subheading": "Local landscaping throughout Chittenden County",
+    "areas": [
+      "Burlington",
+      "South Burlington",
+      "Winooski",
+      "Essex",
+      "Colchester",
+      "Williston",
+      "Richmond",
+      "Shelburne"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your yard handled?",
+    "body": "Free estimates on any project. Call us or send a message — we'll get back to you fast.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (802) 879-6732"
+  },
+  "design": {
+    "primary_color": "#1E3A5F",
+    "accent_color": "#C0986B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

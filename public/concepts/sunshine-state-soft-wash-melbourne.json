@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Sunshine State Soft Wash",
+    "phone": "(321) 345-1910",
+    "email": "sunshinestatesoftwash@gmail.com",
+    "city": "Melbourne",
+    "state": "FL",
+    "industry": "pressure washer",
+    "tagline": "Bringing back the shine, one wash at a time",
+    "logo_url": "",
+    "google_rating": "5 stars (132 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=4636026068336067704&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your roof looks *brand new* — neighbors are gonna ask",
+    "subheadline": "Melbourne's soft wash pros who show up early and leave your property looking like you just moved in.",
+    "cta_primary": "Get Your Free Quote",
+    "cta_secondary": "Call (321) 345-1910"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "130+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Melbourne Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WASH",
+    "heading": "Every surface, every stain, every time",
+    "subheading": "From moldy roofs to stained driveways — we bring it all back to life"
+  },
+  "services": [
+    {
+      "title": "Soft Wash Roof Cleaning",
+      "description": "Gentle, effective cleaning that removes mold and stains without damaging shingles. Your roof will look brand new.",
+      "icon": "home"
+    },
+    {
+      "title": "Driveway & Walkway Cleaning",
+      "description": "Blast away oil stains, mold, and grime. Transform cracked concrete into surfaces that look freshly poured.",
+      "icon": "droplet"
+    },
+    {
+      "title": "House Exterior Washing",
+      "description": "Complete home exterior cleaning that removes years of buildup. Siding, trim, and outdoor surfaces restored.",
+      "icon": "shield"
+    },
+    {
+      "title": "Commercial Property Cleaning",
+      "description": "Keep your business looking professional with regular exterior maintenance and pressure washing services.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Melbourne's trusted wash crew",
+    "body": "We're the team your neighbors call when they want their property to look like new. Real pros, fair quotes, outstanding results."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Melbourne homeowners are saying"
+  },
+  "reviews": [
+    {
+      "name": "Robert",
+      "location": "Melbourne, FL",
+      "text": "Ben and his crew did an amazing job on our house and driveway. Very friendly, easy to schedule, and the finished product looked new. Can't believe how clean our roof looks.",
+      "rating": 5
+    },
+    {
+      "name": "Donna P.",
+      "location": "Melbourne, FL",
+      "text": "So professional and did a great job. Fair quote and very happy with the work on my walkways and driveway. Photos don't do justice to the transformation.",
+      "rating": 5
+    },
+    {
+      "name": "TunedF82",
+      "location": "Melbourne, FL",
+      "text": "Tremendous job soft washing our roof. Benjamin and his partner were friendly and easy going. Quality work made a huge difference — roof looks brand new.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Melbourne and surrounding areas",
+    "subheading": "Professional soft wash and pressure cleaning throughout Brevard County",
+    "areas": [
+      "Melbourne",
+      "Palm Bay",
+      "Rockledge",
+      "Cocoa",
+      "Titusville",
+      "Merritt Island",
+      "Satellite Beach",
+      "Indian Harbour Beach"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for that brand-new look?",
+    "body": "Join 130+ happy Melbourne homeowners. Free quotes, fair pricing, and results that make your neighbors jealous.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (321) 345-1910"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#EF4444",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

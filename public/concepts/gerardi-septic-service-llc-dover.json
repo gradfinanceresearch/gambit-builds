@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Gerardi Septic Service LLC",
+    "phone": "(302) 242-6599",
+    "email": "ngerardi2878@gmail.com",
+    "city": "Dover",
+    "state": "DE",
+    "industry": "septic service",
+    "tagline": "Dover's trusted septic experts",
+    "logo_url": "",
+    "google_rating": "5 stars (5 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=13525941624967609540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your septic *acts up*, we show up",
+    "subheadline": "30+ years keeping Dover systems running clean",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Complete Septic Solutions",
+    "subheading": "From pumping to full system installs"
+  },
+  "services": [
+    {
+      "title": "Septic Pumping",
+      "description": "Regular maintenance pumping to keep your system healthy and prevent costly backups.",
+      "icon": "droplet"
+    },
+    {
+      "title": "System Installation",
+      "description": "New septic system design and installation with proper permits and cleanup.",
+      "icon": "home"
+    },
+    {
+      "title": "Repairs & Troubleshooting",
+      "description": "Diagnose problems and fix what's broken before small issues become big ones.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Inspections",
+      "description": "Thorough system evaluations for home sales, compliance, or peace of mind.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Three Decades in the Ground",
+    "body": "We're Dover septic specialists who explain what's happening and get it fixed right. One call, one crew, one bill."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Dover Says"
+  },
+  "reviews": [
+    {
+      "name": "Tasha W.",
+      "location": "Dover, DE",
+      "text": "The owner came out to check my septic issues. Very informative and helpful explaining what was happening and what I needed to do next.",
+      "rating": 5
+    },
+    {
+      "name": "Kimberly C.",
+      "location": "Dover, DE",
+      "text": "Installed a new septic system for us. Good communication, timely, explained the process well. Professional and cleaned up after the job.",
+      "rating": 5
+    },
+    {
+      "name": "Melodie G.",
+      "location": "Dover, DE",
+      "text": "Great work. Very dependable and gets the job done fast. Over 30 years experience.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Central Delaware",
+    "subheading": "Fast response throughout Kent County",
+    "areas": [
+      "Dover",
+      "Smyrna",
+      "Milford",
+      "Camden",
+      "Clayton",
+      "Cheswold",
+      "Magnolia",
+      "Harrington"
+    ]
+  },
+  "cta": {
+    "heading": "Septic Problem? We Handle It",
+    "body": "From routine pumping to emergency repairs. Licensed septic pros ready to help.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (302) 242-6599"
+  },
+  "design": {
+    "primary_color": "#5B21B6",
+    "accent_color": "#10B981",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

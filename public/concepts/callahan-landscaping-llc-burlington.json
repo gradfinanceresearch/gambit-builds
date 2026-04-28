@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "Callahan Landscaping LLC",
+    "phone": "(802) 503-9275",
+    "email": "huntercallahanlandscaping@gmail.com",
+    "city": "Burlington",
+    "state": "VT",
+    "industry": "landscaper",
+    "tagline": "Keeping Burlington yards looking their best",
+    "logo_url": "",
+    "google_rating": "5 stars (5 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=11763830305844951124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your yard *should look this good* every week",
+    "subheadline": "Owner-operated lawn care that shows up on time and gets it right the first time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Burlington Team"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Weekly mowing and yard cleanup",
+    "subheading": "Everything you need to keep your property looking sharp"
+  },
+  "services": [
+    {
+      "title": "Landscape Design & Installation",
+      "description": "Custom landscape design and professional installation services to transform your outdoor space with beautiful plants, hardscaping, and seasonal elements tailored to Vermont's climate.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Lawn Care & Maintenance",
+      "description": "Comprehensive lawn care including mowing, fertilization, aeration, and seasonal cleanup to keep your property looking pristine throughout the year.",
+      "icon": "fan"
+    },
+    {
+      "title": "Hardscaping & Stonework",
+      "description": "Expert installation of patios, walkways, retaining walls, and stone features using quality materials that withstand Vermont's weather conditions.",
+      "icon": "brick"
+    },
+    {
+      "title": "Tree & Shrub Services",
+      "description": "Professional tree and shrub pruning, planting, and removal services to maintain healthy growth and enhance your landscape's natural beauty.",
+      "icon": "saw"
+    },
+    {
+      "title": "Irrigation Systems",
+      "description": "Design and installation of efficient irrigation systems to keep your landscape properly watered while conserving water and reducing maintenance.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Owner-operated in Burlington",
+    "body": "Hunter runs every job personally. When you call, you get the owner — not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Burlington homeowners are saying"
+  },
+  "reviews": [
+    {
+      "name": "Tammy P.",
+      "location": "Burlington, VT",
+      "text": "Weekly mowings always looked amazing. Had him do brush removal too — loved the results. Very professional and reliable.",
+      "rating": 5
+    },
+    {
+      "name": "Breanna P.",
+      "location": "Burlington, VT",
+      "text": "Such a great experience! Keeping up with our yard was overwhelming, but they made it easy. Lawn looks the best it has since we moved in.",
+      "rating": 5
+    },
+    {
+      "name": "Steph M.",
+      "location": "Burlington, VT",
+      "text": "Always showed up on time, professional and easy to work with. Quality work at very fair pricing. Highly recommend!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Burlington and surrounding areas",
+    "subheading": "Professional landscaping throughout Chittenden County",
+    "areas": [
+      "Burlington",
+      "South Burlington",
+      "Colchester",
+      "Essex",
+      "Winooski",
+      "Shelburne",
+      "St. Albans",
+      "Montpelier"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a yard that looks this good?",
+    "body": "Get your free quote today. No pressure, just honest pricing for quality work.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (802) 503-9275"
+  },
+  "design": {
+    "primary_color": "#9A3412",
+    "accent_color": "#059669",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

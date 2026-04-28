@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Sharp lawn care",
+    "phone": "(614) 599-0071",
+    "email": "office@sharplawncare.com",
+    "city": "Columbus",
+    "state": "OH",
+    "industry": "landscaper",
+    "tagline": "Columbus yards, handled right",
+    "logo_url": "",
+    "google_rating": "5 stars (74 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=17479946101306561672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Sharp* results when your HOA's watching",
+    "subheadline": "Fair pricing, hard work, and we show up when we say we will.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (614) 599-0071"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "70+ Google Reviews"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Columbus Team"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Everything your yard needs",
+    "subheading": "From cleanup to mulching to making the grass grow where it should"
+  },
+  "services": [
+    {
+      "title": "Lawn Cleanup & Maintenance",
+      "description": "Remove dead weeds, trim overgrown areas, edge beds, and get everything looking neat again.",
+      "icon": "home"
+    },
+    {
+      "title": "Mulching & Garden Beds",
+      "description": "Fresh mulch installation, garden bed repairs, and fixing areas that have collapsed or shifted.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Tree & Shrub Trimming",
+      "description": "Major trimming work for overgrown trees and shrubs that need professional attention.",
+      "icon": "saw"
+    },
+    {
+      "title": "Grass Seeding & Repair",
+      "description": "Seed bare spots, repair damaged areas, and help new grass take root properly.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Columbus yards handled right",
+    "body": "We're the Columbus landscaping team that shows up, gives you an honest price, and does the work right the first time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbus homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Alejandro B.",
+      "location": "Columbus, OH",
+      "text": "HOA was harassing me about my front lawn. Alex gave me an affordable quote and did amazing work - major tree trimming, removed dead weeds, fresh mulch. Looks incredible now.",
+      "rating": 5
+    },
+    {
+      "name": "SunflowerMamma H.",
+      "location": "Columbus, OH",
+      "text": "Great mulching and edging work. Fixed our collapsed garden bed and seeded grass areas. Fair pricing, dependable, hard worker. Grass is already growing!",
+      "rating": 5
+    },
+    {
+      "name": "yooo C.",
+      "location": "Columbus, OH",
+      "text": "My yard was very messy before Alex's cleanup work. Now everything is neat and organized. Highly recommended!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Columbus and surrounding areas",
+    "subheading": "Professional landscaping throughout central Ohio",
+    "areas": [
+      "Columbus",
+      "Dublin",
+      "Westerville",
+      "Upper Arlington",
+      "Bexley",
+      "Worthington",
+      "Hilliard",
+      "Reynoldsburg",
+      "Grove City",
+      "Gahanna"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your yard handled?",
+    "body": "Free quotes, fair pricing, and work that actually gets finished. Call or message us today.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

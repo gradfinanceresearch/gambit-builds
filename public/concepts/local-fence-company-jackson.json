@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Local Fence Company",
+    "phone": "(978) 376-6020",
+    "email": "dan@localfencecompany.com",
+    "city": "Jackson",
+    "state": "MS",
+    "industry": "fence installer",
+    "tagline": "Built to last, installed right",
+    "logo_url": "",
+    "google_rating": "5 stars (84 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=1196735412537784835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your Jackson fence crew that *actually shows up*",
+    "subheadline": "From privacy to picket — we handle the whole job while you handle everything else.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "80+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Jackson Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every fence type, done right",
+    "subheading": "From planning to cleanup, we handle it all"
+  },
+  "services": [
+    {
+      "title": "Privacy Fence Installation",
+      "description": "Wood, vinyl, or composite privacy fencing. Custom heights and styles to match your property.",
+      "icon": "home"
+    },
+    {
+      "title": "Chain Link & Security",
+      "description": "Residential and commercial chain link. Gates, posts, and accessories included.",
+      "icon": "shield"
+    },
+    {
+      "title": "Decorative & Picket Fencing",
+      "description": "Traditional picket, ornamental iron, and custom decorative fencing solutions.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Fence Repair & Replacement",
+      "description": "Storm damage, rotted posts, or sagging gates. We fix what's broken.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Dan and the Jackson fence team",
+    "body": "We're the Jackson fence crew that shows up when we say we will. One call gets you from quote to finished fence — no runaround."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Jackson neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Laura G.",
+      "location": "Jackson, MS",
+      "text": "Dan and his team were fantastic! They fit us into their schedule quickly, stayed communicative, and even handled an extra part we hadn't planned. The fence looks beautiful and is exactly what we wanted!",
+      "rating": 5
+    },
+    {
+      "name": "Paula S.",
+      "location": "Jackson, MS",
+      "text": "So impressed with the product and service from Local Fence. Dan made the whole process easy — arrived on time, listened to my needs, responded quickly to questions, and kept me informed throughout.",
+      "rating": 5
+    },
+    {
+      "name": "Lydia C.",
+      "location": "Jackson, MS",
+      "text": "Dan answers questions immediately and does great work. He was willing to change a decision I made partway through the project. The cedar fence looks great and is very strongly built.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Jackson and surrounding areas",
+    "subheading": "Local team, local knowledge",
+    "areas": [
+      "Jackson",
+      "Pearl",
+      "Flowood",
+      "Ridgeland",
+      "Brandon",
+      "Clinton",
+      "Terry",
+      "Byram"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for that new fence?",
+    "body": "Free estimates, honest pricing, and the fence gets done right the first time. Call Dan or shoot us a message.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (978) 376-6020"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#EF4444",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

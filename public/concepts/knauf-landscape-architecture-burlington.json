@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "Knauf Landscape Architecture",
+    "phone": "(802) 522-0676",
+    "email": "cynthia@cynthiaknauf.com",
+    "city": "Burlington",
+    "state": "VT",
+    "industry": "landscaper",
+    "tagline": "Inspired design solutions for Vermont landscapes",
+    "logo_url": "",
+    "google_rating": "4.5 stars (8 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=5706186812965663652&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Where *art meets earth* in the Green Mountains",
+    "subheadline": "Memorial gardens, sculpture spaces, rain gardens — each design inspired by your vision and Vermont's natural beauty.",
+    "cta_primary": "Schedule Consultation",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.5★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Burlington Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    }
+  ],
+  "services_section": {
+    "label": "DESIGN SOLUTIONS",
+    "heading": "Every landscape tells a story",
+    "subheading": "From intimate memorial gardens to expansive resort planning"
+  },
+  "services": [
+    {
+      "title": "Landscape Design & Planning",
+      "description": "Custom landscape design services tailored to Vermont's unique climate and terrain, creating beautiful outdoor spaces that complement your property.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Hardscape Installation",
+      "description": "Professional installation of patios, walkways, retaining walls, and stone features using quality materials suited for Burlington's seasonal changes.",
+      "icon": "brick"
+    },
+    {
+      "title": "Plant Installation & Gardens",
+      "description": "Expert selection and installation of native Vermont plants, trees, and shrubs that thrive in our local growing conditions.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Lawn Care & Maintenance",
+      "description": "Comprehensive lawn care services including seeding, fertilization, and ongoing maintenance to keep your landscape looking its best year-round.",
+      "icon": "fan"
+    },
+    {
+      "title": "Irrigation Systems",
+      "description": "Design and installation of efficient irrigation systems to ensure your landscape stays healthy and vibrant throughout Vermont's growing season.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Cynthia Knauf, Landscape Architect",
+    "body": "A Burlington landscape architect bringing inspired design solutions to Vermont properties. Every project reflects careful attention to color, proportion, and natural flow."
+  },
+  "reviews_section": {
+    "label": "CLIENT VOICES",
+    "heading": "What our clients say"
+  },
+  "reviews": [
+    {
+      "name": "Penny M.",
+      "location": "Burlington, VT",
+      "text": "Exceptionally creative landscape architect. Her design solutions are inspired; her sense of color, proportion, and flow create beautiful spaces.",
+      "rating": 5
+    },
+    {
+      "name": "Leslie F.",
+      "location": "Winooski, VT",
+      "text": "Working with Cynthia transformed my 27-year sculpture garden project. What a difference her formal design expertise made.",
+      "rating": 5
+    },
+    {
+      "name": "Carolyn B.",
+      "location": "Burlington, VT",
+      "text": "Incredible landscape architect. She reorganized my three tiny gardens into rain gardens, cutting gardens, and butterfly spaces using all local plants.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE AREAS",
+    "heading": "Serving Vermont's Champlain Valley",
+    "subheading": "Landscape architecture throughout northwestern Vermont",
+    "areas": [
+      "Burlington",
+      "South Burlington",
+      "Winooski",
+      "Colchester",
+      "Essex",
+      "Shelburne",
+      "Charlotte",
+      "Hinesburg",
+      "Richmond",
+      "Williston"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to transform your landscape?",
+    "body": "Let's discuss your vision and explore design solutions that bring out the natural beauty of your Vermont property.",
+    "cta_primary": "Schedule Consultation",
+    "cta_secondary": "Call (802) 522-0676"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "editorial"
+  }
+}

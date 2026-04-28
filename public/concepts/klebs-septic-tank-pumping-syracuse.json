@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Klebs Septic Tank Pumping",
+    "phone": "(315) 298-5831",
+    "email": "info@klebstanks.com",
+    "city": "Syracuse",
+    "state": "NY",
+    "industry": "septic service",
+    "tagline": "Syracuse's septic specialists",
+    "logo_url": "",
+    "google_rating": "5 stars (11 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=11319114883829650984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your septic needs pumping, *we dig in*",
+    "subheadline": "5★ rated Syracuse septic team — we'll dig to your access port or quote you to do it",
+    "cta_primary": "Get Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "10+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Septic Services Done Right",
+    "subheading": "From pumping to access port digging — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Septic Tank Pumping",
+      "description": "Complete tank pumping and cleaning. We make sure it's clean with no clogs.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Access Port Location",
+      "description": "Can't find your septic access? We'll dig it up or quote you for the dig.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Tank Inspections",
+      "description": "Full septic system inspections to catch problems before they get expensive.",
+      "icon": "shield"
+    },
+    {
+      "title": "Emergency Service",
+      "description": "Septic backup? We respond fast to get your system working again.",
+      "icon": "zap"
+    }
+  ],
+  "about": {
+    "heading": "Hard Working, Honest Service",
+    "body": "We're the Syracuse septic team that shows up when we say we will. One call gets you straight answers and upfront pricing."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Syracuse Says"
+  },
+  "reviews": [
+    {
+      "name": "Jasmine",
+      "location": "Syracuse, NY",
+      "text": "Came to my home within 24 hours, did a great job making sure the tank was clean with no clogs.",
+      "rating": 5
+    },
+    {
+      "name": "Nyle L.",
+      "location": "Syracuse, NY",
+      "text": "Very hard working and honest company. They'll dig up your septic access port or quote you to do it. Highly recommend.",
+      "rating": 5
+    },
+    {
+      "name": "Henry V.",
+      "location": "Syracuse, NY",
+      "text": "They are the best — came right out and did a great job.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Syracuse & Surrounding Areas",
+    "subheading": "Professional septic service throughout Central NY",
+    "areas": [
+      "Syracuse",
+      "Liverpool",
+      "Baldwinsville",
+      "Camillus",
+      "East Syracuse",
+      "North Syracuse",
+      "Cicero",
+      "Clay",
+      "Manlius",
+      "DeWitt"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Schedule Your Septic Service?",
+    "body": "Get your free quote today. We'll handle the dirty work so you don't have to.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (315) 298-5831"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#EF4444",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

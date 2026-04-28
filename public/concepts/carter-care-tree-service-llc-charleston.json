@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Carter Care Tree Service, LLC",
+    "phone": "(304) 807-0673",
+    "email": "cartertreeservicellc@gmail.com",
+    "city": "Charleston",
+    "state": "WV",
+    "industry": "tree service",
+    "tagline": "Expert tree care when Charleston needs it most",
+    "logo_url": "",
+    "google_rating": "4.9 stars (30 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=609243911725912723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Trees down? *We're already on the way.*",
+    "subheadline": "Storm damage, dangerous limbs, or roots cracking your foundation — Aaron and the crew handle what other companies won't touch.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Charleston Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every tree situation — handled",
+    "subheading": "From storm cleanup to foundation-threatening roots"
+  },
+  "services": [
+    {
+      "title": "Emergency Tree Removal",
+      "description": "Trees on houses, blocking driveways, or tangled in power lines. We clear the damage so you can get back to normal.",
+      "icon": "saw"
+    },
+    {
+      "title": "Dangerous Tree Assessment",
+      "description": "Leaning trees, dead limbs, or anything that keeps you up during storms. We identify problems before they become disasters.",
+      "icon": "shield"
+    },
+    {
+      "title": "Root System Management",
+      "description": "Roots cracking foundations or lifting driveways. Strategic removal that saves your property without killing the tree.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Storm Damage Cleanup",
+      "description": "Full yard restoration after severe weather. Debris removal, damaged tree care, and getting your property back in shape.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Real expertise, real equipment, real results",
+    "body": "Aaron and the Carter Care crew handle the complex, dangerous tree work that Charleston properties demand. One call gets you skilled professionals who show up ready to work."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Charleston neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Robin G.",
+      "location": "Charleston, WV",
+      "text": "Aaron has done numerous jobs for me and my Mom. Very professional and knowledgeable about all things trees. When Mom had a tree fall after a storm, he was there within 2 hours to remove it from the driveway.",
+      "rating": 5
+    },
+    {
+      "name": "Charles T.",
+      "location": "Charleston, WV",
+      "text": "Carter Care helped my grandma with trees that bothered her during storms. Very professional and the work was absolutely top notch. 10/10 recommend for any tree clearing needs.",
+      "rating": 5
+    },
+    {
+      "name": "Clif B.",
+      "location": "Charleston, WV",
+      "text": "Aaron and his team are highly skilled, professional, and courteous. They did a remarkable job removing 6 very complex and dangerous trees. Highly recommend.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Charleston and surrounding areas",
+    "subheading": "Professional tree care throughout the Kanawha Valley",
+    "areas": [
+      "Charleston",
+      "South Charleston",
+      "Hurricane",
+      "Nitro",
+      "Cross Lanes",
+      "Dunbar",
+      "St. Albans",
+      "Sissonville"
+    ]
+  },
+  "cta": {
+    "heading": "Tree problems don't wait — neither should you",
+    "body": "Get honest assessment and upfront pricing. Aaron personally handles every estimate and explains exactly what needs done.",
+    "cta_primary": "Get Your Free Estimate",
+    "cta_secondary": "Call (304) 807-0673"
+  },
+  "design": {
+    "primary_color": "#065F46",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

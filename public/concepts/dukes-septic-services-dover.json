@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Dukes Septic Services",
+    "phone": "(302) 362-7376",
+    "email": "dukesseptic@gmail.com",
+    "city": "Dover",
+    "state": "DE",
+    "industry": "septic service",
+    "tagline": "When your system backs up, we show up",
+    "logo_url": "",
+    "google_rating": "4.2 stars (20 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=1708605540332917289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When Dover's septic backs up — *we show up*",
+    "subheadline": "Same day service. Real people answering the phone. No week-long waits.",
+    "cta_primary": "Get Service Today",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.2★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "20+ Google Reviews"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Septic problems solved",
+    "subheading": "From routine pumping to emergency repairs — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Septic Pumping",
+      "description": "Regular tank pumping to keep your system running smooth. We'll remind you when it's time for the next one.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Emergency Repairs",
+      "description": "System backed up? Alarm going off? We come out fast and fix it right the first time.",
+      "icon": "wrench"
+    },
+    {
+      "title": "System Inspections",
+      "description": "Full system checkups to catch problems before they become expensive disasters.",
+      "icon": "shield"
+    },
+    {
+      "title": "Drain Field Service",
+      "description": "Drain field problems diagnosed and repaired. We'll tell you exactly what needs fixing and why.",
+      "icon": "pipe"
+    }
+  ],
+  "about": {
+    "heading": "Dover septic team that answers the phone",
+    "body": "We're the Dover septic crew that shows up when scheduled and explains everything in plain English. No week-long waits when your system backs up."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Dover neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Wesley P.",
+      "location": "Dover, DE",
+      "text": "Extremely impressed with their prompt attention. Called around and no one could help for a week — Dukes came right out.",
+      "rating": 5
+    },
+    {
+      "name": "Brian B.",
+      "location": "Dover, DE",
+      "text": "Showed up when scheduled, quick service, explained everything clearly. Great suggestions for keeping an eye on things.",
+      "rating": 5
+    },
+    {
+      "name": "Patricia P.",
+      "location": "Dover, DE",
+      "text": "They tried to help over the phone first — for free! When that didn't work, came right out and solved it for a fair price.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Dover and surrounding areas",
+    "subheading": "Fast response throughout central Delaware",
+    "areas": [
+      "Dover",
+      "Smyrna",
+      "Camden",
+      "Wyoming",
+      "Magnolia",
+      "Harrington",
+      "Milford",
+      "Felton"
+    ]
+  },
+  "cta": {
+    "heading": "Septic problem? We're on our way",
+    "body": "Don't wait a week for service. Call Dover's septic team that actually picks up the phone and shows up when we say we will.",
+    "cta_primary": "Schedule Service",
+    "cta_secondary": "Call (302) 362-7376"
+  },
+  "design": {
+    "primary_color": "#5B21B6",
+    "accent_color": "#10B981",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

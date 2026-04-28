@@ -6,7 +6,7 @@
     "city": "Bowling Green",
     "state": "KY",
     "industry": "driveway paving",
-    "tagline": "Solid work that lasts",
+    "tagline": "Solid concrete work that lasts",
     "logo_url": "",
     "google_rating": "5 stars (2 reviews)",
     "years_in_business": "",
@@ -16,9 +16,9 @@
     "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
   },
   "hero": {
-    "headline": "*Concrete done right* the first time",
-    "subheadline": "Driveways, sidewalks, and porches that stand up to Kentucky weather.",
-    "cta_primary": "Get Your Quote",
+    "headline": "*Driveways that last* — concrete done right",
+    "subheadline": "From fresh pour to final finish, we handle every square foot with care.",
+    "cta_primary": "Get Free Estimate",
     "cta_secondary": "Call Now"
   },
   "trust_badges": [
@@ -27,79 +27,80 @@
       "text": "Licensed & Insured"
     },
     {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
       "icon": "star",
       "text": "5.0★ on Google"
     },
     {
-      "icon": "mappin",
-      "text": "Local Bowling Green Team"
-    },
-    {
-      "icon": "check",
-      "text": "Free Estimates"
+      "icon": "phone",
+      "text": "Same-Day Quotes"
     }
   ],
   "services_section": {
     "label": "THE WORK",
     "heading": "Concrete & Paving Services",
-    "subheading": "From residential driveways to commercial projects"
+    "subheading": "Every job gets the same attention to detail"
   },
   "services": [
     {
       "title": "Driveway Installation",
-      "description": "New concrete driveways built to handle traffic and weather. Proper prep, quality materials, clean finish.",
+      "description": "New concrete driveways built to handle Kentucky weather and heavy loads.",
       "icon": "home"
     },
     {
-      "title": "Sidewalk & Walkway",
-      "description": "Safe, level walkways that connect your spaces. ADA compliant when needed.",
+      "title": "Sidewalk & Walkway Concrete",
+      "description": "Safe, level walkways that connect your spaces seamlessly.",
       "icon": "ruler"
     },
     {
       "title": "Porch Extensions",
-      "description": "Expand your outdoor living space with poured concrete porches and patios.",
-      "icon": "brick"
+      "description": "Expand your outdoor living space with quality concrete work.",
+      "icon": "hammer"
     },
     {
       "title": "Concrete Repair",
-      "description": "Fix cracks, settling, and damage before small problems become big ones.",
+      "description": "Fix cracks, settling, and damage before it gets worse.",
       "icon": "wrench"
     }
   ],
   "about": {
     "heading": "Built for Bowling Green",
-    "body": "We're a local concrete team that shows up when we say we will. One call gets you straight answers about your project."
+    "body": "We're a local concrete team that shows up when we say we will. One call, one crew, one solid job."
   },
   "reviews_section": {
     "label": "WORD OF MOUTH",
-    "heading": "What Customers Say"
+    "heading": "What Our Customers Say"
   },
   "reviews": [
     {
       "name": "Almina K.",
       "location": "Bowling Green, KY",
-      "text": "Great service and work. They extended my porch and sidewalk — really love it. Would recommend them to anyone.",
+      "text": "Great service and great work. They extended my porch and sidewalk — really love how it turned out. Would recommend them to anyone.",
       "rating": 5
     }
   ],
   "service_areas": {
-    "label": "COVERAGE AREA",
+    "label": "WHERE WE WORK",
     "heading": "Serving Bowling Green & Surrounding Areas",
-    "subheading": "Local concrete work throughout south-central Kentucky",
+    "subheading": "Quality concrete work throughout south-central Kentucky",
     "areas": [
       "Bowling Green",
       "Franklin",
       "Scottsville",
-      "Russellville",
-      "Auburn",
-      "Alvaton",
-      "Smiths Grove"
+      "Glasgow",
+      "Cave City",
+      "Park City",
+      "Smiths Grove",
+      "Alvaton"
     ]
   },
   "cta": {
     "heading": "Ready to start your concrete project?",
-    "body": "Get an honest quote for your driveway, sidewalk, or porch project. We'll walk the site and give you straight pricing.",
-    "cta_primary": "Get Free Estimate",
+    "body": "Free estimates on all concrete and paving work. Call today or request a quote online.",
+    "cta_primary": "Get Free Quote",
     "cta_secondary": "Call (270) 792-8798"
   },
   "design": {

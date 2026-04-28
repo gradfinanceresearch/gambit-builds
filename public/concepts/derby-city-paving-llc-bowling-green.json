@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Derby City Paving, LLC",
+    "phone": "(502) 694-7283",
+    "email": "derbycitypavingky@gmail.com",
+    "city": "Bowling Green",
+    "state": "KY",
+    "industry": "driveway paving",
+    "tagline": "Smooth driveways that last",
+    "logo_url": "",
+    "google_rating": "4.1 stars (38 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=16877550790623438217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your driveway — *done right* the first time",
+    "subheadline": "Owner on-site for every job. No shortcuts, no surprises.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.1★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Asphalt that holds up",
+    "subheading": "From tear-out to final roll, we handle every step"
+  },
+  "services": [
+    {
+      "title": "New Driveway Installation",
+      "description": "Complete tear-out and fresh asphalt. Proper base prep means it lasts decades.",
+      "icon": "home"
+    },
+    {
+      "title": "Driveway Repair",
+      "description": "Cracks, potholes, and edge damage fixed right. No Band-Aid solutions.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Sealcoating",
+      "description": "Protective coating that keeps weather and wear from breaking down your asphalt.",
+      "icon": "shield"
+    },
+    {
+      "title": "Parking Lot Paving",
+      "description": "Commercial lots built to handle heavy traffic and last for years.",
+      "icon": "ruler"
+    }
+  ],
+  "about": {
+    "heading": "Family business, generational knowledge",
+    "body": "We're a Bowling Green paving team with decades of combined experience. Owner stays on-site for every job."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Chad S.",
+      "location": "Bowling Green, KY",
+      "text": "10/10 on the entire process. Owner showed up for estimate and stayed on location the entire time. Lifetime industry experience shows — he knew exactly what he was doing.",
+      "rating": 5
+    },
+    {
+      "name": "Sandi C.",
+      "location": "Bowling Green, KY",
+      "text": "Got to work immediately, worked as a seamless team, finished within timeframe. Took excellent care of our property and did amazing work.",
+      "rating": 5
+    },
+    {
+      "name": "James C.",
+      "location": "Bowling Green, KY",
+      "text": "Local, family owned business delivered fair pricing and high quality work. Impressed by all the little touches they did right. Highly recommend.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Bowling Green and beyond",
+    "subheading": "Local crew, regional reach",
+    "areas": [
+      "Bowling Green",
+      "Franklin",
+      "Scottsville",
+      "Glasgow",
+      "Russellville",
+      "Morgantown",
+      "Auburn",
+      "Alvaton"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a driveway that lasts?",
+    "body": "Free estimates. Owner meets you personally. Work starts when we say it will.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (502) 694-7283"
+  },
+  "design": {
+    "primary_color": "#1A5632",
+    "accent_color": "#D4A843",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

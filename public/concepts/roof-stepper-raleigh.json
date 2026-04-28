@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Roof Stepper",
+    "phone": "(984) 274-5170",
+    "email": "info@roofsteppers.com",
+    "city": "Raleigh",
+    "state": "NC",
+    "industry": "roofer",
+    "tagline": "When Raleigh roofs need fixing, they call Houston",
+    "logo_url": "",
+    "google_rating": "5 stars (106 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=8725117091190205633&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your roof *actually* needs help",
+    "subheadline": "Houston's here with real answers — not estimates you never asked for.",
+    "cta_primary": "Get Your Roof Checked",
+    "cta_secondary": "Call Houston"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "100+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Raleigh Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every part of your roof system",
+    "subheading": "From leak detection to full replacement — handled right the first time"
+  },
+  "services": [
+    {
+      "title": "Roof Inspection & Leak Detection",
+      "description": "Full roof assessment to find exactly what's wrong. No surprises, no upselling.",
+      "icon": "home"
+    },
+    {
+      "title": "Roof Replacement",
+      "description": "Complete tear-off and installation with integrated systems for better protection.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Storm Damage Repair",
+      "description": "Quick response for emergency repairs and insurance claim support.",
+      "icon": "shield"
+    },
+    {
+      "title": "Shingle Replacement",
+      "description": "Individual shingle repair and replacement to stop leaks before they spread.",
+      "icon": "brick"
+    }
+  ],
+  "about": {
+    "heading": "Houston answers his phone",
+    "body": "We're a Raleigh roofing team that shows up when we say we will. One call gets you Houston, not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Raleigh homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Harry P.",
+      "location": "Raleigh, NC",
+      "text": "Found a wet spot in my garage ceiling and needed someone fast. Houston responded quickly and did a complete roof inspection to locate the problem.",
+      "rating": 5
+    },
+    {
+      "name": "Michelle F.",
+      "location": "Raleigh, NC",
+      "text": "Houston and his team were fantastic. Picked them for their reviews and thoroughness — they delivered. Great communication from start to finish.",
+      "rating": 5
+    },
+    {
+      "name": "Jarrod S.",
+      "location": "Raleigh, NC",
+      "text": "Houston's team did an amazing job replacing my roof. His knowledge gave my home a much needed upgrade with better protection and appeal.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where we work in the Triangle",
+    "subheading": "Houston covers Raleigh and surrounding communities",
+    "areas": [
+      "Raleigh",
+      "Cary",
+      "Apex",
+      "Wake Forest",
+      "Garner",
+      "Knightdale",
+      "Durham",
+      "Chapel Hill"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix what's actually wrong?",
+    "body": "Call Houston directly. Real inspection, honest assessment, upfront pricing.",
+    "cta_primary": "Schedule Inspection",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

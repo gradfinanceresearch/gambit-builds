@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Bell Fence Jackson",
+    "phone": "(601) 948-8323",
+    "email": "raccardo@bellfence.com",
+    "city": "Jackson",
+    "state": "MS",
+    "industry": "fence installer",
+    "tagline": "Jackson's fence and access control experts",
+    "logo_url": "",
+    "google_rating": "4.6 stars (18 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=7748923427641653697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Jackson's go-to for *fence and access control*",
+    "subheadline": "From backyard privacy to commercial security — we stock it, we know it, we install it right.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.6★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Jackson Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE DO",
+    "heading": "Complete Fence Solutions",
+    "subheading": "From materials to installation, we handle every part of your project"
+  },
+  "services": [
+    {
+      "title": "Residential Fencing",
+      "description": "Privacy, security, and property line fencing for Jackson homeowners. Wood, vinyl, chain link, and ornamental options.",
+      "icon": "home"
+    },
+    {
+      "title": "Commercial Fencing",
+      "description": "Security perimeters, access control, and industrial fencing solutions for businesses and facilities.",
+      "icon": "shield"
+    },
+    {
+      "title": "Access Control Systems",
+      "description": "Gates, keypads, card readers, and automated entry systems. We know what works best for your location.",
+      "icon": "zap"
+    },
+    {
+      "title": "Fence Materials & Supplies",
+      "description": "Complete inventory of fencing materials, posts, hardware, and accessories. Easy in-and-out pickup.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "The Jackson Fence Team",
+    "body": "We're the Jackson fence company that contractors and homeowners both trust. James, Hans, and the whole crew know materials, installations, and access control inside and out."
+  },
+  "reviews_section": {
+    "label": "WORD FROM CUSTOMERS",
+    "heading": "What Jackson Says"
+  },
+  "reviews": [
+    {
+      "name": "William C.",
+      "location": "Jackson, MS",
+      "text": "Very knowledgeable and great service. 10/10 recommend for any material needs.",
+      "rating": 5
+    },
+    {
+      "name": "Deagan S.",
+      "location": "Jackson, MS",
+      "text": "Always quick to help and knowledgeable. James and Hans specifically go above and beyond. Highly recommend for fencing materials.",
+      "rating": 5
+    },
+    {
+      "name": "Gerald K.",
+      "location": "Jackson, MS",
+      "text": "Bell Fence has it all. Local, decent pricing, knowledgeable guys. When I need fencing, I'll definitely go back.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Jackson & Surrounding Areas",
+    "subheading": "Local fence installation and materials throughout the metro area",
+    "areas": [
+      "Jackson",
+      "Pearl",
+      "Brandon",
+      "Clinton",
+      "Ridgeland",
+      "Madison",
+      "Flowood",
+      "Terry",
+      "Byram",
+      "Richland"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Your Fence Project?",
+    "body": "Get honest pricing and expert advice from Jackson's fence professionals. Materials in stock, installation crews ready.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (601) 948-8323"
+  },
+  "design": {
+    "primary_color": "#0F4C75",
+    "accent_color": "#3EDBF0",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

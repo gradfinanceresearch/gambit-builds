@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Columbus Electric Solutions",
+    "phone": "(614) 324-4164",
+    "email": "office@cescolumbus.com",
+    "city": "Columbus",
+    "state": "OH",
+    "industry": "electrician",
+    "tagline": "Every outlet, panel, and wire — handled",
+    "logo_url": "",
+    "google_rating": "4.8 stars (17 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=11305378853516200496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Columbus Electric — *No Surprises*, Just Results",
+    "subheadline": "Licensed electricians who show up on time and stick to the quote. Your neighbors already trust us.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.8★ on Google"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Columbus Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Complete Electrical Services",
+    "subheading": "From outlet repairs to full rewiring projects"
+  },
+  "services": [
+    {
+      "title": "Home Rewiring",
+      "description": "Complete electrical updates for older homes. Modern wiring that handles today's appliances safely.",
+      "icon": "zap"
+    },
+    {
+      "title": "Panel Upgrades",
+      "description": "Electrical panel replacement and circuit additions. More power when you need it.",
+      "icon": "plug"
+    },
+    {
+      "title": "Lighting Installation",
+      "description": "Interior and exterior lighting solutions. New fixtures, switches, and controls.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Outlet & Switch Repair",
+      "description": "Fix dead outlets, flickering lights, and faulty switches. Fast diagnostic and repair.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Columbus Electricians You Can Count On",
+    "body": "We're a Columbus electrical team that shows up when we say we will. One call, fair quote, honest work."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbus Says About Us"
+  },
+  "reviews": [
+    {
+      "name": "Eddie H.",
+      "location": "Columbus, OH",
+      "text": "Totally dependable team. On time, fair quote, and stuck to it. Quick but thorough work. No surprises, just honest quality.",
+      "rating": 5
+    },
+    {
+      "name": "Lydia R.",
+      "location": "Columbus, OH",
+      "text": "Great job with home electrical work. The electrician was on time and very skilled at his job.",
+      "rating": 5
+    },
+    {
+      "name": "Alison L.",
+      "location": "Columbus, OH",
+      "text": "Love the updated wiring and lights. Excellent service and communication throughout.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Columbus & Surrounding Areas",
+    "subheading": "Licensed electrical service throughout central Ohio",
+    "areas": [
+      "Columbus",
+      "Dublin",
+      "Westerville",
+      "Reynoldsburg",
+      "Grove City",
+      "Hilliard",
+      "Upper Arlington",
+      "Bexley"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Reliable Electrical Work?",
+    "body": "Fair quotes, on-time service, and no surprises. Call today for your free estimate.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

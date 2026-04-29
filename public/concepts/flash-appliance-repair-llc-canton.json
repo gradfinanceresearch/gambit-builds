@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "Flash Appliance Repair LLC",
+    "phone": "(330) 883-1402",
+    "email": "flashapplianceoh@gmail.com",
+    "city": "Canton",
+    "state": "OH",
+    "industry": "appliance repair",
+    "tagline": "When your appliances quit, we don't",
+    "logo_url": "",
+    "google_rating": "4.9 stars (122 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=15180320826195959068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your appliances quit, *we don't*",
+    "subheadline": "Same-day service in Canton. Real fixes that last, not band-aids.",
+    "cta_primary": "Get Fixed Today",
+    "cta_secondary": "Call Joe Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "120+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Canton Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIXES",
+    "heading": "Every appliance, every problem",
+    "subheading": "From washers that won't spin to ovens that won't heat"
+  },
+  "services": [
+    {
+      "title": "Washer & Dryer Repair",
+      "description": "Not spinning, not draining, making weird noises? We fix what's broken, not what's fine.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Refrigerator Service",
+      "description": "Too warm, too cold, or making ice when it shouldn't. Quick diagnosis, real solutions.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Oven & Range Repair",
+      "description": "Gas or electric, stovetop or oven. If it should heat up and doesn't, we handle it.",
+      "icon": "flame"
+    },
+    {
+      "title": "Dishwasher Repair",
+      "description": "Not cleaning, not draining, not starting. Get back to clean dishes, not dirty headaches.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Small Appliance Service",
+      "description": "Microwaves, garbage disposals, and more. The stuff that breaks when you need it most.",
+      "icon": "zap"
+    }
+  ],
+  "about": {
+    "heading": "One call. Real answers.",
+    "body": "Canton appliance repair that shows up when we say we will. No runaround, no upselling — just honest fixes that work."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Canton says about Joe"
+  },
+  "reviews": [
+    {
+      "name": "Shawn R.",
+      "location": "Canton, OH",
+      "text": "Joe is awesome! Gets you scheduled as quick as possible. We've used him several times with great success. Excellent work!",
+      "rating": 5
+    },
+    {
+      "name": "BRENDA K.",
+      "location": "Canton, OH",
+      "text": "Very professional and extremely knowledgeable. Fixed my washer and oven — had everything running in less than an hour.",
+      "rating": 5
+    },
+    {
+      "name": "Elizabeth P.",
+      "location": "Canton, OH",
+      "text": "Fair pricing, professional manner, perfect timing — showed up when he said and got it done efficiently. Quality work combined with reliability.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Covering Canton and beyond",
+    "subheading": "Fast response across Stark County",
+    "areas": [
+      "Canton",
+      "Massillon",
+      "North Canton",
+      "Alliance",
+      "Louisville",
+      "Jackson Township",
+      "Perry Township",
+      "Plain Township"
+    ]
+  },
+  "cta": {
+    "heading": "Appliance down? We're up for it.",
+    "body": "Same-day service. Real fixes. No surprises. Call Joe and get back to normal.",
+    "cta_primary": "Schedule Repair",
+    "cta_secondary": "Call (330) 883-1402"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#EF4444",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

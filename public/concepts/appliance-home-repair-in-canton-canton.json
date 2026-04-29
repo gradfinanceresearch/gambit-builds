@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Appliance Home Repair in Canton",
+    "phone": "(404) 966-0469",
+    "email": "info@appliancerepaircanton.com",
+    "city": "Canton",
+    "state": "OH",
+    "industry": "appliance repair",
+    "tagline": "Same-day fixes, fair prices",
+    "logo_url": "",
+    "google_rating": "4.6 stars (33 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=9337198328043599331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Same-day repairs* — dishwasher to double oven",
+    "subheadline": "When your appliances quit, Sergiy shows up with the parts and know-how to get them running.",
+    "cta_primary": "Get Quote Today",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.6★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Canton Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every major appliance brand",
+    "subheading": "Refrigerators, washers, dishwashers, ovens — we diagnose fast and fix it right"
+  },
+  "services": [
+    {
+      "title": "Refrigerator & Freezer Repair",
+      "description": "Not cooling right? Making weird noises? We'll find what's broken and get your food cold again.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Washer & Dryer Service",
+      "description": "Won't spin, won't drain, won't start? We handle every washer and dryer problem.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Dishwasher Repair",
+      "description": "Not cleaning dishes or won't drain? Quick diagnosis and same-day fixes.",
+      "icon": "home"
+    },
+    {
+      "title": "Oven & Range Repair",
+      "description": "Gas or electric, single or double wall ovens. We fix heating issues and faulty controls.",
+      "icon": "flame"
+    }
+  ],
+  "about": {
+    "heading": "One tech, one truck, honest work",
+    "body": "Canton appliance repair with straight answers and fair pricing. We show up when we say we will."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Canton neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Shawn C.",
+      "location": "Canton, OH",
+      "text": "Sergiy repaired my washer twice and my double wall oven — same day service both times. Man of few words but knows his stuff!",
+      "rating": 5
+    },
+    {
+      "name": "Todd B.",
+      "location": "Canton, OH",
+      "text": "Fixed my dishwasher in under 30 minutes, came same day I called, charged about a third of what I expected. Highly recommend!",
+      "rating": 5
+    },
+    {
+      "name": "Anna Y.",
+      "location": "Canton, OH",
+      "text": "Same-day fridge repair. Professional, showed me the problem, gave cost upfront before any work. Definitely calling again.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Canton and surrounding areas",
+    "subheading": "Same-day service throughout Stark County",
+    "areas": [
+      "Canton",
+      "North Canton",
+      "Louisville",
+      "Alliance",
+      "Massillon",
+      "Jackson Township",
+      "Plain Township",
+      "Perry Township"
+    ]
+  },
+  "cta": {
+    "heading": "Appliance acting up? Let's fix it today",
+    "body": "Call now for same-day diagnosis and repair. Fair pricing, no surprises — just working appliances.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (404) 966-0469"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

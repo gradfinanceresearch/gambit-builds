@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Just Us Pools",
+    "phone": "(803) 809-2129",
+    "email": "justuspoolscola@gmail.com",
+    "city": "Columbia",
+    "state": "SC",
+    "industry": "pool service",
+    "tagline": "From swamp green to crystal clear",
+    "logo_url": "",
+    "google_rating": "4.9 stars (18 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=9361503428617504710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Green to blue* — that's what we do",
+    "subheadline": "Columbia's pool team that shows up when we say we will. No shortcuts, no excuses.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "18+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every pool, every problem",
+    "subheading": "We handle what needs handling"
+  },
+  "services": [
+    {
+      "title": "Weekly Pool Cleaning",
+      "description": "Skimming, vacuuming, chemical balancing. Your pool stays swim-ready week after week.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Chemical Treatment",
+      "description": "Green water turned crystal clear. We know exactly what chemicals to add and when.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Pool Equipment Repair",
+      "description": "Pumps, filters, heaters that quit working. We fix what's broken, replace what's done.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Emergency Pool Service",
+      "description": "When your pool goes from blue to green overnight. We get it back fast.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Columbia pool pros",
+    "body": "We're the local family team that answers the phone. One call gets you real people who know pools inside and out."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbia says"
+  },
+  "reviews": [
+    {
+      "name": "Vanessa S.",
+      "location": "Columbia, SC",
+      "text": "Bought our house in September and very happy with Just Us Pools. Great to deal with and kept our pool clean.",
+      "rating": 5
+    },
+    {
+      "name": "Mellissa E.",
+      "location": "Columbia, SC",
+      "text": "My new pool go-to company! Turned my pool from green to blue at a reasonable price. Knowledgeable and professional.",
+      "rating": 5
+    },
+    {
+      "name": "David R.",
+      "location": "Columbia, SC",
+      "text": "Pool was swamp green, now crystal clear. Great service with accurate knowledge. Locally and family owned.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where we work",
+    "subheading": "Columbia and surrounding areas",
+    "areas": [
+      "Columbia",
+      "West Columbia",
+      "Cayce",
+      "Forest Acres",
+      "Irmo",
+      "Lexington",
+      "Red Bank",
+      "Springdale"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a crystal clear pool?",
+    "body": "Free quotes, honest pricing, and the pool service Columbia trusts. Call today or get your quote online.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (803) 809-2129"
+  },
+  "design": {
+    "primary_color": "#991B1B",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "My Hero Appliance Repair",
+    "phone": "(330) 812-8333",
+    "email": "richardc@homeheroappliancerepair.com",
+    "city": "Canton",
+    "state": "OH",
+    "industry": "appliance repair",
+    "tagline": "When your appliances quit, we don't",
+    "logo_url": "",
+    "google_rating": "4.9 stars (117 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=6802039044915721068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your fridge dies at *dinner time*, we answer",
+    "subheadline": "Same-day fixes for Canton families who can't wait for parts to come in next week",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "110+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Canton Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every appliance, one call",
+    "subheading": "From ancient dishwashers to brand-new washers that shouldn't be broken yet"
+  },
+  "services": [
+    {
+      "title": "Refrigerator & Freezer Repair",
+      "description": "Not cooling, leaking, or making weird noises? We diagnose the problem and fix it with the right parts.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Washer & Dryer Service",
+      "description": "Won't spin, won't drain, or won't heat? We get your laundry routine back on track fast.",
+      "icon": "fan"
+    },
+    {
+      "title": "Dishwasher Fixes",
+      "description": "Not cleaning, not draining, or leaving spots on everything? We handle all dishwasher issues.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Range & Oven Repair",
+      "description": "Burners not heating, oven not baking right, or temperature all wrong? We fix cooking problems.",
+      "icon": "flame"
+    }
+  ],
+  "about": {
+    "heading": "The Canton appliance guy your neighbors call first",
+    "body": "We're Aaron and the My Hero team — fixing appliances for Canton families who need things working today, not next week."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Canton says about us"
+  },
+  "reviews": [
+    {
+      "name": "Sonia C.",
+      "location": "Canton, OH",
+      "text": "Aaron was very kind and knowledgeable. Even though my fridge couldn't be fixed because parts aren't made anymore, he tried everything possible.",
+      "rating": 5
+    },
+    {
+      "name": "Barb J.",
+      "location": "Canton, OH",
+      "text": "Very friendly and professional. Worked with me to find the most cost-efficient solution for my range problem. Will definitely use again.",
+      "rating": 5
+    },
+    {
+      "name": "Mikey F.",
+      "location": "Canton, OH",
+      "text": "Showed up on time! Great prices, super friendly, very clean. Plan on him being our regular appliance repair guy.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Canton and surrounding areas",
+    "subheading": "Same-day service throughout Stark County",
+    "areas": [
+      "Canton",
+      "North Canton",
+      "Louisville",
+      "Alliance",
+      "Massillon",
+      "Jackson Township",
+      "Plain Township",
+      "Lake Township"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your appliances working again?",
+    "body": "Call us now for same-day service, or request your free quote online. We show up when we say we will.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (330) 812-8333"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#F97316",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

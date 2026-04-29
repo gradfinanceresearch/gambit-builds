@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Mark's Appliance Service",
+    "phone": "(330) 468-6057",
+    "email": "marksappliance01@aol.com",
+    "city": "Canton",
+    "state": "OH",
+    "industry": "appliance repair",
+    "tagline": "Fix it right, price it fair",
+    "logo_url": "",
+    "google_rating": "4.7 stars (104 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=8917824457830513949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Same-day* appliance repair that won't break the bank",
+    "subheadline": "No service call fees. Just honest work from a Canton tech who's been keeping appliances running for years.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.7★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "100+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every appliance in your home",
+    "subheading": "From washers that won't drain to ovens that won't heat — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Washer & Dryer Repair",
+      "description": "Leaks, won't spin, not heating up. We diagnose the problem and get your laundry routine back on track.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Dishwasher Service",
+      "description": "Not cleaning dishes or won't drain? We handle repairs and new installations with floor protection.",
+      "icon": "home"
+    },
+    {
+      "title": "Oven & Range Repair",
+      "description": "Gas or electric, slow preheating to complete breakdowns. We explain what went wrong while we fix it.",
+      "icon": "flame"
+    },
+    {
+      "title": "New Appliance Installation",
+      "description": "Hood vents, dishwashers, and more. Professional installation with proper protection for your floors and surfaces.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "The Canton appliance guy",
+    "body": "We show up when we say we will, fix what's broken, and explain what happened. No service call fees — just honest work at fair prices."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Canton homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Mary S.",
+      "location": "Canton, OH",
+      "text": "Same day service for my dryer problem at a very reasonable price. Mark is knowledgeable, honest, and reliable — doesn't try to pump up charges.",
+      "rating": 5
+    },
+    {
+      "name": "Keith T.",
+      "location": "Canton, OH",
+      "text": "Installed new hood vent and dishwasher right on time. Protected our brand new stove and the floors throughout. Excellent work.",
+      "rating": 5
+    },
+    {
+      "name": "Andrew C.",
+      "location": "Canton, OH",
+      "text": "Fixed our slow-preheating gas oven and taught me a few things along the way. No service call charge — reasonable pricing all around.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Canton and surrounding areas",
+    "subheading": "Fast response times throughout Stark County",
+    "areas": [
+      "Canton",
+      "North Canton",
+      "Massillon",
+      "Alliance",
+      "Louisville",
+      "Hartville",
+      "Jackson Township",
+      "Plain Township"
+    ]
+  },
+  "cta": {
+    "heading": "Appliance acting up?",
+    "body": "No service call fees. Just honest diagnosis and fair pricing. Call today for same-day service.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (330) 468-6057"
+  },
+  "design": {
+    "primary_color": "#B91C1C",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

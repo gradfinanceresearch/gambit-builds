@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Superb Appliances",
+    "phone": "(757) 571-1131",
+    "email": "email-superbappliances23@gmail.com",
+    "city": "Newport News",
+    "state": "VA",
+    "industry": "appliance repair",
+    "tagline": "When your appliances quit, we don't",
+    "logo_url": "",
+    "google_rating": "5 stars (11 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=7991443562577011993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your washer dies at 9pm — *we answer*",
+    "subheadline": "Mr. Thomas and the Superb team fix what's broken, save what's saveable, and keep you from buying new.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Newport News Team"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every appliance, every brand",
+    "subheading": "From washing machines to refrigerators — we diagnose fast and fix it right"
+  },
+  "services": [
+    {
+      "title": "Washer & Dryer Repair",
+      "description": "Won't spin? Not heating? Making weird noises? We'll get your laundry room back to normal.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Refrigerator Service",
+      "description": "Not cooling, ice maker broken, weird sounds. We handle all fridge problems fast.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Dishwasher Repair",
+      "description": "Not cleaning, not draining, not starting. We'll have your dishes sparkling again.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Range & Oven Fix",
+      "description": "Burners not working, oven not heating. Get back to cooking without buying new.",
+      "icon": "flame"
+    }
+  ],
+  "about": {
+    "heading": "Real people, real repairs",
+    "body": "We're the Newport News appliance team that shows up when we say we will. Mr. Thomas leads every job personally — no subcontractors, no runarounds."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Newport News is saying"
+  },
+  "reviews": [
+    {
+      "name": "Tracie J.",
+      "location": "Newport News, VA",
+      "text": "Mr. Thomas was polite, professional, and helpful throughout. He answered all my questions and made everything smooth and stress-free.",
+      "rating": 5
+    },
+    {
+      "name": "T.D. H.",
+      "location": "Newport News, VA",
+      "text": "Called on short notice and instead of buying a new washer, he fixed my 3-year-old one. Saved me a lot of money. On time service and great hospitality.",
+      "rating": 5
+    },
+    {
+      "name": "Tashea H.",
+      "location": "Newport News, VA",
+      "text": "This man is phenomenal, very dedicated to what he does. Communication is A1. More of a brother than a businessman.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Peninsula",
+    "subheading": "Fast appliance repair throughout Newport News and surrounding communities",
+    "areas": [
+      "Newport News",
+      "Hampton",
+      "Virginia Beach",
+      "Norfolk",
+      "Chesapeake",
+      "Portsmouth",
+      "Suffolk",
+      "Williamsburg"
+    ]
+  },
+  "cta": {
+    "heading": "Don't replace it — repair it first",
+    "body": "Call Mr. Thomas and the Superb team for an honest diagnosis. We'll tell you if it's worth fixing or time to buy new.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (757) 571-1131"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

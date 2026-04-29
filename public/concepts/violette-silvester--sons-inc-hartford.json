@@ -1,0 +1,128 @@
+{
+  "business": {
+    "name": "Violette Silvester & Sons Inc.",
+    "phone": "(860) 289-3466",
+    "email": "info@violettesilvester.com",
+    "city": "Hartford",
+    "state": "CT",
+    "industry": "septic service",
+    "tagline": "Hartford's septic and drainage experts since generations",
+    "logo_url": "",
+    "google_rating": "5 stars (14 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=1975355212004047662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When the *basement floods*, we already know your address",
+    "subheadline": "Three generations of Hartford septic and drainage work — we've been solving water problems your neighbors still talk about decades later.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "10+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Septic, drainage, and water problems solved",
+    "subheading": "From emergency pumping to complete system rebuilds"
+  },
+  "services": [
+    {
+      "title": "Septic Pumping & Cleaning",
+      "description": "Regular maintenance and emergency pumping to keep your system running properly.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Drainage System Installation",
+      "description": "Footer drains, sump systems, and custom solutions for water management.",
+      "icon": "droplet"
+    },
+    {
+      "title": "System Repairs & Rebuilds",
+      "description": "Complete septic system repairs and replacements when maintenance isn't enough.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Water Problem Diagnosis",
+      "description": "We'll find the source and fix it right the first time.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Three generations of getting it right",
+    "body": "We're the Hartford septic team your neighbors recommend to their neighbors. Real solutions, not quick fixes."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Hartford property owners say"
+  },
+  "reviews": [
+    {
+      "name": "Carl",
+      "location": "Hartford, CT",
+      "text": "Used them for years at multiple properties. Excellent! Professional, prompt, very capable and always a pleasure to work with.",
+      "rating": 5
+    },
+    {
+      "name": "Pat S.",
+      "location": "Hartford, CT",
+      "text": "They came recommended by a neighbor who swears by their drainage system decades later. Bill was great to work with.",
+      "rating": 5
+    },
+    {
+      "name": "Rick L.",
+      "location": "Hartford, CT",
+      "text": "Replaced our footer drains and improved the sump pump. Very messy work in a closed space — his crew worked hard and were extremely neat.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Greater Hartford",
+    "subheading": "Emergency and scheduled service throughout the region",
+    "areas": [
+      "Hartford",
+      "West Hartford",
+      "East Hartford",
+      "Bloomfield",
+      "Windsor",
+      "Wethersfield",
+      "Newington",
+      "Berlin",
+      "Cromwell"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to solve your water problem?",
+    "body": "Three generations of septic and drainage experience. Free estimates on all work.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (860) 289-3466"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "editorial"
+  }
+}

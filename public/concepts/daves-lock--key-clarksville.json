@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Dave's Lock & Key",
+    "phone": "(931) 431-5977",
+    "email": "daveslockkey@aol.com",
+    "city": "Clarksville",
+    "state": "TN",
+    "industry": "locksmith",
+    "tagline": "Keys made, locks opened, problems solved",
+    "logo_url": "",
+    "google_rating": "4.3 stars (108 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=5142369543331193784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Locked out? *Dave's got you covered*",
+    "subheadline": "Quick service with personality — the locksmith Clarksville calls when they need it done right.",
+    "cta_primary": "Get Help Now",
+    "cta_secondary": "Call Dave"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.3★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "100+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Clarksville Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every lock, every key, every problem",
+    "subheading": "From car keys to home security — one call handles it all"
+  },
+  "services": [
+    {
+      "title": "Emergency Lockouts",
+      "description": "Locked out of your car or home? Fast response to get you back in.",
+      "icon": "home"
+    },
+    {
+      "title": "Key Duplication",
+      "description": "Car keys, house keys, specialty keys — made on the spot.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Lock Installation & Repair",
+      "description": "New locks for your doors or fixing the ones that won't turn.",
+      "icon": "shield"
+    },
+    {
+      "title": "Key Fob Programming",
+      "description": "Car key fobs repaired and programmed — no dealer needed.",
+      "icon": "zap"
+    }
+  ],
+  "about": {
+    "heading": "Dave keeps it real",
+    "body": "A Clarksville locksmith who shows up fast and gets the job done. Straight talk, fair prices, and you'll probably laugh a little too."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What customers say"
+  },
+  "reviews": [
+    {
+      "name": "Esperanza L.",
+      "location": "Clarksville, TN",
+      "text": "Dave was at our house in under an hour. Amazing customer service and kept us laughing. Made a duplicate truck key in 30 minutes.",
+      "rating": 5
+    },
+    {
+      "name": "Nicole J.",
+      "location": "Clarksville, TN",
+      "text": "Called expecting a long wait but he said 15 minutes and was there in 5! Got me in my car in less than a minute.",
+      "rating": 5
+    },
+    {
+      "name": "Kirin C.",
+      "location": "Clarksville, TN",
+      "text": "Fixed my car key fob super quick, even gave me extra pins for future repairs. Other locksmiths said I needed a specialist — Dave handled it.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Clarksville and beyond",
+    "subheading": "Fast response throughout the area",
+    "areas": [
+      "Clarksville",
+      "Oak Grove",
+      "Hopkinsville",
+      "Dover",
+      "Cumberland City",
+      "Indian Mound",
+      "Woodlawn",
+      "Fort Campbell"
+    ]
+  },
+  "cta": {
+    "heading": "Locked out? Key broke? Need new locks?",
+    "body": "One call gets Dave on the way. Fast service, fair prices, and you'll get back to your day.",
+    "cta_primary": "Call Now",
+    "cta_secondary": "Get Quote"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

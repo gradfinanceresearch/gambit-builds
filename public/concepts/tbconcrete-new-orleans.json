@@ -1,0 +1,115 @@
+{
+  "business": {
+    "name": "Tbconcrete",
+    "phone": "(504) 708-9249",
+    "email": "info@tbconcretecontractors.com",
+    "city": "New Orleans",
+    "state": "LA",
+    "industry": "concrete contractor",
+    "tagline": "Solid concrete work for the Crescent City",
+    "logo_url": "",
+    "google_rating": "5 stars (2 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=15001335742964574910&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Three generations* trust us with their concrete",
+    "subheadline": "Driveways, slabs, sidewalks — built to last through New Orleans weather.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "CONCRETE WORK",
+    "heading": "Every pour, every finish",
+    "subheading": "From foundation to final touch"
+  },
+  "services": [
+    {
+      "title": "Driveways",
+      "description": "New concrete driveways built to handle New Orleans traffic and weather. Proper base prep and finishing.",
+      "icon": "home"
+    },
+    {
+      "title": "Slabs & Foundations",
+      "description": "Level, reinforced concrete slabs for patios, garages, and building foundations. Done right the first time.",
+      "icon": "brick"
+    },
+    {
+      "title": "Sidewalks & Walkways",
+      "description": "Safe, smooth walkways that complement your property. ADA compliant options available.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Concrete Repair",
+      "description": "Fix cracks, settling, and damage. We'll assess what can be repaired versus what needs replacement.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Built for New Orleans",
+    "body": "We're a New Orleans concrete team that shows up when we say we will. One call, one crew, one job done right."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What our customers say"
+  },
+  "reviews": [
+    {
+      "name": "Eerika C.",
+      "location": "New Orleans, LA",
+      "text": "Professional, went above and beyond on a tight timeline. Honest about material shortages. Three generations of our family has used them.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Greater New Orleans",
+    "subheading": "Quality concrete work throughout the metro area",
+    "areas": [
+      "New Orleans",
+      "Metairie",
+      "Kenner",
+      "Gretna",
+      "Marrero",
+      "Chalmette",
+      "Harvey",
+      "Westwego"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to pour?",
+    "body": "Get an honest estimate on your concrete project. We'll walk the site and give you straight answers.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (504) 708-9249"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

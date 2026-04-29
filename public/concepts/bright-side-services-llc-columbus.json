@@ -2,125 +2,121 @@
   "business": {
     "name": "Bright Side Services LLC",
     "phone": "(614) 400-3451",
-    "email": "brightsidecolumbus@gmail.com",
+    "email": "info@brightsidehcs.com",
     "city": "Columbus",
     "state": "OH",
     "industry": "electrician",
-    "tagline": "Every outlet, panel, and wire — handled",
+    "tagline": "Every wire, outlet, and switch — handled right",
     "logo_url": "",
     "google_rating": "5 stars (15 reviews)",
-    "years_in_business": ""
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=8450880297423008405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
   },
   "hero": {
-    "headline": "The electrician *Columbus trusts* for real fixes",
-    "subheadline": "When your lights won't work or outlets spark, we show up with tools and answers. Same owner on every job — Samantha knows her craft.",
-    "cta_primary": "Get Free Estimate",
+    "headline": "Columbus Calls *Bright Side* First",
+    "subheadline": "Real electrician, real truck, real answers — not a call center.",
+    "cta_primary": "Get Your Quote",
     "cta_secondary": "Call Now"
   },
   "trust_badges": [
-    {
-      "icon": "star",
-      "text": "5-Star Google Reviews"
-    },
     {
       "icon": "shield",
       "text": "Licensed & Insured"
     },
     {
-      "icon": "phone",
-      "text": "Quick Response Times"
+      "icon": "star",
+      "text": "5.0★ on Google"
     },
     {
-      "icon": "check",
-      "text": "Fair Pricing Always"
+      "icon": "users",
+      "text": "15+ Google Reviews"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Columbus Team"
     }
   ],
   "services_section": {
     "label": "THE WORK",
-    "heading": "From outlets to ceiling fans — we handle it all",
-    "subheading": "Every electrical job done right the first time"
+    "heading": "Every Electrical Need Covered",
+    "subheading": "From quick fixes to full rewires"
   },
   "services": [
     {
-      "title": "Outlet Installation & Replacement",
-      "description": "Dead outlets, loose connections, or need more power where you work? We'll get your outlets working safely and up to code.",
+      "title": "Outlet & Switch Replacement",
+      "description": "New outlets, switches, and GFCI upgrades. Safe, code-compliant installations.",
       "icon": "plug"
     },
     {
       "title": "Ceiling Fan Installation",
-      "description": "From mounting the bracket to wiring the controls, we'll have your ceiling fan running smooth and quiet in no time.",
+      "description": "Mount, wire, and balance ceiling fans. Existing or new electrical boxes.",
       "icon": "fan"
     },
     {
-      "title": "Light Fixture & Switch Work",
-      "description": "New ceiling lights, dimmer switches, or fixing flickering problems. We make your lighting work exactly how you want it.",
+      "title": "Panel Upgrades",
+      "description": "Electrical panel replacement and circuit additions for modern power needs.",
+      "icon": "zap"
+    },
+    {
+      "title": "Light Fixture Installation",
+      "description": "Recessed lights, chandeliers, and outdoor lighting. Professional mounting and wiring.",
       "icon": "lightbulb"
     },
     {
-      "title": "Doorbell Systems",
-      "description": "Install new doorbells or fix existing chimes. From basic buttons to smart doorbell systems that connect to your phone.",
-      "icon": "home"
-    },
-    {
-      "title": "Electrical Repairs",
-      "description": "Tripped breakers, sparking outlets, or mysterious electrical issues. We diagnose problems fast and fix them properly.",
-      "icon": "zap"
+      "title": "Home Rewiring",
+      "description": "Full electrical system updates for older homes. Safe, reliable power throughout.",
+      "icon": "plug"
     }
   ],
   "about": {
-    "heading": "Owner-operated electrical service in Columbus",
-    "body": "Samantha runs Bright Side Services with a simple approach: show up on time, listen to what you need, and do the work right. No upselling, no surprises — just honest electrical service that Columbus homeowners can count on. Whether it's a quick outlet fix or a bigger project, every job gets the same careful attention."
+    "heading": "Columbus Electrician You Can Count On",
+    "body": "We're a Columbus electrical team that shows up when we say we will. One call, one electrician, one bill."
   },
   "reviews_section": {
     "label": "WORD OF MOUTH",
-    "heading": "What Columbus homeowners are saying"
+    "heading": "What Columbus Homeowners Say"
   },
   "reviews": [
     {
       "name": "Addie V.",
       "location": "Columbus, OH",
-      "text": "Samantha has helped us with multiple projects on our newly purchased home. She's reliable, patient, and really knows her stuff. Made our to-do list much shorter.",
+      "text": "Can't recommend Samantha enough. She's reliable, patient, answers questions, and really knowledgeable. Made our home project checklist much smaller.",
       "rating": 5
     },
     {
       "name": "Amber L.",
       "location": "Columbus, OH",
-      "text": "Very professional and listened to what we wanted. Great suggestions for our 1950s house. Fair pricing and she explained everything clearly. Highly recommend.",
-      "rating": 5
-    },
-    {
-      "name": "Zach K.",
-      "location": "Columbus, OH",
-      "text": "Work was done quickly and cost way less than I expected. She'll definitely be my go-to electrician and I'd recommend her to anyone.",
+      "text": "Sam is awesome! Very professional and listened to what we wanted. Made great suggestions for our 1950s house. Fair pricing and explained everything clearly.",
       "rating": 5
     },
     {
       "name": "Erin K.",
       "location": "Columbus, OH",
-      "text": "Showed up on time, super nice, and installed my ceiling fan perfectly. Even switched out a light switch while she was here. Very happy with the work.",
+      "text": "Responsive, showed up on time, super nice and installed my ceiling fan. Also switched out a light switch while here. Happy with the outcome!",
       "rating": 5
     }
   ],
   "service_areas": {
     "label": "COVERAGE AREA",
-    "heading": "Serving Columbus and surrounding communities",
-    "subheading": "Fast response throughout central Ohio",
+    "heading": "Serving Columbus & Surrounding Areas",
+    "subheading": "Local electrical service you can trust",
     "areas": [
       "Columbus",
       "Dublin",
       "Westerville",
       "Reynoldsburg",
-      "Pickerington",
       "Grove City",
       "Upper Arlington",
       "Hilliard",
-      "Delaware",
-      "Lancaster"
+      "Gahanna"
     ]
   },
   "cta": {
-    "heading": "Ready to get your electrical work done right?",
-    "body": "Call Samantha directly for a free estimate. Same-day service available for urgent repairs.",
+    "heading": "Ready to Get Your Electrical Work Done Right?",
+    "body": "Free estimates, upfront pricing, and work that passes inspection the first time.",
     "cta_primary": "Get Free Estimate",
     "cta_secondary": "Call (614) 400-3451"
   },
@@ -128,9 +124,9 @@
     "primary_color": "#5B21B6",
     "accent_color": "#10B981",
     "bg_color": "#FFFFFF",
-    "text_color": "#1A1A2E",
-    "font_heading": "Bitter",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
     "font_body": "Work Sans",
-    "layout_variant": "editorial"
+    "layout_variant": "split"
   }
 }

@@ -1,0 +1,108 @@
+{
+  "business": {
+    "name": "Handy Hands Appliance Services",
+    "phone": "(804) 824-3207",
+    "email": "support@handyhands.org",
+    "city": "Newport News",
+    "state": "VA",
+    "industry": "appliance repair",
+    "tagline": "When your appliances quit, we don't",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=8241414549784731255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your appliances quit, *we don't*",
+    "subheadline": "Real repair techs with real tools — not a parts-swapping service",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every appliance, every brand",
+    "subheading": "From washers that won't spin to ovens that won't heat"
+  },
+  "services": [
+    {
+      "title": "Washer & Dryer Repair",
+      "description": "Won't start, won't drain, won't spin, making noise — we diagnose and fix it right.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Refrigerator Repair",
+      "description": "Not cooling, ice maker broken, strange noises — keep your food cold and fresh.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Dishwasher Repair",
+      "description": "Won't clean, won't drain, door won't latch — get back to spotless dishes.",
+      "icon": "shield"
+    },
+    {
+      "title": "Oven & Range Repair",
+      "description": "Won't heat, burners not working, door problems — cooking made simple again.",
+      "icon": "flame"
+    }
+  ],
+  "about": {
+    "heading": "Newport News appliance repair that shows up",
+    "body": "We're the Newport News team that answers the phone and fixes what's broken. One call, honest pricing, real solutions."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Newport News says"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "SERVICE AREA",
+    "heading": "We cover the Peninsula",
+    "subheading": "Fast response times across Newport News and surrounding areas",
+    "areas": [
+      "Newport News",
+      "Hampton",
+      "Yorktown",
+      "Williamsburg",
+      "Poquoson",
+      "Norfolk",
+      "Virginia Beach",
+      "Chesapeake"
+    ]
+  },
+  "cta": {
+    "heading": "Appliance acting up? We'll check it out",
+    "body": "Free estimates, upfront pricing, and we show up when we say we will. Call now or request a quote online.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (804) 824-3207"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

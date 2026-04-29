@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Jack Oliver's Pool Spa & Patio",
+    "phone": "(803) 251-0272",
+    "email": "jackoliverpools@jackoliverpools.com",
+    "city": "Columbia",
+    "state": "SC",
+    "industry": "pool service",
+    "tagline": "Pool problems solved today",
+    "logo_url": "",
+    "google_rating": "4.6 stars (243 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=5352777189090672970&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Pool pump died? *We've got one in stock*",
+    "subheadline": "Same-day repairs, same-day installs — because summer doesn't wait",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.6★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "240+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Columbia Team"
+    }
+  ],
+  "services_section": {
+    "label": "POOL FIXES",
+    "heading": "Pumps, repairs, and upgrades",
+    "subheading": "From emergency repairs to routine maintenance — one call handles it"
+  },
+  "services": [
+    {
+      "title": "Pool Pump Replacement",
+      "description": "Motor died? We stock the pumps you need and install them the same day you call.",
+      "icon": "fan"
+    },
+    {
+      "title": "Equipment Repair",
+      "description": "Filters, heaters, and automation systems — we fix what's broken and upgrade what's not.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Pool Maintenance",
+      "description": "Weekly cleaning, chemical balancing, and equipment checks to keep everything running smooth.",
+      "icon": "droplet"
+    },
+    {
+      "title": "System Troubleshooting",
+      "description": "When your pool tech can't figure it out, we show up with the answers and the parts.",
+      "icon": "zap"
+    }
+  ],
+  "about": {
+    "heading": "Columbia's pool problem solvers",
+    "body": "We're the team that shows up on time with the right parts. No waiting, no runaround — just fast fixes that work."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbia pool owners say"
+  },
+  "reviews": [
+    {
+      "name": "Denise C.",
+      "location": "Columbia, SC",
+      "text": "Communication was efficient and timely. They gave me a day and time for repair and were right on time. Emailed my bill so I didn't have to wait around.",
+      "rating": 5
+    },
+    {
+      "name": "Judith B.",
+      "location": "Columbia, SC",
+      "text": "Asked about a new motor for my pool. Very helpful, had it in stock, and someone replaced it that same day. Very pleased.",
+      "rating": 5
+    },
+    {
+      "name": "Pamela B.",
+      "location": "Columbia, SC",
+      "text": "Nathan installed a new pool pump — very professional and knowledgeable. Hauled away all debris and took the old pump. Price was very affordable.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE AREA",
+    "heading": "Serving the Columbia area",
+    "subheading": "Fast response times across the Midlands",
+    "areas": [
+      "Columbia",
+      "Lexington",
+      "West Columbia",
+      "Cayce",
+      "Forest Acres",
+      "Irmo",
+      "Chapin",
+      "Blythewood"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix your pool problem?",
+    "body": "Call now for same-day service or get your free estimate online. We answer the phone and show up when we say we will.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (803) 251-0272"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bebas Neue",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

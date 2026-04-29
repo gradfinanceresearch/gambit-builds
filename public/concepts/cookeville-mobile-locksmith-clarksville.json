@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Cookeville Mobile Locksmith",
+    "phone": "(931) 319-9054",
+    "email": "cookevillemobilelocksmith@gmail.com",
+    "city": "Clarksville",
+    "state": "TN",
+    "industry": "locksmith",
+    "tagline": "Keys cut, locks opened — we come to you",
+    "logo_url": "",
+    "google_rating": "4.9 stars (160 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=7957632422849560557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Locked out? *We come to you*",
+    "subheadline": "Real locksmith, real keys, real quick — no shop visit required",
+    "cta_primary": "Get Help Now",
+    "cta_secondary": "Call (931) 319-9054"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "160+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Clarksville Team"
+    }
+  ],
+  "services_section": {
+    "label": "ON THE ROAD",
+    "heading": "Mobile locksmith services",
+    "subheading": "We bring the shop to your location"
+  },
+  "services": [
+    {
+      "title": "Car Key Cutting & Programming",
+      "description": "New keys cut and transponder chips programmed on-site. Works for most makes and models.",
+      "icon": "zap"
+    },
+    {
+      "title": "Lockout Service",
+      "description": "Locked out of your car or truck? We'll get you back in without damage.",
+      "icon": "shield"
+    },
+    {
+      "title": "Key Replacement",
+      "description": "Lost your only key? We can cut and program replacements for most vehicles.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Lock Repair & Installation",
+      "description": "Fix broken locks or install new ones. Door locks, deadbolts, and security hardware.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Mobile means we come to you",
+    "body": "No need to tow your car or wait at a shop. We're a Clarksville locksmith team with the tools and know-how to handle your lock and key problems right where you are."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What customers say"
+  },
+  "reviews": [
+    {
+      "name": "Ryan H.",
+      "location": "Clarksville, TN",
+      "text": "Broke my key and was stuck. He responded quickly, cut new keys, and I was on my way home fast. Very friendly and knew what he was doing. Good price.",
+      "rating": 5
+    },
+    {
+      "name": "Craig F.",
+      "location": "Clarksville, TN",
+      "text": "Fantastic service and fair prices. Eric cut and programmed two new keys for my F150 in about 10 minutes. Highly recommend.",
+      "rating": 5
+    },
+    {
+      "name": "Case G.",
+      "location": "Clarksville, TN",
+      "text": "Lost my truck key, and within 20 minutes of him arriving I had a new one! Wonderful service and great price.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where we work",
+    "subheading": "Mobile service throughout Middle Tennessee",
+    "areas": [
+      "Clarksville",
+      "Springfield",
+      "Dickson",
+      "Dover",
+      "Ashland City",
+      "White Bluff",
+      "Cumberland City",
+      "Erin"
+    ]
+  },
+  "cta": {
+    "heading": "Need a locksmith now?",
+    "body": "Locked out or need new keys? We'll come to you with everything needed to get you back on track.",
+    "cta_primary": "Get Quick Quote",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

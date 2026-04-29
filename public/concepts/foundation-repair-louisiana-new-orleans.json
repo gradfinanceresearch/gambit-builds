@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Foundation Repair Louisiana",
+    "phone": "(225) 678-4348",
+    "email": "contact@foundationrepairneworleansla.com",
+    "city": "New Orleans",
+    "state": "LA",
+    "industry": "concrete contractor",
+    "tagline": "Solid foundations for New Orleans homes",
+    "logo_url": "",
+    "google_rating": "5 stars (3 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=3960361056338048089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your New Orleans foundation *fixed right*",
+    "subheadline": "Pick up on the first call. Honest estimates. Over 20 years keeping homes solid.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "FOUNDATION WORK",
+    "heading": "Every crack, every shift, every concern",
+    "subheading": "From settling issues to complete elevation projects"
+  },
+  "services": [
+    {
+      "title": "Foundation Repair",
+      "description": "Cracks, settling, and structural issues fixed with proven methods that last.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Home Elevation",
+      "description": "Lift your home above flood levels while maintaining structural integrity.",
+      "icon": "home"
+    },
+    {
+      "title": "Concrete Work",
+      "description": "Driveways, patios, and slabs poured and repaired to New Orleans standards.",
+      "icon": "brick"
+    },
+    {
+      "title": "Foundation Inspection",
+      "description": "Thorough assessment of your home's structural foundation and stability.",
+      "icon": "ruler"
+    }
+  ],
+  "about": {
+    "heading": "Built for New Orleans",
+    "body": "We're a New Orleans foundation team with over 20 years fixing what this city's soil does to homes. One call, honest answers."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "voodoo0310",
+      "location": "New Orleans, LA",
+      "text": "Had foundation issues on my old New Orleans charm home. Picked up on first call, gave honest estimate. Owner has 20+ years experience and really knew his stuff!",
+      "rating": 5
+    },
+    {
+      "name": "Amy B.",
+      "location": "New Orleans, LA",
+      "text": "Oscar helped with our home elevation. Very kind man with integrity. Workmanship is superb! Highly recommend!",
+      "rating": 5
+    },
+    {
+      "name": "Barbara B.",
+      "location": "New Orleans, LA",
+      "text": "Foundation repair did a great job for a very reasonable price. Recommend them highly.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Greater New Orleans",
+    "subheading": "Foundation repair across the metro area",
+    "areas": [
+      "New Orleans",
+      "Metairie",
+      "Kenner",
+      "Slidell",
+      "Mandeville",
+      "Covington",
+      "Gretna",
+      "Harvey",
+      "Marrero",
+      "Chalmette"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix your foundation?",
+    "body": "Call now for an honest estimate. We answer the phone and show up when we say we will.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (225) 678-4348"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

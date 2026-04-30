@@ -1,0 +1,108 @@
+{
+  "business": {
+    "name": "THE BUILDER OF CHOICE",
+    "phone": "(407) 656-5543",
+    "email": "infobaycitybuilder@gmail.com",
+    "city": "Panama City",
+    "state": "FL",
+    "industry": "garage door repair",
+    "tagline": "When your garage door won't budge",
+    "logo_url": "",
+    "google_rating": "",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=8743439180079661766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*One call* fixes what's broken",
+    "subheadline": "Springs snap, openers die, tracks bend — we handle all of it",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Panama City Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every part, every problem",
+    "subheading": "No matter what broke, we've seen it before"
+  },
+  "services": [
+    {
+      "title": "Spring Replacement",
+      "description": "Torsion springs and extension springs. When they snap, your door won't lift.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Opener Repair",
+      "description": "Motor issues, remote problems, safety sensor fixes. Get your automatic door working again.",
+      "icon": "zap"
+    },
+    {
+      "title": "Track & Roller Service",
+      "description": "Bent tracks, worn rollers, alignment issues. Smooth operation starts here.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Cable Replacement",
+      "description": "Frayed or snapped cables make your door dangerous. We replace them safely.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Panama City's garage door repair team",
+    "body": "We show up when we say we will. One call, one team, honest pricing."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors say"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where we work",
+    "subheading": "Serving Panama City and surrounding communities",
+    "areas": [
+      "Panama City",
+      "Lynn Haven",
+      "Springfield",
+      "Callaway",
+      "Parker",
+      "Youngstown",
+      "Southport",
+      "Cedar Grove"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get that door working?",
+    "body": "Free estimate over the phone. No hidden fees, no surprises.",
+    "cta_primary": "Get Quote Today",
+    "cta_secondary": "Call (407) 656-5543"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

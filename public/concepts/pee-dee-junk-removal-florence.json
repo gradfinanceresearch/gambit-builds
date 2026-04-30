@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Pee Dee Junk Removal",
+    "phone": "(803) 692-1142",
+    "email": "mcweatherford13@gmail.com",
+    "city": "Florence",
+    "state": "SC",
+    "industry": "junk removal",
+    "tagline": "Clear it out, haul it off",
+    "logo_url": "",
+    "google_rating": "4.8 stars (24 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=9246920331382108582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*One call* — your mess becomes our mission",
+    "subheadline": "From attics to old cars, we haul what others won't touch",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.8★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "20+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Florence Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE HAUL",
+    "heading": "If it needs to go, we'll take it",
+    "subheading": "Residential and commercial cleanouts done right"
+  },
+  "services": [
+    {
+      "title": "Attic & Storage Cleanouts",
+      "description": "Decades of stuff tucked away? We'll clear every corner and sweep up behind ourselves.",
+      "icon": "home"
+    },
+    {
+      "title": "Yard Debris Removal",
+      "description": "Fallen trees, old equipment, scrap metal — if it's cluttering your property, we'll haul it.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Large Item Pickup",
+      "description": "Appliances, furniture, old vehicles — the stuff that won't fit in a regular trash pickup.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Estate Cleanouts",
+      "description": "Respectful, thorough clearing of entire properties when life changes happen.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Mike and his Florence team",
+    "body": "We show up when scheduled, quote fair prices, and clean up after ourselves. Real trucks, real crew, real results."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "Florence neighbors speak up"
+  },
+  "reviews": [
+    {
+      "name": "Van W.",
+      "location": "Florence, SC",
+      "text": "Great job cleaning out attic, storage building and removing large yard items. Did everything I asked and cleaned up too.",
+      "rating": 5
+    },
+    {
+      "name": "Andrew C.",
+      "location": "Florence, SC",
+      "text": "Came out one day after quote request, great price, scheduled within five days. Communicated well, on time, outstanding job.",
+      "rating": 5
+    },
+    {
+      "name": "Brittany H.",
+      "location": "Florence, SC",
+      "text": "Used them twice in recent years. Large cleanup after divorce including an old car. Fast, friendly, got everything cleared out.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Pee Dee region",
+    "subheading": "Fast response times across Florence County",
+    "areas": [
+      "Florence",
+      "Darlington",
+      "Hartsville",
+      "Marion",
+      "Dillon",
+      "Lake City",
+      "Timmonsville",
+      "Pamplico"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to reclaim your space?",
+    "body": "Free quotes over the phone. Most jobs scheduled within a week.",
+    "cta_primary": "Get Quote Today",
+    "cta_secondary": "Call (803) 692-1142"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#EF4444",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

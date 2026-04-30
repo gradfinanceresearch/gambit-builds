@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Ayers Pool Service Upstate",
+    "phone": "(864) 612-0018",
+    "email": "ayerspoolsupstate@gmail.com",
+    "city": "Spartanburg",
+    "state": "SC",
+    "industry": "pool service",
+    "tagline": "Crystal clear pools, every time",
+    "logo_url": "",
+    "google_rating": "4.9 stars (45 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=2628834729658425688&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Green to *crystal clear* — that's what we do",
+    "subheadline": "Weekly service that shows up on time, every time. No surprises, no excuses.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "40+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Spartanburg Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every pool, every week, handled",
+    "subheading": "Regular maintenance keeps your water crystal clear and equipment running right"
+  },
+  "services": [
+    {
+      "title": "Weekly Pool Cleaning",
+      "description": "Skimming, vacuuming, and chemical balancing to keep your water clear all season long.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Equipment Service",
+      "description": "Pumps, filters, and heaters checked and maintained so everything runs smoothly.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Chemical Balancing",
+      "description": "pH, chlorine, and alkalinity adjusted to safe swimming levels every visit.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Problem Pool Recovery",
+      "description": "Green or cloudy water? We'll get it back to crystal clear fast.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Spartanburg's reliable pool team",
+    "body": "We're the Spartanburg pool service that shows up when scheduled. James and Colton handle every pool with the same care — weekly maintenance that keeps your water clear and equipment running right."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Spartanburg says"
+  },
+  "reviews": [
+    {
+      "name": "Angie B.",
+      "location": "Spartanburg, SC",
+      "text": "Completely reliable and professional with on-time weekly service. Colton makes sure my pool and equipment run properly. Couldn't be more pleased with the knowledge he provides.",
+      "rating": 5
+    },
+    {
+      "name": "Tia T.",
+      "location": "Spartanburg, SC",
+      "text": "James and Colton turned our pool from green to crystal clear in no time! They've been a blessing to my family.",
+      "rating": 5
+    },
+    {
+      "name": "Scott P.",
+      "location": "Spartanburg, SC",
+      "text": "Colton responds quickly to every request and is very knowledgeable. Provides a personal touch with every service. Highly recommend this small local business.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where we work",
+    "subheading": "Weekly pool service throughout the Spartanburg area",
+    "areas": [
+      "Spartanburg",
+      "Boiling Springs",
+      "Chesnee",
+      "Cowpens",
+      "Duncan",
+      "Inman",
+      "Lyman",
+      "Moore",
+      "Roebuck",
+      "Wellford"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for crystal clear water?",
+    "body": "Weekly service that shows up on time. Call for your free quote and see why Spartanburg trusts us with their pools.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (864) 612-0018"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

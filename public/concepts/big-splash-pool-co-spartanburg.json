@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Big Splash Pool Co",
+    "phone": "(864) 463-1503",
+    "email": "bbigsplash22@aol.com",
+    "city": "Spartanburg",
+    "state": "SC",
+    "industry": "pool service",
+    "tagline": "Pool pros who've got your back",
+    "logo_url": "",
+    "google_rating": "4.7 stars (76 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=5267918040153217861&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The pool company *Spartanburg* calls first",
+    "subheadline": "From liner replacements to weekly cleaning — Scotty and the team handle it all.",
+    "cta_primary": "Get Your Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.7★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "75+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Spartanburg Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Everything your pool needs",
+    "subheading": "Installation, maintenance, repairs — one team handles it all"
+  },
+  "services": [
+    {
+      "title": "Pool Installation",
+      "description": "Above ground to inground transitions. Custom installations built to last.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Liner Replacement",
+      "description": "Wrong size? We fix it. Perfect fit guaranteed on every liner install.",
+      "icon": "shield"
+    },
+    {
+      "title": "Pool Maintenance",
+      "description": "Weekly cleaning and chemical balancing. Keep your water crystal clear.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Chemicals & Supplies",
+      "description": "Well-stocked store with everything you need. No waiting, no special orders.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Straight talk, honest pricing",
+    "body": "We're the Spartanburg pool team that tells you what you actually need — no upselling, no surprises. When something goes wrong, we make it right."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Kyle",
+      "location": "Spartanburg, SC",
+      "text": "Ordered a replacement liner that came in wrong size. They said not to worry and resolved it completely — new liner installed in 4 weeks, no extra charge.",
+      "rating": 5
+    },
+    {
+      "name": "Lacy H.",
+      "location": "Spartanburg, SC",
+      "text": "Fantastic experience with this family-owned company. Responsive, honest, genuinely kind service. Best price around without cutting corners.",
+      "rating": 5
+    },
+    {
+      "name": "Paul A.",
+      "location": "Spartanburg, SC",
+      "text": "Scotty installed our pool in 2021 and maintains it since. Great service! Store always well-stocked with chemicals and supplies.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Upstate",
+    "subheading": "Pool service throughout Spartanburg County and beyond",
+    "areas": [
+      "Spartanburg",
+      "Boiling Springs",
+      "Duncan",
+      "Lyman",
+      "Wellford",
+      "Inman",
+      "Cowpens",
+      "Pacolet"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to dive in?",
+    "body": "Free quotes on installations, repairs, and maintenance. Call the team Spartanburg trusts with their pools.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (864) 463-1503"
+  },
+  "design": {
+    "primary_color": "#B45309",
+    "accent_color": "#1F2937",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

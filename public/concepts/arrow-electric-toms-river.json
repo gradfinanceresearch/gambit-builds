@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Arrow Electric",
+    "phone": "(732) 269-6960",
+    "email": "matthew@arrowelectric.net",
+    "city": "Toms River",
+    "state": "NJ",
+    "industry": "electrician",
+    "tagline": "Reliable electrical service for Ocean County homes",
+    "logo_url": "",
+    "google_rating": "5 stars (32 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=8753131221406235005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The electrician *Ocean County* calls first",
+    "subheadline": "Licensed, insured, and treating every home like our own since day one.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Toms River Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every wire, switch, and panel",
+    "subheading": "From simple outlets to complete electrical upgrades"
+  },
+  "services": [
+    {
+      "title": "Panel Upgrades",
+      "description": "Old breaker boxes replaced with modern 100+ amp service. Proper permits secured every time.",
+      "icon": "zap"
+    },
+    {
+      "title": "Lighting Installation",
+      "description": "Indoor and outdoor lighting, dimmers, accent lighting for kitchens and patios.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Outlet & Switch Work",
+      "description": "New outlets, GFCI upgrades, dimmer switches, and electrical repairs throughout your home.",
+      "icon": "plug"
+    },
+    {
+      "title": "Electrical Repairs",
+      "description": "Troubleshooting electrical issues, fixing faulty wiring, and getting your power back on track.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Toms River's trusted electrical team",
+    "body": "We're the electricians your neighbors recommend to their family. One call, honest pricing, work done right."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What our customers say"
+  },
+  "reviews": [
+    {
+      "name": "Patrick V.",
+      "location": "Toms River, NJ",
+      "text": "My parents recommended Arrow Electric after using them for years. Devin was very accommodating for our new house electrical updates.",
+      "rating": 5
+    },
+    {
+      "name": "Marie L.",
+      "location": "Toms River, NJ",
+      "text": "Used them for multiple jobs - outdoor lighting, kitchen island lights, dimmer switches. Most recent was gimbal lighting for my kitchen mural.",
+      "rating": 5
+    },
+    {
+      "name": "Melissa R.",
+      "location": "Toms River, NJ",
+      "text": "Great work, extremely professional, always on time, fair prices. Devin and Diane are a pleasure to work with.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Ocean County",
+    "subheading": "Fast response throughout the area",
+    "areas": [
+      "Toms River",
+      "Brick",
+      "Lakewood",
+      "Jackson",
+      "Berkeley Township",
+      "Seaside Heights",
+      "Beachwood",
+      "Ocean Gate",
+      "South Toms River",
+      "Pine Beach"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your electrical work handled?",
+    "body": "Free estimates on all electrical work. Licensed, insured, and ready to solve your electrical needs.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (732) 269-6960"
+  },
+  "design": {
+    "primary_color": "#9A3412",
+    "accent_color": "#059669",
+    "bg_color": "#FFFBF7",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

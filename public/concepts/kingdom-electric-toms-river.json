@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "Kingdom Electric",
+    "phone": "(732) 987-9140",
+    "email": "kingdomelectricnj@hotmail.com",
+    "city": "Toms River",
+    "state": "NJ",
+    "industry": "electrician",
+    "tagline": "Honest electrical work that shows up when promised",
+    "logo_url": "",
+    "google_rating": "4.7 stars (31 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=9804951851484938915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The electrician *Toms River* calls first",
+    "subheadline": "From whole-house generators to landscape lighting — we show up exactly when we say we will.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.7★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every outlet, panel, and wire — handled",
+    "subheading": "Real electrical work by people who answer their phone"
+  },
+  "services": [
+    {
+      "title": "Whole House Generators",
+      "description": "Keep your lights on when the grid goes dark. Complete installation and hookup.",
+      "icon": "zap"
+    },
+    {
+      "title": "Landscape Lighting",
+      "description": "Outdoor lighting that adds the sophistication your property deserves.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Ceiling Fans & Fixtures",
+      "description": "New installations and replacements. We handle the tricky spots other electricians won't touch.",
+      "icon": "fan"
+    },
+    {
+      "title": "Panel Upgrades",
+      "description": "Main line relocation and electrical panel updates for modern power needs.",
+      "icon": "plug"
+    },
+    {
+      "title": "Emergency Repairs",
+      "description": "Electrical issues don't wait. Same-day service when your power goes out.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Honest work, fair prices",
+    "body": "We're a Toms River electrical team that shows up when we say we will. No ridiculous pricing, no runaround — just straight electrical work done right."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Toms River says"
+  },
+  "reviews": [
+    {
+      "name": "Tom G.",
+      "location": "Toms River, NJ",
+      "text": "Used Kingdom Electric several times — whole house generator, landscape lighting, outlets. Always difficult to find an honest electrician that won't charge ridiculous money. Anthony delivers.",
+      "rating": 5
+    },
+    {
+      "name": "Daniel J.",
+      "location": "Toms River, NJ",
+      "text": "Called this morning with an electrical issue. Stephanie was very nice, said someone could be out this afternoon. Nick arrived even sooner and fixed it quickly. Couldn't be happier.",
+      "rating": 5
+    },
+    {
+      "name": "Dorothy S.",
+      "location": "Toms River, NJ",
+      "text": "Hired them for ceiling fans and light fixtures. Anthony came to inspect and estimate — specific and informative. They showed up exactly as promised.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Ocean County",
+    "subheading": "Local electrical service you can count on",
+    "areas": [
+      "Toms River",
+      "Lakewood",
+      "Brick",
+      "Manchester",
+      "Jackson",
+      "Berkeley",
+      "Beachwood",
+      "Seaside Heights"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your electrical work done right?",
+    "body": "Call the team Toms River trusts. Honest pricing, quality work, and we show up when promised.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (732) 987-9140"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

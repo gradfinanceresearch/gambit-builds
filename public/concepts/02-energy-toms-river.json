@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "02 Energy",
+    "phone": "(888) 900-3068",
+    "email": "info@energydirect1.com",
+    "city": "Toms River",
+    "state": "NJ",
+    "industry": "electrician",
+    "tagline": "Power solutions that work the first time",
+    "logo_url": "",
+    "google_rating": "4.9 stars (134 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=9941307967070254034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*EV charging* and electrical upgrades done right",
+    "subheadline": "Clean installs, zero shortcuts — the way electrical work should be.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "130+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Toms River Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE WIRE",
+    "heading": "Electrical work that powers your life",
+    "subheading": "From EV chargers to panel upgrades — every connection matters"
+  },
+  "services": [
+    {
+      "title": "EV Charger Installation",
+      "description": "Tesla, universal, and Level 2 home charging stations. Clean cable runs, proper permits, works every time.",
+      "icon": "zap"
+    },
+    {
+      "title": "Panel Upgrades",
+      "description": "200-amp service upgrades for modern electrical loads. Code-compliant installations with room to grow.",
+      "icon": "plug"
+    },
+    {
+      "title": "Generator Installation",
+      "description": "Whole-house backup power systems. Automatic transfer switches and proper grounding.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Electrical Repairs",
+      "description": "Troubleshooting, outlet installation, and electrical system maintenance.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "The electrical team Toms River calls first",
+    "body": "We're the ones who show up on time and finish ahead of schedule. Clean work, straight answers, zero surprises on the bill."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What our customers say"
+  },
+  "reviews": [
+    {
+      "name": "Steven P.",
+      "location": "Toms River, NJ",
+      "text": "Tesla charger install was seamless. Professional team completed work in two weeks, ran cable across house without cutting into walls.",
+      "rating": 5
+    },
+    {
+      "name": "Joseph G.",
+      "location": "Toms River, NJ",
+      "text": "Very responsive team. Panel upgrade and EV install done with care and skill. Highly recommend.",
+      "rating": 5
+    },
+    {
+      "name": "Frank C.",
+      "location": "Toms River, NJ",
+      "text": "Excellent job on generator and EV charger. Easy to contact throughout process. Highly recommend.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE AREA",
+    "heading": "Covering Ocean County and beyond",
+    "subheading": "Professional electrical service throughout the region",
+    "areas": [
+      "Toms River",
+      "Lakewood",
+      "Brick",
+      "Manchester",
+      "Jackson",
+      "Beachwood",
+      "Pine Beach",
+      "Island Heights"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to upgrade your electrical?",
+    "body": "Free quotes, honest pricing, work that passes inspection the first time. Call today.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (888) 900-3068"
+  },
+  "design": {
+    "primary_color": "#1E3A5F",
+    "accent_color": "#C0986B",
+    "bg_color": "#FAFBFC",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

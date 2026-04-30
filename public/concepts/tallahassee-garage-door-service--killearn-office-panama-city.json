@@ -1,0 +1,126 @@
+{
+  "business": {
+    "name": "Tallahassee Garage Door Service - Killearn Office",
+    "phone": "(850) 668-1719",
+    "email": "service@tallahasseegaragedoor.com",
+    "city": "Panama City",
+    "state": "FL",
+    "industry": "garage door repair",
+    "tagline": "When springs snap, we respond",
+    "logo_url": "",
+    "google_rating": "5 stars (34 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=378530270179499053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Door broken?* We're already on our way",
+    "subheadline": "Same-day service with prices posted right on our site — no surprises, no waiting around.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIXES",
+    "heading": "Springs, tracks, openers — we handle it all",
+    "subheading": "One truck, all the parts, same-day solutions"
+  },
+  "services": [
+    {
+      "title": "Spring Replacement",
+      "description": "Torsion springs snapped? We carry the right springs and install them properly the first time.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Track Repair",
+      "description": "Door came off track or bent rails causing problems? We straighten, realign, and get you moving.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Opener Service",
+      "description": "Remote not working or motor acting up? We diagnose and fix garage door openers of all brands.",
+      "icon": "zap"
+    },
+    {
+      "title": "Door Adjustments",
+      "description": "Squeaking, binding, or not closing properly? Complete tune-ups to get everything running smooth.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Panama City garage door team",
+    "body": "We post our prices online, show up when promised, and fix it right. Real people answering the phone."
+  },
+  "reviews_section": {
+    "label": "WHAT FOLKS SAY",
+    "heading": "Straight from our customers"
+  },
+  "reviews": [
+    {
+      "name": "Harley M.",
+      "location": "Panama City",
+      "text": "Derek did a terrific job replacing our torsion springs. Prompt, professional, and worked after 5pm to fit our schedule. Great work, reasonable price.",
+      "rating": 5
+    },
+    {
+      "name": "Rachel S.",
+      "location": "Panama City",
+      "text": "Chose them for the transparent pricing on their website, stayed for the phenomenal service. You can tell the owner really cares about his customers.",
+      "rating": 5
+    },
+    {
+      "name": "Tallyho M.",
+      "location": "Panama City",
+      "text": "Door came off track Saturday night. Derek called Sunday and said he could swing by after another job. Showed up earlier than promised.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving the Panama City area",
+    "subheading": "Fast response times throughout the region",
+    "areas": [
+      "Panama City",
+      "Lynn Haven",
+      "Springfield",
+      "Callaway",
+      "Parker",
+      "Youngstown",
+      "Mexico Beach"
+    ]
+  },
+  "cta": {
+    "heading": "Door giving you trouble?",
+    "body": "Same-day service with upfront pricing. No hidden fees, no runaround — just honest garage door repair.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (850) 668-1719"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Barlow Condensed",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

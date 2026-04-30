@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "New Holland HVAC",
+    "phone": "(717) 419-4139",
+    "email": "robert@newhollandhvac.com",
+    "city": "Lancaster",
+    "state": "PA",
+    "industry": "HVAC",
+    "tagline": "Lancaster's Trusted HVAC Team",
+    "logo_url": "",
+    "google_rating": "5 stars (174 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=4747240949111271836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When Your Heat *Quits at Midnight*, We Answer",
+    "subheadline": "Lancaster HVAC team that shows up fast and gets it right the first time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "170+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every System, Every Season",
+    "subheading": "From ancient units to brand-new installs"
+  },
+  "services": [
+    {
+      "title": "Heating Repair & Service",
+      "description": "Keep your furnace running when Lancaster winters hit hard. We service everything from older units to modern systems.",
+      "icon": "flame"
+    },
+    {
+      "title": "Air Conditioning Install",
+      "description": "Central air, mini splits, and full system replacements. Quick installation that gets you cool fast.",
+      "icon": "fan"
+    },
+    {
+      "title": "Emergency HVAC",
+      "description": "No heat in winter, no AC in summer. We respond fast when your system fails at the worst time.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Maintenance Programs",
+      "description": "Twice-yearly checkups, filter changes, and tune-ups that catch problems before they become expensive.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Lancaster HVAC Since Day One",
+    "body": "We're the Lancaster team that answers the phone and shows up when we say we will. Real people, real trucks, honest answers."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Lancaster Says"
+  },
+  "reviews": [
+    {
+      "name": "Pajfuab M.",
+      "location": "Lancaster, PA",
+      "text": "Wonderful experience! They've serviced our very old HVAC unit twice now. Instead of pushing us to replace it for $14,000, Rich was understanding and suggested we keep it running.",
+      "rating": 5
+    },
+    {
+      "name": "Nicole H.",
+      "location": "Lancaster, PA",
+      "text": "Lost heat AND hot water mid-day on a cold winter day. Amazing customer service from the moment I called - fast response, quick and efficient problem solving.",
+      "rating": 5
+    },
+    {
+      "name": "R F.",
+      "location": "Lancaster, PA",
+      "text": "Great local company. Rob and Bruce gave me fair pricing and good options for my AC replacement. Quick installation, new system runs great.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Lancaster County",
+    "subheading": "Fast response throughout the area",
+    "areas": [
+      "Lancaster",
+      "New Holland",
+      "Ephrata",
+      "Lititz",
+      "Manheim",
+      "Columbia",
+      "Elizabethtown",
+      "Mount Joy"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Get Your System Running Right?",
+    "body": "Free quotes on all HVAC work. Same honest pricing, no surprises.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (717) 419-4139"
+  },
+  "design": {
+    "primary_color": "#1E3A5F",
+    "accent_color": "#C0986B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

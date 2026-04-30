@@ -1,0 +1,108 @@
+{
+  "business": {
+    "name": "Ron's junk removal",
+    "phone": "(843) 610-3125",
+    "email": "info@ronsmoving.com",
+    "city": "Florence",
+    "state": "SC",
+    "industry": "junk removal",
+    "tagline": "We haul it all so you don't have to",
+    "logo_url": "",
+    "google_rating": "",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=2459402003323992464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Got junk? *We'll take it*",
+    "subheadline": "From old furniture to construction debris — one call clears it all",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Florence Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE HAUL",
+    "heading": "No job too big, too small, or too weird",
+    "subheading": "From single items to full cleanouts"
+  },
+  "services": [
+    {
+      "title": "Furniture Removal",
+      "description": "Old couches, mattresses, dining sets — we load it up and haul it away.",
+      "icon": "home"
+    },
+    {
+      "title": "Appliance Pickup",
+      "description": "Refrigerators, washers, dryers, and that ancient water heater in the basement.",
+      "icon": "plug"
+    },
+    {
+      "title": "Construction Debris",
+      "description": "Demo waste, drywall scraps, flooring remnants from your latest project.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Yard Waste Cleanup",
+      "description": "Brush piles, fallen branches, and everything from your weekend cleanup.",
+      "icon": "saw"
+    }
+  ],
+  "about": {
+    "heading": "We're the Florence team that shows up",
+    "body": "Real people with real trucks answering the phone. One call, one crew, one less headache for you."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Florence says about us"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Florence and surrounding areas",
+    "subheading": "Same honest service, wherever you are",
+    "areas": [
+      "Florence",
+      "Darlington",
+      "Hartsville",
+      "Lake City",
+      "Timmonsville",
+      "Pamplico",
+      "Scranton",
+      "Effingham"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to clear it out?",
+    "body": "Get your free estimate and we'll handle the heavy lifting",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (843) 610-3125"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

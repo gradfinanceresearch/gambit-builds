@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Mark Polsky Tree Service",
+    "phone": "(267) 368-4445",
+    "email": "mark.polsky@aol.com",
+    "city": "Philadelphia",
+    "state": "PA",
+    "industry": "tree service",
+    "tagline": "The tree guy Philly calls first",
+    "logo_url": "",
+    "google_rating": "4.9 stars (44 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=12607267935975927721&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Same-day quotes* — tree work that actually happens",
+    "subheadline": "Popular enough that we're booked out, but worth the wait. Just ask the neighbors who've been through a Philly storm.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Mark"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "40+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Philadelphia Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every tree situation handled",
+    "subheading": "Removal, pruning, storm cleanup — we show up with the right equipment"
+  },
+  "services": [
+    {
+      "title": "Tree Removal",
+      "description": "Mature trees, tight spaces, root rot problems. We'll even put your fence back when we're done.",
+      "icon": "saw"
+    },
+    {
+      "title": "Tree Pruning",
+      "description": "Clean cuts that keep your trees healthy. No hacking, no guesswork.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Stump Grinding",
+      "description": "Complete removal below ground level. Your yard, ready for whatever comes next.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Storm Damage Cleanup",
+      "description": "When Philly weather hits hard, we're the crew that shows up to clean up the mess.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Mark Polsky Tree Service",
+    "body": "A Philadelphia tree service that answers the phone and shows up when promised. Real quotes, fair prices, work that's worth waiting for."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What the neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Risa C.",
+      "location": "Philadelphia, PA",
+      "text": "Mark came for a quote the same day I called. Responsive, helpful, and his price beat everyone else for tree removal.",
+      "rating": 5
+    },
+    {
+      "name": "Adam C.",
+      "location": "Philadelphia, PA",
+      "text": "Successfully removed a massive root-rotted tree from a tight spot. Even removed and replaced our fence. Great communication.",
+      "rating": 5
+    },
+    {
+      "name": "Ethan B.",
+      "location": "Philadelphia, PA",
+      "text": "Friendly, clear communication, professional work. Very competitive pricing for our extremely large beech tree removal.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Philadelphia and beyond",
+    "subheading": "Same crew, same quality work throughout the metro area",
+    "areas": [
+      "Philadelphia",
+      "Camden",
+      "Chester",
+      "Norristown",
+      "Upper Darby",
+      "Germantown",
+      "West Chester",
+      "King of Prussia"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get that tree handled?",
+    "body": "Same-day quotes, fair prices, work that's actually worth waiting for. Call Mark and get it done right.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#9A3412",
+    "accent_color": "#059669",
+    "bg_color": "#FFFBF7",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

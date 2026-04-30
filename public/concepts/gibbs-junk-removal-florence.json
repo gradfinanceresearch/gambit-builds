@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Gibbs Junk Removal",
+    "phone": "(843) 992-6075",
+    "email": "info@mysite.com",
+    "city": "Florence",
+    "state": "SC",
+    "industry": "junk removal",
+    "tagline": "We haul it all",
+    "logo_url": "",
+    "google_rating": "5 stars (8 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=10955699953687911677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "We haul it *all* — no exceptions",
+    "subheadline": "One call gets that old shelter, broken furniture, or pile of stuff gone for good.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5★ on Google"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Florence Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE HAUL",
+    "heading": "No item too big, no pile too messy",
+    "subheading": "From single items to full cleanouts"
+  },
+  "services": [
+    {
+      "title": "Furniture Removal",
+      "description": "Old couches, mattresses, tables, chairs — we'll load it and haul it.",
+      "icon": "home"
+    },
+    {
+      "title": "Construction Debris",
+      "description": "Demo waste, old shingles, lumber, and building materials cleared out.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Appliance Pickup",
+      "description": "Refrigerators, washers, dryers, and other heavy appliances removed safely.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Full Property Cleanouts",
+      "description": "Garages, basements, attics, or entire properties cleared efficiently.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Florence junk removal that shows up",
+    "body": "We're the team your neighbors call when stuff needs to go. Heavy lifting, tight spaces, weird items — we handle it."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Florence says about us"
+  },
+  "reviews": [
+    {
+      "name": "Laura H.",
+      "location": "Florence, SC",
+      "text": "Great guys, super accommodating and responsive! Will definitely contact them again.",
+      "rating": 5
+    },
+    {
+      "name": "Jody M.",
+      "location": "Florence, SC",
+      "text": "Josh hauled off heavy items that were too much for us. Good people in the Pee Dee area.",
+      "rating": 5
+    },
+    {
+      "name": "Terri M.",
+      "location": "Florence, SC",
+      "text": "Amazing job removing an old shelter. Quick, efficient, and very professional.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Pee Dee region",
+    "subheading": "Fast pickup throughout the area",
+    "areas": [
+      "Florence",
+      "Darlington",
+      "Hartsville",
+      "Marion",
+      "Dillon",
+      "Lake City",
+      "Timmonsville",
+      "Pamplico"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to clear that space?",
+    "body": "One call, one crew, one bill. We show up when we say we will and haul whatever needs to go.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (843) 992-6075"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#F97316",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Horry Carpet Cleaning Plus Smoke fire and water damage restortion",
+    "phone": "(843) 213-1009",
+    "email": "web@seaserver.com",
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "industry": "carpet cleaner",
+    "tagline": "Grand Strand carpet cleaning & restoration specialists",
+    "logo_url": "",
+    "google_rating": "4.8 stars (135 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=5305544482787187756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Sand, spills, and disaster* — we handle it all",
+    "subheadline": "Living on the Grand Strand means carpet takes a beating. We show up same-day when disaster strikes.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.8★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "130+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Myrtle Beach Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Carpet, smoke, fire, water — handled",
+    "subheading": "From routine deep cleaning to disaster restoration"
+  },
+  "services": [
+    {
+      "title": "Carpet Cleaning & Stretching",
+      "description": "Deep cleaning that gets the sand out, plus stretching service to eliminate wrinkles and bubbles.",
+      "icon": "home"
+    },
+    {
+      "title": "Water Damage Restoration",
+      "description": "Fast water extraction and drying to prevent mold and save your flooring.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Fire & Smoke Damage",
+      "description": "Specialized cleaning to remove smoke odors and soot from carpets and upholstery.",
+      "icon": "flame"
+    },
+    {
+      "title": "Emergency Response",
+      "description": "Same-day service when disasters hit your rental property or home.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Bobby Ball & team",
+    "body": "Myrtle Beach carpet cleaning team that shows up when we say we will. One call handles your carpet, stretching, and disaster cleanup."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What the Grand Strand says"
+  },
+  "reviews": [
+    {
+      "name": "Eric C.",
+      "location": "Myrtle Beach",
+      "text": "Outstanding job on our carpets. Living on the Grand Strand means constant sand and humidity — they handled it all perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "Katie J.",
+      "location": "Myrtle Beach",
+      "text": "Emergency situation with my rental property. Bobby answered and got out there same day. Total nightmare turned into relief.",
+      "rating": 5
+    },
+    {
+      "name": "Debbie M.",
+      "location": "Myrtle Beach",
+      "text": "Friendly, early, and thorough. Bobby explained the whole process and went above and beyond with attention to detail.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the entire Grand Strand",
+    "subheading": "Fast response across Horry County",
+    "areas": [
+      "Myrtle Beach",
+      "North Myrtle Beach",
+      "Conway",
+      "Surfside Beach",
+      "Garden City",
+      "Pawleys Island",
+      "Georgetown",
+      "Little River",
+      "Carolina Forest",
+      "Socastee"
+    ]
+  },
+  "cta": {
+    "heading": "Sand in the carpet? Water in the basement?",
+    "body": "Don't wait — damage gets worse by the hour. Free quotes over the phone, same-day service when you need it most.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (843) 213-1009"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

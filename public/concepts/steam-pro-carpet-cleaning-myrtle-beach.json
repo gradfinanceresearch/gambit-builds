@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Steam Pro Carpet Cleaning",
+    "phone": "(843) 439-1431",
+    "email": "info@steampro.com",
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "industry": "carpet cleaner",
+    "tagline": "Deep clean that lasts",
+    "logo_url": "",
+    "google_rating": "5 stars (51 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=10553416138087186292&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Farm life tough* on your carpets? We get them looking brand new",
+    "subheadline": "Wayne shows up early, works fast, and your 11-year-old carpet will look refreshed again",
+    "cta_primary": "Get Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "50+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Myrtle Beach Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Carpet, upholstery, and stain removal",
+    "subheading": "Professional steam cleaning that gets the deep dirt out"
+  },
+  "services": [
+    {
+      "title": "Deep Steam Cleaning",
+      "description": "Hot water extraction removes embedded dirt, allergens, and odors from carpet fibers.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Stain Removal",
+      "description": "Pet stains, wine spills, mud tracks — we tackle the spots others leave behind.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Upholstery Cleaning",
+      "description": "Sofas, chairs, and cushions get the same thorough treatment as your carpets.",
+      "icon": "home"
+    },
+    {
+      "title": "Odor Elimination",
+      "description": "Neutralize smells at the source, not just mask them with fragrance.",
+      "icon": "fan"
+    }
+  ],
+  "about": {
+    "heading": "Wayne and the Steam Pro team",
+    "body": "Myrtle Beach carpet cleaning that shows up early and gets the job done right. Real results, fair pricing, no runaround."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Myrtle Beach says"
+  },
+  "reviews": [
+    {
+      "name": "Chelsea C.",
+      "location": "Myrtle Beach, SC",
+      "text": "Highly recommend Wayne for steam cleaning! Farm life is rough on carpets and he got them looking brand new at a fair price.",
+      "rating": 5
+    },
+    {
+      "name": "Michelle M.",
+      "location": "Myrtle Beach, SC",
+      "text": "Wayne was efficient and thorough. My 11-year-old carpet looks refreshed and clean, even with young kids and a dog! Better than the bigger competitors.",
+      "rating": 5
+    },
+    {
+      "name": "Rose S.",
+      "location": "Myrtle Beach, SC",
+      "text": "What a difference in my carpeting! Wayne was accommodating and fit me into his schedule. Best service I've used by far!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Grand Strand",
+    "subheading": "Professional carpet cleaning throughout the area",
+    "areas": [
+      "Myrtle Beach",
+      "North Myrtle Beach",
+      "Conway",
+      "Surfside Beach",
+      "Garden City",
+      "Pawleys Island",
+      "Georgetown",
+      "Litchfield Beach"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for carpets that look brand new?",
+    "body": "Call Wayne today for your free estimate. Quick scheduling, fair pricing, and results that last.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (843) 439-1431"
+  },
+  "design": {
+    "primary_color": "#991B1B",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFBEB",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

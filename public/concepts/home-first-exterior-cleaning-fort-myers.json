@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Home First Exterior Cleaning",
+    "phone": "(786) 374-7518",
+    "email": "info@llhomecleaningservicesfortmyers.com",
+    "city": "Fort Myers",
+    "state": "FL",
+    "industry": "pressure washer",
+    "tagline": "Every surface, every detail, every time",
+    "logo_url": "",
+    "google_rating": "5 stars (87 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=3769184505637765990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Windows, driveways, siding — *spotless every time*",
+    "subheadline": "Professional pressure washing that makes your neighbors wonder if you got new windows.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "90+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Fort Myers Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every corner of your exterior",
+    "subheading": "Professional equipment, proven methods"
+  },
+  "services": [
+    {
+      "title": "Window Cleaning",
+      "description": "Inside and out, streak-free results. Hard water stains and built-up grime removed completely.",
+      "icon": "home"
+    },
+    {
+      "title": "Pressure Washing",
+      "description": "Driveways, sidewalks, patios, and siding. High-pressure cleaning that brings surfaces back to new.",
+      "icon": "droplet"
+    },
+    {
+      "title": "House Washing",
+      "description": "Soft wash techniques for vinyl, stucco, and painted surfaces. Safe, thorough exterior cleaning.",
+      "icon": "home"
+    },
+    {
+      "title": "Driveway Restoration",
+      "description": "Oil stains, mold, and years of buildup removed. Concrete and pavers cleaned to original condition.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Fort Myers pressure washing done right",
+    "body": "We're the team your neighbors call when they want results. Professional equipment, honest pricing, and work that speaks for itself."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Fort Myers homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Victor F.",
+      "location": "Fort Myers, FL",
+      "text": "Professional from start to finish. Great price and top notch quality work. Would definitely recommend their service.",
+      "rating": 5
+    },
+    {
+      "name": "Mateo F.",
+      "location": "Fort Myers, FL",
+      "text": "Outstanding service. On time, professional, and left my windows absolutely spotless inside and out. The difference is night and day.",
+      "rating": 5
+    },
+    {
+      "name": "Yenny V.",
+      "location": "Fort Myers, FL",
+      "text": "Incredible job transforming the exterior of my home — everything looks spotless and brand new. Professional, punctual, and detailed work.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Southwest Florida",
+    "subheading": "Professional exterior cleaning throughout Lee County",
+    "areas": [
+      "Fort Myers",
+      "Cape Coral",
+      "Bonita Springs",
+      "Estero",
+      "North Fort Myers",
+      "Lehigh Acres",
+      "Fort Myers Beach",
+      "Sanibel"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for spotless results?",
+    "body": "Free estimates, upfront pricing, and work that makes your home stand out on the block.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (786) 374-7518"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

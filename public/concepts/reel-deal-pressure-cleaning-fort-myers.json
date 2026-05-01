@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "Reel Deal Pressure Cleaning",
+    "phone": "(239) 851-6333",
+    "email": "reeldealpressurecleaning@gmail.com",
+    "city": "Fort Myers",
+    "state": "FL",
+    "industry": "pressure washer",
+    "tagline": "When dirt won't quit, we show up",
+    "logo_url": "",
+    "google_rating": "5 stars (31 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=8987135494393775027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Years of grime* gone in one afternoon",
+    "subheadline": "Pool cages, roofs, driveways — we bring the heavy-duty equipment and know-how to make it look new again.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "What gets the pressure treatment",
+    "subheading": "From pool decks to rooftops — if it's dirty, we clean it"
+  },
+  "services": [
+    {
+      "title": "House Washing",
+      "description": "Soft wash your siding, remove mold and mildew buildup. Safe for all exterior surfaces.",
+      "icon": "home"
+    },
+    {
+      "title": "Roof Cleaning",
+      "description": "Strip away black streaks, algae, and moss. Restore your roof's original color.",
+      "icon": "home"
+    },
+    {
+      "title": "Pool Cage & Deck Cleaning",
+      "description": "Pressure wash screens, frames, and concrete. Get rid of buildup that regular hosing can't touch.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Driveway & Sidewalk Cleaning",
+      "description": "High-pressure cleaning for concrete and pavers. Remove oil stains, dirt, and discoloration.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Commercial Properties",
+      "description": "Storefront cleaning, parking lots, building exteriors. Keep your business looking professional.",
+      "icon": "brick"
+    }
+  ],
+  "about": {
+    "heading": "One guy, one truck, one goal",
+    "body": "Henry runs Reel Deal from Fort Myers with the kind of equipment that gets the job done right. Real person answering the phone — not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Fort Myers says"
+  },
+  "reviews": [
+    {
+      "name": "Belky G.",
+      "location": "Fort Myers, FL",
+      "text": "Looking for someone to accommodate my schedule at a reasonable price wasn't easy. But Reel Deal impressed me with perfect work.",
+      "rating": 5
+    },
+    {
+      "name": "Dory B.",
+      "location": "Fort Myers, FL",
+      "text": "Henry cleaned our sidewalk, driveway, pool deck and roof. Even helped move patio furniture and worked around our roof repair schedule.",
+      "rating": 5
+    },
+    {
+      "name": "Kim",
+      "location": "Fort Myers, FL",
+      "text": "Got me in on short notice. Professional and friendly, even climbed a ladder to clear hornet nest remnants. Highly recommend.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where we clean",
+    "subheading": "Serving Southwest Florida",
+    "areas": [
+      "Fort Myers",
+      "Cape Coral",
+      "Bonita Springs",
+      "Estero",
+      "Naples",
+      "Lehigh Acres",
+      "North Fort Myers",
+      "Fort Myers Beach"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to see the difference?",
+    "body": "Free quotes, honest pricing, and work that speaks for itself. Call Henry directly or fill out the form.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (239) 851-6333"
+  },
+  "design": {
+    "primary_color": "#991B1B",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

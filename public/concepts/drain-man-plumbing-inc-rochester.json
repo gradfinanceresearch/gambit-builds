@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Drain Man Plumbing, Inc",
+    "phone": "(585) 704-7051",
+    "email": "drainmanplumbinginc@gmail.com",
+    "city": "Rochester",
+    "state": "NY",
+    "industry": "plumber",
+    "tagline": "When drains fail, we answer",
+    "logo_url": "",
+    "google_rating": "5 stars (615 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=11126769538833600522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The Rochester plumber who *shows up on time*",
+    "subheadline": "Elliott and his team handle everything from sump pumps to water heaters — no runaround, just straight answers.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "610+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Rochester Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every drain, pipe, and fixture",
+    "subheading": "From emergency calls to planned installations — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Drain Cleaning & Repair",
+      "description": "Clogged drains, slow drains, broken drains. We clear them fast and fix them right.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Water Heater Service",
+      "description": "Installation, repair, and replacement. Quick turnaround when yours quits working.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Sump Pump Installation",
+      "description": "Keep your basement dry with reliable sump pump service and honest pricing.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Plumbing Repairs",
+      "description": "Leaks, pipe issues, fixture problems. We explain what's wrong and fix it.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Real plumbers answering the phone",
+    "body": "We're a Rochester plumbing team that explains what we're doing and why. No surprises, no runaround — just honest work at fair prices."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Rochester says about us"
+  },
+  "reviews": [
+    {
+      "name": "Liz J.",
+      "location": "Rochester, NY",
+      "text": "Always provides 5-star service and does an awesome job. He explained what all the pipes in my basement were for when I was a new homeowner.",
+      "rating": 5
+    },
+    {
+      "name": "Antra Z.",
+      "location": "Rochester, NY",
+      "text": "Elliott and his team are terrific! Great communication, excellent explanations, and timely solutions. Outstanding service for several years.",
+      "rating": 5
+    },
+    {
+      "name": "RP",
+      "location": "Rochester, NY",
+      "text": "Right on time, replaced my sump pump quickly for an absolutely fair price. Very impressed by his honesty and caring approach.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Rochester and surrounding areas",
+    "subheading": "Fast response throughout Monroe County",
+    "areas": [
+      "Rochester",
+      "Brighton",
+      "Irondequoit",
+      "Greece",
+      "Gates",
+      "Chili",
+      "Henrietta",
+      "Penfield",
+      "Webster",
+      "Pittsford"
+    ]
+  },
+  "cta": {
+    "heading": "Need a plumber who shows up?",
+    "body": "Get your free estimate from the Rochester team with 5-star reviews. No hidden fees, no surprises.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (585) 704-7051"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

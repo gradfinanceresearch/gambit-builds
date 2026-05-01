@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Atlas Fence Co",
+    "phone": "(229) 435-8019",
+    "email": "misty@atlasfencing.com",
+    "city": "Albany",
+    "state": "GA",
+    "industry": "fence installer",
+    "tagline": "Three generations building fences that last",
+    "logo_url": "",
+    "google_rating": "3.9 stars (32 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=6302514276464876288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Fencing *Albany* Right the First Time",
+    "subheadline": "Three generations of fence builders who answer the phone and know every local ordinance by heart.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "3.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "32+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every Fence Type, Every Property",
+    "subheading": "From backyard privacy to commercial security — we build them all"
+  },
+  "services": [
+    {
+      "title": "Residential Fencing",
+      "description": "Privacy, picket, and decorative fences for your home. We handle permits and know every HOA rule in Albany.",
+      "icon": "home"
+    },
+    {
+      "title": "Commercial Fencing",
+      "description": "Security fencing, gates, and access control for businesses. Built to last and meet commercial codes.",
+      "icon": "shield"
+    },
+    {
+      "title": "Fence Repair",
+      "description": "Storm damage, broken posts, sagging gates. We fix what's broken instead of selling you a whole new fence.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Custom Gates",
+      "description": "Driveway gates, walk-through gates, automated entry systems. Designed to match your fence perfectly.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Three Generations Strong",
+    "body": "We're an Albany family business with three generations working side by side. When you call, you get people who've been building fences in this town for decades."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Albany Says"
+  },
+  "reviews": [
+    {
+      "name": "Brooks T.",
+      "location": "Albany, GA",
+      "text": "Great family-owned business. Three generations working together bringing excellent workmanship to the community. Businesses like this support us when we need them.",
+      "rating": 5
+    },
+    {
+      "name": "Carmella",
+      "location": "Albany, GA",
+      "text": "Prompt and knowledgeable about local fence ordinances. I felt like I mattered as a customer and a human, not a dollar sign. Very professional consultation.",
+      "rating": 5
+    },
+    {
+      "name": "Jerry M.",
+      "location": "Albany, GA",
+      "text": "Great job and good people. Will use them again.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Southwest Georgia",
+    "subheading": "Local fencing contractors who know the area",
+    "areas": [
+      "Albany",
+      "Leesburg",
+      "Sylvester",
+      "Tifton",
+      "Moultrie",
+      "Thomasville",
+      "Camilla",
+      "Dawson"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Build Your Fence?",
+    "body": "Three generations of fence expertise, one phone call away. Free estimates on all residential and commercial projects.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (229) 435-8019"
+  },
+  "design": {
+    "primary_color": "#9A3412",
+    "accent_color": "#059669",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

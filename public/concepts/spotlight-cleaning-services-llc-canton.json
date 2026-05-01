@@ -1,0 +1,121 @@
+{
+  "business": {
+    "name": "Spotlight Cleaning Services LLC",
+    "phone": "(330) 834-5519",
+    "email": "spotlightcleans@gmail.com",
+    "city": "Canton",
+    "state": "OH",
+    "industry": "carpet cleaner",
+    "tagline": "Deep clean your carpets, restore your home",
+    "logo_url": "",
+    "google_rating": "5 stars (2 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=2053808877328869471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your carpets *deserve better* than surface clean",
+    "subheadline": "Professional carpet cleaning that brings back the colors you forgot were there.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Canton Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE DEEP CLEAN",
+    "heading": "Every fiber. Every stain. Every time.",
+    "subheading": "Professional carpet cleaning that goes beyond the surface"
+  },
+  "services": [
+    {
+      "title": "Deep Carpet Cleaning",
+      "description": "Hot water extraction removes embedded dirt, allergens, and stains that vacuums can't touch.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Stain & Spot Treatment",
+      "description": "Targeted treatment for wine, pet accidents, grease, and mystery spots that have been there too long.",
+      "icon": "shield"
+    },
+    {
+      "title": "Pet Odor Removal",
+      "description": "Enzyme treatments that eliminate pet odors at the source, not just mask them.",
+      "icon": "home"
+    },
+    {
+      "title": "Upholstery Cleaning",
+      "description": "Sofas, chairs, and fabric furniture cleaned with the same professional care as your carpets.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Canton's carpet cleaning team that shows up",
+    "body": "We're Julie and the Spotlight team — Canton carpet cleaners who answer our phone and do what we promise. One call gets your carpets the deep clean they need."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Canton homeowners are saying"
+  },
+  "reviews": [
+    {
+      "name": "Nicole D.",
+      "location": "Canton, OH",
+      "text": "I've used Julie at Spotlight for months. She's reliable, does great work in my home, communicates well and leaves everything better than she found it.",
+      "rating": 5
+    },
+    {
+      "name": "Laurie W.",
+      "location": "Canton, OH",
+      "text": "Julie went above and beyond my expectations. I'll use her again and again — money well spent.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE CLEAN",
+    "heading": "Serving Canton and surrounding areas",
+    "subheading": "Professional carpet cleaning throughout Stark County",
+    "areas": [
+      "Canton",
+      "Massillon",
+      "North Canton",
+      "Alliance",
+      "Louisville",
+      "Minerva",
+      "Navarre",
+      "East Canton"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for carpets that look new again?",
+    "body": "Free estimates, honest pricing, and results you can see the moment we're done. Call Julie today.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (330) 834-5519"
+  },
+  "design": {
+    "primary_color": "#991B1B",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "editorial"
+  }
+}

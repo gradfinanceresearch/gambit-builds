@@ -1,0 +1,115 @@
+{
+  "business": {
+    "name": "Angel's Handyman llc",
+    "phone": "(203) 666-0703",
+    "email": "theangelscare@outlook.com",
+    "city": "Bridgeport",
+    "state": "CT",
+    "industry": "handyman",
+    "tagline": "Fixing what matters in Bridgeport",
+    "logo_url": "",
+    "google_rating": "5 stars (2 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=1657562376392956542&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Two weeks in your bathroom — *worth every day*",
+    "subheadline": "Licensed handyman who shows up, works hard, and finishes what we start.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Bridgeport Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "From small fixes to full remodels",
+    "subheading": "Professional handyman services for your home"
+  },
+  "services": [
+    {
+      "title": "Bathroom Remodeling",
+      "description": "Complete bathroom renovations from tile to fixtures. We handle the whole project start to finish.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Home Repairs",
+      "description": "Drywall, flooring, trim work, and general maintenance. The fixes your home needs done right.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Kitchen Updates",
+      "description": "Cabinet installation, countertops, backsplashes, and kitchen improvements that add value.",
+      "icon": "home"
+    },
+    {
+      "title": "Interior Painting",
+      "description": "Fresh paint for walls, ceilings, and trim. Clean lines and lasting results.",
+      "icon": "paintbrush"
+    }
+  ],
+  "about": {
+    "heading": "Bridgeport handyman who works hard",
+    "body": "We're a local team that takes on everything from quick fixes to full renovations. Professional, courteous, and dedicated to getting the job done right."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Bridgeport neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Luisanna G.",
+      "location": "Bridgeport, CT",
+      "text": "Completely renovated our old bathroom and did an incredible job. Professional, courteous, and dedicated — worked hard for two straight weeks.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Bridgeport and surrounding areas",
+    "subheading": "Professional handyman services throughout Fairfield County",
+    "areas": [
+      "Bridgeport",
+      "Stratford",
+      "Fairfield",
+      "Trumbull",
+      "Milford",
+      "Norwalk",
+      "Stamford",
+      "Danbury"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to start your project?",
+    "body": "From bathroom remodels to quick repairs, we handle it all. Licensed, insured, and ready to work.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (203) 666-0703"
+  },
+  "design": {
+    "primary_color": "#5B21B6",
+    "accent_color": "#10B981",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

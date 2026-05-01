@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "John Lee Window Cleaning",
+    "phone": "(865) 310-0728",
+    "email": "johnleewindowcleaning@gmail.com",
+    "city": "Knoxville",
+    "state": "TN",
+    "industry": "window cleaner",
+    "tagline": "Crystal clear views for Knoxville homes",
+    "logo_url": "",
+    "google_rating": "4.9 stars (42 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=306466909560590418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Windows so clean, you'll *forget they're there*",
+    "subheadline": "Professional window cleaning that gets the corners, edges, and every streak — guaranteed.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "40+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Knoxville Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE CLEAN",
+    "heading": "Every pane, every frame, every time",
+    "subheading": "Interior, exterior, and those hard-to-reach spots that make the difference"
+  },
+  "services": [
+    {
+      "title": "Residential Window Cleaning",
+      "description": "Inside and outside cleaning for all home windows. Hand-detailed corners and frames included.",
+      "icon": "home"
+    },
+    {
+      "title": "Screen Cleaning & Repair",
+      "description": "Remove, clean, and reinstall screens. Minor repairs handled on the spot.",
+      "icon": "shield"
+    },
+    {
+      "title": "Post-Construction Cleanup",
+      "description": "Heavy-duty window cleaning after renovations. Paint spots and construction debris removed.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Pressure Washing",
+      "description": "Exterior window frames, sills, and surrounding surfaces cleaned with precision.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Clear windows, honest work",
+    "body": "We're the Knoxville window cleaning team that shows up on time and gets every corner. No shortcuts, no streaks, no excuses."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Knoxville homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Linda B.",
+      "location": "Knoxville, TN",
+      "text": "Sherri was professional and did an excellent job cleaning very dirty windows. When she missed three by accident, she came right back to fix it.",
+      "rating": 5
+    },
+    {
+      "name": "Linda W.",
+      "location": "Knoxville, TN",
+      "text": "Second time using them and once again they did a great job. Reasonably priced and my windows look so clean! Highly recommend.",
+      "rating": 5
+    },
+    {
+      "name": "Jeff C.",
+      "location": "Knoxville, TN",
+      "text": "We're particular about clean windows but getting too old to do it ourselves. Called John Lee and came home to perfectly clean windows. Worth every penny.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Knoxville and surrounding areas",
+    "subheading": "Professional window cleaning throughout East Tennessee",
+    "areas": [
+      "Knoxville",
+      "Oak Ridge",
+      "Maryville",
+      "Alcoa",
+      "Farragut",
+      "Powell",
+      "Clinton",
+      "Sevierville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for crystal clear windows?",
+    "body": "Free estimates on all residential window cleaning. Same honest pricing, same attention to detail.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

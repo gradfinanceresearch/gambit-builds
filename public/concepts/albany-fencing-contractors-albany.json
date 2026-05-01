@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Albany Fencing Contractors",
+    "phone": "0438 185 148",
+    "email": "albanyfc1@gmail.com",
+    "city": "Albany",
+    "state": "GA",
+    "industry": "fence installer",
+    "tagline": "Strong fences, honest work",
+    "logo_url": "",
+    "google_rating": "4.1 stars (10 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=7138257805507437882&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Fences that *actually* last in Albany heat",
+    "subheadline": "Pet-safe, storm-strong, and built right the first time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.1★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every fence style Albany needs",
+    "subheading": "From backyard privacy to commercial security — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Privacy Fencing",
+      "description": "Wood, vinyl, and composite options. Perfect height for your yard and neighborhood requirements.",
+      "icon": "home"
+    },
+    {
+      "title": "Chain Link Installation",
+      "description": "Residential and commercial grade. Pet runs, property lines, and security perimeters.",
+      "icon": "shield"
+    },
+    {
+      "title": "Fence Repair & Replacement",
+      "description": "Storm damage, rotted posts, sagging gates. We fix what others left behind.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Custom Gates",
+      "description": "Single, double, and rolling gates. Manual or automatic operation for any entrance.",
+      "icon": "ruler"
+    }
+  ],
+  "about": {
+    "heading": "Albany fence pros who show up",
+    "body": "We're the Albany fencing team that actually answers the phone and keeps appointments. Real quotes, real timelines, real work."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Albany homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Charlotte B.",
+      "location": "Albany, GA",
+      "text": "Derek was prompt, professional, and incredibly knowledgeable. His attention to detail and practical recommendations really stood out.",
+      "rating": 5
+    },
+    {
+      "name": "Alison A.",
+      "location": "Albany, GA",
+      "text": "Awesome job by Eugene and his team. They removed our old wire fence and replaced it with colorbond that looks brilliant — better than I imagined.",
+      "rating": 5
+    },
+    {
+      "name": "Rani R.",
+      "location": "Albany, GA",
+      "text": "Couldn't be happier with the service. So pleased with my veggie garden fencing. Fantastic and efficient work.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Albany and surrounding areas",
+    "subheading": "Local fence installation throughout Southwest Georgia",
+    "areas": [
+      "Albany",
+      "Leesburg",
+      "Camilla",
+      "Moultrie",
+      "Tifton",
+      "Sylvester",
+      "Americus",
+      "Cordele"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a fence that lasts?",
+    "body": "Free estimates, honest pricing, and work that stands up to Georgia weather. Let's talk about your project.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Today"
+  },
+  "design": {
+    "primary_color": "#0F4C75",
+    "accent_color": "#3EDBF0",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "business": {
+    "name": "Ballew Fence Co.",
+    "phone": "(828) 933-8016",
+    "email": "ballewfencing@gmail.com",
+    "city": "Albany",
+    "state": "GA",
+    "industry": "fence installer",
+    "tagline": "Building Albany's fences right",
+    "logo_url": "",
+    "google_rating": "4.6 stars (16 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=14910071132661801429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When the storm knocks it down, *we put it back up*",
+    "subheadline": "Albany fence team that shows up on time, quotes fast, and builds to last.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.6★ on Google"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Albany Team"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every fence, every gate, every repair",
+    "subheading": "From storm damage to new installs, we handle it all"
+  },
+  "services": [
+    {
+      "title": "New Fence Installation",
+      "description": "Wood, chain link, aluminum — whatever fits your yard and budget. Clean lines, solid posts, gates that swing smooth.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Storm Damage Repair",
+      "description": "Hurricane knocked your fence down? We'll get it back up fast so your animals stay put and your yard stays secure.",
+      "icon": "shield"
+    },
+    {
+      "title": "Gate Installation & Repair",
+      "description": "New gates that close right the first time. Wobbly gates fixed so they stay stable year after year.",
+      "icon": "home"
+    },
+    {
+      "title": "Perimeter Fencing",
+      "description": "Complete backyard fencing from corner to corner. Six feet high or whatever height works for your space.",
+      "icon": "ruler"
+    }
+  ],
+  "about": {
+    "heading": "Built for Albany weather",
+    "body": "We're the Albany fence team that shows up when we say we will. Real trucks, real tools, real fences that last."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "Albany neighbors recommend us"
+  },
+  "reviews": [
+    {
+      "name": "Carrie M.",
+      "location": "Albany, GA",
+      "text": "Hired them for a 6-foot backyard fence — great product at a fair price. Professional team that showed up on time each day and finished fast.",
+      "rating": 5
+    },
+    {
+      "name": "William S.",
+      "location": "Albany, GA",
+      "text": "Hurricane Helene blew down my back fence. Most companies wouldn't even quote because they were so busy. Ballew came out, gave a quick quote, and fixed it the next day.",
+      "rating": 5
+    },
+    {
+      "name": "Lisa D.",
+      "location": "Albany, GA",
+      "text": "Lethan & Allen did a super job. Professional, punctual, and put up a beautiful fence with well-made gates. Definitely recommend them.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Albany and surrounding areas",
+    "subheading": "Local fence installation throughout Southwest Georgia",
+    "areas": [
+      "Albany",
+      "Leesburg",
+      "Sylvester",
+      "Tifton",
+      "Camilla",
+      "Moultrie",
+      "Thomasville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fence it in?",
+    "body": "Quick quotes, fair prices, and fences that stay put when the next storm hits Albany.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (828) 933-8016"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

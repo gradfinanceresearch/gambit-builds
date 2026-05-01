@@ -1,0 +1,121 @@
+{
+  "business": {
+    "name": "Hughes Fencing",
+    "phone": "(229) 439-1881",
+    "email": "hughesfencing1@yahoo.com",
+    "city": "Albany",
+    "state": "GA",
+    "industry": "fence installer",
+    "tagline": "Solid fences. Fair prices.",
+    "logo_url": "",
+    "google_rating": "4.6 stars (8 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=13861229995498948717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The fence guy Albany *actually calls*",
+    "subheadline": "When your gate won't latch or your neighbor's dog keeps visiting — one call fixes it.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.6★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every fence, gate, and repair",
+    "subheading": "From privacy to picket — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Privacy Fence Installation",
+      "description": "Wood, vinyl, or composite privacy fencing that actually keeps things private.",
+      "icon": "home"
+    },
+    {
+      "title": "Chain Link Fencing",
+      "description": "Commercial-grade chain link for security, property lines, and pet containment.",
+      "icon": "shield"
+    },
+    {
+      "title": "Gate Installation & Repair",
+      "description": "Swing gates, sliding gates, and automatic gate systems that work when you need them.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Fence Repairs",
+      "description": "Broken posts, sagging gates, storm damage — we fix what's broken instead of selling you new.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Albany fence work since day one",
+    "body": "We're the Albany fence team that shows up when we say we will. One call, one crew, one bill."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Albany says"
+  },
+  "reviews": [
+    {
+      "name": "Laurie C.",
+      "location": "Albany, GA",
+      "text": "Paul came right out, checked batteries on two gates, and got everything working again. Many thanks!",
+      "rating": 5
+    },
+    {
+      "name": "Penny M.",
+      "location": "Albany, GA",
+      "text": "Nice guy but a little too pricey for our budget",
+      "rating": 4
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Albany & surrounding areas",
+    "subheading": "Local fence installation and repair throughout Southwest Georgia",
+    "areas": [
+      "Albany",
+      "Leesburg",
+      "Camilla",
+      "Sylvester",
+      "Tifton",
+      "Moultrie",
+      "Thomasville",
+      "Cordele"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fence it in?",
+    "body": "Call for a free estimate. We'll come take a look and give you an honest price.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (229) 439-1881"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

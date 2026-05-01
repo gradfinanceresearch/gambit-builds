@@ -1,0 +1,115 @@
+{
+  "business": {
+    "name": "Team Fencing Inc.",
+    "phone": "(229) 883-3688",
+    "email": "teamfencing@yahoo.com",
+    "city": "Albany",
+    "state": "GA",
+    "industry": "fence installer",
+    "tagline": "Building boundaries that last",
+    "logo_url": "/api/placeholder/200/80",
+    "google_rating": "4.2 stars (5 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=3305312018402715619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Fences That Stand Up to *Albany Weather*",
+    "subheadline": "From property lines to privacy screens — we handle the whole job, start to finish.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "star",
+      "text": "4.2★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Albany Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every Type of Fence",
+    "subheading": "Residential and commercial — wood, vinyl, chain link, and more"
+  },
+  "services": [
+    {
+      "title": "Wood Fence Installation",
+      "description": "Privacy fences, picket fences, and custom designs. We handle permits and property line verification.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Vinyl & PVC Fencing",
+      "description": "Low-maintenance option that won't warp, rot, or need painting. Perfect for Albany's humidity.",
+      "icon": "shield"
+    },
+    {
+      "title": "Chain Link & Security",
+      "description": "Commercial grade or residential. Galvanized steel that lasts decades in Georgia weather.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Fence Repair & Gates",
+      "description": "Fix damaged sections, install new gates, or replace rotted posts. We work on any brand.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Albany's Fence Team",
+    "body": "We're the fence crew Albany calls when they want it done right the first time. Every job gets the same attention to detail."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Albany Says"
+  },
+  "reviews": [
+    {
+      "name": "Shawn W.",
+      "location": "Albany, GA",
+      "text": "Tiger was extremely kind and friendly throughout the whole process.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where We Work",
+    "subheading": "Serving Albany and surrounding Southwest Georgia communities",
+    "areas": [
+      "Albany",
+      "Leesburg",
+      "Tifton",
+      "Moultrie",
+      "Camilla",
+      "Sylvester",
+      "Fitzgerald",
+      "Cordele"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Talk Fence?",
+    "body": "Free estimates on any size job. We'll walk your property line and give you straight numbers — no surprises.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (229) 883-3688"
+  },
+  "design": {
+    "primary_color": "#B91C1C",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "L.H.Improvement LLC",
+    "phone": "(203) 555-0123",
+    "email": "support@theimprovementllc.com",
+    "city": "Bridgeport",
+    "state": "CT",
+    "industry": "handyman",
+    "tagline": "One call fixes it all",
+    "logo_url": "",
+    "google_rating": "5 stars (10 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=6638171577533579706&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The handyman *Bridgeport calls first*",
+    "subheadline": "Honest work, fair prices, and we leave your house cleaner than we found it.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "10+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Bridgeport Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "From floors to fixtures",
+    "subheading": "The projects that make your house feel like home"
+  },
+  "services": [
+    {
+      "title": "Bathroom Remodeling",
+      "description": "Complete bathroom makeovers from tile to fixtures. We handle the messy demo and meticulous finish work.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Flooring Installation",
+      "description": "Hardwood, tile, vinyl — we prep the subfloor right and install it to last.",
+      "icon": "home"
+    },
+    {
+      "title": "Interior Painting",
+      "description": "Prep work that matters, paint that covers, and cleanup you'll actually notice.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Kitchen Updates",
+      "description": "Appliance installation, cabinet work, and all the details that make kitchens work better.",
+      "icon": "wrench"
+    },
+    {
+      "title": "General Repairs",
+      "description": "The stuff that breaks, squeaks, or just needs fixing. One call handles it all.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Built on honest work",
+    "body": "We're a Bridgeport handyman team that shows up when we say we will. Real people answering the phone — not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "LIina S.",
+      "location": "Bridgeport, CT",
+      "text": "Lima came out promptly for an estimate. He was reasonable and honest — the best quality in a worker. Amazing job removing old bathroom tiles and rotted subfloor, then installing new tiles.",
+      "rating": 5
+    },
+    {
+      "name": "Tony C.",
+      "location": "Bridgeport, CT",
+      "text": "Lima did an amazing job remodeling my mother's apartment. Professional, on time, and quality work that exceeded expectations. Great communication throughout the whole project.",
+      "rating": 5
+    },
+    {
+      "name": "Louis H.",
+      "location": "Bridgeport, CT",
+      "text": "Fair, honest, prompt, and professional with a great sense of humor. Got the job done in record time. A+++ will definitely use Lima again!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where we work",
+    "subheading": "Serving Bridgeport and surrounding communities",
+    "areas": [
+      "Bridgeport",
+      "Fairfield",
+      "Trumbull",
+      "Stratford",
+      "Milford",
+      "West Haven",
+      "Norwalk",
+      "Stamford"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get it fixed?",
+    "body": "Call for a free estimate. We'll tell you exactly what it'll take and what it'll cost — no surprises.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Today"
+  },
+  "design": {
+    "primary_color": "#065F46",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

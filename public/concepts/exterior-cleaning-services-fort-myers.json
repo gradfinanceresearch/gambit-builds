@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Exterior Cleaning Services",
+    "phone": "(863) 225-2955",
+    "email": "brightsidexteriors@gmail.com",
+    "city": "Fort Myers",
+    "state": "FL",
+    "industry": "pressure washer",
+    "tagline": "Making Fort Myers homes shine again",
+    "logo_url": "",
+    "google_rating": "4.9 stars (13 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=3960307816333794922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your House *Looks New Again*",
+    "subheadline": "Same crew, same results — neighbors already know who to call in Fort Myers.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "13+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Fort Myers Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every Surface. Every Detail.",
+    "subheading": "From salt buildup to years of grime — we handle what Florida weather dishes out."
+  },
+  "services": [
+    {
+      "title": "House Pressure Washing",
+      "description": "Siding, walkways, driveways — the full exterior clean that makes neighbors ask questions.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Pool Deck Restoration",
+      "description": "Strip away algae and buildup to reveal the deck underneath. Safe surfaces again.",
+      "icon": "home"
+    },
+    {
+      "title": "Gutter Cleaning",
+      "description": "Clear debris and restore proper water flow. Inside and out cleaning available.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Fence & Patio Cleaning",
+      "description": "Wood, vinyl, concrete — whatever needs the pressure treatment to look right.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Built for Florida Weather",
+    "body": "We're the Fort Myers pressure washing team neighbors recommend to each other. One call, fair price, results that last."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Fort Myers Says"
+  },
+  "reviews": [
+    {
+      "name": "Danika L.",
+      "location": "Fort Myers, FL",
+      "text": "New to Fort Myers and close to the water, my home needed pressure cleaning. Asked neighbors who they use — they all said this team. Friendly from the first call.",
+      "rating": 5
+    },
+    {
+      "name": "Bobby P.",
+      "location": "Fort Myers, FL",
+      "text": "Amazing service from initial calls to timely arrival. First time hiring them, results exceeded expectations and prices were incredibly reasonable.",
+      "rating": 5
+    },
+    {
+      "name": "Jarrod O.",
+      "location": "Fort Myers, FL",
+      "text": "Excellent service based on great reviews. Eugene worked me into the schedule faster than expected. Great price for house wash and pool deck restoration.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where We Work",
+    "subheading": "Serving Southwest Florida communities",
+    "areas": [
+      "Fort Myers",
+      "Cape Coral",
+      "Estero",
+      "Bonita Springs",
+      "Lehigh Acres",
+      "Gateway",
+      "San Carlos Park",
+      "Cypress Lake"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for the Transformation?",
+    "body": "Free estimates, fair pricing, and the clean your house has been waiting for.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (863) 225-2955"
+  },
+  "design": {
+    "primary_color": "#B45309",
+    "accent_color": "#1F2937",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

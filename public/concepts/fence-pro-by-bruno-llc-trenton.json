@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Fence Pro by Bruno LLC",
+    "phone": "(973) 259-5354",
+    "email": "contact@fenceprobybruno.com",
+    "city": "Trenton",
+    "state": "NJ",
+    "industry": "fence installer",
+    "tagline": "Built Right the First Time",
+    "logo_url": "",
+    "google_rating": "4.9 stars (215 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=8907850147000993902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The Fence Team *Trenton Trusts*",
+    "subheadline": "Real people answering phones, walking properties, and building fences that last.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "210+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE BUILD",
+    "heading": "Every Fence Type, Every Property",
+    "subheading": "From backyard privacy to commercial security — we handle the whole job"
+  },
+  "services": [
+    {
+      "title": "Privacy Fencing",
+      "description": "Wood, vinyl, and composite fences that block views and create your outdoor sanctuary.",
+      "icon": "home"
+    },
+    {
+      "title": "Pool Safety Gates",
+      "description": "Self-closing gates and barriers that meet code requirements and keep families safe.",
+      "icon": "shield"
+    },
+    {
+      "title": "Chain Link Installation",
+      "description": "Commercial-grade security fencing for properties, businesses, and play areas.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Fence Repair",
+      "description": "Fix damaged sections, replace posts, or upgrade existing fencing instead of starting over.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Bruno & Maria's Team",
+    "body": "We're the Trenton fence crew that walks every property before quoting. Maria handles estimates, Bruno oversees installation, and the whole team shows up ready to work."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Our Neighbors Say"
+  },
+  "reviews": [
+    {
+      "name": "Scott P.",
+      "location": "Trenton, NJ",
+      "text": "Working with Maria and Bruno was easy and professional. Maria gave a rough estimate over the phone, then Bruno walked the property to confirm final pricing and layout.",
+      "rating": 5
+    },
+    {
+      "name": "Jessica C.",
+      "location": "Trenton, NJ",
+      "text": "Bruno and his crew were wonderful to work with. When our pool finished early and we needed a safety gate fast, they handled everything perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "Melissa M.",
+      "location": "Trenton, NJ",
+      "text": "Maria and Jenny were fantastic — fast booking and great pricing. Bruno's installation team was professional and I'm so happy with the finished fence.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Trenton & Surrounding Areas",
+    "subheading": "Local fence installation throughout Mercer County",
+    "areas": [
+      "Trenton",
+      "Hamilton",
+      "Princeton",
+      "Lawrence",
+      "Ewing",
+      "Hopewell",
+      "West Windsor",
+      "East Windsor"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Build Your Fence?",
+    "body": "Call Maria for a phone estimate, then Bruno walks your property to finalize details. Simple process, quality results.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call (973) 259-5354"
+  },
+  "design": {
+    "primary_color": "#B45309",
+    "accent_color": "#1F2937",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

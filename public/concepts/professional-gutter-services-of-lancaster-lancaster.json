@@ -1,0 +1,115 @@
+{
+  "business": {
+    "name": "Professional Gutter Services of Lancaster",
+    "phone": "(717) 205-1080",
+    "email": "contact@lancastergutterpros.com",
+    "city": "Lancaster",
+    "state": "PA",
+    "industry": "gutter installer",
+    "tagline": "Clean gutters, protected home",
+    "logo_url": "",
+    "google_rating": "3 stars (2 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=770367261729530499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Rain or shine* — your gutters handled right",
+    "subheadline": "Professional gutter installation, repair, and cleaning that keeps Lancaster homes protected.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Lancaster Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Complete Gutter Solutions",
+    "subheading": "From seamless installation to emergency repairs"
+  },
+  "services": [
+    {
+      "title": "Gutter Installation",
+      "description": "New seamless gutters custom-fitted to your roofline. Proper slope and secure mounting every time.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Gutter Cleaning",
+      "description": "Complete debris removal and downspout clearing. We clean up the mess when we're done.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Gutter Repair",
+      "description": "Fix leaks, replace damaged sections, and secure loose hangers before small problems become big ones.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Gutter Guards",
+      "description": "Leaf protection systems that reduce maintenance and keep your gutters flowing freely.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Lancaster Gutter Pros",
+    "body": "We're a Lancaster gutter team that shows up when we say we will. One call, professional results."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Lancaster Says"
+  },
+  "reviews": [
+    {
+      "name": "O W.",
+      "location": "Lancaster, PA",
+      "text": "Came on time, friendly and quick. Cleaned up and was professional.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Lancaster County",
+    "subheading": "Professional gutter services throughout the area",
+    "areas": [
+      "Lancaster",
+      "York",
+      "Ephrata",
+      "Lititz",
+      "Manheim",
+      "Columbia",
+      "Elizabethtown",
+      "Mount Joy"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Professional Gutter Work?",
+    "body": "Free estimates on all gutter installation, repair, and cleaning services. Call today.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (717) 205-1080"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#F97316",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

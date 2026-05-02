@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Atlas Lock Inc.",
+    "phone": "(217) 429-2471",
+    "email": "atlaslock9@att.net",
+    "city": "Decatur",
+    "state": "AL",
+    "industry": "locksmith",
+    "tagline": "Decatur's go-to locksmith for fast, reliable solutions",
+    "logo_url": "",
+    "google_rating": "4.6 stars (220 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=10251155366595839181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Locked Out? *We're On The Way*",
+    "subheadline": "Real locksmiths in real trucks — not a call center that dispatches whoever shows up.",
+    "cta_primary": "Get Help Now",
+    "cta_secondary": "Call (217) 429-2471"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.6★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "220+ Google Reviews"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every Lock, Every Key, Every Time",
+    "subheading": "From broken keys to complete lockouts — we handle what keeps you stuck."
+  },
+  "services": [
+    {
+      "title": "Emergency Lockouts",
+      "description": "Car, house, or business — we get you back in without breaking anything.",
+      "icon": "shield"
+    },
+    {
+      "title": "Key Extraction & Repair",
+      "description": "Broken key stuck in the lock? We pull it out and save your hardware.",
+      "icon": "wrench"
+    },
+    {
+      "title": "New Key Creation",
+      "description": "Lost keys replaced on the spot. Cars, homes, specialty locks covered.",
+      "icon": "home"
+    },
+    {
+      "title": "Lock Installation",
+      "description": "New locks installed right the first time. Residential and commercial.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Decatur Locksmith Since Day One",
+    "body": "We're the team Decatur calls when locks go wrong. Real truck, real tools, real solutions."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Decatur Says"
+  },
+  "reviews": [
+    {
+      "name": "Jacob A.",
+      "location": "Decatur, AL",
+      "text": "Had a lockout this morning and these guys saved the day — got my broken key out and saved the lock. Fast, friendly service.",
+      "rating": 5
+    },
+    {
+      "name": "Kelly L.",
+      "location": "Decatur, AL",
+      "text": "Fast, friendly, efficient. Most importantly, there when we needed them. Highly recommend.",
+      "rating": 5
+    },
+    {
+      "name": "Tina M.",
+      "location": "Decatur, AL",
+      "text": "Got the pin out of my hitch when I lost the key and made new keys for me.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving North Alabama",
+    "subheading": "Fast response throughout the Tennessee Valley region.",
+    "areas": [
+      "Decatur",
+      "Huntsville",
+      "Madison",
+      "Athens",
+      "Hartselle",
+      "Cullman",
+      "Moulton",
+      "Trinity"
+    ]
+  },
+  "cta": {
+    "heading": "Locked Out Right Now?",
+    "body": "Don't waste time calling around. One call gets you back in fast.",
+    "cta_primary": "Call Now",
+    "cta_secondary": "Text Us"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#EF4444",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Ivan's Appliance Repair",
+    "phone": "(434) 956-0631",
+    "email": "ivanpeachey@gmail.com",
+    "city": "Charlottesville",
+    "state": "VA",
+    "industry": "appliance repair",
+    "tagline": "Same-day fixes for the appliances you count on",
+    "logo_url": "",
+    "google_rating": "5 stars (12 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=5625501457593737868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*One call* — your dishwasher works again",
+    "subheadline": "High-end brands, tricky problems, same-day service. Ivan shows up on time and gets it done right.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Ivan"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Charlottesville Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every major appliance",
+    "subheading": "Washing machines, dishwashers, ovens, cooktops — if it plugs in and breaks down, we fix it"
+  },
+  "services": [
+    {
+      "title": "Dishwasher Repair",
+      "description": "Overflows, poor cleaning, won't drain. We diagnose fast and fix it the same day when possible.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Washing Machine Service",
+      "description": "Not spinning, leaking, making noise. Get your laundry routine back on track.",
+      "icon": "fan"
+    },
+    {
+      "title": "Oven & Cooktop Repair",
+      "description": "Won't heat, temperature issues, burner problems. Even high-end brands like Dacor.",
+      "icon": "flame"
+    },
+    {
+      "title": "Emergency Repairs",
+      "description": "When your appliance quits at the worst time, we respond fast to get you back running.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Ivan shows up when he says he will",
+    "body": "Charlottesville appliance repair that answers the phone and fixes the problem. One technician, one truck, one focus — getting your appliances working again."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Kathy K.",
+      "location": "Charlottesville, VA",
+      "text": "Ivan responded promptly, showed up on time, and diagnosed the problem quickly. He ordered the part and replaced it the day it came in. The repair was done expertly and very neatly.",
+      "rating": 5
+    },
+    {
+      "name": "Karen H.",
+      "location": "Charlottesville, VA",
+      "text": "Scheduled same day, texted 10 minutes out, arrived on time, repaired my oven in an hour. My oven is a Dacor and it's hard to find repair shops willing to work on them.",
+      "rating": 5
+    },
+    {
+      "name": "Reid L.",
+      "location": "Charlottesville, VA",
+      "text": "Even though we're a bit of a drive for him, he came out that day after I called. Fixed our overflowing dishwasher problem that day. Very professional.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Charlottesville & surrounding areas",
+    "subheading": "Fast response times throughout the region",
+    "areas": [
+      "Charlottesville",
+      "Waynesboro",
+      "Staunton",
+      "Harrisonburg",
+      "Culpeper",
+      "Madison",
+      "Orange",
+      "Gordonsville"
+    ]
+  },
+  "cta": {
+    "heading": "Your appliance can be fixed today",
+    "body": "Don't wait weeks for a repair slot. Ivan responds fast and shows up when scheduled. Same-day service when possible.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Fraunces",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

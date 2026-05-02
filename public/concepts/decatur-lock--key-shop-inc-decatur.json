@@ -1,0 +1,121 @@
+{
+  "business": {
+    "name": "Decatur Lock & Key Shop, Inc.",
+    "phone": "(404) 373-4483",
+    "email": "service@decaturlockandkey.com",
+    "city": "Decatur",
+    "state": "AL",
+    "industry": "locksmith",
+    "tagline": "Every lock, every key — handled",
+    "logo_url": "",
+    "google_rating": "4 stars (62 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=16113379706363041723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Locked Out? *We Fix That*",
+    "subheadline": "The locksmith Decatur calls when keys go missing and locks act up.",
+    "cta_primary": "Get Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "60+ Google Reviews"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Decatur Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Keys, Locks & Everything Between",
+    "subheading": "From your front door to your car ignition — we handle the hardware that keeps you secure"
+  },
+  "services": [
+    {
+      "title": "House Lockouts",
+      "description": "Locked out of your home? We'll get you back inside without the drama.",
+      "icon": "home"
+    },
+    {
+      "title": "Car Key Replacement",
+      "description": "Lost car keys or broken ignition keys. We cut and program new ones.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Lock Repair & Rekey",
+      "description": "Fix sticky locks or rekey them when you need new access control.",
+      "icon": "shield"
+    },
+    {
+      "title": "Commercial Locksmith",
+      "description": "Business locks, access systems, and security hardware for commercial properties.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Real Locksmiths, Real Shop",
+    "body": "We're a Decatur locksmith shop that's been cutting keys and fixing locks for local folks. One call, real answers."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Decatur Says"
+  },
+  "reviews": [
+    {
+      "name": "Alex A.",
+      "location": "Decatur, AL",
+      "text": "Locked out of my truck in the neighborhood. They helped me get back on the road — good neighbors.",
+      "rating": 5
+    },
+    {
+      "name": "robert l.",
+      "location": "Decatur, AL",
+      "text": "Brought my antique car for glove box and spare tire lock rekeying. Local auto shop recommended them.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where We Work",
+    "subheading": "Serving Decatur and the surrounding Morgan County communities",
+    "areas": [
+      "Decatur",
+      "Hartselle",
+      "Madison",
+      "Huntsville",
+      "Athens",
+      "Trinity",
+      "Priceville",
+      "Falkville"
+    ]
+  },
+  "cta": {
+    "heading": "Need a locksmith today?",
+    "body": "Call us for honest pricing and straight answers. No hidden fees, no runaround.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (404) 373-4483"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#EF4444",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

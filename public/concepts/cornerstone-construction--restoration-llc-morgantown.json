@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Cornerstone Construction & Restoration LLC",
+    "phone": "(681) 212-9647",
+    "email": "letsbuildyourcornerstone@gmail.com",
+    "city": "Morgantown",
+    "state": "WV",
+    "industry": "concrete contractor",
+    "tagline": "Building it right from the ground up",
+    "logo_url": "",
+    "google_rating": "5 stars (20 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=7120802209250648651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Your foundation* deserves better than cheap fixes",
+    "subheadline": "From fire damage to full remodels — the crew Morgantown calls when it has to be done right the first time.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "20+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Morgantown Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Concrete & Construction Done Right",
+    "subheading": "Every foundation, every repair, every project built to last"
+  },
+  "services": [
+    {
+      "title": "Concrete Foundations",
+      "description": "New pours, repairs, and reinforcement. Your foundation sets the tone for everything above it.",
+      "icon": "home"
+    },
+    {
+      "title": "Fire & Water Restoration",
+      "description": "From smoke damage to structural repairs. We rebuild what disaster takes away.",
+      "icon": "flame"
+    },
+    {
+      "title": "Complete Remodels",
+      "description": "Bathrooms, additions, full renovations. One crew handles it all from demo to final touches.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Concrete Driveways & Patios",
+      "description": "Durable concrete work that handles West Virginia weather year after year.",
+      "icon": "brick"
+    }
+  ],
+  "about": {
+    "heading": "Built on Trust",
+    "body": "We're a Morgantown construction team that shows up when we say we will. One call handles your project from foundation to finish."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Our Neighbors Say"
+  },
+  "reviews": [
+    {
+      "name": "Susan B.",
+      "location": "Morgantown, WV",
+      "text": "After a fire destroyed my home's interior, John met me the same day I called. What an amazing experience with him and his crew throughout the restoration.",
+      "rating": 5
+    },
+    {
+      "name": "Jacqueline",
+      "location": "Morgantown, WV",
+      "text": "John knows his craft inside and out and truly cares about his clients. The kind of contractor you hope to find but rarely do.",
+      "rating": 5
+    },
+    {
+      "name": "James M.",
+      "location": "Morgantown, WV",
+      "text": "Complete bathroom remodel with joist replacement and mold removal. They went all the way to do it right — fantastic job.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Morgantown & Surrounding Areas",
+    "subheading": "Quality construction throughout North Central West Virginia",
+    "areas": [
+      "Morgantown",
+      "Fairmont",
+      "Bridgeport",
+      "Clarksburg",
+      "Grafton",
+      "Kingwood",
+      "Buckhannon",
+      "Westover"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Build Something That Lasts?",
+    "body": "From concrete work to complete restoration — let's talk about your project. Free estimates, honest pricing, no surprises.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (681) 212-9647"
+  },
+  "design": {
+    "primary_color": "#1B4D8C",
+    "accent_color": "#E8A630",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

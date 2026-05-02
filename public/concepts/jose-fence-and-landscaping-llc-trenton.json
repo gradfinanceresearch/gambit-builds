@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Jose Fence and Landscaping LLC",
+    "phone": "(862) 215-2584",
+    "email": "josemfence@gmail.com",
+    "city": "Trenton",
+    "state": "NJ",
+    "industry": "fence installer",
+    "tagline": "Solid fences, built right the first time",
+    "logo_url": "",
+    "google_rating": "4.9 stars (178 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=17700648156194860234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The fence guys *Trenton calls first*",
+    "subheadline": "Fast quotes, faster installs — and we actually answer the phone when you call.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "180+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Trenton Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE BUILD",
+    "heading": "Fences that last, installed fast",
+    "subheading": "From privacy to security — every fence built to handle Jersey weather"
+  },
+  "services": [
+    {
+      "title": "Privacy Fencing",
+      "description": "Wood, vinyl, and composite options. Keep your backyard yours.",
+      "icon": "home"
+    },
+    {
+      "title": "Chain Link & Security",
+      "description": "Durable perimeter protection for commercial and residential properties.",
+      "icon": "shield"
+    },
+    {
+      "title": "Gates & Hardware",
+      "description": "Custom gates that swing smooth and latch tight, every time.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Fence Repair",
+      "description": "Storm damage, loose posts, broken boards — we fix what's broken.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Built for Jersey weather",
+    "body": "We're the Trenton fence team that shows up when we say we will. Every post level, every board straight, every job done right."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Emily S.",
+      "location": "Trenton, NJ",
+      "text": "Jose was the only one who made it easy. Not many companies responded right away — Jose was so nice and made the whole process smooth!",
+      "rating": 5
+    },
+    {
+      "name": "Patrick L.",
+      "location": "Trenton, NJ",
+      "text": "Amazing work! They were extremely flexible and got my big fence and gate done in just 2 days. Highly recommend getting a quote!",
+      "rating": 5
+    },
+    {
+      "name": "Patrick C.",
+      "location": "Trenton, NJ",
+      "text": "Excellent job installing a 345-foot fence. Punctual, easy to communicate with, and professional throughout the entire process.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Trenton and surrounding areas",
+    "subheading": "Fast response times across Mercer County",
+    "areas": [
+      "Trenton",
+      "Princeton",
+      "Hamilton",
+      "Lawrence",
+      "Ewing",
+      "Hopewell",
+      "West Windsor",
+      "East Windsor"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a fence that lasts?",
+    "body": "Get your free quote today — we'll walk your property and give you straight answers on what works best.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (862) 215-2584"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#EF4444",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Barlow Condensed",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

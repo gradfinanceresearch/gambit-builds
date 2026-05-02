@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Monarch Roofing and Construction",
+    "phone": "(304) 673-0550",
+    "email": "admin@monarchroof.com",
+    "city": "Huntington",
+    "state": "WV",
+    "industry": "gutter installer",
+    "tagline": "When water needs direction, we build the path",
+    "logo_url": "",
+    "google_rating": "5 stars (28 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=1269899087581488735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Gutters That Actually *Work* When It Pours",
+    "subheadline": "No leaks, no overflow, no water where it shouldn't be — just proper drainage done right the first time.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Huntington Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every Drop Flows Where It Should",
+    "subheading": "Complete gutter solutions from install to repair"
+  },
+  "services": [
+    {
+      "title": "Gutter Installation",
+      "description": "Seamless gutters custom-fit to your roofline. Proper pitch, secure mounting, downspouts placed right.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Gutter Repair",
+      "description": "Fix leaks, realign sagging sections, replace damaged downspouts. Fast turnaround on storm damage.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Gutter Cleaning",
+      "description": "Clear debris, check flow, spot problems before they become expensive. Seasonal maintenance done right.",
+      "icon": "fan"
+    },
+    {
+      "title": "Gutter Guards",
+      "description": "Keep leaves and debris out while water flows through. Less cleaning, better protection year-round.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Built Right in Huntington",
+    "body": "We're the Huntington gutter team that shows up on time and cleans up when done. One call handles your whole project."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Huntington Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Adam K.",
+      "location": "Huntington, WV",
+      "text": "Excellent experience with Monarch. They worked quickly and professionally, communicated well, and left everything spotless. Top-notch workmanship.",
+      "rating": 5
+    },
+    {
+      "name": "Brendan M.",
+      "location": "Huntington, WV",
+      "text": "Travis always follows through on what he says. Competitive pricing and great experience all around. Very glad we chose Monarch.",
+      "rating": 5
+    },
+    {
+      "name": "Mariko W.",
+      "location": "Huntington, WV",
+      "text": "Storm damage repair done fast. They showed up promptly and finished the job in under an hour. Professional service - would use again.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Tri-State",
+    "subheading": "Professional gutter services throughout the region",
+    "areas": [
+      "Huntington",
+      "Barboursville",
+      "Hurricane",
+      "Milton",
+      "Wayne",
+      "Kenova",
+      "Ceredo",
+      "Chesapeake"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Gutters That Actually Work?",
+    "body": "Free estimate includes full inspection and honest recommendations. No surprises, no pressure.",
+    "cta_primary": "Schedule Estimate",
+    "cta_secondary": "Call (304) 673-0550"
+  },
+  "design": {
+    "primary_color": "#5B21B6",
+    "accent_color": "#10B981",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Three J Property Maintenance LLC",
+    "phone": "(843) 615-2131",
+    "email": "support@koalendar.com",
+    "city": "Florence",
+    "state": "SC",
+    "industry": "gutter installer",
+    "tagline": "Florence gutters done right",
+    "logo_url": "",
+    "google_rating": "4.3 stars (43 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=3183167523952494195&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Gutters that *actually* protect your Florence home",
+    "subheadline": "Clean installs, honest pricing, and we show up when promised.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.3★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "40+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Florence Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Everything gutter — handled",
+    "subheading": "From fresh installs to emergency repairs"
+  },
+  "services": [
+    {
+      "title": "Gutter Installation",
+      "description": "New seamless gutters cut and installed to fit your roofline perfectly. No gaps, no leaks.",
+      "icon": "home"
+    },
+    {
+      "title": "Gutter Repair",
+      "description": "Fix leaks, reattach loose sections, and replace damaged pieces. Get them working again.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Gutter Cleaning",
+      "description": "Clear out leaves, debris, and blockages. Keep water flowing where it should.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Downspout Service",
+      "description": "Install, repair, or reroute downspouts to direct water away from your foundation.",
+      "icon": "pipe"
+    }
+  ],
+  "about": {
+    "heading": "Built for Florence weather",
+    "body": "We're the Florence gutter team that shows up on time and gets it done right the first time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Florence neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Ken C.",
+      "location": "Florence, SC",
+      "text": "Joe did great work and was a pleasure to do business with. Prompt, professional, and extremely accommodating.",
+      "rating": 5
+    },
+    {
+      "name": "Pam S.",
+      "location": "Florence, SC",
+      "text": "Very professional, on time, and did a great job. So glad I found Three J Property Maintenance and will definitely use them again.",
+      "rating": 5
+    },
+    {
+      "name": "TJ L.",
+      "location": "Florence, SC",
+      "text": "The best! Quality work was beyond my expectations. Quick, dependable, honest, and very professional.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Florence and surrounding areas",
+    "subheading": "Local gutter service throughout the Pee Dee region",
+    "areas": [
+      "Florence",
+      "Darlington",
+      "Hartsville",
+      "Marion",
+      "Lake City",
+      "Timmonsville",
+      "Pamplico",
+      "Johnsonville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for gutters that work?",
+    "body": "Get your free estimate today. No pressure, just honest pricing for quality gutter work.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (843) 615-2131"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFBF5",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

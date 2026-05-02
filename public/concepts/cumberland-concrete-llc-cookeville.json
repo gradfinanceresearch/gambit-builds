@@ -1,0 +1,108 @@
+{
+  "business": {
+    "name": "Cumberland Concrete LLC.",
+    "phone": "(931) 303-7183",
+    "email": "allie@concretecumberland.com",
+    "city": "Cookeville",
+    "state": "TN",
+    "industry": "driveway paving",
+    "tagline": "Solid work that lasts",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=7756538639466223121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Built to Last* — Cumberland County Concrete",
+    "subheadline": "From prep to pour, we handle every detail of your driveway project.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE POUR",
+    "heading": "Concrete & Paving Services",
+    "subheading": "Every project starts with proper prep work"
+  },
+  "services": [
+    {
+      "title": "Concrete Driveways",
+      "description": "Full driveway installation with proper base preparation and reinforcement. Built to handle Tennessee weather.",
+      "icon": "home"
+    },
+    {
+      "title": "Driveway Repair",
+      "description": "Crack repair, resurfacing, and section replacement. We match existing concrete when possible.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Concrete Slabs",
+      "description": "Sidewalks, patios, and foundation pads. Level, reinforced, and finished right the first time.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Site Preparation",
+      "description": "Grading, excavation, and base work. The foundation of every good concrete job.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Cumberland Concrete LLC",
+    "body": "We're a Cookeville concrete team focused on driveways that last decades, not years. One call handles your entire project from start to finish."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Cookeville Says"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Cumberland County",
+    "subheading": "Local concrete contractors covering the area",
+    "areas": [
+      "Cookeville",
+      "Algood",
+      "Baxter",
+      "Monterey",
+      "Livingston",
+      "Crossville",
+      "Sparta",
+      "Smithville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Start Your Concrete Project?",
+    "body": "Get a detailed quote for your driveway, walkway, or concrete slab. We'll walk the site and give you straight numbers.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (931) 303-7183"
+  },
+  "design": {
+    "primary_color": "#B45309",
+    "accent_color": "#1F2937",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

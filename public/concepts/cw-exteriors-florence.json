@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "CW Exteriors",
+    "phone": "(843) 245-7340",
+    "email": "cwcustomexteriors@gmail.com",
+    "city": "Florence",
+    "state": "SC",
+    "industry": "gutter installer",
+    "tagline": "Gutters that handle Florence weather",
+    "logo_url": "",
+    "google_rating": "4.9 stars (35 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=14531424090273229396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Florence gutters *built to last*",
+    "subheadline": "From downspouts to fascia repair — one call handles everything water touches.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Florence Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every gutter system covered",
+    "subheading": "Installation, repair, and cleaning for homes that need it done right"
+  },
+  "services": [
+    {
+      "title": "Gutter Installation",
+      "description": "New seamless gutters cut to fit your roofline perfectly. Proper pitch, secure fasteners, downspouts placed right.",
+      "icon": "home"
+    },
+    {
+      "title": "Gutter Repair",
+      "description": "Fix leaks, replace damaged sections, secure loose brackets. Your existing system working like new.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Gutter Cleaning",
+      "description": "Clear debris, flush downspouts, check for damage. Keeps water flowing where it should.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Fascia & Soffits",
+      "description": "Repair or replace rotted boards behind gutters. Complete exterior protection for your roofline.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Dante and the Florence team",
+    "body": "We're the gutter crew Florence calls when it needs to be done right. Professional work, clear communication, and we show up when we say we will."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Florence neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "GABE",
+      "location": "Florence, SC",
+      "text": "Quick response with timely estimate. Showed up and got to work right away after walkthrough. Completed everything in about 4 hours. Would recommend.",
+      "rating": 5
+    },
+    {
+      "name": "ANGIE B.",
+      "location": "Florence, SC",
+      "text": "Came out within days of reaching out. Very thorough with cleaning and his professionalism and immediate contact is everything for an out-of-town owner.",
+      "rating": 5
+    },
+    {
+      "name": "Tamica J.",
+      "location": "Florence, SC",
+      "text": "Great job repairing my siding. Even when he had to delay due to circumstances beyond his control, he communicated and kept me in the loop. Perfect siding match and installation.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Pee Dee region",
+    "subheading": "Professional gutter services throughout the Florence area",
+    "areas": [
+      "Florence",
+      "Darlington",
+      "Hartsville",
+      "Marion",
+      "Dillon",
+      "Lake City",
+      "Timmonsville",
+      "Pamplico"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix your gutter problems?",
+    "body": "Free estimates on all gutter work. We'll assess your system and give you straight answers on what needs fixing.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call (843) 245-7340"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

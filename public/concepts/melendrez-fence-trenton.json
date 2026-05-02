@@ -1,0 +1,115 @@
+{
+  "business": {
+    "name": "Melendrez Fence",
+    "phone": "(609) 496-1999",
+    "email": "yovanimelendrez1981@gmail.com",
+    "city": "Trenton",
+    "state": "NJ",
+    "industry": "fence installer",
+    "tagline": "Built to last, built to look good",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=6062248862281341281&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Fences that *actually* last in Trenton",
+    "subheadline": "Wood, vinyl, chain link — we install it right the first time so you never have to think about it again.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Trenton Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every fence type, installed right",
+    "subheading": "From privacy to security, we handle the whole job"
+  },
+  "services": [
+    {
+      "title": "Wood Fence Installation",
+      "description": "Cedar, pine, and composite wood fencing. Custom heights and styles to match your property.",
+      "icon": "home"
+    },
+    {
+      "title": "Vinyl Fence Systems",
+      "description": "Low-maintenance vinyl fencing that won't warp, crack, or need yearly staining.",
+      "icon": "shield"
+    },
+    {
+      "title": "Chain Link Fencing",
+      "description": "Galvanized and vinyl-coated chain link for security, pet containment, and commercial use.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Gate Installation & Repair",
+      "description": "Custom gates that swing smooth and latch tight. We fix broken gates too.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Trenton fence crew that shows up",
+    "body": "We're a local fence installation team that does the job right. No shortcuts, no surprises — just solid fences that last."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What customers say"
+  },
+  "reviews": [
+    {
+      "name": "Michele W.",
+      "location": "Trenton, NJ",
+      "text": "Had a fence and gate installed a few years ago and the quality is excellent. Gate still works perfectly and looks brand new. Highly recommend for trustworthy work!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Trenton and surrounding areas",
+    "subheading": "Local fence installation throughout central New Jersey",
+    "areas": [
+      "Trenton",
+      "Hamilton",
+      "Lawrence",
+      "Ewing",
+      "Princeton",
+      "West Windsor",
+      "Robbinsville",
+      "Hopewell"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a fence that lasts?",
+    "body": "Get your free estimate today. We'll come out, measure, and give you straight pricing on the spot.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (609) 496-1999"
+  },
+  "design": {
+    "primary_color": "#991B1B",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

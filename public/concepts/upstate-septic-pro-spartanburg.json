@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Upstate Septic Pro",
+    "phone": "(864) 528-6278",
+    "email": "upstateseptics@gmail.com",
+    "city": "Spartanburg",
+    "state": "SC",
+    "industry": "septic service",
+    "tagline": "When your system backs up, we show up",
+    "logo_url": "",
+    "google_rating": "5 stars (112 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=5049888041748174663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When Your System *Backs Up*, We Show Up",
+    "subheadline": "Licensed septic pros serving Spartanburg — from routine pumping to emergency repairs.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "110+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Spartanburg Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every Tank, Every Problem",
+    "subheading": "From routine maintenance to emergency repairs — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Septic Tank Pumping",
+      "description": "Regular pumping keeps your system running smooth. We'll check levels and pump when needed.",
+      "icon": "droplet"
+    },
+    {
+      "title": "System Repairs",
+      "description": "Broken pipes, failed pumps, or backed-up drains. We diagnose the problem and fix it right.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Tank Replacement",
+      "description": "Old tank failing? We install new systems up to code, even on challenging properties.",
+      "icon": "home"
+    },
+    {
+      "title": "Emergency Service",
+      "description": "Septic emergencies don't wait. Neither do we. Fast response when you need it most.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Real Septic Pros",
+    "body": "We're the Spartanburg septic team that shows up when we say we will. No surprises, no runaround — just honest work at honest prices."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Spartanburg Says"
+  },
+  "reviews": [
+    {
+      "name": "Wendy R.",
+      "location": "Spartanburg, SC",
+      "text": "Cameron was very helpful on the phone and kept me updated. Andrew pumped the tank and answered all our questions. Cost less than expected.",
+      "rating": 5
+    },
+    {
+      "name": "Dustin L.",
+      "location": "Spartanburg, SC",
+      "text": "Showed up when promised, gave immediate pricing, and kept me informed throughout. Reasonably priced and very professional.",
+      "rating": 5
+    },
+    {
+      "name": "J H.",
+      "location": "Spartanburg, SC",
+      "text": "Dawson resolved our weekend sewer issue quickly. Very knowledgeable and provided solutions to prevent future problems.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Spartanburg County",
+    "subheading": "Local septic service you can count on",
+    "areas": [
+      "Spartanburg",
+      "Boiling Springs",
+      "Chesnee",
+      "Cowpens",
+      "Duncan",
+      "Greer",
+      "Inman",
+      "Landrum",
+      "Lyman",
+      "Woodruff"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Fix Your Septic Problem?",
+    "body": "Don't let septic issues get worse. Get a free quote from Spartanburg's trusted septic pros.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (864) 528-6278"
+  },
+  "design": {
+    "primary_color": "#B45309",
+    "accent_color": "#1F2937",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

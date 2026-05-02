@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Huntington Fence and Rain Gutters",
+    "phone": "(949) 342-4904",
+    "email": "info@huntingtonfenceandgutters.com",
+    "city": "Huntington",
+    "state": "WV",
+    "industry": "gutter installer",
+    "tagline": "Built right the first time",
+    "logo_url": "",
+    "google_rating": "5 stars (137 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=18240509334522277563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*One call* handles your fence and gutters",
+    "subheadline": "Custom gates, vinyl upgrades, seamless gutters — all from the same crew that shows up on time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "130+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Huntington Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Fencing & Gutters Done Right",
+    "subheading": "From wood to vinyl, custom gates to seamless gutters"
+  },
+  "services": [
+    {
+      "title": "Vinyl Fence Installation",
+      "description": "Replace rotting wood with durable vinyl fencing. Custom heights, colors, and styles to match your property.",
+      "icon": "home"
+    },
+    {
+      "title": "Custom Aluminum Gates",
+      "description": "Built-to-spec gates that actually fit your opening. Horizontal, vertical, or decorative designs.",
+      "icon": "shield"
+    },
+    {
+      "title": "Wood Fence Replacement",
+      "description": "Remove old fencing and install new horizontal or vertical wood. We haul away the old materials.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Seamless Rain Gutters",
+      "description": "Custom-fit gutters that channel water away from your foundation. No joints, no leaks.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Built for Huntington Weather",
+    "body": "We're the Huntington team that handles both your fencing and gutter needs. One estimate, one crew, one job done right."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Huntington Says"
+  },
+  "reviews": [
+    {
+      "name": "Jeff L.",
+      "location": "Huntington, WV",
+      "text": "Got multiple quotes and for the same money, others were providing inferior fencing. They handled custom work easily and were professional every step.",
+      "rating": 5
+    },
+    {
+      "name": "Emily L.",
+      "location": "Huntington, WV",
+      "text": "Fastest response of 4 companies we contacted. Excellent price, arrived on time, hauled away old fence, installed new without leaving a mess.",
+      "rating": 5
+    },
+    {
+      "name": "Dan C.",
+      "location": "Huntington, WV",
+      "text": "Brandon took extra time to ensure the design was exactly what I envisioned. Suggested upgrades that made the project even better.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Huntington & Surrounding Areas",
+    "subheading": "Professional fencing and gutter services throughout the Tri-State",
+    "areas": [
+      "Huntington",
+      "Barboursville",
+      "Hurricane",
+      "Milton",
+      "Wayne",
+      "Kenova",
+      "Ceredo",
+      "Chesapeake"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to upgrade your fence or gutters?",
+    "body": "Free estimates on all fencing and gutter projects. Same crew handles both — no coordinating multiple contractors.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Today"
+  },
+  "design": {
+    "primary_color": "#1B4D8C",
+    "accent_color": "#E8A630",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

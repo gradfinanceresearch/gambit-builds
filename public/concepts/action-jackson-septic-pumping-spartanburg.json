@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Action Jackson Septic Pumping",
+    "phone": "(803) 402-5164",
+    "email": "info@actionjacksonsepticpumping.com",
+    "city": "Spartanburg",
+    "state": "SC",
+    "industry": "septic service",
+    "tagline": "Spartanburg's septic experts you can count on",
+    "logo_url": "",
+    "google_rating": "4.7 stars (40 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=4984055489495787007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Action Jackson* — When Your Tank Won't Wait",
+    "subheadline": "Photos of the job, upfront pricing, and techs who show up when they say they will.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.7★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "40+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Spartanburg Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Septic Services Done Right",
+    "subheading": "From routine pumping to emergency repairs — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Septic Tank Pumping",
+      "description": "Complete tank pumping with photos showing before and after condition. We'll let you know exactly what we found.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Tank Inspections",
+      "description": "Full system evaluation with detailed reporting. Know what's working and what needs attention.",
+      "icon": "shield"
+    },
+    {
+      "title": "Drain Field Repair",
+      "description": "When your drain field fails, we diagnose the problem and fix it right the first time.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Emergency Service",
+      "description": "Septic backups don't wait for business hours. Neither do we when you need help fast.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Spartanburg Septic Specialists",
+    "body": "We're the Spartanburg septic team that picks up the phone and shows up on time. Real photos of your tank, honest assessments, fair pricing."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Spartanburg Says"
+  },
+  "reviews": [
+    {
+      "name": "LaToya R.",
+      "location": "Spartanburg, SC",
+      "text": "Fast and friendly service! Mr. Jackson took photos and showed us exactly what our septic tank looked like after service. Great, clean work.",
+      "rating": 5
+    },
+    {
+      "name": "Mary B.",
+      "location": "Spartanburg, SC",
+      "text": "Prompt, courteous, knowledgeable and very reasonably priced. I'll definitely use Action Jackson for future septic needs.",
+      "rating": 5
+    },
+    {
+      "name": "Haurin G.",
+      "location": "Spartanburg, SC",
+      "text": "Called them Sunday afternoon and they picked up right away. Despite the rain, they came Monday morning to start working on my septic tank.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Spartanburg & Surrounding Areas",
+    "subheading": "Fast response throughout the upstate",
+    "areas": [
+      "Spartanburg",
+      "Greer",
+      "Boiling Springs",
+      "Duncan",
+      "Lyman",
+      "Wellford",
+      "Inman",
+      "Cowpens"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Schedule Your Septic Service?",
+    "body": "Get your free quote today. We'll inspect your system, explain what we find, and give you honest pricing upfront.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (803) 402-5164"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

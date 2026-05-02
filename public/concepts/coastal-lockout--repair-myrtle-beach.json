@@ -1,0 +1,129 @@
+{
+  "business": {
+    "name": "Coastal Lockout & Repair",
+    "phone": "(843) 905-7819",
+    "email": "coastallockout@gmail.com",
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "industry": "locksmith",
+    "tagline": "When you're locked out, we're locked in",
+    "logo_url": "",
+    "google_rating": "4.7 stars (107 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=13779474328727848907&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Locked Out? *We Answer.*",
+    "subheadline": "Real locksmith, real truck, real fast — even on Saturday nights at 9pm.",
+    "cta_primary": "Get Unlocked Now",
+    "cta_secondary": "Call (843) 905-7819"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.7★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "100+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Myrtle Beach Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE UNLOCK",
+    "heading": "Car, House, Business — We Get You In",
+    "subheading": "No damage, no drama, just results"
+  },
+  "services": [
+    {
+      "title": "Lockout Service",
+      "description": "Car doors, house doors, condo doors — we open them all without damage. Even classic '73 Corvettes.",
+      "icon": "home"
+    },
+    {
+      "title": "Lock Rekeying",
+      "description": "Change your locks without replacing them. New keys made on the spot, even at night.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Key Replacement",
+      "description": "Lost keys, broken keys, need extras — we cut them while you wait.",
+      "icon": "shield"
+    },
+    {
+      "title": "Commercial Locks",
+      "description": "Business lockouts and security upgrades. We keep your operation running.",
+      "icon": "lightbulb"
+    }
+  ],
+  "about": {
+    "heading": "James & The Coastal Team",
+    "body": "We're the Myrtle Beach locksmith who actually picks up the phone. When others say they're out of town or don't call back, we show up."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "Real Customers, Real Stories"
+  },
+  "reviews": [
+    {
+      "name": "Maleia S.",
+      "location": "Myrtle Beach, SC",
+      "text": "Locked out Saturday afternoon. Spent an hour calling locksmiths who didn't answer or were out of town. Coastal answered right away and came out.",
+      "rating": 5
+    },
+    {
+      "name": "Joe M.",
+      "location": "Myrtle Beach, SC",
+      "text": "Visiting from Miami, locked out of my '73 Corvette Stingray. This guy unlocked it without any damage — impressive work.",
+      "rating": 5
+    },
+    {
+      "name": "Debbie G.",
+      "location": "Myrtle Beach, SC",
+      "text": "James got here on short notice at 9pm for a rekey. Made 3 extra keys on the spot. Very reasonable price, no gouging.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Grand Strand",
+    "subheading": "Fast response throughout the coastal area",
+    "areas": [
+      "Myrtle Beach",
+      "North Myrtle Beach",
+      "Surfside Beach",
+      "Garden City",
+      "Murrells Inlet",
+      "Pawleys Island",
+      "Georgetown",
+      "Conway",
+      "Socastee",
+      "Carolina Forest"
+    ]
+  },
+  "cta": {
+    "heading": "Locked Out Right Now?",
+    "body": "Don't waste time calling around. We answer, we show up, we get you back inside.",
+    "cta_primary": "Call for Immediate Help",
+    "cta_secondary": "(843) 905-7819"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

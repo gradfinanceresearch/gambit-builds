@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Quality Appliance Repair of Louisa LLC",
+    "phone": "(540) 223-5495",
+    "email": "qarl2011@yahoo.com",
+    "city": "Charlottesville",
+    "state": "VA",
+    "industry": "appliance repair",
+    "tagline": "When your appliances quit, we show up",
+    "logo_url": "",
+    "google_rating": "4.9 stars (1332 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=11774268686183325954&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your dishwasher's *down again* — we'll fix it today",
+    "subheadline": "Tony and the team answer fast, arrive prepared, and explain everything in plain English.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "1332+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Charlottesville Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every appliance in your kitchen and laundry room",
+    "subheading": "One call covers everything from your fridge to your front-loader"
+  },
+  "services": [
+    {
+      "title": "Washer & Dryer Repair",
+      "description": "Leaks, won't spin, strange noises, or won't start. We stock the common parts and explain what went wrong.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Refrigerator Service",
+      "description": "Not cooling, ice maker issues, or compressor problems. We'll get your food cold again.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Stove & Oven Repair",
+      "description": "Burners won't light, oven won't heat, or temperature's all wrong. Back to cooking tonight.",
+      "icon": "flame"
+    },
+    {
+      "title": "Dishwasher Fixes",
+      "description": "Not draining, won't start, or leaving spots on everything. We'll make it work like new.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Real techs, real answers",
+    "body": "We're a Charlottesville appliance repair team that shows up on time and explains what's actually wrong. Tony leads the field work — you'll get straight talk, not sales pitches."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Charlottesville homeowners are saying"
+  },
+  "reviews": [
+    {
+      "name": "Daisy S.",
+      "location": "Charlottesville, VA",
+      "text": "Tony showed up exactly on time, incredibly polite and professional. Fixed my stove quickly and answered every question I had. Rare to find service this reliable.",
+      "rating": 5
+    },
+    {
+      "name": "Tina B.",
+      "location": "Charlottesville, VA",
+      "text": "Front loader was leaking. Tony located the problem, explained why it happened, and gave tips to prevent future leaks. Very courteous and knowledgeable.",
+      "rating": 5
+    },
+    {
+      "name": "Wendie W.",
+      "location": "Charlottesville, VA",
+      "text": "Called and got a callback within 30 minutes, scheduled same day! Tony found the problem, ordered the part, and installed it within days.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving central Virginia",
+    "subheading": "Same-day service throughout the region",
+    "areas": [
+      "Charlottesville",
+      "Louisa",
+      "Gordonsville",
+      "Barboursville",
+      "Ruckersville",
+      "Crozet",
+      "Scottsville",
+      "Palmyra"
+    ]
+  },
+  "cta": {
+    "heading": "Appliance acting up? Let's fix it today",
+    "body": "Call now for same-day quotes. Tony's team arrives prepared with common parts and honest answers about what's wrong.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (540) 223-5495"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#F97316",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

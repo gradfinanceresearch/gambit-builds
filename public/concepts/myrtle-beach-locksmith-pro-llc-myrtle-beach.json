@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Myrtle Beach Locksmith pro LLC",
+    "phone": "(843) 396-0859",
+    "email": "info@myrtlebeachlocksmith.net",
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "industry": "locksmith",
+    "tagline": "When you're locked out, we're locked in",
+    "logo_url": "",
+    "google_rating": "4.9 stars (81 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=11004094461242469448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Locked out at the beach? *We answer the call*",
+    "subheadline": "Real locksmiths, real trucks, real solutions — day or night in Myrtle Beach.",
+    "cta_primary": "Get Help Now",
+    "cta_secondary": "Call (843) 396-0859"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "80+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Myrtle Beach Team"
+    }
+  ],
+  "services_section": {
+    "label": "LOCKOUT SOLUTIONS",
+    "heading": "Every lock, every key, every emergency",
+    "subheading": "From dead batteries to lost keys, we handle what keeps you out"
+  },
+  "services": [
+    {
+      "title": "Emergency Lockouts",
+      "description": "Locked out of your house, car, or business? We'll get you back in without the damage.",
+      "icon": "home"
+    },
+    {
+      "title": "Smart Lock Installation",
+      "description": "Upgrade to keypad entry and never worry about dead batteries or lost keys again.",
+      "icon": "shield"
+    },
+    {
+      "title": "Key Cutting & Duplication",
+      "description": "Fresh keys cut on-site. House keys, car keys, and specialty keys made while you wait.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Lock Repair & Replacement",
+      "description": "Sticky locks, broken mechanisms, and worn-out hardware fixed or replaced.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "The locksmith Myrtle Beach calls first",
+    "body": "We're the local team that actually shows up. When five other locksmiths won't answer, we will."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What our neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "BeachLife#",
+      "location": "Myrtle Beach, SC",
+      "text": "Drove 4 hours to our beach home and the keypad battery was dead with no backup key. Called 5 different locksmiths — these guys actually answered and showed up!",
+      "rating": 5
+    },
+    {
+      "name": "William D.",
+      "location": "Myrtle Beach, SC",
+      "text": "Tony solved the problem faster than expected and his knowledge helped me upgrade to a better setup. Professional work all around.",
+      "rating": 5
+    },
+    {
+      "name": "Jacquelyn F.",
+      "location": "Myrtle Beach, SC",
+      "text": "James saved us from being stranded 45 minutes from home. Highly recommend if you're ever stuck without keys!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Grand Strand",
+    "subheading": "Mobile locksmith service throughout the area",
+    "areas": [
+      "Myrtle Beach",
+      "North Myrtle Beach",
+      "Surfside Beach",
+      "Garden City",
+      "Murrells Inlet",
+      "Pawleys Island",
+      "Conway",
+      "Socastee"
+    ]
+  },
+  "cta": {
+    "heading": "Locked out? We're on our way",
+    "body": "Don't waste time calling around. One call gets you a real locksmith who actually shows up in Myrtle Beach.",
+    "cta_primary": "Call Now",
+    "cta_secondary": "Get Quote"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

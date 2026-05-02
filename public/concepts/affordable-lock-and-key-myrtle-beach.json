@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Affordable Lock and Key",
+    "phone": "(843) 457-8884",
+    "email": "affordablelockandkey@outlook.com",
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "industry": "locksmith",
+    "tagline": "When you're locked out, we're locked in",
+    "logo_url": "",
+    "google_rating": "5 stars (326 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=16387227342484381887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Locked Out? *We're On Our Way*",
+    "subheadline": "The locksmith Myrtle Beach calls when the other guy can't get the job done.",
+    "cta_primary": "Get Unlocked Now",
+    "cta_secondary": "Call (843) 457-8884"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "320+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Myrtle Beach Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE UNLOCK",
+    "heading": "Every Lock Has a Solution",
+    "subheading": "From house keys to high-security safes — if it locks, we can open it"
+  },
+  "services": [
+    {
+      "title": "Emergency Lockouts",
+      "description": "Car, house, or business — we'll get you back in without the damage.",
+      "icon": "home"
+    },
+    {
+      "title": "Lock Installation & Repair",
+      "description": "New locks, broken locks, upgraded locks. All brands and security levels.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Safe Opening & Service",
+      "description": "Forgotten combinations, stuck mechanisms, or new key sets for existing safes.",
+      "icon": "shield"
+    },
+    {
+      "title": "Key Duplication",
+      "description": "Standard keys, high-security keys, and specialty key cutting while you wait.",
+      "icon": "plug"
+    }
+  ],
+  "about": {
+    "heading": "The Locksmith That Shows Up",
+    "body": "We're the Myrtle Beach locksmith team that actually picks up the phone and solves the problem. Real people, real solutions, no runaround."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Our Customers Say"
+  },
+  "reviews": [
+    {
+      "name": "Karen L.",
+      "location": "Myrtle Beach, SC",
+      "text": "Bryson arrived quickly on a rainy Saturday night for my tenant's lockout. Professional, courteous, and kept me informed throughout the whole process.",
+      "rating": 5
+    },
+    {
+      "name": "Grovine M.",
+      "location": "Myrtle Beach, SC",
+      "text": "Great service and pricing. Used them for new locks and upgrades. Bryson responds immediately and is always on time.",
+      "rating": 5
+    },
+    {
+      "name": "Lisa L.",
+      "location": "Myrtle Beach, SC",
+      "text": "Got my 25+ year old Sentry safe open in minutes and cut new keys so I could keep using it. They rock!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Grand Strand",
+    "subheading": "Fast response times throughout Myrtle Beach and surrounding communities",
+    "areas": [
+      "Myrtle Beach",
+      "North Myrtle Beach",
+      "Conway",
+      "Surfside Beach",
+      "Garden City",
+      "Pawleys Island",
+      "Georgetown",
+      "Little River"
+    ]
+  },
+  "cta": {
+    "heading": "Locked Out Right Now?",
+    "body": "Don't wait around — we're already heading your way. Fast response, honest pricing, job done right the first time.",
+    "cta_primary": "Call For Help Now",
+    "cta_secondary": "Get Free Quote"
+  },
+  "design": {
+    "primary_color": "#1E3A5F",
+    "accent_color": "#C0986B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

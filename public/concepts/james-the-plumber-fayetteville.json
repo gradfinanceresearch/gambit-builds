@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "James The Plumber",
+    "phone": "(910) 237-4427",
+    "email": "jamestheplumber1987@gmail.com",
+    "city": "Fayetteville",
+    "state": "NC",
+    "industry": "plumber",
+    "tagline": "One call, one plumber, one fair price",
+    "logo_url": "",
+    "google_rating": "4.9 stars (59 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=3936539534955243425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The plumber Fayetteville calls *first*",
+    "subheadline": "Same-day service, honest pricing, and we actually answer the phone.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "60+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Fayetteville Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every pipe, every problem",
+    "subheading": "From dripping faucets to complete water heater swaps"
+  },
+  "services": [
+    {
+      "title": "Emergency Repairs",
+      "description": "Burst pipes, no hot water, or flooding — we handle the urgent stuff first.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Leak Detection & Repair",
+      "description": "Find it fast, fix it right. No more mystery water bills.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Water Heater Service",
+      "description": "Repair, replacement, or installation. Hot showers restored.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Drain Cleaning",
+      "description": "Clogs cleared, flow restored. Kitchen sinks to main lines.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Fixture Installation",
+      "description": "Faucets, toilets, showers — installed clean and working perfectly.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "One guy who shows up",
+    "body": "I'm James, your Fayetteville plumber. Real person answering the phone, not a call center. Fair pricing upfront, no surprises on the bill."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Michael D.",
+      "location": "Fayetteville",
+      "text": "Great service, punctual, and his prices are excellent! Would absolutely recommend.",
+      "rating": 5
+    },
+    {
+      "name": "Lee R.",
+      "location": "Fayetteville",
+      "text": "Came to look at my plumbing at no charge, then installed a whole house water filter perfectly. Great guy with fair pricing.",
+      "rating": 5
+    },
+    {
+      "name": "barbara a.",
+      "location": "Fayetteville",
+      "text": "Fixed my leaking shower head same day in under an hour! Super affordable price compared to others.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Fayetteville & surrounding areas",
+    "subheading": "Local service you can count on",
+    "areas": [
+      "Fayetteville",
+      "Fort Bragg",
+      "Hope Mills",
+      "Spring Lake",
+      "Raeford",
+      "Eastover",
+      "Wade",
+      "Stedman"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to fix it right?",
+    "body": "Call now for honest pricing and same-day service. No overtime charges, no surprises.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call James"
+  },
+  "design": {
+    "primary_color": "#1A5632",
+    "accent_color": "#D4A843",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

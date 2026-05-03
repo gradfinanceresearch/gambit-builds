@@ -1,0 +1,119 @@
+{
+  "business": {
+    "name": "Virginia Pool Service",
+    "phone": "(800) 577-1744",
+    "email": "a.waldron@fusionvirginia.com",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "industry": "pool service",
+    "tagline": "Clear water, clean service, every time",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=9151003247305785075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your pool needs *real attention*",
+    "subheadline": "We show up on time, work until it's right, and leave your water crystal clear.",
+    "cta_primary": "Get Pool Service",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Virginia Beach Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "POOL CARE",
+    "heading": "Everything your pool needs",
+    "subheading": "From weekly cleaning to equipment repair — one team handles it all"
+  },
+  "services": [
+    {
+      "title": "Pool Cleaning & Maintenance",
+      "description": "Weekly pool cleaning, skimming, vacuuming, and equipment maintenance to keep your pool sparkling clean and swim-ready year-round.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Chemical Balancing",
+      "description": "Professional water testing and chemical balancing to ensure safe, crystal-clear water that meets all health and safety standards.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Equipment Repair & Installation",
+      "description": "Expert repair and installation of pool pumps, filters, heaters, and automation systems to keep your pool operating efficiently.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Pool Opening & Closing",
+      "description": "Seasonal pool opening and winterization services to protect your investment and ensure smooth transitions between seasons.",
+      "icon": "shield"
+    },
+    {
+      "title": "Pool Heating Solutions",
+      "description": "Installation and maintenance of pool heaters and heat pumps to extend your swimming season in Virginia Beach's climate.",
+      "icon": "flame"
+    }
+  ],
+  "about": {
+    "heading": "Virginia Beach pool pros",
+    "body": "We're the team that shows up when we say we will. One call handles everything from routine cleaning to emergency repairs."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What pool owners say"
+  },
+  "reviews": [
+    {
+      "name": "Markeesha H.",
+      "location": "Virginia Beach",
+      "text": "On-time and determined team. They know how to get the work done right.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE AREA",
+    "heading": "Where we work",
+    "subheading": "Serving pools throughout the Virginia Beach area",
+    "areas": [
+      "Virginia Beach",
+      "Norfolk",
+      "Chesapeake",
+      "Portsmouth",
+      "Suffolk",
+      "Hampton",
+      "Newport News"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for cleaner water?",
+    "body": "Get your free estimate and see why Virginia Beach trusts us with their pools.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (800) 577-1744"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "business": {
+    "name": "Ideal Climate Experts",
+    "phone": "(850) 249-1724",
+    "email": "info@idealclimateexperts.net",
+    "city": "Panama City",
+    "state": "FL",
+    "industry": "appliance repair",
+    "tagline": "When the AC quits, we answer",
+    "logo_url": "",
+    "google_rating": "4.5 stars (30 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=3387902410845471622&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When the AC quits, *we answer*",
+    "subheadline": "Real techs, real trucks — serving Panama City through hurricanes and heatwaves.",
+    "cta_primary": "Get Fast Service",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.5★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Panama City Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIX",
+    "heading": "Every unit, every problem",
+    "subheading": "From quick repairs to full diagnostics"
+  },
+  "services": [
+    {
+      "title": "AC Repair & Service",
+      "description": "Heat pumps, central air, window units. We diagnose fast and fix it right the first time.",
+      "icon": "fan"
+    },
+    {
+      "title": "Emergency HVAC",
+      "description": "When your system fails in the heat, we respond quickly with the parts and expertise you need.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Maintenance Plans",
+      "description": "Semi-annual service agreements to keep your system running smooth and catch problems early.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Hurricane Recovery",
+      "description": "Storm damage repairs and post-hurricane system restoration to get you comfortable again.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Built for Panama City weather",
+    "body": "We're the local team that shows up when others say it'll be weeks. Real people answering the phone — not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Panama City says"
+  },
+  "reviews": [
+    {
+      "name": "Drew E.",
+      "location": "Panama City, FL",
+      "text": "Fast service and reasonable prices! Arrived quickly, found the problem right away, and fixed it on the spot. Would definitely recommend to friends and family.",
+      "rating": 5
+    },
+    {
+      "name": "Michael H.",
+      "location": "Panama City, FL",
+      "text": "Great job repairing my heat pump. Had me back up and running in no time. Very friendly, professional, and reasonably priced. I'll only call these guys from now on.",
+      "rating": 5
+    },
+    {
+      "name": "Christine S.",
+      "location": "Panama City, FL",
+      "text": "Showed up on time, made a fast repair, and gave advice on keeping dust down from hurricane damage remodel. So impressed I started a maintenance agreement.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Panhandle",
+    "subheading": "Fast response across the region",
+    "areas": [
+      "Panama City",
+      "Panama City Beach",
+      "Lynn Haven",
+      "Callaway",
+      "Springfield",
+      "Parker",
+      "Southport"
+    ]
+  },
+  "cta": {
+    "heading": "AC down? We're up.",
+    "body": "Don't wait weeks for service. Get the local team that responds fast with honest pricing and real solutions.",
+    "cta_primary": "Schedule Service",
+    "cta_secondary": "Call (850) 249-1724"
+  },
+  "design": {
+    "primary_color": "#B45309",
+    "accent_color": "#1F2937",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Archivo Black",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

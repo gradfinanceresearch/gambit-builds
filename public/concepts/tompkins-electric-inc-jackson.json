@@ -1,0 +1,115 @@
+{
+  "business": {
+    "name": "Tompkins Electric Inc",
+    "phone": "(601) 922-8067",
+    "email": "tompkinselectric@aol.com",
+    "city": "Jackson",
+    "state": "MS",
+    "industry": "electrician",
+    "tagline": "Powering Jackson homes and businesses",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=16595493820480578748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When the lights go out, *we answer*",
+    "subheadline": "Licensed Jackson electricians who show up ready to work — every outlet, panel, and wire handled right.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every electrical job handled",
+    "subheading": "From quick fixes to complete rewires"
+  },
+  "services": [
+    {
+      "title": "Panel Upgrades",
+      "description": "Old breaker box causing problems? We'll upgrade your electrical panel to handle today's power demands safely.",
+      "icon": "zap"
+    },
+    {
+      "title": "Outlet & Switch Repair",
+      "description": "Dead outlets, faulty switches, and wiring issues fixed fast. No job too small.",
+      "icon": "plug"
+    },
+    {
+      "title": "Lighting Installation",
+      "description": "New fixtures, ceiling fans, recessed lighting — we'll wire it up and make it work.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Emergency Electrical",
+      "description": "Power outages, sparking outlets, tripped breakers — we'll get your electricity back on track.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Jackson's electrical team",
+    "body": "We're the Jackson electricians who show up when we say we will. One call gets you real techs with real trucks, ready to handle whatever electrical problem you've got."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Jackson says"
+  },
+  "reviews": [
+    {
+      "name": "Steve B.",
+      "location": "Jackson, MS",
+      "text": "Best electric company out there.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Jackson and surrounding areas",
+    "subheading": "Local electricians covering the metro area",
+    "areas": [
+      "Jackson",
+      "Pearl",
+      "Ridgeland",
+      "Madison",
+      "Brandon",
+      "Flowood",
+      "Clinton",
+      "Terry"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your electrical fixed?",
+    "body": "Free estimates on all electrical work. Licensed, insured, and ready to solve your power problems.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (601) 922-8067"
+  },
+  "design": {
+    "primary_color": "#991B1B",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Sparkling Clean Windows",
+    "phone": "(509) 586-5550",
+    "email": "jason@sparklingcleanwindows.net",
+    "city": "Lakeland",
+    "state": "FL",
+    "industry": "window cleaner",
+    "tagline": "Crystal clear results, every time",
+    "logo_url": "",
+    "google_rating": "5 stars (104 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=6081573283555081570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Windows that *actually* sparkle",
+    "subheadline": "Professional window cleaning that makes your neighbors ask who you called",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "100+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Lakeland Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Inside, outside, screens — all crystal clear",
+    "subheading": "From basic exterior cleaning to full-service packages with screen care"
+  },
+  "services": [
+    {
+      "title": "Exterior Window Cleaning",
+      "description": "Outside glass cleaned by hand with professional-grade tools. No streaks, no water spots.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Interior & Exterior Package",
+      "description": "Both sides cleaned for maximum clarity. Walk-around inspection to ensure you're satisfied.",
+      "icon": "home"
+    },
+    {
+      "title": "Screen Cleaning & Repair",
+      "description": "Screens removed, cleaned, and checked for damage. Proper handling to prevent breaks.",
+      "icon": "shield"
+    },
+    {
+      "title": "Holiday Light Installation",
+      "description": "Professional Christmas light setup with timer systems. Brighten your home for the season.",
+      "icon": "lightbulb"
+    }
+  ],
+  "about": {
+    "heading": "The Lakeland window team your neighbors already know",
+    "body": "We show up when scheduled, clean what we promise, and leave your home spotless. Real pros with real equipment."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Lakeland homeowners are saying"
+  },
+  "reviews": [
+    {
+      "name": "Lynnette G.",
+      "location": "Lakeland, FL",
+      "text": "Couldn't be happier with the entire experience. Excellent communication from start to finish, quick quote response, and clear explanation of services.",
+      "rating": 5
+    },
+    {
+      "name": "Veronica S.",
+      "location": "Lakeland, FL",
+      "text": "Amazing Christmas lights install! First time having lights on our house and when they turned on, I couldn't help but smile.",
+      "rating": 5
+    },
+    {
+      "name": "Michelle K.",
+      "location": "Lakeland, FL",
+      "text": "Ben did excellent work! Reviewed services beforehand, did a walk-around after completion to ensure satisfaction. Polite, professional, and on time.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Lakeland and surrounding communities",
+    "subheading": "Professional window cleaning throughout Polk County",
+    "areas": [
+      "Lakeland",
+      "Bartow",
+      "Winter Haven",
+      "Auburndale",
+      "Mulberry",
+      "Plant City",
+      "Haines City",
+      "Lake Wales"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for windows that actually sparkle?",
+    "body": "Free quotes, honest pricing, and results that make your neighbors ask questions. Call or email today.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (509) 586-5550"
+  },
+  "design": {
+    "primary_color": "#065F46",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FEFFFE",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

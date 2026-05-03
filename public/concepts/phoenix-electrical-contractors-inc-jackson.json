@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "Phoenix Electrical Contractors, Inc.",
+    "phone": "(601) 824-0208",
+    "email": "jhall@phoenixelectricalinc.com",
+    "city": "Jackson",
+    "state": "MS",
+    "industry": "electrician",
+    "tagline": "Power problems solved — same day",
+    "logo_url": "",
+    "google_rating": "4.8 stars (23 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=8722678149286128928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When Jackson's power goes out, *we show up*",
+    "subheadline": "Same-day dispatch, clean work, and problems actually fixed the first time.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.8★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "20+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Jackson Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every wire, panel, and outlet — handled",
+    "subheading": "From lightning damage to faulty breakers, we fix what others can't"
+  },
+  "services": [
+    {
+      "title": "Residential Electrical Services",
+      "description": "Complete home electrical solutions including wiring, panel upgrades, outlet installation, and electrical repairs for homeowners throughout Jackson, MS.",
+      "icon": "home"
+    },
+    {
+      "title": "Commercial Electrical Contracting",
+      "description": "Professional electrical installations and maintenance for businesses, offices, and commercial properties with code-compliant solutions.",
+      "icon": "zap"
+    },
+    {
+      "title": "Electrical Panel Upgrades",
+      "description": "Safe and efficient electrical panel replacements and upgrades to meet modern power demands and improve electrical safety.",
+      "icon": "plug"
+    },
+    {
+      "title": "Emergency Electrical Repairs",
+      "description": "24/7 emergency electrical services for power outages, electrical faults, and urgent electrical issues requiring immediate attention.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Lighting Installation & Design",
+      "description": "Custom lighting solutions including LED installations, outdoor lighting, and energy-efficient lighting designs for homes and businesses.",
+      "icon": "lightbulb"
+    }
+  ],
+  "about": {
+    "heading": "Real electricians, real trucks, real answers",
+    "body": "We're the Jackson electrical team that actually shows up when we say we will. Clean work, upfront pricing, and problems solved the first time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Jackson homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Keith R.",
+      "location": "Jackson, MS",
+      "text": "Outstanding service from start to finish! Sam and the team provided exceptional service from the first phone call to project completion.",
+      "rating": 5
+    },
+    {
+      "name": "Ye'Chiya H.",
+      "location": "Jackson, MS",
+      "text": "Divine intervention finding these guys! Sam dispatched a crew same day, they came fast, found the issue and fixed it in just a couple hours.",
+      "rating": 5
+    },
+    {
+      "name": "Steve B.",
+      "location": "Jackson, MS",
+      "text": "Friendly, prompt and professional. Had a breaker panel issue, Randy came right on time, investigated thoroughly, and went the extra mile.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Jackson and surrounding areas",
+    "subheading": "Fast response times across the metro",
+    "areas": [
+      "Jackson",
+      "Pearl",
+      "Madison",
+      "Ridgeland",
+      "Brandon",
+      "Clinton",
+      "Flowood",
+      "Terry"
+    ]
+  },
+  "cta": {
+    "heading": "Power problems don't wait — neither do we",
+    "body": "Same-day dispatch for electrical emergencies. Free estimates on all non-emergency work. Call or text us right now.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (601) 824-0208"
+  },
+  "design": {
+    "primary_color": "#92400E",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFBF7",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

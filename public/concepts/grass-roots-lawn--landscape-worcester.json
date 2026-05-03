@@ -1,0 +1,115 @@
+{
+  "business": {
+    "name": "Grass Roots Lawn & Landscape",
+    "phone": "(508) 245-9206",
+    "email": "support@grassroots-lawn.com",
+    "city": "Worcester",
+    "state": "MA",
+    "industry": "landscaper",
+    "tagline": "Worcester landscaping that takes root",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=2747716598104453136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Worcester lawns* that make neighbors jealous",
+    "subheadline": "One crew, one vision — grass that grows right and stays that way.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Worcester Team"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every blade, every border, every season",
+    "subheading": "From weekly cuts to complete landscape overhauls"
+  },
+  "services": [
+    {
+      "title": "Lawn Maintenance",
+      "description": "Weekly mowing, edging, and cleanup that keeps your grass healthy and your property looking sharp.",
+      "icon": "home"
+    },
+    {
+      "title": "Landscape Design",
+      "description": "Custom plantings, hardscaping, and outdoor spaces designed for Worcester weather and your lifestyle.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Seasonal Cleanup",
+      "description": "Spring prep and fall cleanup services that protect your investment year-round.",
+      "icon": "fan"
+    },
+    {
+      "title": "Irrigation Systems",
+      "description": "Smart watering solutions that keep everything green without the guesswork or waste.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Built for Worcester yards",
+    "body": "We're the Worcester landscaping team that shows up when scheduled and finishes what we start. Real trucks, real crews, real results."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Worcester homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Michael K.",
+      "location": "Worcester, MA",
+      "text": "Amazing experience with this company. I can always depend on them — hardworking, knowledgeable, and fair. A+ landscaping business.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Worcester and surrounding communities",
+    "subheading": "Professional landscaping throughout Central Massachusetts",
+    "areas": [
+      "Worcester",
+      "Auburn",
+      "Shrewsbury",
+      "West Boylston",
+      "Holden",
+      "Paxton",
+      "Leicester",
+      "Millbury"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a yard that works?",
+    "body": "Get your free estimate and see why Worcester trusts us with their landscapes.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (508) 245-9206"
+  },
+  "design": {
+    "primary_color": "#1B4D8C",
+    "accent_color": "#E8A630",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

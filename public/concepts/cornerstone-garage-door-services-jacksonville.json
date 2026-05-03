@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Cornerstone Garage Door Services",
+    "phone": "(904) 990-7715",
+    "email": "cornerstonegaragedoor@gmail.com",
+    "city": "Jacksonville",
+    "state": "NC",
+    "industry": "garage door repair",
+    "tagline": "When springs snap, we show up",
+    "logo_url": "",
+    "google_rating": "5 stars (123 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=13997426498311801786&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Door won't budge? *Springs snapped?* We fix it today",
+    "subheadline": "Real garage door experts in Jacksonville — not a middleman service.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "120+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Jacksonville Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every part, every problem",
+    "subheading": "Springs, openers, panels, tracks — we handle all of it"
+  },
+  "services": [
+    {
+      "title": "Spring Replacement",
+      "description": "Broken springs are dangerous. We replace both torsion and extension springs with heavy-duty upgrades.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Opener Repair & Install",
+      "description": "Motor burned out? Chain broke? We fix all opener brands or install new units with smart features.",
+      "icon": "zap"
+    },
+    {
+      "title": "Track & Panel Repair",
+      "description": "Bent tracks and dented panels don't have to mean full replacement. Most damage is fixable.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Emergency Service",
+      "description": "Door stuck open or closed? We respond fast to get your garage secure again.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Jacksonville garage door specialists",
+    "body": "We're the team your neighbors call when their garage door quits. One truck, one tech, one honest price."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Jacksonville says"
+  },
+  "reviews": [
+    {
+      "name": "William R.",
+      "location": "Jacksonville, NC",
+      "text": "Highly recommend Cornerstone. Called for an opener replacement and got an appointment within hours. Damien arrived on time with a free estimate.",
+      "rating": 5
+    },
+    {
+      "name": "Mellisha G.",
+      "location": "Jacksonville, NC",
+      "text": "After quotes around $1,800 from others, they fixed my complex issue for just $500 and upgraded the spring. Professional and personable — 10/10 recommend.",
+      "rating": 5
+    },
+    {
+      "name": "Katie D.",
+      "location": "Jacksonville, NC",
+      "text": "Excellent experience! Affordable, punctual, and knowledgeable. Got an appointment within 24 hours and the tech explained everything clearly.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Jacksonville & surrounding areas",
+    "subheading": "Same-day service throughout Onslow County",
+    "areas": [
+      "Jacksonville",
+      "Camp Lejeune",
+      "Richlands",
+      "Swansboro",
+      "Sneads Ferry",
+      "Holly Ridge",
+      "Hampstead",
+      "Topsail Beach"
+    ]
+  },
+  "cta": {
+    "heading": "Door acting up? Let's fix it today",
+    "body": "Free estimates, upfront pricing, and same-day service when possible. No hidden fees, no runaround.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (904) 990-7715"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#EF4444",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

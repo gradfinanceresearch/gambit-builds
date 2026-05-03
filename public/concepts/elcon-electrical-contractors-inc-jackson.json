@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Elcon Electrical Contractors Inc",
+    "phone": "(601) 555-ELEC",
+    "email": "jmerideth@elconec.com",
+    "city": "Jackson",
+    "state": "MS",
+    "industry": "electrician",
+    "tagline": "Power problems solved right",
+    "logo_url": "",
+    "google_rating": "4.4 stars (15 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=9028132890052939461&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When the lights go out, *we show up*",
+    "subheadline": "Same-day electrical service for Jackson — no job too small, no fix too urgent.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.4★ on Google"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Jackson Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every wire, outlet, and panel",
+    "subheading": "From quick fixes to complete rewires — we handle the electrical work Jackson trusts"
+  },
+  "services": [
+    {
+      "title": "Panel Upgrades",
+      "description": "Old electrical panels can't handle today's power needs. We upgrade your system to code and capacity.",
+      "icon": "zap"
+    },
+    {
+      "title": "Outlet Installation",
+      "description": "New outlets where you need them. GFCI, USB, or standard — installed right the first time.",
+      "icon": "plug"
+    },
+    {
+      "title": "Lighting Repair",
+      "description": "Fixtures that won't turn on, switches that don't work, or lights that flicker — we track down the problem.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Emergency Service",
+      "description": "Power outages and electrical emergencies don't wait. We respond fast to get you back online.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Real electricians answering the phone",
+    "body": "We're a Jackson electrical team that shows up when we say we will. One call gets you straight answers and upfront pricing — no surprises on the bill."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Jackson says about our work"
+  },
+  "reviews": [
+    {
+      "name": "Mike R.",
+      "location": "Jackson, MS",
+      "text": "Elcon exceeded my expectations in every way. They roughed in kitchen lighting perfectly and went above and beyond what I expected.",
+      "rating": 5
+    },
+    {
+      "name": "Linda F.",
+      "location": "Jackson, MS",
+      "text": "My go-to for home and commercial electrical needs. Kody and the team did everything I asked. Office staff is always polite and efficient.",
+      "rating": 5
+    },
+    {
+      "name": "Kathleen S.",
+      "location": "Jackson, MS",
+      "text": "Competitor quoted me $1000 plus scaffold rental for a light fixture. Elcon had it installed in under 45 minutes. Super professional and on time.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Jackson and surrounding areas",
+    "subheading": "Fast response times throughout central Mississippi",
+    "areas": [
+      "Jackson",
+      "Brandon",
+      "Pearl",
+      "Ridgeland",
+      "Madison",
+      "Clinton",
+      "Byram",
+      "Terry"
+    ]
+  },
+  "cta": {
+    "heading": "Electrical problems don't fix themselves",
+    "body": "Get a straight answer and honest quote from Jackson's trusted electrical contractors. Same-day service available.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Today"
+  },
+  "design": {
+    "primary_color": "#5B21B6",
+    "accent_color": "#10B981",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1A1A2E",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

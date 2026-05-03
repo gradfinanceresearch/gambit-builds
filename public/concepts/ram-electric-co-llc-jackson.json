@@ -1,0 +1,115 @@
+{
+  "business": {
+    "name": "Ram Electric Co LLC",
+    "phone": "(601) 936-4005",
+    "email": "controls@ram-electric.com",
+    "city": "Jackson",
+    "state": "MS",
+    "industry": "electrician",
+    "tagline": "Commercial & Industrial Power Solutions",
+    "logo_url": "",
+    "google_rating": "4.5 stars (2 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=265679778584402594&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Industrial-grade* electrical work for Jackson businesses",
+    "subheadline": "When your operation depends on power staying on, call the team that keeps Jackson's commercial properties running.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.5★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Jackson Team"
+    },
+    {
+      "icon": "thumbsup",
+      "text": "Satisfaction Guaranteed"
+    }
+  ],
+  "services_section": {
+    "label": "INDUSTRIAL POWER",
+    "heading": "Commercial & Industrial Electrical",
+    "subheading": "Full electrical services for businesses that can't afford downtime"
+  },
+  "services": [
+    {
+      "title": "Commercial Wiring",
+      "description": "Complete electrical systems for offices, retail, and commercial buildings. New construction and renovations.",
+      "icon": "zap"
+    },
+    {
+      "title": "Industrial Controls",
+      "description": "Motor controls, panel installation, and automation systems for manufacturing and industrial facilities.",
+      "icon": "plug"
+    },
+    {
+      "title": "Emergency Service",
+      "description": "Power outages and electrical failures handled fast. We understand business downtime costs money.",
+      "icon": "shield"
+    },
+    {
+      "title": "Panel Upgrades",
+      "description": "Electrical panel replacements and upgrades to handle increased power demands safely.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Built for Business",
+    "body": "Ram Electric handles the electrical work that keeps Jackson businesses powered up. Commercial and industrial jobs done right the first time."
+  },
+  "reviews_section": {
+    "label": "PROVEN WORK",
+    "heading": "What Jackson Businesses Say"
+  },
+  "reviews": [
+    {
+      "name": "Jay L.",
+      "location": "Jackson, MS",
+      "text": "Best commercial and industrial electricians available. Great service work and well-mannered employees.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "SERVICE AREA",
+    "heading": "Jackson Metro Coverage",
+    "subheading": "Commercial electrical services throughout the Jackson area",
+    "areas": [
+      "Jackson",
+      "Pearl",
+      "Brandon",
+      "Madison",
+      "Ridgeland",
+      "Clinton",
+      "Byram",
+      "Terry"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Power Your Business Forward?",
+    "body": "Get upfront pricing on your commercial electrical project. No surprises, no hidden fees — just straight answers from Jackson's industrial electrical team.",
+    "cta_primary": "Request Quote",
+    "cta_secondary": "Call (601) 936-4005"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

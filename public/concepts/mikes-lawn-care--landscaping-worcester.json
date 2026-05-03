@@ -1,0 +1,121 @@
+{
+  "business": {
+    "name": "Mike’s Lawn Care & Landscaping",
+    "phone": "(774) 245-5938",
+    "email": "mikefusaro@twinslawnservice.com",
+    "city": "Worcester",
+    "state": "MA",
+    "industry": "landscaper",
+    "tagline": "Your yard, our craft",
+    "logo_url": "",
+    "google_rating": "5 stars (4 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=14313563622880069887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The lawn crew *Worcester trusts*",
+    "subheadline": "From seeding to stone work — we handle what grows and what stays put.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Mike"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Worcester Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Lawn & landscape services that stick",
+    "subheading": "One crew, one call, done right"
+  },
+  "services": [
+    {
+      "title": "Lawn Care & Maintenance",
+      "description": "Mowing, edging, trimming — keeping your grass healthy week after week.",
+      "icon": "home"
+    },
+    {
+      "title": "Seeding & Restoration",
+      "description": "Bare spots and patchy lawns fixed with quality seed and proper prep work.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Landscaping Projects",
+      "description": "Plantings, mulching, and design work that looks good year-round.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Fill & Loam Services",
+      "description": "Grading, fill dirt, and loam delivery for yards that need a fresh foundation.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Worcester landscaping done right",
+    "body": "We're the local crew that shows up when scheduled and finishes what we start. Real people answering the phone — not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Nancy M.",
+      "location": "Worcester, MA",
+      "text": "Highly recommend Mike's team. They refurbished our yard with fill, loam, and seeding — prompt, thorough, and helpful throughout the project.",
+      "rating": 5
+    },
+    {
+      "name": "Michael B.",
+      "location": "Worcester, MA",
+      "text": "Mike and his crew have been caring for our lawn and landscaping for years. Absolutely recommend for all your lawn care needs.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Central Massachusetts coverage",
+    "subheading": "Serving Worcester and surrounding communities",
+    "areas": [
+      "Worcester",
+      "Marlborough",
+      "Shrewsbury",
+      "Auburn",
+      "Millbury",
+      "Grafton",
+      "Northborough",
+      "Westborough"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your yard sorted?",
+    "body": "Free estimates on all lawn care and landscaping work. Call Mike directly or request a quote online.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Willow Creek Landscape Maintenance, LLC",
+    "phone": "(270) 997-2264",
+    "email": "wesatwillowcreeklm@gmail.com",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "industry": "landscaper",
+    "tagline": "Your yard's new best friend",
+    "logo_url": "",
+    "google_rating": "5 stars (14 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=463524531632366906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The crew your *neighbors already trust*",
+    "subheadline": "Five years running the same routes, same quality, same Wes answering the phone.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Murfreesboro Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Everything your yard needs",
+    "subheading": "From weekly cuts to complete makeovers"
+  },
+  "services": [
+    {
+      "title": "Lawn Maintenance",
+      "description": "Weekly cuts, edging, and cleanup. We show up on schedule, rain or shine.",
+      "icon": "home"
+    },
+    {
+      "title": "Landscape Installation",
+      "description": "New beds, plants, and hardscaping. Turn that bare spot into something beautiful.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Property Cleanup",
+      "description": "Spring cleanup, leaf removal, storm damage. Get your yard back to looking right.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Commercial Properties",
+      "description": "Office complexes, retail centers, HOAs. Professional appearance, competitive pricing.",
+      "icon": "brick"
+    }
+  ],
+  "about": {
+    "heading": "Wes and his crew",
+    "body": "We're the Murfreesboro landscape team that's been taking care of the same neighborhoods for years. One call, one crew, one bill."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What the neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Tom A.",
+      "location": "Murfreesboro, TN",
+      "text": "New to the area and found Wes through my neighbor. His crew has been absolutely fabulous — couldn't be happier with their service.",
+      "rating": 5
+    },
+    {
+      "name": "Matthew K.",
+      "location": "Murfreesboro, TN",
+      "text": "Used Willow Creek for over five years at two homes plus commercial property. Great work, competitive prices, highly recommend.",
+      "rating": 5
+    },
+    {
+      "name": "Chris B.",
+      "location": "Murfreesboro, TN",
+      "text": "Wes and his crew do fantastic work! Very professional and always leave my yard looking wonderful.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Middle Tennessee",
+    "subheading": "Weekly routes throughout the region",
+    "areas": [
+      "Murfreesboro",
+      "Smyrna",
+      "La Vergne",
+      "Rockvale",
+      "Christiana",
+      "Eagleville",
+      "Franklin",
+      "Nashville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to join the route?",
+    "body": "Free estimates on all work. Same crew, same quality, every time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Wes"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "Carrier Turf Pros Lawn Fertilizing",
+    "phone": "(774) 241-0117",
+    "email": "customerservice@turfproslawncare.com",
+    "city": "Worcester",
+    "state": "MA",
+    "industry": "landscaper",
+    "tagline": "Professional lawn care and fertilizing services",
+    "logo_url": "",
+    "google_rating": "4.9 stars (282 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=13573886726037665262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your Worcester lawn — *properly fed*",
+    "subheadline": "Real fertilizing pros who knock first, work clean, and leave your neighbors asking questions.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (774) 241-0117"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "280+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Worcester Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every blade gets attention",
+    "subheading": "From soil testing to seasonal programs — your lawn handled right"
+  },
+  "services": [
+    {
+      "title": "Lawn Fertilization Programs",
+      "description": "Comprehensive seasonal fertilization schedules tailored to Worcester's climate, promoting healthy grass growth and root development year-round.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Weed Control & Prevention",
+      "description": "Professional pre-emergent and post-emergent weed control treatments to keep your lawn free from dandelions, crabgrass, and other unwanted weeds.",
+      "icon": "shield"
+    },
+    {
+      "title": "Core Aeration Services",
+      "description": "Annual lawn aeration to reduce soil compaction, improve water absorption, and enhance nutrient uptake for thicker, healthier turf.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Overseeding & Renovation",
+      "description": "Premium grass seed application and lawn renovation services to fill bare spots and improve overall turf density and appearance.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Soil Testing & Analysis",
+      "description": "Professional soil pH testing and nutrient analysis to determine the exact fertilizer blend your Worcester lawn needs for optimal health.",
+      "icon": "thermometer"
+    }
+  ],
+  "about": {
+    "heading": "Worcester lawns, done right",
+    "body": "We're the fertilizing team that knocks before we start and stops the machine to hand-spread the tough spots. One call, one crew, one great-looking lawn."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Worcester homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "James V.",
+      "location": "Worcester, MA",
+      "text": "Couldn't be happier with the service from Seth! Professional, reliable, and incredibly thorough. They transformed my yard into the best it's looked in years.",
+      "rating": 5
+    },
+    {
+      "name": "Paul M.",
+      "location": "Worcester, MA",
+      "text": "Carriers came out, assessed our terrible builder-grade lawn, and laid out a clear plan. This year our lawn has made a remarkable comeback.",
+      "rating": 5
+    },
+    {
+      "name": "Adam R.",
+      "location": "Worcester, MA",
+      "text": "We've used Mike and his team since 2020. No wonder we've got one of the best lawns in town — until the neighbors started using Carrier too.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Worcester and surrounding areas",
+    "subheading": "Professional lawn fertilization throughout Central Massachusetts",
+    "areas": [
+      "Worcester",
+      "Shrewsbury",
+      "Millbury",
+      "Auburn",
+      "West Boylston",
+      "Holden",
+      "Paxton",
+      "Leicester"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for the best lawn on your street?",
+    "body": "Free estimates, upfront pricing, and the kind of work that makes neighbors ask who does your lawn.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#1A5632",
+    "accent_color": "#D4A843",
+    "bg_color": "#FEFFFE",
+    "text_color": "#1F2937",
+    "font_heading": "Fraunces",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

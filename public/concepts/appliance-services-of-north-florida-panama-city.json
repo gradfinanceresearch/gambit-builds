@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Appliance Services of North Florida",
+    "phone": "(850) 693-6686",
+    "email": "info@floridaappliancesservice.com",
+    "city": "Panama City",
+    "state": "FL",
+    "industry": "appliance repair",
+    "tagline": "When the appliances quit, we don't",
+    "logo_url": "",
+    "google_rating": "4.9 stars (28 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=10296144440043223971&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*One call* and your appliances work again",
+    "subheadline": "No runaround, no surprise charges — just honest repair work that gets it done right the first time.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Panama City Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every appliance, every brand",
+    "subheading": "From washers that won't spin to ovens that won't heat"
+  },
+  "services": [
+    {
+      "title": "Washer & Dryer Repair",
+      "description": "Won't start, won't drain, making noise, or not drying. We fix all makes and models.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Refrigerator Service",
+      "description": "Not cooling, ice maker issues, water dispenser problems, or strange noises.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Dishwasher Repair",
+      "description": "Not cleaning, won't drain, door won't latch, or error codes flashing.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Oven & Range Repair",
+      "description": "Not heating, temperature issues, burners not working, or door problems.",
+      "icon": "flame"
+    }
+  ],
+  "about": {
+    "heading": "The honest repair team Panama City trusts",
+    "body": "We're the appliance repair team that tells you the truth — even when it means recommending replacement over repair. Real people answering the phone, not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What your neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Samantha S.",
+      "location": "Panama City, FL",
+      "text": "Honest! When our old dishwasher died, he told us it'd cost more to fix than replace and recommended reliable brands. When our new one had issues, he helped troubleshoot first.",
+      "rating": 5
+    },
+    {
+      "name": "Amber S.",
+      "location": "Panama City, FL",
+      "text": "Quick to respond, scheduled fast, and fixed my Maytag washer perfectly. Honest pricing and great service — highly recommend.",
+      "rating": 5
+    },
+    {
+      "name": "Margaret L.",
+      "location": "Panama City, FL",
+      "text": "Like going back in time to when service meant something. Professional, reliable, quality work, kept appointments, and reasonable prices. I'll never hire anyone else.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Emerald Coast",
+    "subheading": "Fast response times throughout the region",
+    "areas": [
+      "Panama City",
+      "Lynn Haven",
+      "Callaway",
+      "Parker",
+      "Springfield",
+      "Mexico Beach",
+      "Port St. Joe",
+      "Wewahitchka"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your appliances working again?",
+    "body": "Call now for honest diagnosis and upfront pricing. Same-day service available.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (850) 693-6686"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

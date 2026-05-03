@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "Clean Freak Pressure and Soft Wash, LLC",
+    "phone": "(863) 602-7108",
+    "email": "customerservice@cleanfreak.com",
+    "city": "Lakeland",
+    "state": "FL",
+    "industry": "window cleaner",
+    "tagline": "Making Lakeland properties look brand new again",
+    "logo_url": "",
+    "google_rating": "5 stars (17 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=15575133984022700087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your Roof *Looks New Again* — Guaranteed",
+    "subheadline": "Turn that black, streaky mess back to its original color. Dylan's got the knowledge and the gear to make it happen.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "17+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Lakeland Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Roof to Driveway — We Clean It All",
+    "subheading": "Soft washing that protects your property while delivering results that last"
+  },
+  "services": [
+    {
+      "title": "Roof Soft Washing",
+      "description": "Turn black streaks back to original color using low-pressure techniques that won't damage your shingles.",
+      "icon": "home"
+    },
+    {
+      "title": "Driveway & Walkway Cleaning",
+      "description": "Strip away years of buildup and stains with pressure washing that brings concrete back to life.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Pool Cage Cleaning",
+      "description": "Clear screens and frames of algae, mildew, and dirt buildup for crystal-clear views.",
+      "icon": "shield"
+    },
+    {
+      "title": "House Washing",
+      "description": "Gentle soft wash removes mold, mildew, and dirt without damaging siding or landscaping.",
+      "icon": "home"
+    },
+    {
+      "title": "Commercial Property Cleaning",
+      "description": "Keep your business looking professional with regular cleaning of buildings and parking areas.",
+      "icon": "brick"
+    }
+  ],
+  "about": {
+    "heading": "Dylan Gets It Done Right",
+    "body": "A Lakeland pressure washing team that shows up when promised and protects your plants while we work. Real knowledge of materials and proper techniques — not just high pressure and hope."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Lakeland Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Backroad T.",
+      "location": "Lakeland, FL",
+      "text": "Dylan is the real deal. So impressed with his professionalism and quality of work. Our 8-year-old roof had turned black over the years and Dylan's knowledge of roofing materials showed.",
+      "rating": 5
+    },
+    {
+      "name": "Peyton M.",
+      "location": "Lakeland, FL",
+      "text": "Money well spent. My 15-year-old roof looks brand new. Dylan was really easy to work with and communicative.",
+      "rating": 5
+    },
+    {
+      "name": "Courtney R.",
+      "location": "Lakeland, FL",
+      "text": "Clean Freak has cleaned roofs, driveways, walkways and buildings for my real estate business and personal home. Dylan is easy to communicate with and does a fantastic job.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Lakeland & Surrounding Areas",
+    "subheading": "Professional pressure washing throughout Polk County",
+    "areas": [
+      "Lakeland",
+      "Winter Haven",
+      "Auburndale",
+      "Bartow",
+      "Mulberry",
+      "Plant City",
+      "Haines City",
+      "Lake Wales"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to See Your Property Look Brand New?",
+    "body": "Get a detailed quote that explains exactly what we'll clean and how. Fair pricing, plant protection included, and results that last.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (863) 602-7108"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Fraunces",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "business": {
+    "name": "ARS Appliance Repair Service",
+    "phone": "",
+    "email": "dispatch@arsrepairs.com",
+    "city": "Panama City",
+    "state": "FL",
+    "industry": "appliance repair",
+    "tagline": "When it breaks, we fix it",
+    "logo_url": "",
+    "google_rating": "",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=16610255918186828102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Fast fixes* for every appliance that quits",
+    "subheadline": "Your dishwasher, dryer, fridge — we handle the headaches so you don't have to.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Panama City Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIXES",
+    "heading": "Every appliance, every problem",
+    "subheading": "From minor hiccups to major breakdowns"
+  },
+  "services": [
+    {
+      "title": "Refrigerator Repair",
+      "description": "Not cooling, making noise, or leaking water. We diagnose and fix it right the first time.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Washer & Dryer Service",
+      "description": "Won't spin, drain, or heat up properly. Get your laundry routine back on track.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Dishwasher Repair",
+      "description": "Not cleaning dishes or won't start. We handle pumps, motors, and control boards.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Oven & Range Fixes",
+      "description": "Temperature issues, burners not working, or doors won't close. Kitchen problems solved.",
+      "icon": "flame"
+    }
+  ],
+  "about": {
+    "heading": "Real techs, real solutions",
+    "body": "We're a Panama City appliance repair team that shows up when we say we will. One call gets your appliances running again."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What customers say"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Panama City and beyond",
+    "subheading": "Fast response throughout Bay County",
+    "areas": [
+      "Panama City",
+      "Panama City Beach",
+      "Lynn Haven",
+      "Callaway",
+      "Parker",
+      "Fountain",
+      "Youngstown",
+      "Cedar Grove"
+    ]
+  },
+  "cta": {
+    "heading": "Appliance acting up? Let's fix it.",
+    "body": "Don't let broken appliances disrupt your day. Get an honest quote and fast service from Panama City's repair specialists.",
+    "cta_primary": "Schedule Repair",
+    "cta_secondary": "Call Today"
+  },
+  "design": {
+    "primary_color": "#B91C1C",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

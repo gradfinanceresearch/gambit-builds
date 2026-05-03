@@ -1,0 +1,131 @@
+{
+  "business": {
+    "name": "Green Path Landscape Co.",
+    "phone": "(615) 424-8105",
+    "email": "info@greenpathlandscapecompany.com",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "industry": "landscaper",
+    "tagline": "Landscaping that shows",
+    "logo_url": "",
+    "google_rating": "4.8 stars (25 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=6094237073100464950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The *landscaper Murfreesboro* calls back",
+    "subheadline": "From sprinklers to sod, we handle it right the first time — then show up next season.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (615) 424-8105"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.8★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "25+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Murfreesboro Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every yard detail covered",
+    "subheading": "From installation to maintenance — one call handles it all"
+  },
+  "services": [
+    {
+      "title": "Sprinkler Systems",
+      "description": "Custom irrigation design and installation. We handle everything from layout to backflow protection.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Sod & Seeding",
+      "description": "Fresh sod installation and lawn seeding. Get the green lawn you want, faster.",
+      "icon": "home"
+    },
+    {
+      "title": "Mulching & Beds",
+      "description": "Flower bed design and mulching services. Clean edges, fresh mulch, protected plants.",
+      "icon": "fan"
+    },
+    {
+      "title": "Tree Planting",
+      "description": "Professional tree selection and planting. From dogwoods to shade trees — planted to thrive.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Lawn Maintenance",
+      "description": "Regular mowing and yard care. Dependable service that keeps your property looking sharp.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Hilton and his crew show up",
+    "body": "We're the Murfreesboro landscaping team that calls you back same day and handles every detail — from sprinkler installs to weekly mowing."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Murfreesboro says"
+  },
+  "reviews": [
+    {
+      "name": "Joe B.",
+      "location": "Murfreesboro, TN",
+      "text": "Started with a sprinkler system, then used them for sod, mulch, and tree planting. Hilton and his crew are exceptional at what they do.",
+      "rating": 5
+    },
+    {
+      "name": "Angelina B.",
+      "location": "Murfreesboro, TN",
+      "text": "Two years with Greenpath and couldn't be happier. Very dependable — called with extra requests and Hilton came by that same afternoon.",
+      "rating": 5
+    },
+    {
+      "name": "Brian W.",
+      "location": "Murfreesboro, TN",
+      "text": "Used them twice for aeration, seeding, and sod. Great value, better than other quotes. Hilton communicates well and is a pleasure to work with.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Middle Tennessee",
+    "subheading": "Professional landscaping throughout Rutherford County and beyond",
+    "areas": [
+      "Murfreesboro",
+      "Smyrna",
+      "LaVergne",
+      "Eagleville",
+      "Rockvale",
+      "Christiana",
+      "Lascassas"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your yard handled?",
+    "body": "Call Hilton for a free quote. Same-day response, upfront pricing, and work that shows.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (615) 424-8105"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#EF4444",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

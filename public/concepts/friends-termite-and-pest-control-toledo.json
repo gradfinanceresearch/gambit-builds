@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Friend's Termite and Pest Control",
+    "phone": "(419) 472-7378",
+    "email": "info@friendspest.com",
+    "city": "Toledo",
+    "state": "OH",
+    "industry": "pest control",
+    "tagline": "Your friendly neighborhood pest control experts",
+    "logo_url": "",
+    "google_rating": "4.8 stars (59 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=1586999063734346449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The bugs stop here — *guaranteed*",
+    "subheadline": "Toledo's friendliest pest control team. We explain everything, clean up webs, and keep your home bug-free year-round.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (419) 472-7378"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.8★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "60+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Toledo Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE HANDLE",
+    "heading": "From ants to wasps — we've got you covered",
+    "subheading": "Professional pest control that actually works"
+  },
+  "services": [
+    {
+      "title": "Termite Treatment",
+      "description": "Complete termite elimination and prevention. We catch them before they cause expensive damage.",
+      "icon": "home"
+    },
+    {
+      "title": "Spider Control",
+      "description": "Interior and exterior treatments plus web removal. We'll show you problem spots to watch.",
+      "icon": "shield"
+    },
+    {
+      "title": "Wasp Nest Removal",
+      "description": "Safe removal of wasp nests around your property. We find the ones you didn't even know were there.",
+      "icon": "flame"
+    },
+    {
+      "title": "Year-Round Protection",
+      "description": "Quarterly treatments to keep your home pest-free. Consistent service, consistent results.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Real people answering the phone — not a call center",
+    "body": "We're Toledo pest control specialists who explain what we're doing and why. When Sue answers the phone, you know you're getting straight talk and fair pricing."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Toledo neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Joan M.",
+      "location": "Toledo, OH",
+      "text": "Very friendly and extremely knowledgeable. Sue got me on the schedule quickly. Would definitely recommend them.",
+      "rating": 5
+    },
+    {
+      "name": "Austin S.",
+      "location": "Toledo, OH",
+      "text": "Extremely friendly and knowledgeable. They cleaned out spider webs while showing me problem areas to watch for.",
+      "rating": 5
+    },
+    {
+      "name": "Brean M.",
+      "location": "Toledo, OH",
+      "text": "Fantastic service! Very friendly and thorough. Explained everything and answered all my questions. Quick scheduling too.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Toledo and surrounding communities",
+    "subheading": "Fast response throughout the area",
+    "areas": [
+      "Toledo",
+      "Maumee",
+      "Sylvania",
+      "Oregon",
+      "Perrysburg",
+      "Rossford",
+      "Swanton",
+      "Holland"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get rid of the pests for good?",
+    "body": "Call Sue today for honest answers and competitive rates. Same friendly service that's kept Toledo homes pest-free for years.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

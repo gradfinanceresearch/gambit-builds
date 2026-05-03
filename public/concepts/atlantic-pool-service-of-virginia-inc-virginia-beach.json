@@ -1,0 +1,126 @@
+{
+  "business": {
+    "name": "Atlantic Pool Service Of Virginia Inc",
+    "phone": "(757) 343-6893",
+    "email": "atlanticpoolservice@gmail.com",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "industry": "pool service",
+    "tagline": "Your pool running right, every time",
+    "logo_url": "",
+    "google_rating": "4.6 stars (44 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=1433867451464555683&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Every other week* — like clockwork",
+    "subheadline": "4 years, 44 Google reviews, zero drama. We handle the chemistry so you handle the fun.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.6★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "40+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Virginia Beach Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Pool care that runs like clockwork",
+    "subheading": "Regular cleaning, repairs, and automation — all handled"
+  },
+  "services": [
+    {
+      "title": "Weekly Pool Cleaning",
+      "description": "Skimming, vacuuming, chemical balancing. Every visit documented so you know exactly what happened.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Equipment Repair & Service",
+      "description": "Motors, pumps, heaters. When it breaks, we fix it. Warranty claims handled for you.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Pool Automation Systems",
+      "description": "Make your pool easier to manage. Automated controls and accessibility features installed.",
+      "icon": "zap"
+    },
+    {
+      "title": "Hot Tub Maintenance",
+      "description": "Complete spa care alongside your pool service. One company, both systems covered.",
+      "icon": "thermometer"
+    }
+  ],
+  "about": {
+    "heading": "Virginia Beach pool pros",
+    "body": "We're the team your neighbors call when they want their pool running right. Real people answering the phone, not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Virginia Beach says"
+  },
+  "reviews": [
+    {
+      "name": "Andy P.",
+      "location": "Virginia Beach",
+      "text": "Great service and communication! Been using them for 4 years and very happy. Knowledgeable with minimal disruption — already recommended to many friends.",
+      "rating": 5
+    },
+    {
+      "name": "Brady B.",
+      "location": "Virginia Beach",
+      "text": "Really happy I found these guys. Love the documentation, transparency and communication on every visit. Biweekly cleaning for a year, never skip a beat.",
+      "rating": 5
+    },
+    {
+      "name": "Drew B.",
+      "location": "Virginia Beach",
+      "text": "A true partner for our pool. Take all the drama out of pool ownership — they do the work, we get the enjoyment.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Virginia Beach area",
+    "subheading": "Regular routes throughout Hampton Roads",
+    "areas": [
+      "Virginia Beach",
+      "Norfolk",
+      "Chesapeake",
+      "Portsmouth",
+      "Suffolk",
+      "Hampton",
+      "Newport News"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for pool care that actually works?",
+    "body": "Join the neighbors who stopped worrying about their pool chemistry. Free quote, no pressure.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (757) 343-6893"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

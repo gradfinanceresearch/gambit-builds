@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Bailey Electric Service LLC",
+    "phone": "(601) 373-4855",
+    "email": "last@baileyelectricservice.co",
+    "city": "Jackson",
+    "state": "MS",
+    "industry": "electrician",
+    "tagline": "Reliable electrical work Jackson trusts",
+    "logo_url": "",
+    "google_rating": "4.7 stars (31 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=5184283261868749860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Real electricians* answering the phone",
+    "subheadline": "No call centers, no runaround — just Ken and his team handling every job right the first time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.7★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every wire, outlet, and panel",
+    "subheading": "From generator hookups to outlet repairs — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Generator Installation",
+      "description": "Complete generator setup with receptacles and interlocks. We work in any weather to get your power backup ready.",
+      "icon": "zap"
+    },
+    {
+      "title": "Panel Upgrades",
+      "description": "Electrical panel replacements and upgrades to meet modern power demands safely.",
+      "icon": "plug"
+    },
+    {
+      "title": "Outlet & Switch Work",
+      "description": "New outlets, switches, and circuits installed properly throughout your home.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Electrical Repairs",
+      "description": "Troubleshooting and fixing electrical problems — no job too small.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Jackson electrical work done right",
+    "body": "We're the Jackson electrical team that shows up when promised and finishes what we start. Real people answer the phone, not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Jackson says about our work"
+  },
+  "reviews": [
+    {
+      "name": "That G.",
+      "location": "Jackson, MS",
+      "text": "Extremely nice lady answered the phone, Ken returned my call same day and came by the next day. Nothing but good things to say about Bailey Electric.",
+      "rating": 5
+    },
+    {
+      "name": "joe b.",
+      "location": "Jackson, MS",
+      "text": "Ken installed my generator receptacle in 95+ degree heat! They stayed in contact from first call to completion. Bailey understands even small jobs matter.",
+      "rating": 5
+    },
+    {
+      "name": "Paul C.",
+      "location": "Jackson, MS",
+      "text": "Andrew was there when promised, did great work, and was easy to deal with. Would recommend. 10/10.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Jackson and surrounding areas",
+    "subheading": "Professional electrical service throughout the metro",
+    "areas": [
+      "Jackson",
+      "Pearl",
+      "Flowood",
+      "Ridgeland",
+      "Madison",
+      "Clinton",
+      "Brandon",
+      "Byram"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your electrical work handled right?",
+    "body": "Call Bailey Electric today for your free estimate. Real people answer, real electricians show up.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (601) 373-4855"
+  },
+  "design": {
+    "primary_color": "#1B4D8C",
+    "accent_color": "#E8A630",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

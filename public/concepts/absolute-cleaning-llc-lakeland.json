@@ -1,0 +1,114 @@
+{
+  "business": {
+    "name": "Absolute Cleaning LLC",
+    "phone": "Call for Quote",
+    "email": "absolutecleaningsolutions.cfl@gmail.com",
+    "city": "Lakeland",
+    "state": "FL",
+    "industry": "window cleaner",
+    "tagline": "Crystal clear windows, guaranteed",
+    "logo_url": "",
+    "google_rating": "5 stars (2 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=14807133118124311878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Streak-free* windows every time",
+    "subheadline": "Professional window cleaning that makes your home shine — inside and out.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Lakeland Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "CRYSTAL CLEAR",
+    "heading": "Windows That Actually Sparkle",
+    "subheading": "Professional cleaning for every type of window"
+  },
+  "services": [
+    {
+      "title": "Residential Window Cleaning",
+      "description": "Interior and exterior window cleaning for homes. We bring our own ladders, squeegees, and cleaning solutions.",
+      "icon": "home"
+    },
+    {
+      "title": "Commercial Window Service",
+      "description": "Storefront and office building windows. Regular maintenance schedules available for businesses.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Screen Cleaning",
+      "description": "Remove dust, pollen, and grime from window screens. Makes a huge difference in air flow and appearance.",
+      "icon": "fan"
+    },
+    {
+      "title": "Pressure Washing",
+      "description": "Driveways, sidewalks, and building exteriors. Complete exterior cleaning services.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "The Lakeland Window Cleaning Team",
+    "body": "We're a Lakeland cleaning team that shows up on time with the right tools. One call gets your windows crystal clear — no streaks, no excuses."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Lakeland Says"
+  },
+  "reviews": [
+    {
+      "name": "Deborah",
+      "location": "Lakeland, FL",
+      "text": "Hired Absolute Cleaning twice for deep cleaning and couldn't be happier. The team was punctual, professional, and incredibly thorough. Every corner sparkles now.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where We Clean",
+    "subheading": "Serving Lakeland and surrounding communities",
+    "areas": [
+      "Lakeland",
+      "Bartow",
+      "Winter Haven",
+      "Auburndale",
+      "Mulberry",
+      "Plant City",
+      "Haines City"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for spotless windows?",
+    "body": "Get your free estimate today. We'll give you straight pricing with no surprises.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Us"
+  },
+  "design": {
+    "primary_color": "#1E3A5F",
+    "accent_color": "#C0986B",
+    "bg_color": "#FAFAFA",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

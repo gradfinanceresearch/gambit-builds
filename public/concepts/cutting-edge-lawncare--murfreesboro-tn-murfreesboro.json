@@ -1,0 +1,120 @@
+{
+  "business": {
+    "name": "Cutting Edge Lawncare | Murfreesboro, Tn",
+    "phone": "(615) 648-0170",
+    "email": "616-875-8777info@cuttingedgelawn.care",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "industry": "landscaper",
+    "tagline": "Your yard, handled right",
+    "logo_url": "",
+    "google_rating": "5 stars (3 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=1290896159369506&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Murfreesboro lawns that *make neighbors jealous*",
+    "subheadline": "Real crew, real results — not just a mow-and-go operation.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Murfreesboro Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every yard detail handled",
+    "subheading": "From weekly maintenance to complete landscape transformation"
+  },
+  "services": [
+    {
+      "title": "Lawn Mowing & Maintenance",
+      "description": "Weekly or bi-weekly cuts with edging, trimming, and cleanup. Your lawn stays sharp all season long.",
+      "icon": "home"
+    },
+    {
+      "title": "Landscape Design & Install",
+      "description": "Custom plantings, mulch beds, and hardscaping. Turn your vision into reality with professional installation.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Yard Cleanup Services",
+      "description": "Leaf removal, debris clearing, and seasonal preparation. Get your property ready for any season.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Mulching & Bed Maintenance",
+      "description": "Fresh mulch installation and bed edging. Keep your landscape looking crisp and well-maintained.",
+      "icon": "brick"
+    }
+  ],
+  "about": {
+    "heading": "Built for Murfreesboro yards",
+    "body": "We're the local crew that shows up when scheduled and does the job right. Ben and the team handle everything from routine cuts to complete yard makeovers."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Murfreesboro says"
+  },
+  "reviews": [
+    {
+      "name": "Kendra P.",
+      "location": "Murfreesboro",
+      "text": "Ben and his team did amazing work! Professional and easy to work with every step of the way. Highly recommend this company!",
+      "rating": 5
+    },
+    {
+      "name": "u c.",
+      "location": "Murfreesboro",
+      "text": "Great service! They cleaned my yard up and mowed perfectly.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Murfreesboro & surrounding areas",
+    "subheading": "Professional landscaping throughout Rutherford County",
+    "areas": [
+      "Murfreesboro",
+      "Smyrna",
+      "La Vergne",
+      "Eagleville",
+      "Christiana",
+      "Rockvale",
+      "Lascassas"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a lawn that stands out?",
+    "body": "Get your free estimate today. No pressure, just straight talk about what your yard needs and what it'll cost.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (615) 648-0170"
+  },
+  "design": {
+    "primary_color": "#1B4D8C",
+    "accent_color": "#E8A630",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

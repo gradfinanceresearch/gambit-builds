@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Philly's Heating and Cooling",
+    "phone": "(267) 220-7450",
+    "email": "jennifer@comfyphilly.com",
+    "city": "Philadelphia",
+    "state": "PA",
+    "industry": "HVAC",
+    "tagline": "Same-day estimates, next-level comfort",
+    "logo_url": "",
+    "google_rating": "4.9 stars (31 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=4894492349358727188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When Your AC Dies in *August Heat*",
+    "subheadline": "Same-day estimates. Clean installs. The HVAC team your neighbors already trust.",
+    "cta_primary": "Get Your Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Philadelphia Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "AC, Heat, and Everything Between",
+    "subheading": "Full system installs to emergency repairs"
+  },
+  "services": [
+    {
+      "title": "AC Installation & Repair",
+      "description": "Complete central air systems and repairs. We handle the tricky basement installs others won't touch.",
+      "icon": "fan"
+    },
+    {
+      "title": "Heating System Service",
+      "description": "Furnace installs, repairs, and conversions from oil to gas. Same crew, start to finish.",
+      "icon": "flame"
+    },
+    {
+      "title": "Ductwork & Ventilation",
+      "description": "New ducts, additional returns, and airflow fixes for better comfort in every room.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Water Heater Service",
+      "description": "Water heater repairs and replacements with clear explanations of your options.",
+      "icon": "thermometer"
+    }
+  ],
+  "about": {
+    "heading": "Phil & Tom's Philadelphia HVAC",
+    "body": "We're the HVAC team that shows up when we say we will and leaves your basement cleaner than we found it."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Philadelphia Homeowners Say"
+  },
+  "reviews": [
+    {
+      "name": "Karen C.",
+      "location": "Philadelphia",
+      "text": "Phil answered my call and came the same morning when my water heater malfunctioned. He educated me on heater types and brands, then gave me a clear estimate.",
+      "rating": 5
+    },
+    {
+      "name": "Marielle L.",
+      "location": "Philadelphia",
+      "text": "Big job switching from oil to gas - new ducts, return vents, heater, and central AC. Phil and Tom did it all promptly and professionally.",
+      "rating": 5
+    },
+    {
+      "name": "Gerald T.",
+      "location": "Philadelphia",
+      "text": "Outstanding AC and ductwork install in my challenging basement. Limited headroom and incomplete ducts - most contractors weren't interested, but they handled it perfectly.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Philadelphia & Surrounding Areas",
+    "subheading": "Same-day service throughout the region",
+    "areas": [
+      "Philadelphia",
+      "Camden",
+      "Chester",
+      "Norristown",
+      "Wilmington",
+      "Trenton",
+      "King of Prussia",
+      "Media"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Better Comfort?",
+    "body": "Same-day estimates on all HVAC work. Phil and Tom will explain your options and give you straight answers.",
+    "cta_primary": "Schedule Estimate",
+    "cta_secondary": "Call (267) 220-7450"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFBF7",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

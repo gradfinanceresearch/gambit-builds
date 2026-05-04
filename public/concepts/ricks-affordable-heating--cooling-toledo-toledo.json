@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Rick's Affordable Heating & Cooling Toledo",
+    "phone": "(419) 928-5243",
+    "email": "billing@ricksaffordableheating.com",
+    "city": "Toledo",
+    "state": "OH",
+    "industry": "HVAC",
+    "tagline": "Toledo's trusted HVAC experts",
+    "logo_url": "",
+    "google_rating": "4.9 stars (805 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=11615847065975140013&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your furnace quits at *midnight*",
+    "subheadline": "We're the Toledo HVAC team answering the phone — not voicemail.",
+    "cta_primary": "Get Your Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "800+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Toledo Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every furnace, AC unit, and duct",
+    "subheading": "From emergency repairs to full system replacements"
+  },
+  "services": [
+    {
+      "title": "Furnace Repair & Service",
+      "description": "Dead motor, bad thermostat, or strange noises — we diagnose fast and fix it right.",
+      "icon": "flame"
+    },
+    {
+      "title": "Air Conditioning Repair",
+      "description": "No cool air, leaking units, or system won't start. Same-day service when you need it.",
+      "icon": "fan"
+    },
+    {
+      "title": "System Installation",
+      "description": "New furnace and AC installations with clean work and proper cleanup.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Emergency HVAC Service",
+      "description": "When your heat dies on the coldest night, we show up — usually within hours.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Real techs, real trucks, real answers",
+    "body": "We're a Toledo HVAC team that shows up when we say we will. One call gets you a live person, not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Toledo homeowners are saying"
+  },
+  "reviews": [
+    {
+      "name": "Kristen L.",
+      "location": "Toledo, OH",
+      "text": "Ted diagnosed our dead furnace motor and got us scheduled for quick installation. He even checked in the next day to make sure we were staying warm.",
+      "rating": 5
+    },
+    {
+      "name": "Kyle R.",
+      "location": "Toledo, OH",
+      "text": "Best HVAC experience I've had. Quick response, sent Ted out fast. Very professional, explained everything, and helped prevent future problems.",
+      "rating": 5
+    },
+    {
+      "name": "Marvin C.",
+      "location": "Toledo, OH",
+      "text": "Furnace died on Saturday, house was freezing. Called Rick's and had a tech out in 3 hours. Ted replaced the motherboard and got our heat back on.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Toledo and surrounding areas",
+    "subheading": "Fast response times throughout northwest Ohio",
+    "areas": [
+      "Toledo",
+      "Maumee",
+      "Perrysburg",
+      "Sylvania",
+      "Oregon",
+      "Rossford",
+      "Northwood",
+      "Swanton"
+    ]
+  },
+  "cta": {
+    "heading": "Need HVAC service? We're ready",
+    "body": "Free estimates on all repairs and installations. Real people answering the phone.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (419) 928-5243"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

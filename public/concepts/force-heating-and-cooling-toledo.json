@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Force Heating and Cooling",
+    "phone": "(419) 205-6010",
+    "email": "forceheatingtoledo@gmail.com",
+    "city": "Toledo",
+    "state": "OH",
+    "industry": "HVAC",
+    "tagline": "When comfort matters, we deliver",
+    "logo_url": "",
+    "google_rating": "4.8 stars (68 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=16508848163249357462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Toledo's *most trusted* HVAC team",
+    "subheadline": "No surprises, no run-around — just straight answers and systems that work.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.8★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "70+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Toledo Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every system, every season",
+    "subheading": "From emergency repairs to full installations — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Furnace Repair & Replacement",
+      "description": "When your heat goes out, we show up fast. Complete diagnostics and honest recommendations.",
+      "icon": "flame"
+    },
+    {
+      "title": "Air Conditioning Service",
+      "description": "Keep cool all summer with expert AC repair, maintenance, and new system installation.",
+      "icon": "fan"
+    },
+    {
+      "title": "HVAC Installation",
+      "description": "New construction or system upgrades. Professional installation with proper sizing and setup.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Emergency HVAC Repair",
+      "description": "System failures don't wait for business hours. Fast response when you need heat or cooling.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Real techs, real answers",
+    "body": "We're the Toledo HVAC team that shows up when we say we will. One call gets you straight talk about your system and upfront pricing on every job."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Toledo homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Mark G.",
+      "location": "Toledo, OH",
+      "text": "Perez was professional and honest. Took time to show me what was working and answer all my questions. Great service.",
+      "rating": 5
+    },
+    {
+      "name": "Nik R.",
+      "location": "Toledo, OH",
+      "text": "They've installed almost every appliance at my house! Professional, clean, affordable and reliable. Recommended them to my whole family.",
+      "rating": 5
+    },
+    {
+      "name": "Miguel P.",
+      "location": "Toledo, OH",
+      "text": "Called several companies for AC replacement quotes. Nobody seemed interested until Force. Tech showed up on time, very knowledgeable.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Toledo and surrounding areas",
+    "subheading": "Fast response throughout the greater Toledo metro",
+    "areas": [
+      "Toledo",
+      "Maumee",
+      "Perrysburg",
+      "Oregon",
+      "Sylvania",
+      "Rossford",
+      "Northwood",
+      "Swanton"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for reliable heating and cooling?",
+    "body": "Get honest answers and upfront pricing from Toledo's most trusted HVAC team. Free estimates on all new installations.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (419) 205-6010"
+  },
+  "design": {
+    "primary_color": "#1A5632",
+    "accent_color": "#D4A843",
+    "bg_color": "#FEFFFE",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

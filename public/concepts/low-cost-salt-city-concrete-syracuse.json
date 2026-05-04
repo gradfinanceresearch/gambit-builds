@@ -1,0 +1,115 @@
+{
+  "business": {
+    "name": "Low Cost Salt City Concrete",
+    "phone": "(315) 641-5252",
+    "email": "sales@saltcitysigns.com",
+    "city": "Syracuse",
+    "state": "NY",
+    "industry": "concrete contractor",
+    "tagline": "Affordable concrete work in Syracuse",
+    "logo_url": "",
+    "google_rating": "4 stars (4 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=5581522544532955525&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Concrete work that *won't break the bank*",
+    "subheadline": "Patios, steps, and stamped concrete — built right, priced fair.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Syracuse Team"
+    },
+    {
+      "icon": "star",
+      "text": "4.0★ on Google"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Concrete that lasts",
+    "subheading": "From basic pads to decorative stamped work"
+  },
+  "services": [
+    {
+      "title": "Patios & Walkways",
+      "description": "Poured concrete patios and walkways built to handle Syracuse weather. Smooth finish or textured for grip.",
+      "icon": "home"
+    },
+    {
+      "title": "Steps & Stoops",
+      "description": "Front steps, back steps, and stoops. Reinforced concrete that won't crack or settle.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Stamped Concrete",
+      "description": "Decorative concrete with pattern and color. Stone, brick, or tile patterns that look like the real thing.",
+      "icon": "brick"
+    },
+    {
+      "title": "Concrete Pads",
+      "description": "Level pads for sheds, AC units, generators, and equipment. Proper base prep and reinforcement.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Syracuse concrete crew",
+    "body": "We're a Syracuse concrete team that shows up when we say we will. One call, one crew, one fair price."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What customers say"
+  },
+  "reviews": [
+    {
+      "name": "Jason M.",
+      "location": "Syracuse, NY",
+      "text": "These guys know their business. They put in a patio deck, 5 steps, and stamped concrete pad. Beautiful work and definitely price effective.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Syracuse & surrounding areas",
+    "subheading": "Local concrete work across Central New York",
+    "areas": [
+      "Syracuse",
+      "Liverpool",
+      "Baldwinsville",
+      "Camillus",
+      "Fayetteville",
+      "Manlius",
+      "East Syracuse",
+      "North Syracuse"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for your concrete project?",
+    "body": "Free quotes on patios, steps, walkways, and stamped concrete. Call or email today.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (315) 641-5252"
+  },
+  "design": {
+    "primary_color": "#5B21B6",
+    "accent_color": "#10B981",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

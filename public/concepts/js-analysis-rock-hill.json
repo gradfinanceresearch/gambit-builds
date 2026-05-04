@@ -1,0 +1,114 @@
+{
+  "business": {
+    "name": "JS Analysis",
+    "phone": "(803) 242-4520",
+    "email": "jonathan.sexton@jsanalysis.com",
+    "city": "Rock Hill",
+    "state": "SC",
+    "industry": "pool service",
+    "tagline": "Crystal clear pools, every time",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=751255759952158189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your pool problems *solved* — not scheduled",
+    "subheadline": "Rock Hill's pool team that actually fixes things the first time",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Rock Hill Team"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Pool maintenance that works",
+    "subheading": "From green to gleaming — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Weekly Pool Cleaning",
+      "description": "Skim, vacuum, brush, and chemical balance. Your pool stays swim-ready without the hassle.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Chemical Balancing",
+      "description": "Proper pH, chlorine, and alkalinity levels. No more cloudy water or irritated skin.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Equipment Repair",
+      "description": "Pumps, filters, heaters, and automation systems. We fix what's broken and prevent what's not.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Pool Opening & Closing",
+      "description": "Seasonal startup and winterization services. Your pool ready when you are.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Built for this work",
+    "body": "We're a Rock Hill pool service team driven by excellence. One call gets your pool back to perfect — no excuses, no delays."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Rock Hill says"
+  },
+  "reviews": [
+    {
+      "name": "Mister D.",
+      "location": "Rock Hill, SC",
+      "text": "The owner is driven by excellence.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where we work",
+    "subheading": "Serving pools throughout the Rock Hill area",
+    "areas": [
+      "Rock Hill",
+      "Fort Mill",
+      "York",
+      "Tega Cay",
+      "Indian Land",
+      "Clover",
+      "Lake Wylie"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a pool that works?",
+    "body": "No more green water, broken equipment, or weekend chemistry projects. Get your free quote and see why Rock Hill trusts us.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (803) 242-4520"
+  },
+  "design": {
+    "primary_color": "#1E3A5F",
+    "accent_color": "#C0986B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

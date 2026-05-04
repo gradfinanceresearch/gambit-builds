@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Aqua Clear Pool Management",
+    "phone": "(803) 242-7389",
+    "email": "pools@carolinaaquaclear.com",
+    "city": "Rock Hill",
+    "state": "SC",
+    "industry": "pool service",
+    "tagline": "Crystal clear pools, reliable service",
+    "logo_url": "",
+    "google_rating": "4.4 stars (18 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=11299991795516368770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Rock Hill's Pool Experts — *No Guesswork*",
+    "subheadline": "We tell you exactly what your pool needs. Nothing you don't.",
+    "cta_primary": "Get Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.4★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "18+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Pool Services That Actually Work",
+    "subheading": "From routine maintenance to full liner replacements"
+  },
+  "services": [
+    {
+      "title": "Pool Cleaning & Maintenance",
+      "description": "Weekly cleaning, chemical balancing, and equipment checks to keep your pool swim-ready.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Liner Replacement",
+      "description": "Complete liner installation with proper fitting and finishing work.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Chemical Consulting",
+      "description": "Expert analysis of what your pool actually needs. No overselling.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Pool Equipment Repair",
+      "description": "Pumps, lights, and filtration systems fixed right the first time.",
+      "icon": "lightbulb"
+    }
+  ],
+  "about": {
+    "heading": "Straight Talk About Pool Care",
+    "body": "We're the Rock Hill pool team that tells you what you need — not what makes us the most money. Real expertise, honest pricing."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Rock Hill Says"
+  },
+  "reviews": [
+    {
+      "name": "Terry M.",
+      "location": "Rock Hill, SC",
+      "text": "Ryan and crew did excellent work on our liner replacement and pool light. Great experience from start to finish.",
+      "rating": 5
+    },
+    {
+      "name": "Erin C.",
+      "location": "Rock Hill, SC",
+      "text": "Very knowledgeable about proper pool chemicals. They won't waste your time or money — they tell you exactly what you need.",
+      "rating": 5
+    },
+    {
+      "name": "Jesse R.",
+      "location": "Rock Hill, SC",
+      "text": "I refer Aqua Clear to all my customers. Ryan gets the job done right. Highly recommend for all pool needs.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Rock Hill & Surrounding Areas",
+    "subheading": "Professional pool service throughout York County",
+    "areas": [
+      "Rock Hill",
+      "Fort Mill",
+      "York",
+      "Tega Cay",
+      "Lake Wylie",
+      "Clover",
+      "Indian Land",
+      "Baxter Village"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a Pool That Actually Works?",
+    "body": "Get honest advice and reliable service from Rock Hill's pool experts.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (803) 242-7389"
+  },
+  "design": {
+    "primary_color": "#5B21B6",
+    "accent_color": "#10B981",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

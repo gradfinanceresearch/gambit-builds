@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "Lowry Pools & Spas LLC",
+    "phone": "(330) 798-5888",
+    "email": "jason@lowrypools.com",
+    "city": "Akron",
+    "state": "OH",
+    "industry": "pool service",
+    "tagline": "Crystal clear water, every time",
+    "logo_url": "",
+    "google_rating": "4.1 stars (61 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=4433042655563563155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Jason gets *perturbed* if your pool isn't crystal clear",
+    "subheadline": "Family-owned Akron pool shop that's been keeping pools perfect for almost 20 years.",
+    "cta_primary": "Get Pool Service",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "star",
+      "text": "4.1★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "60+ Google Reviews"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Pool & Spa Services",
+    "subheading": "From opening to closing, chemicals to equipment — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Pool Cleaning & Maintenance",
+      "description": "Regular cleaning, chemical balancing, and equipment maintenance to keep your pool crystal clear and swim-ready year-round.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Pool Equipment Repair",
+      "description": "Expert repair services for pumps, filters, heaters, and automation systems to ensure optimal pool performance.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Chemical Balancing",
+      "description": "Professional water testing and chemical treatment to maintain safe, balanced water chemistry for healthy swimming.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Pool Heating Services",
+      "description": "Installation, repair, and maintenance of pool heaters to extend your swimming season in Northeast Ohio.",
+      "icon": "flame"
+    },
+    {
+      "title": "Spa & Hot Tub Service",
+      "description": "Complete spa maintenance, repairs, and water care services to keep your hot tub running smoothly.",
+      "icon": "fan"
+    }
+  ],
+  "about": {
+    "heading": "Family Shop That Cares",
+    "body": "We're an Akron family business that's been in pools for nearly two decades. Jason strives for perfection — it genuinely bugs him when pools aren't crystal clear."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Our Customers Say"
+  },
+  "reviews": [
+    {
+      "name": "Barbara A.",
+      "location": "Akron",
+      "text": "Always great service and love the owners! They keep my pool crystal clear.",
+      "rating": 5
+    },
+    {
+      "name": "Rachel C.",
+      "location": "Akron",
+      "text": "Customers for almost 20 years since they installed our pool. They open and close each year, and we get all our chemicals from them. Always great.",
+      "rating": 5
+    },
+    {
+      "name": "Wendy B.",
+      "location": "Akron",
+      "text": "Jason gets perturbed if my pool isn't crystal clear. This guy strives for perfection and attains it. His mom will chew us out if we're not keeping our end up!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Akron & Surrounding Areas",
+    "subheading": "Local pool service you can count on",
+    "areas": [
+      "Akron",
+      "Tallmadge",
+      "Cuyahoga Falls",
+      "Stow",
+      "Hudson",
+      "Barberton",
+      "Green",
+      "Uniontown"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Crystal Clear Water?",
+    "body": "Get expert pool service from the family shop that's been perfecting pools in Akron for almost 20 years.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (330) 798-5888"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#F97316",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "stacked"
+  }
+}

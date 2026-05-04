@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Music City Garage Door Repair",
+    "phone": "(615) 880-9754",
+    "email": "info@musiccitygaragedoorrepair.com",
+    "city": "Nashville",
+    "state": "TN",
+    "industry": "garage door repair",
+    "tagline": "Nashville's garage door experts",
+    "logo_url": "",
+    "google_rating": "5 stars (6 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=16539743188080060929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your garage door *won't budge*, we move fast",
+    "subheadline": "Stuck door blocking your morning? Emergency repairs, installations, and the kind of service Nashville trusts.",
+    "cta_primary": "Get Fast Service",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "6+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Nashville Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every Door, Every Problem",
+    "subheading": "From springs that snap to motors that quit — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Emergency Door Repair",
+      "description": "Stuck door blocking your car? We get you moving again with same-day service.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Spring Replacement",
+      "description": "Broken springs are dangerous. We swap them safely and test the balance.",
+      "icon": "shield"
+    },
+    {
+      "title": "Opener Installation",
+      "description": "New motor, new remote, new convenience. Professional installation included.",
+      "icon": "zap"
+    },
+    {
+      "title": "Complete Door Installation",
+      "description": "Fresh door from top to bottom. Custom sizing and style matching available.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Nashville Born, Garage Door Focused",
+    "body": "We're the Nashville garage door team that shows up when we say we will. Real people answering the phone, not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "Nashville Neighbors Say It Best"
+  },
+  "reviews": [
+    {
+      "name": "Giovani R.",
+      "location": "Nashville, TN",
+      "text": "Morning chaos with two toddlers got worse when the garage door stuck halfway. They saved my sanity and got me moving again.",
+      "rating": 5
+    },
+    {
+      "name": "Jade C.",
+      "location": "Nashville, TN",
+      "text": "Second time using them — professionalism and results were exemplary both times. Motor repair first, then standard door work.",
+      "rating": 5
+    },
+    {
+      "name": "Shaoze Z.",
+      "location": "Nashville, TN",
+      "text": "Commercial property door stuck. Needed same-day service. They came quickly, fixed it, fair price. Will use again.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Covering Greater Nashville",
+    "subheading": "Fast response times across the metro area",
+    "areas": [
+      "Nashville",
+      "Franklin",
+      "Brentwood",
+      "Murfreesboro",
+      "Hendersonville",
+      "Gallatin",
+      "Mount Juliet",
+      "Smyrna"
+    ]
+  },
+  "cta": {
+    "heading": "Door Won't Open? We'll Get You Moving",
+    "body": "Don't let a stuck garage door ruin your day. Call now for fast, professional service that gets results.",
+    "cta_primary": "Schedule Service",
+    "cta_secondary": "Call (615) 880-9754"
+  },
+  "design": {
+    "primary_color": "#B45309",
+    "accent_color": "#1F2937",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Honest Abe's",
+    "phone": "(419) 478-0883",
+    "email": "team@latofonts.com",
+    "city": "Toledo",
+    "state": "OH",
+    "industry": "HVAC",
+    "tagline": "Heating & Cooling Done Right",
+    "logo_url": "",
+    "google_rating": "4.9 stars (156 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=2313531179122328888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Honest Abe's* — Your Toledo Heating & Cooling Team",
+    "subheadline": "When your furnace quits at midnight, we pick up the phone. Real techs, real answers, real quick.",
+    "cta_primary": "Get Your Free Quote",
+    "cta_secondary": "Call (419) 478-0883"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "150+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Furnaces, AC Units & Everything Between",
+    "subheading": "One call handles it all — from squeaky blowers to full system installs"
+  },
+  "services": [
+    {
+      "title": "Furnace Repair & Service",
+      "description": "From midnight breakdowns to routine tune-ups. We'll walk you through it over the phone first — might save you a service call.",
+      "icon": "flame"
+    },
+    {
+      "title": "Air Conditioning Repair",
+      "description": "When Toledo summers hit hard, we keep you cool. Quick diagnosis, honest answers, fair pricing.",
+      "icon": "fan"
+    },
+    {
+      "title": "System Installation",
+      "description": "New furnace or AC unit? We handle the whole job — even if the previous setup was a mess.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Emergency HVAC Service",
+      "description": "Heat goes out during a cold snap? We prioritize families without heat. Same-day service when you need it most.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Straight Talk From Toledo HVAC Pros",
+    "body": "We're the team Toledo calls when the heat's out and it's 10 below. No runaround, no upselling — just honest work by people who answer their phones."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Toledo Families Say"
+  },
+  "reviews": [
+    {
+      "name": "Lauren P.",
+      "location": "Toledo, OH",
+      "text": "Amazing service and communication. Abe went out of his way to make sure my family wasn't without heat during the cold snap. Everything was handled quickly and professionally.",
+      "rating": 5
+    },
+    {
+      "name": "Keith M.",
+      "location": "Toledo, OH",
+      "text": "Our furnace went out and Abe got his team in quick to get our home heated. They even fixed the wild setup the previous owners had installed. True professionals.",
+      "rating": 5
+    },
+    {
+      "name": "Jon L.",
+      "location": "Toledo, OH",
+      "text": "Had a great experience. Abe walked me through troubleshooting over the phone first and I got my furnace working. When it failed again, he came out and fixed it right.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Toledo & Surrounding Areas",
+    "subheading": "Local HVAC team covering Northwest Ohio communities",
+    "areas": [
+      "Toledo",
+      "Sylvania",
+      "Oregon",
+      "Perrysburg",
+      "Maumee",
+      "Holland",
+      "Bowling Green",
+      "Findlay"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Honest HVAC Service?",
+    "body": "No surprises, no runaround. Just straight answers from Toledo's trusted heating and cooling team. Free estimates on all new installations.",
+    "cta_primary": "Get Your Free Estimate",
+    "cta_secondary": "Call (419) 478-0883"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "business": {
+    "name": "Ace Pool Services LLC",
+    "phone": "(234) 521-1974",
+    "email": "info@acepools.net",
+    "city": "Akron",
+    "state": "OH",
+    "industry": "pool service",
+    "tagline": "Akron's pool maintenance experts",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=17130683557893941386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Pool season *ready* — guaranteed",
+    "subheadline": "Weekly cleaning, chemical balance, equipment repair. One team handles it all so you can just jump in.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "POOL CARE",
+    "heading": "Everything your pool needs",
+    "subheading": "From weekly maintenance to equipment fixes — we handle the work so your pool stays swim-ready"
+  },
+  "services": [
+    {
+      "title": "Weekly Pool Maintenance",
+      "description": "Complete weekly cleaning service including skimming, vacuuming, brushing walls, emptying baskets, and chemical balancing to keep your pool sparkling clean.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Chemical Testing & Balancing",
+      "description": "Professional water testing and chemical adjustment to maintain proper pH, chlorine, and alkalinity levels for safe and comfortable swimming.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Equipment Repair & Service",
+      "description": "Expert repair and maintenance of pool pumps, filters, heaters, and other equipment to ensure optimal performance and longevity.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Pool Opening & Closing",
+      "description": "Seasonal pool opening in spring and proper winterization in fall to protect your investment through Ohio's changing seasons.",
+      "icon": "shield"
+    },
+    {
+      "title": "Pool Cleaning & Vacuuming",
+      "description": "Thorough cleaning service including surface skimming, wall brushing, and debris removal to maintain crystal clear water.",
+      "icon": "fan"
+    }
+  ],
+  "about": {
+    "heading": "Built for Ohio pools",
+    "body": "We're an Akron pool service team that shows up when scheduled and gets the work done right. Your pool, our responsibility."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Akron pool owners say"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Akron and surrounding areas",
+    "subheading": "Professional pool service throughout Summit County",
+    "areas": [
+      "Akron",
+      "Cuyahoga Falls",
+      "Barberton",
+      "Tallmadge",
+      "Stow",
+      "Hudson",
+      "Green",
+      "Munroe Falls"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for hassle-free pool maintenance?",
+    "body": "Get your free quote today. We'll handle the cleaning, chemicals, and repairs so you can focus on enjoying your pool.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (234) 521-1974"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

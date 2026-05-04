@@ -1,0 +1,113 @@
+{
+  "business": {
+    "name": "Dave's Pool Service, LLC",
+    "phone": "(864) 933-0571",
+    "email": "davespoolserviceinc@yahoo.com",
+    "city": "Spartanburg",
+    "state": "SC",
+    "industry": "pool service",
+    "tagline": "Clear water, every time",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=10651877791775651102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Pool's cloudy? *We'll fix that*",
+    "subheadline": "Spartanburg pools kept crystal clear — chemicals balanced, equipment running right, no headaches for you.",
+    "cta_primary": "Get Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Spartanburg Team"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE HANDLE",
+    "heading": "Pool maintenance that actually works",
+    "subheading": "The chemistry, the cleaning, the repairs — all handled"
+  },
+  "services": [
+    {
+      "title": "Weekly Pool Cleaning",
+      "description": "Comprehensive weekly maintenance including skimming, vacuuming, brushing walls and tiles, and emptying baskets to keep your pool sparkling clean year-round.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Chemical Balancing",
+      "description": "Professional water testing and chemical adjustment to maintain proper pH, chlorine, and alkalinity levels for safe and comfortable swimming.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Equipment Repair",
+      "description": "Expert repair services for pumps, filters, heaters, and automation systems to keep your pool equipment running efficiently and extend its lifespan.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Pool Opening & Closing",
+      "description": "Seasonal services to properly open your pool for summer enjoyment and winterize it for cold weather protection in the Spartanburg area.",
+      "icon": "shield"
+    },
+    {
+      "title": "Filter Cleaning",
+      "description": "Thorough cleaning and maintenance of sand, cartridge, and DE filters to ensure optimal water circulation and crystal-clear pool water.",
+      "icon": "fan"
+    }
+  ],
+  "about": {
+    "heading": "Dave's Pool Service",
+    "body": "We're a Spartanburg pool service team that shows up when scheduled. One call handles your pool problems — no runaround, no excuses."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Spartanburg pool owners say"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Spartanburg County",
+    "subheading": "Pool service throughout the area",
+    "areas": [
+      "Spartanburg",
+      "Boiling Springs",
+      "Cowpens",
+      "Duncan",
+      "Inman",
+      "Lyman",
+      "Wellford",
+      "Woodruff"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for crystal-clear water?",
+    "body": "Free quote on pool service — we'll check your water, explain what needs doing, give you an honest price.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (864) 933-0571"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

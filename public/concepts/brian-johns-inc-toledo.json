@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Brian Johns Inc.",
+    "phone": "(419) 476-9399",
+    "email": "impallari@gmail.com",
+    "city": "Toledo",
+    "state": "OH",
+    "industry": "HVAC",
+    "tagline": "Honest HVAC when others try to oversell",
+    "logo_url": "",
+    "google_rating": "4.8 stars (59 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=4493006193250094627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The HVAC team that *won't* try to sell you a new furnace",
+    "subheadline": "When competitors quote $3k+ for what needs a $200 part, Toledo calls us for the honest answer.",
+    "cta_primary": "Get Honest Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.8★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "50+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Toledo Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every System, Every Season",
+    "subheading": "From quick fixes to complete installs — we diagnose first, sell second"
+  },
+  "services": [
+    {
+      "title": "Furnace Repair & Service",
+      "description": "Fast diagnosis on heating issues. We'll tell you if it's a $50 part or time for replacement — honestly.",
+      "icon": "flame"
+    },
+    {
+      "title": "Air Conditioning Repair",
+      "description": "AC not cooling? We check lines, clean coils, and fix what's actually broken instead of guessing.",
+      "icon": "fan"
+    },
+    {
+      "title": "System Installation",
+      "description": "Complete HVAC installs when repair doesn't make sense. Upfront pricing, no surprise markups.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Emergency Service",
+      "description": "Furnace quits in winter? AC dies in July? We answer the phone and show up fast.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Straight Talk HVAC",
+    "body": "We're the Toledo HVAC team that diagnoses first and sells second. Real people answering the phone, honest assessments, and repairs that actually fix the problem."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Toledo Says"
+  },
+  "reviews": [
+    {
+      "name": "Kalie S.",
+      "location": "Toledo, OH",
+      "text": "After another company tried to scam us for over $3k, Brian Johns told us we actually didn't need a new furnace. So professional and honest.",
+      "rating": 5
+    },
+    {
+      "name": "Elizabeth D.",
+      "location": "Toledo, OH",
+      "text": "Got a callback within 15 minutes and Brian was here in under an hour. Quick, polite, and got my AC running again.",
+      "rating": 5
+    },
+    {
+      "name": "Varsanarani M.",
+      "location": "Toledo, OH",
+      "text": "Rick diagnosed the problem, replaced the pump, and gave the whole furnace a lookover. Great service from start to finish.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Northwest Ohio",
+    "subheading": "Fast response across Toledo and surrounding communities",
+    "areas": [
+      "Toledo",
+      "Sylvania",
+      "Maumee",
+      "Perrysburg",
+      "Oregon",
+      "Rossford",
+      "Swanton",
+      "Holland"
+    ]
+  },
+  "cta": {
+    "heading": "Get the Honest Answer",
+    "body": "No overselling, no surprise fees. Just straight talk about what your HVAC actually needs and what it'll cost.",
+    "cta_primary": "Schedule Service",
+    "cta_secondary": "Call (419) 476-9399"
+  },
+  "design": {
+    "primary_color": "#9A3412",
+    "accent_color": "#059669",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

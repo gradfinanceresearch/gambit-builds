@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "Same Day Garage Door & Gate Repair Buffalo",
+    "phone": "(716) 202-9488",
+    "email": "contact@garage-door-repair-buffalo.com",
+    "city": "Buffalo",
+    "state": "NY",
+    "industry": "garage door repair",
+    "tagline": "Buffalo's garage door repair team — same day service when you need it most",
+    "logo_url": "",
+    "google_rating": "4.7 stars (46 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=13865442559104360132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Same day* garage door fixes in Buffalo",
+    "subheadline": "Off-track doors, broken springs, dead openers — we show up fast and fix it right",
+    "cta_primary": "Get Same Day Service",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.7★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "40+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Buffalo Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE FIXES",
+    "heading": "Every garage door problem",
+    "subheading": "Springs, tracks, openers, keypads — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Spring Replacement",
+      "description": "Broken springs mean a door that won't open. We carry the right springs and install them same day.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Track Realignment",
+      "description": "Off-track doors are dangerous and get worse fast. We realign tracks and check the whole system.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Opener Repair",
+      "description": "Motor issues, remote problems, chain troubles — we diagnose and fix all opener brands.",
+      "icon": "zap"
+    },
+    {
+      "title": "Keypad Installation",
+      "description": "Upgrade to a new keypad system. We install, program, and show you how to change codes.",
+      "icon": "shield"
+    },
+    {
+      "title": "New Door Installation",
+      "description": "Complete garage door replacement with design consultation and flawless installation.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Buffalo garage door team",
+    "body": "We're the Buffalo team that shows up same day when your garage door quits. Real techs, real trucks, real solutions."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Buffalo homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Cheryll C.",
+      "location": "Buffalo, NY",
+      "text": "Great for new garage door installation. Installed 2 new garage doors on our home perfectly. They are the best, even though we had to wait for delivery.",
+      "rating": 5
+    },
+    {
+      "name": "AshelyNicole",
+      "location": "Buffalo, NY",
+      "text": "My garage door was off track and I worried about damage. They sent a tech same day who realigned tracks perfectly and made safety adjustments.",
+      "rating": 5
+    },
+    {
+      "name": "John S.",
+      "location": "Buffalo, NY",
+      "text": "Quick response for garage door spring repair. Technician arrived on time, identified the issue, and replaced springs with quality work.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Buffalo and surrounding areas",
+    "subheading": "Same day service throughout Western New York",
+    "areas": [
+      "Buffalo",
+      "Amherst",
+      "Tonawanda",
+      "Cheektowaga",
+      "West Seneca",
+      "Clarence",
+      "Lancaster",
+      "Depew"
+    ]
+  },
+  "cta": {
+    "heading": "Garage door stuck? We'll be there today",
+    "body": "Don't let a broken garage door ruin your day. Call now for same day service in Buffalo.",
+    "cta_primary": "Schedule Same Day Fix",
+    "cta_secondary": "Call (716) 202-9488"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#F97316",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Archivo Black",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

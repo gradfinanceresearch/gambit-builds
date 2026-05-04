@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Eldridge Concrete LLC",
+    "phone": "(603) 717-2481",
+    "email": "info@eldridgeco.com",
+    "city": "Manchester",
+    "state": "NH",
+    "industry": "concrete contractor",
+    "tagline": "Solid foundations, lasting results",
+    "logo_url": "",
+    "google_rating": "4.7 stars (26 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=18112978702418906994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your concrete *needs to last* — we pour it right",
+    "subheadline": "Patios that don't crack, foundations that stay put, driveways built for New Hampshire winters.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.7★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "25+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Manchester Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE POUR",
+    "heading": "Every concrete job done right the first time",
+    "subheading": "From residential driveways to commercial foundations — we handle the concrete work that matters."
+  },
+  "services": [
+    {
+      "title": "Stamped Concrete Patios",
+      "description": "Custom colors and patterns that transform your outdoor space. We work with you to get the exact look you want.",
+      "icon": "home"
+    },
+    {
+      "title": "Driveway Installation",
+      "description": "Properly reinforced driveways built to handle New Hampshire weather and heavy loads year after year.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Foundation Work",
+      "description": "Residential and commercial foundations poured to code. The base everything else depends on.",
+      "icon": "brick"
+    },
+    {
+      "title": "Walkways & Sidewalks",
+      "description": "Safe, level walkways that complement your property. Non-slip surfaces that last.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Manchester concrete contractors who show up",
+    "body": "We're the concrete team Manchester calls when the job needs to be done right. Real trucks, experienced crew, and we answer our phone."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Manchester homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Olivia A.",
+      "location": "Manchester, NH",
+      "text": "Hard to put into words how much respect I have for Sheane and the Eldridge Concrete crew. Our cottage patio was a disaster — sunken, cracked, causing foundation damage. They fixed it all.",
+      "rating": 5
+    },
+    {
+      "name": "Ana S.",
+      "location": "Manchester, NH",
+      "text": "Amazing job on my stamped concrete walkway! They worked with me on exact colors, were super responsive, explained everything. Stuck to timeline even with weather delays.",
+      "rating": 5
+    },
+    {
+      "name": "Meredith L.",
+      "location": "Manchester, NH",
+      "text": "Sheane was professional, responsive, and knowledgeable about his craft. Most cost effective quote of the four I got. Did my homework — glad I chose Eldridge.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Manchester and surrounding areas",
+    "subheading": "Local concrete contractors covering southern New Hampshire communities.",
+    "areas": [
+      "Manchester",
+      "Nashua",
+      "Derry",
+      "Bedford",
+      "Goffstown",
+      "Hooksett",
+      "Auburn",
+      "Londonderry"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to pour? Let's talk concrete.",
+    "body": "Free estimates on all concrete work. We'll walk your property, explain the process, and give you an honest price.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (603) 717-2481"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#EF4444",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

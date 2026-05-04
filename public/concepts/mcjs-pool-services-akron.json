@@ -1,0 +1,113 @@
+{
+  "business": {
+    "name": "MCJS Pool Services",
+    "phone": "(614) 571-5019",
+    "email": "mcjspoolservices@gmail.com",
+    "city": "Akron",
+    "state": "OH",
+    "industry": "pool service",
+    "tagline": "Crystal Clear. Year Round.",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=18015458809566121906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your Pool. *Our Problem.*",
+    "subheadline": "Weekly cleaning, chemical balancing, and equipment repairs — handled by Akron locals who know Ohio pools.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE HANDLE",
+    "heading": "Pool Care That Works",
+    "subheading": "From algae blooms to broken pumps — we handle what your pool throws at you."
+  },
+  "services": [
+    {
+      "title": "Weekly Pool Cleaning",
+      "description": "Complete pool maintenance including skimming, vacuuming, brushing walls, and emptying baskets to keep your pool crystal clear.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Chemical Balancing",
+      "description": "Professional water testing and chemical treatment to maintain proper pH, chlorine levels, and water chemistry for safe swimming.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Equipment Repair",
+      "description": "Expert diagnosis and repair of pool pumps, filters, heaters, and automation systems to keep your pool running smoothly.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Pool Opening & Closing",
+      "description": "Seasonal services to properly open your pool for summer and winterize it for Ohio's cold months, protecting your investment.",
+      "icon": "shield"
+    },
+    {
+      "title": "Filter Cleaning",
+      "description": "Thorough cleaning and maintenance of cartridge, sand, and DE filters to ensure optimal water circulation and clarity.",
+      "icon": "fan"
+    }
+  ],
+  "about": {
+    "heading": "Akron Pool Experts",
+    "body": "We're an Akron pool service team that answers the phone and shows up when we say we will. One call handles your entire pool."
+  },
+  "reviews_section": {
+    "label": "WHAT CUSTOMERS SAY",
+    "heading": "Real Reviews"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Akron & Surrounding Areas",
+    "subheading": "Professional pool service throughout Summit County and beyond.",
+    "areas": [
+      "Akron",
+      "Cuyahoga Falls",
+      "Stow",
+      "Hudson",
+      "Tallmadge",
+      "Barberton",
+      "Green",
+      "Copley"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Crystal Clear Water?",
+    "body": "Call MCJS Pool Services today for your free estimate. Let us handle the chemistry while you enjoy the swim.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (614) 571-5019"
+  },
+  "design": {
+    "primary_color": "#1A5632",
+    "accent_color": "#D4A843",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

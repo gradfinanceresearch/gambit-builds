@@ -1,0 +1,115 @@
+{
+  "business": {
+    "name": "GMS Concrete",
+    "phone": "(850) 476-3867",
+    "email": "p-m@gmsconcrete.com",
+    "city": "Pensacola",
+    "state": "FL",
+    "industry": "concrete contractor",
+    "tagline": "Solid work. Solid word.",
+    "logo_url": "",
+    "google_rating": "5 stars (4 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=14422411186406597160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Pensacola Concrete That *Stays Put*",
+    "subheadline": "Driveways, patios, sidewalks — poured right the first time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Pensacola Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE POUR",
+    "heading": "Concrete Work Done Right",
+    "subheading": "From your front steps to your back patio"
+  },
+  "services": [
+    {
+      "title": "Driveways",
+      "description": "New pours and replacements. Reinforced for Florida weather.",
+      "icon": "home"
+    },
+    {
+      "title": "Patios & Slabs",
+      "description": "Level foundations for outdoor living spaces.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Sidewalks & Walkways",
+      "description": "Safe paths that handle foot traffic and weather.",
+      "icon": "brick"
+    },
+    {
+      "title": "Concrete Repair",
+      "description": "Crack fixes and surface restoration work.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Built for Pensacola Weather",
+    "body": "We're a Pensacola concrete team that shows up when we say we will. One call, one crew, one solid job."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Our Customers Say"
+  },
+  "reviews": [
+    {
+      "name": "Andre P.",
+      "location": "Pensacola, FL",
+      "text": "Great business — love working with them.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE POUR",
+    "heading": "Serving Pensacola & Surrounding Areas",
+    "subheading": "Local concrete contractors you can count on",
+    "areas": [
+      "Pensacola",
+      "Gulf Breeze",
+      "Pace",
+      "Milton",
+      "Cantonment",
+      "Ferry Pass",
+      "Bellview",
+      "Warrington"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Pour?",
+    "body": "Free estimates on all concrete work. Call today and we'll come take a look.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (850) 476-3867"
+  },
+  "design": {
+    "primary_color": "#B91C1C",
+    "accent_color": "#1E40AF",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

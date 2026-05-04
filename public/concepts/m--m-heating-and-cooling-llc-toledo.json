@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "M & M Heating and Cooling LLC",
+    "phone": "(419) 243-3005",
+    "email": "information@mandmheating.com",
+    "city": "Toledo",
+    "state": "OH",
+    "industry": "HVAC",
+    "tagline": "Toledo's trusted HVAC team",
+    "logo_url": "",
+    "google_rating": "4.5 stars (381 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=9141195983781501776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your furnace quits, *we answer*",
+    "subheadline": "Union-trained techs who show up on time and charge honest prices",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.5★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "380+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Toledo Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Heating, cooling, and everything between",
+    "subheading": "From quick fixes to full system installs"
+  },
+  "services": [
+    {
+      "title": "Furnace Repair",
+      "description": "Boiler breakdowns, heat pump issues, and gas furnace problems fixed right the first time.",
+      "icon": "flame"
+    },
+    {
+      "title": "AC Installation",
+      "description": "New air conditioning systems sized and installed by union-trained professionals.",
+      "icon": "fan"
+    },
+    {
+      "title": "System Maintenance",
+      "description": "Keep your HVAC running smooth with seasonal tune-ups and filter changes.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Emergency Service",
+      "description": "When your heat goes out in January, we're the team Toledo calls.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Union-trained techs, Toledo prices",
+    "body": "We're a Toledo HVAC team that believes in honest work and fair pricing. When your neighbor's furnace breaks, they call us."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Toledo homeowners say"
+  },
+  "reviews": [
+    {
+      "name": "Ellie A.",
+      "location": "Toledo, OH",
+      "text": "Shawn took his time to evaluate our boiler problem and replaced the defective parts. M&M charged us far less than other quotes and didn't try to sell us a new system.",
+      "rating": 5
+    },
+    {
+      "name": "Jason D.",
+      "location": "Toledo, OH",
+      "text": "Great experience with M&M. Highly recommend for their expertise and care. Prices are reasonable and you get highly trained union members taking care of your home.",
+      "rating": 5
+    },
+    {
+      "name": "Katrina",
+      "location": "Toledo, OH",
+      "text": "Very trustworthy and professional. Respectful of my home and patient with all my questions. Kyle was fantastic and I felt comfortable throughout the process.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Toledo and surrounding communities",
+    "subheading": "Fast response times across Lucas County",
+    "areas": [
+      "Toledo",
+      "Sylvania",
+      "Oregon",
+      "Perrysburg",
+      "Maumee",
+      "Holland",
+      "Swanton",
+      "Whitehouse"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your system running right?",
+    "body": "Free quotes on repairs and installations. Union-trained techs and upfront pricing.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (419) 243-3005"
+  },
+  "design": {
+    "primary_color": "#1F2937",
+    "accent_color": "#EF4444",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

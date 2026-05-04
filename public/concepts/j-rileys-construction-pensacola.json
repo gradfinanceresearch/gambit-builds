@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "J. Riley's Construction",
+    "phone": "(850) 288-7495",
+    "email": "jriley@jrileys.net",
+    "city": "Pensacola",
+    "state": "FL",
+    "industry": "concrete contractor",
+    "tagline": "Solid work that lasts",
+    "logo_url": "",
+    "google_rating": "4.4 stars (27 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=16888320657066687402&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Pensacola concrete that *stands the test of time*",
+    "subheadline": "From sidewalks to pool decks — we show up, measure right, and pour it clean.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.4★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE CONCRETE",
+    "heading": "What We Pour",
+    "subheading": "Every job starts with proper measurements and ends with a clean site"
+  },
+  "services": [
+    {
+      "title": "Sidewalks & Walkways",
+      "description": "Safe, level paths that connect your spaces. We handle the grades and drainage so water flows where it should.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Pool Decks",
+      "description": "Extensions and full deck pours around your pool. Form work, reinforcement, and smooth finishing.",
+      "icon": "home"
+    },
+    {
+      "title": "Patios & Porches",
+      "description": "Replace that rotting wood deck with solid concrete. Custom forms to match your home's layout.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Concrete Removal",
+      "description": "Out with the old, cracked concrete. We handle demo and haul-away before the new pour.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "The J. Riley Way",
+    "body": "We're the Pensacola concrete crew that measures twice, pours once, and cleans up after ourselves. One truck, one crew, one clean job."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Pensacola Says"
+  },
+  "reviews": [
+    {
+      "name": "Nicole F.",
+      "location": "Pensacola, FL",
+      "text": "Prompt meeting, fair pricing, exceptional service. We're enjoying our new sidewalk and would refer him to family and friends.",
+      "rating": 5
+    },
+    {
+      "name": "Michael R.",
+      "location": "Pensacola, FL",
+      "text": "True to his word. Extended our pool deck — measured, built forms, poured in one day. Came back to remove forms and cleaned up.",
+      "rating": 5
+    },
+    {
+      "name": "Robin H.",
+      "location": "Pensacola, FL",
+      "text": "Small project but impeccable attention to detail, courtesy, and professionalism. Love my new sidewalk and patio!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE POUR",
+    "heading": "Service Areas",
+    "subheading": "Concrete contractors serving Pensacola and surrounding communities",
+    "areas": [
+      "Pensacola",
+      "Gulf Breeze",
+      "Pace",
+      "Milton",
+      "Cantonment",
+      "Perdido Key",
+      "Navarre",
+      "Crestview"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for solid concrete work?",
+    "body": "Call for a free estimate. We'll measure your project and give you straight pricing.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (850) 288-7495"
+  },
+  "design": {
+    "primary_color": "#B45309",
+    "accent_color": "#1F2937",
+    "bg_color": "#FFFBF7",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "business": {
+    "name": "Treeworks",
+    "phone": "(609) 926-8733",
+    "email": "office@treeworksva.com",
+    "city": "Atlantic City",
+    "state": "NJ",
+    "industry": "tree service",
+    "tagline": "Professional tree care when you need it",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=2925575799857375083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Trees *handled right* the first time",
+    "subheadline": "Atlantic City's crew that shows up, does the work, and leaves your property cleaner than we found it.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Atlantic City Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every tree situation covered",
+    "subheading": "Pruning, removal, storm cleanup — one call handles it all"
+  },
+  "services": [
+    {
+      "title": "Tree Removal",
+      "description": "Safe removal of dead, diseased, or hazardous trees. Complete cleanup included.",
+      "icon": "saw"
+    },
+    {
+      "title": "Tree Pruning & Trimming",
+      "description": "Expert pruning to improve tree health and appearance. Proper cuts, clean results.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Storm Damage Cleanup",
+      "description": "Emergency response for fallen trees and storm debris. Fast, safe removal.",
+      "icon": "shield"
+    },
+    {
+      "title": "Stump Grinding",
+      "description": "Complete stump removal and grinding. Level ground, no trace left behind.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Atlantic City tree crew",
+    "body": "We're the team that communicates well and works hard. Your property looks better when we're done."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "lyn m.",
+      "location": "Atlantic City, NJ",
+      "text": "Super job. This crew works hard and communicates so well. Was amazed how well the property looked with trees pruned. Grounds were cleaned up perfectly.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where we work",
+    "subheading": "Serving Atlantic City and surrounding communities",
+    "areas": [
+      "Atlantic City",
+      "Pleasantville",
+      "Northfield",
+      "Linwood",
+      "Somers Point",
+      "Ventnor City",
+      "Margate City",
+      "Longport"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get those trees handled?",
+    "body": "One call gets you a free estimate and straight answers about your tree situation.",
+    "cta_primary": "Get Your Free Quote",
+    "cta_secondary": "Call (609) 926-8733"
+  },
+  "design": {
+    "primary_color": "#991B1B",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

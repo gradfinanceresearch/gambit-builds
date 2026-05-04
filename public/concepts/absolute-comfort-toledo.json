@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Absolute Comfort",
+    "phone": "(419) 984-3404",
+    "email": "office@absolutecomfort.us",
+    "city": "Toledo",
+    "state": "OH",
+    "industry": "HVAC",
+    "tagline": "When your comfort stops, we start",
+    "logo_url": "",
+    "google_rating": "4.9 stars (67 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=11859288276087292214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your furnace quits at *midnight* — we answer",
+    "subheadline": "Toledo HVAC specialists who show up, diagnose fast, and get your heat back on.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "60+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Toledo Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Heating, cooling, and everything between",
+    "subheading": "One call fixes it all"
+  },
+  "services": [
+    {
+      "title": "Furnace Repair",
+      "description": "Igniters, blower motors, heat exchangers. We carry the parts your system needs.",
+      "icon": "flame"
+    },
+    {
+      "title": "AC Service",
+      "description": "Coils, compressors, refrigerant lines. Keep cool all summer long.",
+      "icon": "fan"
+    },
+    {
+      "title": "Water Heater Replacement",
+      "description": "Tank or tankless installation. Hot water when you need it.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Boiler Systems",
+      "description": "Radiant heat specialists. Those cozy childhood memories, restored.",
+      "icon": "thermometer"
+    }
+  ],
+  "about": {
+    "heading": "Real technicians, real solutions",
+    "body": "We're Toledo HVAC specialists who diagnose problems fast and explain everything clearly. No run-around, no surprises."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Toledo neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Helli M.",
+      "location": "Toledo, OH",
+      "text": "Really happy with their work. Quan was efficient and knowledgeable, replaced a broken igniter and answered all our questions with great suggestions.",
+      "rating": 5
+    },
+    {
+      "name": "Morgan",
+      "location": "Toledo, OH",
+      "text": "Excellent service from start to finish. Very professional, on time, explained everything clearly and made sure the job was done right.",
+      "rating": 5
+    },
+    {
+      "name": "Tameara D.",
+      "location": "Toledo, OH",
+      "text": "Had my hot water tank replaced and couldn't be happier. Arrived on time, installed quickly, left the area clean and answered all my questions.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Toledo and surrounding areas",
+    "subheading": "Fast response across northwest Ohio",
+    "areas": [
+      "Toledo",
+      "Sylvania",
+      "Maumee",
+      "Perrysburg",
+      "Oregon",
+      "Waterville",
+      "Swanton",
+      "Northwood"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to restore your comfort?",
+    "body": "Free estimates on all HVAC work. Licensed technicians who show up when promised.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (419) 984-3404"
+  },
+  "design": {
+    "primary_color": "#1A5632",
+    "accent_color": "#D4A843",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

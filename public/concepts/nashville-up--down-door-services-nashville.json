@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Nashville Up & Down Door Services",
+    "phone": "(615) 488-7917",
+    "email": "sales@nashvilledoor.com",
+    "city": "Nashville",
+    "state": "TN",
+    "industry": "garage door repair",
+    "tagline": "When your door won't budge, we make it move",
+    "logo_url": "",
+    "google_rating": "5 stars (3 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=6175207582668585790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your garage door *won't budge*, we make it move",
+    "subheadline": "Springs, openers, tracks — if it moves up and down, we fix it right the first time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Nashville Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every Part That Makes Your Door Work",
+    "subheading": "From squeaky hinges to broken springs — one call handles it all"
+  },
+  "services": [
+    {
+      "title": "Spring Repair & Replacement",
+      "description": "Broken torsion springs? We carry the right springs in our truck and get your door balanced properly.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Opener Service",
+      "description": "Chain drives, belt drives, screw drives — we service and repair all garage door opener types.",
+      "icon": "zap"
+    },
+    {
+      "title": "Track & Roller Repair",
+      "description": "Bent tracks and worn rollers make doors stick and grind. We straighten, replace, and lubricate everything.",
+      "icon": "pipe"
+    },
+    {
+      "title": "Door Installation",
+      "description": "New garage doors installed with precision. We handle the heavy lifting and get it running smooth.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Nashville Door Specialists",
+    "body": "We're the Nashville garage door team that shows up prepared. Real trucks, real parts, real solutions."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Our Customers Say"
+  },
+  "reviews": [
+    {
+      "name": "Amit A.",
+      "location": "Nashville, TN",
+      "text": "Thorough service — came for a keypad issue but also noticed the chain drive was loose and opener mount needed reinforcement. Everything secured and tested before they left.",
+      "rating": 5
+    },
+    {
+      "name": "kiki",
+      "location": "Nashville, TN",
+      "text": "Amazing service! Got a new door and it's perfect. Quick work, guys!",
+      "rating": 5
+    },
+    {
+      "name": "Kyrah B.",
+      "location": "Nashville, TN",
+      "text": "Door was making grinding sounds and moving jerky. They lubricated everything, adjusted springs, cleaned tracks, and replaced worn rollers. Operates so much smoother now.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Serving Nashville & Surrounding Areas",
+    "subheading": "Fast response times across Middle Tennessee",
+    "areas": [
+      "Nashville",
+      "Franklin",
+      "Brentwood",
+      "Hendersonville",
+      "Murfreesboro",
+      "Gallatin",
+      "Mount Juliet",
+      "Smyrna"
+    ]
+  },
+  "cta": {
+    "heading": "Door Giving You Trouble?",
+    "body": "Don't wrestle with a stubborn garage door. Call Nashville's door specialists and get it fixed right.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (615) 488-7917"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

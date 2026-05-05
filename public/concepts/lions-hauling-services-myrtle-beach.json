@@ -1,0 +1,132 @@
+{
+  "business": {
+    "name": "Lions Hauling Services",
+    "phone": "(843) 467-4383",
+    "email": "lionstransport@aol.com",
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "industry": "junk removal",
+    "tagline": "Clean slate, clear space",
+    "logo_url": "/api/placeholder/200/80",
+    "google_rating": "5 stars (4 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=12848745753701074765&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The junk's gone by *lunch*",
+    "subheadline": "Same-day pickup that actually shows up when we say we will.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Myrtle Beach Team"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE HAUL",
+    "heading": "One truck, one crew, one price",
+    "subheading": "From single items to whole house cleanouts"
+  },
+  "services": [
+    {
+      "title": "Furniture Removal",
+      "description": "Old couches, mattresses, dining sets — we load it all. No item too heavy or awkward.",
+      "icon": "home"
+    },
+    {
+      "title": "Garage Cleanouts",
+      "description": "Decades of stuff piled up? We sort, haul, and sweep it clean in one visit.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Appliance Pickup",
+      "description": "Washers, dryers, fridges, water heaters. We handle the heavy lifting and disposal.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Construction Debris",
+      "description": "Drywall, flooring, fixtures from your renovation project. Quick pickup and proper disposal.",
+      "icon": "brick"
+    },
+    {
+      "title": "Estate Cleanouts",
+      "description": "Full house clearing with care and respect. We handle everything from furniture to personal items.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Jeremy & Santini's crew",
+    "body": "We're the Myrtle Beach junk removal team that shows up on time and finishes the job right. Real people answering the phone — not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Benjamin D.",
+      "location": "Myrtle Beach, SC",
+      "text": "Excellent solution for my garage cleanout during my move. Jeremy and Santini are high character individuals who were a pleasure to work with.",
+      "rating": 5
+    },
+    {
+      "name": "Tammy V.",
+      "location": "Myrtle Beach, SC",
+      "text": "Absolute best! Very professional, went above and beyond to help me. Don't hesitate to call them for any hauling services.",
+      "rating": 5
+    },
+    {
+      "name": "Carla C.",
+      "location": "Myrtle Beach, SC",
+      "text": "First class, very professional. Quick to respond, showed up on time, and very nice. 10/10 will definitely call them again.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Grand Strand",
+    "subheading": "Same-day service throughout the area",
+    "areas": [
+      "Myrtle Beach",
+      "North Myrtle Beach",
+      "Conway",
+      "Surfside Beach",
+      "Garden City",
+      "Pawleys Island",
+      "Georgetown",
+      "Little River"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to reclaim your space?",
+    "body": "Free quotes over the phone. Fair pricing upfront. Same crew that shows up does the work.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (843) 467-4383"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Marcos Painting & Handyman",
+    "phone": "(203) 584-0724",
+    "email": "marcospaintingllc07@gmail.com",
+    "city": "New Haven",
+    "state": "CT",
+    "industry": "handyman",
+    "tagline": "Paint, tile, trim — *one call covers it all*",
+    "logo_url": "",
+    "google_rating": "5 stars (17 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=2418622712869862569&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Paint, tile, trim — *one call covers it all*",
+    "subheadline": "The New Haven handyman team that shows up with brushes, tools, and answers.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "17+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Interior & Exterior Projects",
+    "subheading": "From fresh paint to custom tile work"
+  },
+  "services": [
+    {
+      "title": "Interior & Exterior Painting",
+      "description": "Walls, trim, ceilings, decks. Clean lines and lasting finish on every surface.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Tile Installation",
+      "description": "Kitchen floors, shower surrounds, backsplashes. Precise cuts and waterproof seals.",
+      "icon": "brick"
+    },
+    {
+      "title": "Trim & Baseboard Work",
+      "description": "Crown molding, baseboards, door trim. Sharp corners and seamless joints.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Cabinet & Fixture Install",
+      "description": "Bathroom vanities, kitchen cabinets, closet doors. Level, secure, and functional.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Marcos & Joanna",
+    "body": "We're the New Haven painting and handyman team that answers the phone and shows up when promised. One project, start to finish."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What New Haven Says"
+  },
+  "reviews": [
+    {
+      "name": "Sy C.",
+      "location": "New Haven, CT",
+      "text": "Marcos and Joanna painted our whole condo with incredible attention to detail. His tile work in our shower and kitchen floor is fabulous!",
+      "rating": 5
+    },
+    {
+      "name": "Jeff W.",
+      "location": "New Haven, CT",
+      "text": "Had our entire house painted and staining done. Their work ethic, attention to detail, and professionalism is unmatched. Left the house spotless.",
+      "rating": 5
+    },
+    {
+      "name": "Trish T.",
+      "location": "New Haven, CT",
+      "text": "Meticulous painting on 2 rooms and exterior trim. Also installed closet door, baseboard, and bathroom fixtures. Highly recommend!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving New Haven & Nearby",
+    "subheading": "Local team, local projects",
+    "areas": [
+      "New Haven",
+      "West Haven",
+      "East Haven",
+      "Hamden",
+      "Milford",
+      "Branford",
+      "North Haven",
+      "Wallingford"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Start Your Project?",
+    "body": "Free quotes on painting, tile work, and handyman projects. Call today and we'll walk through exactly what you need.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (203) 584-0724"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

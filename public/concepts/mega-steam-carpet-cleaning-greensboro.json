@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "mega steam carpet cleaning",
+    "phone": "(336) 509-8713",
+    "email": "megasteamnc@gmail.com",
+    "city": "Greensboro",
+    "state": "NC",
+    "industry": "carpet cleaner",
+    "tagline": "Steam That Gets It Done",
+    "logo_url": "",
+    "google_rating": "4.5 stars (24 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=16081230958932577888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your Carpet *Dry by 5pm* — Guaranteed",
+    "subheadline": "While other cleaners leave you walking on soggy carpet for days, we use the steam method that actually works.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.5★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "20+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Greensboro Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Steam Cleaning That Actually Works",
+    "subheading": "From wall-to-wall carpet to upholstery, we get the deep dirt out and leave it dry"
+  },
+  "services": [
+    {
+      "title": "Carpet Deep Cleaning",
+      "description": "Hot water extraction that pulls dirt from deep in the fibers. Your carpet dries fast, not in three days.",
+      "icon": "home"
+    },
+    {
+      "title": "Upholstery Cleaning",
+      "description": "Sofas, chairs, and car seats cleaned on-site. We come to you — no hauling furniture around.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Carpet Repair",
+      "description": "Patches, stretching, and seamless fixes for damaged carpet. Make it look like the problem never happened.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Move-Out Cleaning",
+      "description": "Get your deposit back with carpet that looks brand new. We work around your crazy moving schedule.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Pablo and the Mega Steam Team",
+    "body": "We're the Greensboro carpet team that shows up when we say we will and leaves your carpet actually dry. Real techs, real results."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Greensboro Says"
+  },
+  "reviews": [
+    {
+      "name": "Rach R.",
+      "location": "Greensboro",
+      "text": "Quick and convenient! They came to my job so I didn't have to take time off. Pablo set everything up and Luis did an A+ job cleaning my seats!",
+      "rating": 5
+    },
+    {
+      "name": "Tracie B.",
+      "location": "Greensboro",
+      "text": "Not only did they do a fantastic job, but kept me informed via text. The carpet was dry when I returned from work — unlike other vendors who left it very damp.",
+      "rating": 5
+    },
+    {
+      "name": "Derek E.",
+      "location": "Greensboro",
+      "text": "Worked with me through my hectic schedule, worked fast and did an amazing job. My carpet looked brand new when they were done — truly went above and beyond.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Triad",
+    "subheading": "Fast response times across Guilford County and beyond",
+    "areas": [
+      "Greensboro",
+      "High Point",
+      "Winston-Salem",
+      "Burlington",
+      "Kernersville",
+      "Jamestown",
+      "Oak Ridge",
+      "Summerfield"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Carpet That's Actually Clean?",
+    "body": "Free quotes, honest pricing, and carpet that dries the same day. Text or call — we'll work around your schedule.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (336) 509-8713"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1A1A2E",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

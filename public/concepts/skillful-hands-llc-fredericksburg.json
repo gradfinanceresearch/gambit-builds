@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Skillful Hands LLC",
+    "phone": "(540) 645-7776",
+    "email": "skillfulhandsllcva@gmail.com",
+    "city": "Fredericksburg",
+    "state": "VA",
+    "industry": "handyman",
+    "tagline": "The fix you need, done right",
+    "logo_url": "",
+    "google_rating": "5 stars (18 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=16214599001311223491&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The handyman *Fredericksburg calls* when it matters",
+    "subheadline": "From drywall patches to full bathroom remodels — we show up on time and get it done right the first time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "18+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Fredericksburg Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every fix, every project",
+    "subheading": "One call handles it all — from quick repairs to complete renovations"
+  },
+  "services": [
+    {
+      "title": "Drywall Repair & Installation",
+      "description": "Water damage, holes, cracks — we patch it seamless or hang it fresh. No job too small or too big.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Bathroom Remodeling",
+      "description": "Complete bathroom makeovers from demo to finishing touches. Your vision, our craftsmanship.",
+      "icon": "home"
+    },
+    {
+      "title": "Storage Solutions",
+      "description": "Garage organization, shelving, safe racks — we install it secure and built to last.",
+      "icon": "wrench"
+    },
+    {
+      "title": "General Repairs",
+      "description": "That growing list of fixes around the house. We knock them all out in one visit.",
+      "icon": "ruler"
+    }
+  ],
+  "about": {
+    "heading": "Built on skill, backed by results",
+    "body": "We're the Fredericksburg handyman team that shows up when we say we will. Every project gets the same attention — whether it's patching a wall or remodeling your bathroom."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Fredericksburg says"
+  },
+  "reviews": [
+    {
+      "name": "Tharthur M.",
+      "location": "Fredericksburg, VA",
+      "text": "Just had drywall fixed and was very pleased with their great communication and professionalism. Mr. Dane's speed and quality work was excellent.",
+      "rating": 5
+    },
+    {
+      "name": "Christopher C.",
+      "location": "Fredericksburg, VA",
+      "text": "Dane and his team did an incredible job on our bathroom remodel. Professional, on time, and delivered high-quality work. The craftsmanship was flawless.",
+      "rating": 5
+    },
+    {
+      "name": "Barbara",
+      "location": "Fredericksburg, VA",
+      "text": "Amazing job from start to finish. Very professional and respectful with great communication. They explained what they did and why.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Fredericksburg & surrounding areas",
+    "subheading": "Quick response times throughout the region",
+    "areas": [
+      "Fredericksburg",
+      "Stafford",
+      "Spotsylvania",
+      "King George",
+      "Caroline",
+      "Colonial Beach",
+      "Bowling Green",
+      "Culpeper"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to cross those repairs off your list?",
+    "body": "Get your free estimate today. No hidden fees, no surprises — just honest work at honest prices.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (540) 645-7776"
+  },
+  "design": {
+    "primary_color": "#991B1B",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "editorial"
+  }
+}

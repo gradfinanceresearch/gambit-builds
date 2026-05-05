@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Jacobs Handyman",
+    "phone": "(540) 699-0208",
+    "email": "service@jacobshms.com",
+    "city": "Fredericksburg",
+    "state": "VA",
+    "industry": "handyman",
+    "tagline": "One call fixes it all",
+    "logo_url": "",
+    "google_rating": "5 stars (21 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=2744078792307457474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*One guy* who actually shows up",
+    "subheadline": "From flooring to fixtures, bathroom updates to ceiling repairs — Kirk handles what needs handling.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Kirk"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "20+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Fredericksburg Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT GETS FIXED",
+    "heading": "The stuff that breaks, the stuff that's broken",
+    "subheading": "Real repairs by someone who knows what they're doing"
+  },
+  "services": [
+    {
+      "title": "Bathroom Updates",
+      "description": "Vanity installs, fixture swaps, small remodels that actually work.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Flooring Install",
+      "description": "Thousands of square feet installed right the first time.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Drywall & Paint",
+      "description": "Wall removal, patching, finish work that looks seamless.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "General Repairs",
+      "description": "The random stuff that breaks — ceiling damage, odd jobs, problem-solving.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Kirk Jacobs",
+    "body": "Fredericksburg handyman who measures twice and gets it right. One person operation — when you call, you get Kirk."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Olivia G.",
+      "location": "Fredericksburg, VA",
+      "text": "Kirk did a ton of work for us recently. Found him on Task Rabbit but reached out direct after such a good experience. Fair price and great reviews.",
+      "rating": 5
+    },
+    {
+      "name": "Guillermo S.",
+      "location": "Fredericksburg, VA",
+      "text": "Great handyman! Called him for one of my listings and he was super helpful and reliable. Highly recommend his services.",
+      "rating": 5
+    },
+    {
+      "name": "Polly O.",
+      "location": "Fredericksburg, VA",
+      "text": "Updated our powder room — removed pedestal sink, installed vanity and fixtures. Did such a great job we hired him again for family room work.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Where Kirk works",
+    "subheading": "Serving Fredericksburg and surrounding communities",
+    "areas": [
+      "Fredericksburg",
+      "Spotsylvania",
+      "Stafford",
+      "King George",
+      "Caroline County",
+      "Culpeper",
+      "Orange",
+      "Locust Grove"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get it fixed?",
+    "body": "Call Kirk directly or send the details. Fair pricing, no surprises, and work that holds up.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (540) 699-0208"
+  },
+  "design": {
+    "primary_color": "#5B21B6",
+    "accent_color": "#10B981",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

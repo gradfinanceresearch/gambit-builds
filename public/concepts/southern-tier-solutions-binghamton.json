@@ -1,0 +1,108 @@
+{
+  "business": {
+    "name": "Southern Tier Solutions",
+    "phone": "(347) 666-2017",
+    "email": "contact@southerntiersolutions.com",
+    "city": "Binghamton",
+    "state": "NY",
+    "industry": "handyman",
+    "tagline": "The fix you've been putting off",
+    "logo_url": "",
+    "google_rating": "",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=13547720582472101523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The fix you've been *putting off*",
+    "subheadline": "One call handles everything on your list — from squeaky hinges to full bathroom updates.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Binghamton Team"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Everything on your honey-do list",
+    "subheading": "From the quick fixes to the full projects"
+  },
+  "services": [
+    {
+      "title": "Home Repairs",
+      "description": "Leaky faucets, squeaky doors, loose tiles. The stuff that bugs you every day.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Bathroom Updates",
+      "description": "New vanities, shower repairs, tile work. Make it work better and look better.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Kitchen Fixes",
+      "description": "Cabinet repairs, countertop fixes, appliance installation. Get your kitchen back.",
+      "icon": "home"
+    },
+    {
+      "title": "Electrical Work",
+      "description": "Outlets, switches, ceiling fans, light fixtures. Safe installation every time.",
+      "icon": "zap"
+    }
+  ],
+  "about": {
+    "heading": "Binghamton handyman team",
+    "body": "We're the crew that shows up when we say we will. One truck, all the tools, every job done right the first time."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors are saying"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Southern Tier",
+    "subheading": "Your local handyman team throughout the region",
+    "areas": [
+      "Binghamton",
+      "Endicott",
+      "Johnson City",
+      "Vestal",
+      "Endwell",
+      "Apalachin",
+      "Owego",
+      "Whitney Point"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to cross things off your list?",
+    "body": "Free estimates on everything from quick fixes to full room updates. Same-day quotes, honest pricing.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (347) 666-2017"
+  },
+  "design": {
+    "primary_color": "#065F46",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

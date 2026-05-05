@@ -1,0 +1,126 @@
+{
+  "business": {
+    "name": "Joe's Handyman Services",
+    "phone": "(201) 681-9363",
+    "email": "joeferrerihandyman@gmail.com",
+    "city": "Binghamton",
+    "state": "NY",
+    "industry": "handyman",
+    "tagline": "The fix-it guy Binghamton trusts",
+    "logo_url": "",
+    "google_rating": "5 stars (3 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=9560398699170154872&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*One call* fixes it all",
+    "subheadline": "From leaky faucets to bathroom installs — Joe shows up and gets it done right the first time.",
+    "cta_primary": "Get Your Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "The jobs nobody else wants",
+    "subheading": "Small repairs, big projects — we handle what breaks around your house"
+  },
+  "services": [
+    {
+      "title": "Plumbing Repairs",
+      "description": "Leaky faucets, running toilets, and bathroom fixtures that need fixing or replacing.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Home Repairs",
+      "description": "Drywall patches, squeaky doors, loose handles, and all those nagging issues.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Installation Services",
+      "description": "Mounting TVs, installing shelves, hanging pictures, and fixture installations.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Maintenance Work",
+      "description": "Caulking, weatherstripping, minor electrical, and keeping your home in shape.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Twenty times over ten years",
+    "body": "That's what one customer said about Joe. When you find someone who shows up and does quality work at fair prices, you keep calling them back."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Binghamton says"
+  },
+  "reviews": [
+    {
+      "name": "Joanne R.",
+      "location": "Binghamton, NY",
+      "text": "Prompt, great quality work, very reasonably priced. I plan to use his services again and highly recommend him.",
+      "rating": 5
+    },
+    {
+      "name": "Allen E.",
+      "location": "Binghamton, NY",
+      "text": "Beyond better than expected for leak repairs.",
+      "rating": 5
+    },
+    {
+      "name": "Dan D.",
+      "location": "Binghamton, NY",
+      "text": "Used Joe over twenty times in the last ten years. Everything has turned out great.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Greater Binghamton Area",
+    "subheading": "Local handyman for local homes",
+    "areas": [
+      "Binghamton",
+      "Vestal",
+      "Johnson City",
+      "Endicott",
+      "Endwell",
+      "Apalachin",
+      "Conklin"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to cross something off your list?",
+    "body": "Call Joe for honest pricing and quality work. No job too small, no repair too tricky.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Joe"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "All That Junk",
+    "phone": "(910) 863-1899",
+    "email": "info@allthatjunkremovalnc.com",
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "industry": "junk removal",
+    "tagline": "Same day service, gone today",
+    "logo_url": "",
+    "google_rating": "5 stars (191 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=16479150112066562367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "That couch isn't going anywhere by itself",
+    "subheadline": "Same day service when you need it gone — and we keep it out of the landfill when possible.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "190+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Myrtle Beach Team"
+    }
+  ],
+  "services_section": {
+    "label": "WE HAUL IT ALL",
+    "heading": "From hot tubs to office cleanouts",
+    "subheading": "One call, two guys, and a truck — your junk disappears"
+  },
+  "services": [
+    {
+      "title": "Furniture Removal",
+      "description": "Couches stuck in tight spots, old mattresses, dining sets. We navigate the tricky spaces and haul it all.",
+      "icon": "home"
+    },
+    {
+      "title": "Construction Debris",
+      "description": "Drywall, old decking, renovation waste. Clean job sites and home projects handled professionally.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Office Cleanouts",
+      "description": "Desks, chairs, electronics, filing cabinets. We'll clear your space and donate what we can.",
+      "icon": "shield"
+    },
+    {
+      "title": "Hot Tub & Appliances",
+      "description": "Heavy items that need careful handling. We move, remove, and place with skill and teamwork.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Spencer & Eddie show up ready to work",
+    "body": "We're the Myrtle Beach junk removal team that keeps stuff out of landfills when possible. Real people answering the phone — not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What our customers say"
+  },
+  "reviews": [
+    {
+      "name": "Cole P.",
+      "location": "Myrtle Beach, SC",
+      "text": "Amazing job clearing out my shop. Same day service and left the space cleaner than before. Fast, clean, and affordable.",
+      "rating": 5
+    },
+    {
+      "name": "Happyman B.",
+      "location": "Myrtle Beach, SC",
+      "text": "Called 5 companies — these guys were the most professional and best price by far. At least $100 less than anyone else.",
+      "rating": 5
+    },
+    {
+      "name": "Melissa S.",
+      "location": "Myrtle Beach, SC",
+      "text": "They found someone who could use our office items instead of sending to landfill. Efficient and helpful — my go-to from now on.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Grand Strand",
+    "subheading": "Same day service throughout the Myrtle Beach area",
+    "areas": [
+      "Myrtle Beach",
+      "North Myrtle Beach",
+      "Conway",
+      "Surfside Beach",
+      "Garden City",
+      "Pawleys Island",
+      "Georgetown",
+      "Little River"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to clear that space?",
+    "body": "Same day quotes, fair pricing, and we keep stuff out of landfills when we can. Spencer and Eddie handle the heavy lifting.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (910) 863-1899"
+  },
+  "design": {
+    "primary_color": "#2D5A3D",
+    "accent_color": "#C8956E",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Bebas Neue",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

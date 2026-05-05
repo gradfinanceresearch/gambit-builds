@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Shepherds Lawn And Tree Service",
+    "phone": "(270) 996-0753",
+    "email": "astigma@astigmatic.com",
+    "city": "Bowling Green",
+    "state": "KY",
+    "industry": "landscaper",
+    "tagline": "Tree care and landscaping done right",
+    "logo_url": "",
+    "google_rating": "4.9 stars (76 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=12368770145156170552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Carlos and his crew* know trees",
+    "subheadline": "From storm cleanup to fire pits — one team handles it all",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "70+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Bowling Green Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Trees, lawns, and everything between",
+    "subheading": "Professional care for your entire property"
+  },
+  "services": [
+    {
+      "title": "Tree Trimming & Removal",
+      "description": "Safe cuts that keep trees healthy and properties clear. Storm damage cleanup included.",
+      "icon": "saw"
+    },
+    {
+      "title": "Lawn Care & Maintenance",
+      "description": "Regular mowing, edging, and seasonal cleanup to keep your grass looking sharp.",
+      "icon": "home"
+    },
+    {
+      "title": "Landscaping Projects",
+      "description": "Patios, fire pits, flower bed makeovers, and rock installations.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Property Cleanup",
+      "description": "Fence line clearing, overgrown bed restoration, and debris removal.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Built on referrals",
+    "body": "We're a Bowling Green landscaping team that shows up when we say we will. Carlos leads every job personally."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Christa A.",
+      "location": "Bowling Green, KY",
+      "text": "Shepherds has completed several projects at our home from tree service to our new patio and fire-pit. They are excellent, always professional, and do GREAT work!",
+      "rating": 5
+    },
+    {
+      "name": "TJ H.",
+      "location": "Bowling Green, KY",
+      "text": "Carlos and his crew trim trees the right way — safe for the tree and looks good. They ask how I like it before they leave and always clean up after themselves.",
+      "rating": 5
+    },
+    {
+      "name": "Haley W.",
+      "location": "Bowling Green, KY",
+      "text": "Amazing work on our overgrown flower bed. Removed weeds, trimmed everything back, and replaced old mulch with rock. The team showed up ready to work.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Bowling Green and surrounding areas",
+    "subheading": "Local service you can count on",
+    "areas": [
+      "Bowling Green",
+      "Franklin",
+      "Scottsville",
+      "Alvaton",
+      "Plum Springs",
+      "Oakland",
+      "Smiths Grove",
+      "Park City"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get started?",
+    "body": "Free quotes on all tree work and landscaping projects. Call Carlos directly or request an estimate online.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (270) 996-0753"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

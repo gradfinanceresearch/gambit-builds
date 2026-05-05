@@ -1,0 +1,134 @@
+{
+  "business": {
+    "name": "Pinnacle Handyman Services",
+    "phone": "(253) 508-8648",
+    "email": "craig.pinnaclehandyman@gmail.com",
+    "city": "Spartanburg",
+    "state": "SC",
+    "industry": "handyman",
+    "tagline": "Quality work, done right the first time",
+    "logo_url": "",
+    "google_rating": "4.9 stars (34 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=14891860590859659495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Fire damage* to full rebuild — we handle it all",
+    "subheadline": "Real craftsmen who show up when promised, finish on schedule, and clean up after themselves.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Spartanburg Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "From quick fixes to major repairs",
+    "subheading": "No job too small, no project too complex"
+  },
+  "services": [
+    {
+      "title": "Deck & Patio Work",
+      "description": "Deck repairs, refinishing, ramps, and outdoor improvements that last.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Interior Painting",
+      "description": "Clean, professional paint jobs for any room in your home.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Fire Damage Repair",
+      "description": "Full restoration from fence replacement to window repairs and siding work.",
+      "icon": "flame"
+    },
+    {
+      "title": "Door Installation",
+      "description": "Patio doors, entry doors, and custom installations with proper disposal.",
+      "icon": "home"
+    },
+    {
+      "title": "General Repairs",
+      "description": "Whatever's broken, we fix it. Honest pricing, quality results.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Spartanburg's go-to handyman crew",
+    "body": "We're the team your neighbors call when they need it done right. Quality work, fair pricing, and we actually answer the phone."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Spartanburg says about us"
+  },
+  "reviews": [
+    {
+      "name": "Evan B.",
+      "location": "Spartanburg, SC",
+      "text": "Quality work refreshing my deck and building a new shed ramp. Transparent, easy to work with, great communication. Finished on time at the quoted price.",
+      "rating": 5
+    },
+    {
+      "name": "Frederick H.",
+      "location": "Spartanburg, SC",
+      "text": "After a neighbor's fire damaged our fence, windows, and porch, Pinnacle replaced everything in a timely manner. Professional work all around.",
+      "rating": 5
+    },
+    {
+      "name": "Colleen M.",
+      "location": "Spartanburg, SC",
+      "text": "Great experience with interior painting. Clean, professional job. Would definitely use again for other home needs.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Spartanburg and surrounding areas",
+    "subheading": "Local team, local knowledge",
+    "areas": [
+      "Spartanburg",
+      "Boiling Springs",
+      "Chesnee",
+      "Cowpens",
+      "Duncan",
+      "Inman",
+      "Lyman",
+      "Moore",
+      "Roebuck",
+      "Woodruff"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get started?",
+    "body": "Free estimates on all projects. Call or email — we'll get back to you the same day.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (253) 508-8648"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFBF5",
+    "text_color": "#1A1A2E",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

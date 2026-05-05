@@ -1,0 +1,108 @@
+{
+  "business": {
+    "name": "Storey Concrete Company",
+    "phone": "",
+    "email": "cstorey@storeyconcretecompany.com",
+    "city": "Memphis",
+    "state": "TN",
+    "industry": "concrete contractor",
+    "tagline": "Solid foundations built right",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=1109824050182271450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Concrete that *stands the test of time*",
+    "subheadline": "Driveways, patios, foundations — poured right the first time in Memphis",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Memphis Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every pour matters",
+    "subheading": "From residential driveways to commercial foundations"
+  },
+  "services": [
+    {
+      "title": "Driveways",
+      "description": "New pours and replacement. Proper base prep and reinforcement for Memphis weather.",
+      "icon": "home"
+    },
+    {
+      "title": "Patios & Walkways",
+      "description": "Decorative and standard concrete. Stamped patterns and smooth finishes.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Foundation Work",
+      "description": "Footings, slabs, and basement walls. Built to code with proper drainage.",
+      "icon": "brick"
+    },
+    {
+      "title": "Commercial Projects",
+      "description": "Parking lots, sidewalks, and building pads. Large-scale pours handled right.",
+      "icon": "hammer"
+    }
+  ],
+  "about": {
+    "heading": "Built for Memphis",
+    "body": "We're a Memphis concrete crew that shows up when we say we will. One call gets you straight answers about your project."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What clients say"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Memphis and surrounding areas",
+    "subheading": "Professional concrete work throughout the Mid-South",
+    "areas": [
+      "Memphis",
+      "Germantown",
+      "Collierville",
+      "Bartlett",
+      "Millington",
+      "Cordova",
+      "Southaven",
+      "Olive Branch"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to start your concrete project?",
+    "body": "Every job gets the same attention — whether it's a small patio or major foundation work. Let's talk about what you need.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

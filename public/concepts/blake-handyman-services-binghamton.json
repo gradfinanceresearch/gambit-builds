@@ -1,0 +1,108 @@
+{
+  "business": {
+    "name": "Blake Handyman Services",
+    "phone": "(607) 296-1790",
+    "email": "blake@handymanservicesbyblake.com",
+    "city": "Binghamton",
+    "state": "NY",
+    "industry": "handyman",
+    "tagline": "Fix it right the first time",
+    "logo_url": "",
+    "google_rating": "",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=7063773540037290002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The *fix-it guy* Binghamton calls first",
+    "subheadline": "From squeaky hinges to full room repairs — one call handles it all.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Binghamton Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every project handled right",
+    "subheading": "No job too small, no fix too tricky"
+  },
+  "services": [
+    {
+      "title": "Home Repairs",
+      "description": "Drywall patches, door adjustments, window fixes. The everyday stuff that drives you crazy.",
+      "icon": "hammer"
+    },
+    {
+      "title": "Carpentry Work",
+      "description": "Custom shelving, trim work, cabinet repairs. Wood projects done with precision.",
+      "icon": "saw"
+    },
+    {
+      "title": "Electrical Fixes",
+      "description": "Switch replacements, outlet installations, light fixtures. Safe electrical work.",
+      "icon": "zap"
+    },
+    {
+      "title": "Plumbing Repairs",
+      "description": "Leaky faucets, toilet fixes, pipe patches. Quick plumbing solutions.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Built for this work",
+    "body": "We're a Binghamton handyman team that shows up when we say we will. Real people answering the phone — not a call center."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors say"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving the Greater Binghamton Area",
+    "subheading": "Fast response times throughout the region",
+    "areas": [
+      "Binghamton",
+      "Vestal",
+      "Johnson City",
+      "Endicott",
+      "Endwell",
+      "Apalachin",
+      "Owego",
+      "Whitney Point"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to cross it off your list?",
+    "body": "Stop staring at that broken thing. One call gets it handled right.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Blake"
+  },
+  "design": {
+    "primary_color": "#1B4D8C",
+    "accent_color": "#E8A630",
+    "bg_color": "#FFFFFF",
+    "text_color": "#2D3748",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

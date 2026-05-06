@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "MyLink Tech Services, LLC",
+    "phone": "(614) 256-9900",
+    "email": "mohamed@mylinktech.com",
+    "city": "Columbus",
+    "state": "OH",
+    "industry": "appliance repair",
+    "tagline": "Fast Fixes, Fair Prices",
+    "logo_url": "",
+    "google_rating": "4.4 stars (27 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=16116454855734086283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your appliances quit, *we show up*",
+    "subheadline": "Same-day service across Columbus — washers, dryers, stoves, dishwashers fixed right the first time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.4★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "25+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Columbus Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every Major Appliance",
+    "subheading": "One call handles washers, dryers, dishwashers, stoves — whatever's broken"
+  },
+  "services": [
+    {
+      "title": "Washer & Dryer Repair",
+      "description": "Won't spin, won't drain, or making weird noises? We diagnose and fix laundry equipment fast.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Dishwasher Service",
+      "description": "Not cleaning properly or won't start? We get your dishwasher back to spotless cycles.",
+      "icon": "home"
+    },
+    {
+      "title": "Stove & Oven Repair",
+      "description": "Burners not heating or oven temperature off? We handle gas and electric cooking appliances.",
+      "icon": "flame"
+    },
+    {
+      "title": "Appliance Installation",
+      "description": "New appliance delivery? We handle proper setup and make sure everything runs perfectly.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Real Techs, Real Solutions",
+    "body": "Columbus appliance repair team that shows up when we say we will. No surprises, no runaround — just straight answers and skilled fixes."
+  },
+  "reviews_section": {
+    "label": "WORD FROM CUSTOMERS",
+    "heading": "What Columbus Says"
+  },
+  "reviews": [
+    {
+      "name": "Joe R.",
+      "location": "Columbus, OH",
+      "text": "Mohamed was polite, professional and knowledgeable. Got the job done quickly and explained everything. Great response time too.",
+      "rating": 5
+    },
+    {
+      "name": "Keanna K.",
+      "location": "Columbus, OH",
+      "text": "Very great service. Mohamed was excellent at what he does and respectful. Will definitely recommend for washer/dryer problems.",
+      "rating": 5
+    },
+    {
+      "name": "Jessica",
+      "location": "Columbus, OH",
+      "text": "Great service, friendly, worked quickly. Explained the problem and fixed it. Very satisfied with the service.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Columbus Metro Coverage",
+    "subheading": "Fast response times across the greater Columbus area",
+    "areas": [
+      "Columbus",
+      "Dublin",
+      "Westerville",
+      "Upper Arlington",
+      "Reynoldsburg",
+      "Grove City",
+      "Hilliard",
+      "Gahanna"
+    ]
+  },
+  "cta": {
+    "heading": "Appliance Down? We're Up For It",
+    "body": "Same-day quotes, honest pricing, and repairs that last. Call now or request your free estimate online.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call (614) 256-9900"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#F97316",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

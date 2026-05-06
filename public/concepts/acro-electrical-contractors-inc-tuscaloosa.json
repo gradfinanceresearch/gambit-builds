@@ -1,0 +1,115 @@
+{
+  "business": {
+    "name": "ACRO Electrical Contractors, Inc.",
+    "phone": "(205) 556-4544",
+    "email": "acroelectric@bellsouth.net",
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "industry": "electrician",
+    "tagline": "Power you can count on",
+    "logo_url": "",
+    "google_rating": "5 stars (1 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=15567172605123220181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Every wire* matters — we get it right",
+    "subheadline": "Licensed electricians serving Tuscaloosa with honest work and upfront pricing.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "From outlets to panels — we handle it all",
+    "subheading": "Every electrical job gets the same careful attention"
+  },
+  "services": [
+    {
+      "title": "Panel Upgrades",
+      "description": "Old panels can't handle today's power demands. We install modern electrical panels that keep your home safe.",
+      "icon": "zap"
+    },
+    {
+      "title": "Outlet Installation",
+      "description": "Need more outlets or upgrading to GFCI? We add power where you need it most.",
+      "icon": "plug"
+    },
+    {
+      "title": "Lighting Repair",
+      "description": "Flickering lights, dead switches, or complete lighting installation. We make it work right.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Emergency Electrical",
+      "description": "Power outages and electrical emergencies don't wait. Neither do we.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Tuscaloosa electrical contractors who show up",
+    "body": "We're a local Tuscaloosa electrical team that does the work right the first time. Real electricians, real trucks, real answers when you call."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Tuscaloosa says about our work"
+  },
+  "reviews": [
+    {
+      "name": "Ray C.",
+      "location": "Tuscaloosa, AL",
+      "text": "Easy to work with and does solid work. Nice guys too.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Tuscaloosa and surrounding areas",
+    "subheading": "Local electrical contractors you can trust",
+    "areas": [
+      "Tuscaloosa",
+      "Northport",
+      "Brookwood",
+      "Coaling",
+      "Vance",
+      "Fosters",
+      "Duncanville",
+      "Cottondale"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your electrical work done right?",
+    "body": "Call ACRO Electrical for honest pricing and quality work. Licensed electricians serving Tuscaloosa.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (205) 556-4544"
+  },
+  "design": {
+    "primary_color": "#2563EB",
+    "accent_color": "#F97316",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

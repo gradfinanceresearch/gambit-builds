@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Druid City Services LLC",
+    "phone": "(205) 454-4443",
+    "email": "info@druidcityderby.com",
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "industry": "electrician",
+    "tagline": "Power problems solved fast",
+    "logo_url": "",
+    "google_rating": "4.7 stars (13 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=12626128886637357013&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your power's out. *We're already on the way.*",
+    "subheadline": "Same-day electrical fixes in Tuscaloosa — before your ice cream melts.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.7★ on Google"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Tuscaloosa Team"
+    },
+    {
+      "icon": "phone",
+      "text": "Same-Day Quotes"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every Wire, Panel & Outlet",
+    "subheading": "From flickering lights to full rewires"
+  },
+  "services": [
+    {
+      "title": "Electrical Repairs",
+      "description": "Breakers tripping, outlets dead, lights flickering. We find the problem and fix it right.",
+      "icon": "zap"
+    },
+    {
+      "title": "Panel Upgrades",
+      "description": "Old fuse boxes and overloaded panels replaced with modern, safe electrical systems.",
+      "icon": "plug"
+    },
+    {
+      "title": "Outdoor Lighting",
+      "description": "Floodlights, security lights, and landscape lighting installed and repaired.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "New Installations",
+      "description": "Outlets, switches, ceiling fans, and fixtures wired properly the first time.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Daniel & Justin Know Their Stuff",
+    "body": "We're the Tuscaloosa electrical team that shows up when we say we will. Real techs, real trucks, real solutions."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Tuscaloosa Says"
+  },
+  "reviews": [
+    {
+      "name": "Michelle C.",
+      "location": "Tuscaloosa, AL",
+      "text": "Called Thursday, they came Friday morning for two breaker issues. Even picked up a new floodlight while they were out.",
+      "rating": 5
+    },
+    {
+      "name": "Maria K.",
+      "location": "Tuscaloosa, AL",
+      "text": "Called at 10:30am for an outdoor fixture problem. Fixed in under two hours. Super professional guys.",
+      "rating": 5
+    },
+    {
+      "name": "Dennis H.",
+      "location": "Tuscaloosa, AL",
+      "text": "Best group I've worked with. Short notice electrical and construction work on my barn. Very knowledgeable.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving West Alabama",
+    "subheading": "Same-day service throughout the region",
+    "areas": [
+      "Tuscaloosa",
+      "Northport",
+      "Cottondale",
+      "Brookwood",
+      "Vance",
+      "Coaling",
+      "Duncanville",
+      "Moundville"
+    ]
+  },
+  "cta": {
+    "heading": "Power Problems Don't Wait",
+    "body": "Get your electrical issues handled by Tuscaloosa's trusted team. Free quotes, honest pricing, work done right.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (205) 454-4443"
+  },
+  "design": {
+    "primary_color": "#1B4D8C",
+    "accent_color": "#E8A630",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

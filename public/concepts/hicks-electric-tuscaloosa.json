@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Hicks Electric",
+    "phone": "(205) 368-5870",
+    "email": "info@hickselectric.net",
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "industry": "electrician",
+    "tagline": "When you need it done right the first time",
+    "logo_url": "",
+    "google_rating": "5 stars (13 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=10030428432093823866&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "The electrician *Tuscaloosa calls first*",
+    "subheadline": "Perfect 5-star Google rating. Real answers when you call. Work that passes inspection every time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "10+ Google Reviews"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every wire, outlet, and panel",
+    "subheading": "From adding can lights to complete rewires — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Electrical Repairs",
+      "description": "Outlets not working? Breakers tripping? We diagnose the problem and fix it right.",
+      "icon": "zap"
+    },
+    {
+      "title": "Lighting Installation",
+      "description": "Can lights, chandeliers, ceiling fans. We make your vision happen.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Panel Upgrades",
+      "description": "Old electrical panels can't handle modern demands. We upgrade them safely.",
+      "icon": "plug"
+    },
+    {
+      "title": "New Construction Wiring",
+      "description": "Complete electrical systems for new builds and major renovations.",
+      "icon": "home"
+    }
+  ],
+  "about": {
+    "heading": "Built on trust, one job at a time",
+    "body": "We're the Tuscaloosa electrical team that shows up when we say we will. Josh answers his own phone, explains the work, and stands behind every job."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Jason B.",
+      "location": "Tuscaloosa, AL",
+      "text": "Absolutely amazing. Needed them last minute and Josh came through for us. Super talented, knowledgeable, and excellent work ethics. 100% recommend.",
+      "rating": 5
+    },
+    {
+      "name": "Adam W.",
+      "location": "Tuscaloosa, AL",
+      "text": "Josh is very professional and knowledgeable. On time and does excellent work.",
+      "rating": 5
+    },
+    {
+      "name": "Sara C.",
+      "location": "Tuscaloosa, AL",
+      "text": "Cannot say enough about Hicks Electric. Top notch customer service and attention to detail. Josh took time to teach me about my home and never made me feel like a burden.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Tuscaloosa and surrounding areas",
+    "subheading": "Local electrical service you can count on",
+    "areas": [
+      "Tuscaloosa",
+      "Northport",
+      "Cottondale",
+      "Brookwood",
+      "Vance",
+      "Coker",
+      "Duncanville",
+      "Fosters"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get your electrical work done right?",
+    "body": "Call Josh directly for a free quote. No runaround, no hidden fees — just honest electrical work from a team you can trust.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (205) 368-5870"
+  },
+  "design": {
+    "primary_color": "#1E3A5F",
+    "accent_color": "#C0986B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

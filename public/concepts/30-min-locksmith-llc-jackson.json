@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "30 Min Locksmith LLC",
+    "phone": "(601) 862-5058",
+    "email": "the30minlocksmith@gmail.com",
+    "city": "Jackson",
+    "state": "MS",
+    "industry": "locksmith",
+    "tagline": "Fast, reliable locksmith services in Jackson",
+    "logo_url": "/images/logo.png",
+    "google_rating": "4.4 stars (33 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=3750810522489083712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Locked Out? *We Answer*",
+    "subheadline": "While others send you to voicemail, Tony picks up the phone and shows up fast.",
+    "cta_primary": "Get Unlocked Now",
+    "cta_secondary": "Call (601) 862-5058"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.4★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "30+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Jackson Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Car, Home, Business — We Handle It All",
+    "subheading": "One call covers every lock situation you'll face"
+  },
+  "services": [
+    {
+      "title": "Car Lockouts",
+      "description": "Keys locked inside? We get you back in without damage to your vehicle.",
+      "icon": "shield"
+    },
+    {
+      "title": "Home Lockouts",
+      "description": "Locked out of your house? We'll have your door open in minutes.",
+      "icon": "home"
+    },
+    {
+      "title": "Lock Repairs",
+      "description": "Broken or stuck locks fixed right the first time.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Key Cutting",
+      "description": "New keys cut on-site for homes, cars, and businesses.",
+      "icon": "ruler"
+    }
+  ],
+  "about": {
+    "heading": "Real Locksmith, Real Phone Calls",
+    "body": "We're a Jackson locksmith team that actually answers when you call. No call centers, no runaround — just Tony and his truck ready to get you unlocked."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Jackson Says About Us"
+  },
+  "reviews": [
+    {
+      "name": "Tonya K.",
+      "location": "Jackson, MS",
+      "text": "Tony came quickly for my car lockout, was friendly and respectful throughout the whole process. Thank you Tony!",
+      "rating": 5
+    },
+    {
+      "name": "Morgan C.",
+      "location": "Jackson, MS",
+      "text": "Called 10 other locksmiths with no callbacks. Tony responded quickly and had me unlocked in just minutes. Next time I'm calling him first!",
+      "rating": 5
+    },
+    {
+      "name": "Blake S.",
+      "location": "Jackson, MS",
+      "text": "First locksmith to actually answer the phone. Professional, prompt arrival in 12 minutes, and got me back in my truck fast.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Jackson and Surrounding Areas",
+    "subheading": "Fast response times throughout the metro area",
+    "areas": [
+      "Jackson",
+      "Pearl",
+      "Ridgeland",
+      "Madison",
+      "Clinton",
+      "Flowood",
+      "Brandon",
+      "Byram"
+    ]
+  },
+  "cta": {
+    "heading": "Locked Out Right Now?",
+    "body": "Don't waste time calling locksmiths who won't answer. Call Tony — he picks up and shows up.",
+    "cta_primary": "Call Now",
+    "cta_secondary": "Text Us"
+  },
+  "design": {
+    "primary_color": "#991B1B",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bebas Neue",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

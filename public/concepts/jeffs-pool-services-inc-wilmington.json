@@ -1,0 +1,121 @@
+{
+  "business": {
+    "name": "Jeff's Pool Services Inc",
+    "phone": "(910) 458-4648",
+    "email": "jpsbilling@jeffspoolspa.com",
+    "city": "Wilmington",
+    "state": "NC",
+    "industry": "pool service",
+    "tagline": "Keeping Wilmington pools crystal clear",
+    "logo_url": "",
+    "google_rating": "4 stars (8 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=6255992934923323470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Pool care that *actually* shows up",
+    "subheadline": "Weekly cleaning, equipment repairs, and chemical balancing — no surprises, no excuses.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Wilmington Team"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Everything your pool needs",
+    "subheading": "From weekly maintenance to equipment repairs"
+  },
+  "services": [
+    {
+      "title": "Weekly Pool Cleaning",
+      "description": "Skimming, vacuuming, and brushing to keep your water sparkling. Chemical testing and balancing included.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Equipment Repair",
+      "description": "Pumps, filters, heaters, and automation systems. We diagnose the problem and fix it right.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Chemical Balancing",
+      "description": "Perfect pH, alkalinity, and chlorine levels. Safe swimming water every time.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Pool Inspections",
+      "description": "Thorough equipment and safety assessments. Complete reports for home buyers and sellers.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Wilmington pool service with straight answers",
+    "body": "We're the team that shows up when we say we will. One call, one crew, honest pricing."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Wilmington pool owners say"
+  },
+  "reviews": [
+    {
+      "name": "Sharlene W.",
+      "location": "Wilmington, NC",
+      "text": "Been using Jeff's Pool Service for many years. Very thorough, friendly, responsive and do a great job maintaining my pool. Thank you team!",
+      "rating": 5
+    },
+    {
+      "name": "Flux S.",
+      "location": "Wilmington, NC",
+      "text": "Pool boys are always prompt to let me know what's going on and the fixes. Very honest and hard working employees — my dogs love them too!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Wilmington and surrounding areas",
+    "subheading": "Professional pool service throughout the Cape Fear region",
+    "areas": [
+      "Wilmington",
+      "Wrightsville Beach",
+      "Carolina Beach",
+      "Leland",
+      "Southport",
+      "Oak Island",
+      "Hampstead",
+      "Surf City"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for pool service you can count on?",
+    "body": "Get a free quote on weekly cleaning, equipment repair, or chemical balancing. No obligation, just honest pricing.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (910) 458-4648"
+  },
+  "design": {
+    "primary_color": "#991B1B",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Blue Sky Pool Service",
+    "phone": "(843) 467-1708",
+    "email": "gabeo@blueskypools.co",
+    "city": "Wilmington",
+    "state": "NC",
+    "industry": "pool service",
+    "tagline": "Crystal clear water, every week",
+    "logo_url": "",
+    "google_rating": "5 stars (82 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=4848407236444889211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Crystal clear* every week — guaranteed",
+    "subheadline": "Professional pool cleaning and chemical balancing that keeps your water perfect while you focus on enjoying it.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "80+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Wilmington Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Everything your pool needs",
+    "subheading": "From skimming to chemical balancing — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Weekly Pool Cleaning",
+      "description": "Full surface skimming, vacuuming, and filter maintenance to keep your water crystal clear.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Chemical Balancing",
+      "description": "Expert water testing and chemical adjustments for safe, perfectly balanced pool water.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Filter & Equipment Service",
+      "description": "Complete filter cleaning and equipment maintenance to keep everything running smoothly.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Pool Opening & Closing",
+      "description": "Seasonal startup and winterization services to protect your investment year-round.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Built for Wilmington pools",
+    "body": "We're the pool service team Wilmington calls when they want it done right. Professional water care with the personal touch your pool deserves."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Wilmington pool owners say"
+  },
+  "reviews": [
+    {
+      "name": "Jim B.",
+      "location": "Wilmington, NC",
+      "text": "Owen and Jamie helped me through the entire startup process. Very knowledgeable about chemicals and filters, and always accessible when I had questions.",
+      "rating": 5
+    },
+    {
+      "name": "Stephanie J.",
+      "location": "Wilmington, NC",
+      "text": "First time pool owner and so happy with the service! Jamie is meticulous and took time to explain everything about pool maintenance.",
+      "rating": 5
+    },
+    {
+      "name": "tol A.",
+      "location": "Wilmington, NC",
+      "text": "Jamie is professional, reliable, and his quality of work is exemplary. Been using his service over a year — my pool has never looked better.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Wilmington & surrounding areas",
+    "subheading": "Professional pool service throughout the Cape Fear region",
+    "areas": [
+      "Wilmington",
+      "Wrightsville Beach",
+      "Carolina Beach",
+      "Leland",
+      "Hampstead",
+      "Burgaw",
+      "Castle Hayne",
+      "Monkey Junction"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for crystal clear water?",
+    "body": "Get a free quote on weekly pool service. No surprises, no hidden fees — just clean water you can count on.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (843) 467-1708"
+  },
+  "design": {
+    "primary_color": "#5B21B6",
+    "accent_color": "#10B981",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

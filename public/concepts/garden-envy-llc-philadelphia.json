@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Garden Envy LLC",
+    "phone": "(609) 235-5284",
+    "email": "info@gardenenvyllc.com",
+    "city": "Philadelphia",
+    "state": "PA",
+    "industry": "landscaper",
+    "tagline": "Professional landscaping services in Philadelphia",
+    "logo_url": "",
+    "google_rating": "5 stars (40 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=14353619965491724977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Transform* your outdoor space with expert care",
+    "subheadline": "From overgrown yards to custom garden designs — we show up on time and deliver results that last.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Today"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "40+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Philadelphia Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every yard tells a story",
+    "subheading": "We help yours tell the right one"
+  },
+  "services": [
+    {
+      "title": "Garden Design & Installation",
+      "description": "Custom plantings that work with your space and lifestyle. Every plant placed with purpose.",
+      "icon": "home"
+    },
+    {
+      "title": "Landscape Cleanup",
+      "description": "Overgrown yards restored to their potential. Faster than you'd think, cleaner than you'd expect.",
+      "icon": "saw"
+    },
+    {
+      "title": "Plant Care Consultation",
+      "description": "Know what you're growing. Comprehensive plant identification and care guidance for your property.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Yard Maintenance",
+      "description": "Regular care to keep your outdoor space looking its best year-round.",
+      "icon": "wrench"
+    }
+  ],
+  "about": {
+    "heading": "Built for Philadelphia gardens",
+    "body": "We're the Philadelphia landscaping team that shows up when we say we will. One call gets you clear communication, expert plant knowledge, and work that exceeds expectations."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What neighbors are saying"
+  },
+  "reviews": [
+    {
+      "name": "Paul R.",
+      "location": "Philadelphia, PA",
+      "text": "Lee was incredible to work with. Put together a comprehensive report on our plants and gardens, plus care tips for each variety. Exactly what we needed.",
+      "rating": 5
+    },
+    {
+      "name": "Andrew J.",
+      "location": "Philadelphia, PA",
+      "text": "Communicated clearly, showed up on time, and cleaned up our overgrown yard much faster than expected. All at a very reasonable price.",
+      "rating": 5
+    },
+    {
+      "name": "wilson l.",
+      "location": "Philadelphia, PA",
+      "text": "Outstanding job on our front porch redesign. Meticulous work and explained why every plant was placed where it was. 10/10 service.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Philadelphia and beyond",
+    "subheading": "Professional landscaping throughout the region",
+    "areas": [
+      "Philadelphia",
+      "Cherry Hill",
+      "Camden",
+      "Collingswood",
+      "Haddon Township",
+      "Pennsauken",
+      "Mount Laurel",
+      "Moorestown"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to love your yard again?",
+    "body": "Free quotes, honest pricing, and work that shows. Let's talk about what your outdoor space could become.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Now"
+  },
+  "design": {
+    "primary_color": "#334155",
+    "accent_color": "#3B82F6",
+    "bg_color": "#FEFEFE",
+    "text_color": "#1F2937",
+    "font_heading": "Crimson Text",
+    "font_body": "Work Sans",
+    "layout_variant": "editorial"
+  }
+}

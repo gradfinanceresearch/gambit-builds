@@ -1,0 +1,121 @@
+{
+  "business": {
+    "name": "Scott's Landscaping & Snow Removal",
+    "phone": "(267) 499-7158",
+    "email": "hi@mystore.com",
+    "city": "Philadelphia",
+    "state": "PA",
+    "industry": "landscaper",
+    "tagline": "Year-round property care for Philadelphia",
+    "logo_url": "",
+    "google_rating": "4.4 stars (20 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=17729926634021402857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Philadelphia Landscaping *Done Right*",
+    "subheadline": "Spring cleanup to winter snow clearing — one crew handles it all.",
+    "cta_primary": "Get Free Estimate",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.4★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "20+ Google Reviews"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Philadelphia Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Complete Property Care",
+    "subheading": "From spring cleanup to winter storm response"
+  },
+  "services": [
+    {
+      "title": "Landscaping & Design",
+      "description": "Complete landscape installation, hardscaping, and seasonal property maintenance.",
+      "icon": "home"
+    },
+    {
+      "title": "Snow Removal",
+      "description": "Residential and commercial snow clearing to keep your property accessible.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Tree Services",
+      "description": "Tree removal, pruning, and cleanup for storm damage or property improvement.",
+      "icon": "saw"
+    },
+    {
+      "title": "Concrete & Masonry",
+      "description": "Sidewalk repair, step rebuilding, and concrete work for safe walkways.",
+      "icon": "brick"
+    }
+  ],
+  "about": {
+    "heading": "Philadelphia Property Specialists",
+    "body": "We handle everything from landscape installations to emergency tree removal. Real crew, real equipment, real results."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Customers Say"
+  },
+  "reviews": [
+    {
+      "name": "Christina G.",
+      "location": "Philadelphia, PA",
+      "text": "Customer for years — love the service. Scott and his team are professional and polite. They've done landscaping, tree removal, cement work, rebuilt steps, and other jobs.",
+      "rating": 5
+    },
+    {
+      "name": "VB V.",
+      "location": "Philadelphia, PA",
+      "text": "Impressed with their knowledge on my hardscaping project. Arrived on time with a full crew and stayed until done. Used them several times hassle-free!",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Philadelphia & Surrounding Areas",
+    "subheading": "Local crew covering the greater Philadelphia region",
+    "areas": [
+      "Philadelphia",
+      "Camden",
+      "Chester",
+      "Norristown",
+      "Bensalem",
+      "Upper Darby",
+      "Levittown",
+      "Germantown"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Get Started?",
+    "body": "Free estimates for all landscaping and snow removal services. Local crew, upfront pricing.",
+    "cta_primary": "Get Quote",
+    "cta_secondary": "Call (267) 499-7158"
+  },
+  "design": {
+    "primary_color": "#991B1B",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

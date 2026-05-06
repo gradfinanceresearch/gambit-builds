@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Westala Electric",
+    "phone": "(205) 349-2441",
+    "email": "westala1@bellsouth.net",
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "industry": "electrician",
+    "tagline": "Your Tuscaloosa electrical specialists",
+    "logo_url": "",
+    "google_rating": "4.1 stars (20 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=11577173930206834428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When the lights go out, *we show up*",
+    "subheadline": "Licensed electricians serving Tuscaloosa homes and businesses since day one.",
+    "cta_primary": "Get Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "star",
+      "text": "4.1★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "20+ Google Reviews"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Every wire, outlet, and panel",
+    "subheading": "From new construction to emergency repairs — we handle it all"
+  },
+  "services": [
+    {
+      "title": "Residential Wiring",
+      "description": "Complete electrical systems for new homes and major renovations. Panels, circuits, outlets — the whole setup.",
+      "icon": "home"
+    },
+    {
+      "title": "Outlet Installation",
+      "description": "New 20-amp outlets for workshops, kitchens, and anywhere you need reliable power.",
+      "icon": "plug"
+    },
+    {
+      "title": "Transfer Switch Installation",
+      "description": "Generator hookups and automatic transfer switches. Power when you need it most.",
+      "icon": "zap"
+    },
+    {
+      "title": "Surge Protection",
+      "description": "Whole-house surge protectors to keep your electronics safe from lightning and power spikes.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Real electricians, real work",
+    "body": "We're the Tuscaloosa electrical team that shows up when we say we will. Licensed, insured, and ready to handle whatever's sparking."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Tuscaloosa says"
+  },
+  "reviews": [
+    {
+      "name": "Ryan M.",
+      "location": "Tuscaloosa, AL",
+      "text": "Owner stands behind his work. Wired my house and installed a generator transfer switch. He's busy so be patient.",
+      "rating": 5
+    },
+    {
+      "name": "Peggy D.",
+      "location": "Tuscaloosa, AL",
+      "text": "Mike came earlier than expected to fix my smoke detector. So thankful that beeping noise is gone!",
+      "rating": 5
+    },
+    {
+      "name": "Brian W.",
+      "location": "Tuscaloosa, AL",
+      "text": "Chris was fantastic. Called this morning, he was here before lunch. Fixed our lightning damage and talked us through surge protection.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving West Alabama",
+    "subheading": "Reliable electrical service throughout the region",
+    "areas": [
+      "Tuscaloosa",
+      "Northport",
+      "Cottondale",
+      "Brookwood",
+      "Coker",
+      "Duncanville",
+      "Fosters",
+      "Moundville"
+    ]
+  },
+  "cta": {
+    "heading": "Ready to get the power back on?",
+    "body": "Call us for honest pricing and straight answers. Licensed electricians you can count on.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (205) 349-2441"
+  },
+  "design": {
+    "primary_color": "#B45309",
+    "accent_color": "#1F2937",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

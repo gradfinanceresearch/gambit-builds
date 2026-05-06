@@ -1,0 +1,121 @@
+{
+  "business": {
+    "name": "Thornton Pool Service",
+    "phone": "(910) 632-0406",
+    "email": "thorntonpoolservicewnc@gmail.com",
+    "city": "Wilmington",
+    "state": "NC",
+    "industry": "pool service",
+    "tagline": "Wilmington Pool Maintenance & Repair",
+    "logo_url": "",
+    "google_rating": "3.9 stars (7 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=804279951261587728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your Pool. *Our Expertise.* Clear Water Guaranteed.",
+    "subheadline": "From new pool owners to seasoned pros — we explain everything and show up when scheduled.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "home",
+      "text": "Locally Owned"
+    },
+    {
+      "icon": "star",
+      "text": "3.9★ on Google"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Everything Your Pool Needs",
+    "subheading": "Weekly maintenance, repairs, and new owner education"
+  },
+  "services": [
+    {
+      "title": "Weekly Pool Service",
+      "description": "Chemical balancing, skimming, and equipment checks. We explain what we're doing so you learn too.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Pool Equipment Repair",
+      "description": "Pumps, filters, heaters, and automation systems. Diagnose the problem and fix it right.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Chemical Balancing",
+      "description": "pH, chlorine, alkalinity — all the chemistry that keeps your water safe and clear.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "New Pool Owner Education",
+      "description": "First pool? We'll teach you the basics and set up a maintenance routine that works.",
+      "icon": "lightbulb"
+    }
+  ],
+  "about": {
+    "heading": "Straight Talk Pool Service",
+    "body": "We're a Wilmington pool service team that shows up when scheduled. Whether you're new to pools or just need reliable weekly service, we explain what we're doing and why."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Pool Owners Say"
+  },
+  "reviews": [
+    {
+      "name": "Joel D.",
+      "location": "Wilmington, NC",
+      "text": "First pool owner here — needed help getting up to par and learning maintenance. Thornton Pool Service got us sorted with monthly servicing.",
+      "rating": 5
+    },
+    {
+      "name": "Neil C.",
+      "location": "Wilmington, NC",
+      "text": "Robert did a great job. Very responsive and explained everything as needed.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Greater Wilmington",
+    "subheading": "Pool service throughout the Cape Fear region",
+    "areas": [
+      "Wilmington",
+      "Wrightsville Beach",
+      "Carolina Beach",
+      "Leland",
+      "Hampstead",
+      "Surf City",
+      "Southport",
+      "Oak Island"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for Crystal Clear Water?",
+    "body": "Free estimates on weekly service and repairs. We'll explain everything and give you straight pricing upfront.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (910) 632-0406"
+  },
+  "design": {
+    "primary_color": "#78350F",
+    "accent_color": "#0D9488",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Bitter",
+    "font_body": "Work Sans",
+    "layout_variant": "stacked"
+  }
+}

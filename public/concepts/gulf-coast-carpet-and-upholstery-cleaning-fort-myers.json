@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Gulf Coast Carpet and Upholstery Cleaning",
+    "phone": "(239) 482-6663",
+    "email": "kelly@gulfcoastcarpetcleaning.net",
+    "city": "Fort Myers",
+    "state": "FL",
+    "industry": "carpet cleaner",
+    "tagline": "Making Fort Myers carpets look brand new",
+    "logo_url": "",
+    "google_rating": "4.8 stars (26 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=17704487993703747143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "Your carpets will look *brand new* again",
+    "subheadline": "We text when we're on our way, show up with real equipment, and leave your floors spotless.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.8★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "26+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Fort Myers Team"
+    }
+  ],
+  "services_section": {
+    "label": "THE WORK",
+    "heading": "Carpets, upholstery, and tile that look brand new",
+    "subheading": "Real equipment, real results"
+  },
+  "services": [
+    {
+      "title": "Carpet Deep Cleaning",
+      "description": "Hot water extraction that pulls out years of dirt and stains. Your carpets will look and smell fresh.",
+      "icon": "home"
+    },
+    {
+      "title": "Upholstery Cleaning",
+      "description": "Sofas, chairs, and cushions cleaned without damage. Safe for pets and kids.",
+      "icon": "paintbrush"
+    },
+    {
+      "title": "Tile & Grout Restoration",
+      "description": "Professional cleaning that makes old tile floors look like new installations.",
+      "icon": "brick"
+    },
+    {
+      "title": "Stain Removal",
+      "description": "Pet accidents, wine spills, and mystery spots. We've seen it all and cleaned it all.",
+      "icon": "droplet"
+    }
+  ],
+  "about": {
+    "heading": "Fort Myers cleaning team since day one",
+    "body": "Kelly and Chris answer their own phone and show up with professional equipment. No call centers, no surprises."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Fort Myers neighbors say"
+  },
+  "reviews": [
+    {
+      "name": "Jennifer M.",
+      "location": "Fort Myers, FL",
+      "text": "They did an absolutely phenomenal job on our floors and grout today!",
+      "rating": 5
+    },
+    {
+      "name": "Amy K.",
+      "location": "Fort Myers, FL",
+      "text": "I've used Gulf Coast Carpet for about 15 years now and their work has always been consistently great. My tiles look brand new and so does my carpet.",
+      "rating": 5
+    },
+    {
+      "name": "Heather B.",
+      "location": "Fort Myers, FL",
+      "text": "We've been using Gulf Coast Carpets for 8 years now and are always thrilled with the service. With 2 dogs and 3 small children, somehow they always manage to make it look perfect.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "COVERAGE AREA",
+    "heading": "Serving Southwest Florida",
+    "subheading": "Same-day quotes throughout the region",
+    "areas": [
+      "Fort Myers",
+      "Cape Coral",
+      "Bonita Springs",
+      "Estero",
+      "Lehigh Acres",
+      "North Fort Myers",
+      "San Carlos Park",
+      "Gateway"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for carpets that look brand new?",
+    "body": "Free quotes, text notifications when we're on the way, and upfront pricing. No surprises.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (239) 482-6663"
+  },
+  "design": {
+    "primary_color": "#6D28D9",
+    "accent_color": "#F59E0B",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "DM Serif Display",
+    "font_body": "Source Sans 3",
+    "layout_variant": "split"
+  }
+}

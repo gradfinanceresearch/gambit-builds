@@ -1,0 +1,127 @@
+{
+  "business": {
+    "name": "Snyder's Appliance Repair",
+    "phone": "(937) 546-2087",
+    "email": "repair@snydersappliancerepair.com",
+    "city": "Columbus",
+    "state": "OH",
+    "industry": "appliance repair",
+    "tagline": "When Kevin shows up, it gets fixed",
+    "logo_url": "",
+    "google_rating": "4.9 stars (72 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=7812041660200833812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "When your dryer quits, *Kevin answers*",
+    "subheadline": "Same-day diagnostics. Real repairs that last. Columbus families trust us with every appliance breakdown.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call Kevin"
+  },
+  "trust_badges": [
+    {
+      "icon": "star",
+      "text": "4.9★ on Google"
+    },
+    {
+      "icon": "users",
+      "text": "70+ Google Reviews"
+    },
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Columbus Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE FIX",
+    "heading": "Every appliance breakdown",
+    "subheading": "From washers that won't spin to refrigerators that won't cool — we diagnose it right the first time"
+  },
+  "services": [
+    {
+      "title": "Dryer Repair",
+      "description": "No heat, won't start, or taking forever to dry? We'll get your clothes spinning and drying like new.",
+      "icon": "fan"
+    },
+    {
+      "title": "Refrigerator Service",
+      "description": "Not cooling, strange noises, or ice maker problems. We'll diagnose and fix what's keeping your fridge from running right.",
+      "icon": "thermometer"
+    },
+    {
+      "title": "Washer Repair",
+      "description": "Won't drain, won't spin, or leaking water everywhere. We handle every washing machine problem.",
+      "icon": "droplet"
+    },
+    {
+      "title": "Microwave Service",
+      "description": "Not heating, sparking, or door won't latch. Quick turnaround on microwave repairs and replacements.",
+      "icon": "zap"
+    }
+  ],
+  "about": {
+    "heading": "Kevin knows appliances",
+    "body": "Columbus appliance repair team that shows up when we say we will. Real diagnostics, honest pricing, and repairs that actually last."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Columbus families say"
+  },
+  "reviews": [
+    {
+      "name": "Richard D.",
+      "location": "Columbus, OH",
+      "text": "Kevin did an awesome job fixing our dryer quickly. Communicates well, prompt and thorough cleanup. Highly recommend — dryer works great!",
+      "rating": 5
+    },
+    {
+      "name": "Jessica",
+      "location": "Columbus, OH",
+      "text": "Kevin's our go-to repairman. Always prompt, professional, and genuinely skilled. Fixed our dryer quickly with top-notch quality work.",
+      "rating": 5
+    },
+    {
+      "name": "Alicia C.",
+      "location": "Columbus, OH",
+      "text": "Great experience! Quick response and fixed our dryer promptly. Would definitely use him again.",
+      "rating": 5
+    }
+  ],
+  "service_areas": {
+    "label": "WHERE WE WORK",
+    "heading": "Columbus area coverage",
+    "subheading": "Same-day service throughout central Ohio",
+    "areas": [
+      "Columbus",
+      "Dublin",
+      "Westerville",
+      "Gahanna",
+      "Grove City",
+      "Reynoldsburg",
+      "Upper Arlington",
+      "Hilliard"
+    ]
+  },
+  "cta": {
+    "heading": "Appliance acting up? Kevin's got this",
+    "body": "Quick diagnostics, honest quotes, and repairs that last. Call now or get your free estimate online.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call (937) 546-2087"
+  },
+  "design": {
+    "primary_color": "#374151",
+    "accent_color": "#8B5CF6",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1F2937",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}

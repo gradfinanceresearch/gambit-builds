@@ -1,0 +1,108 @@
+{
+  "business": {
+    "name": "TB&J Striping LLC",
+    "phone": "(229) 869-9096",
+    "email": "tbjstriping@yahoo.com",
+    "city": "Albany",
+    "state": "GA",
+    "industry": "driveway paving",
+    "tagline": "Straight lines, solid work",
+    "logo_url": "",
+    "google_rating": "5 stars (2 reviews)",
+    "years_in_business": "",
+    "photo_refs": [],
+    "hours": "",
+    "google_maps_uri": "https://maps.google.com/?cid=15720016179567986247&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "places_api_key": "AIzaSyD76B7B-kOs3ayIbhBc0wfQLWl-Tb8DjO0"
+  },
+  "hero": {
+    "headline": "*Fresh asphalt* that lasts",
+    "subheadline": "From cracked driveways to parking lots — we lay it right the first time.",
+    "cta_primary": "Get Free Quote",
+    "cta_secondary": "Call Now"
+  },
+  "trust_badges": [
+    {
+      "icon": "shield",
+      "text": "Licensed & Insured"
+    },
+    {
+      "icon": "check",
+      "text": "Free Estimates"
+    },
+    {
+      "icon": "star",
+      "text": "5.0★ on Google"
+    },
+    {
+      "icon": "mappin",
+      "text": "Local Albany Team"
+    }
+  ],
+  "services_section": {
+    "label": "WHAT WE LAY",
+    "heading": "Driveways, parking lots, and everything between",
+    "subheading": "Hot asphalt and precision striping — done right"
+  },
+  "services": [
+    {
+      "title": "Driveway Paving",
+      "description": "Fresh asphalt driveways that handle Albany weather. Proper grade and drainage every time.",
+      "icon": "home"
+    },
+    {
+      "title": "Parking Lot Striping",
+      "description": "Clean lines and proper spacing for commercial lots. Fresh paint that won't fade.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Asphalt Repair",
+      "description": "Fix cracks and potholes before they spread. Patch work that matches the existing surface.",
+      "icon": "wrench"
+    },
+    {
+      "title": "Seal Coating",
+      "description": "Protect your investment from sun and rain. Extends pavement life by years.",
+      "icon": "shield"
+    }
+  ],
+  "about": {
+    "heading": "Albany's asphalt crew",
+    "body": "We're the local team that shows up with hot mix and straight lines. Real paving work, not patch jobs."
+  },
+  "reviews_section": {
+    "label": "WORD OF MOUTH",
+    "heading": "What Albany says"
+  },
+  "reviews": [],
+  "service_areas": {
+    "label": "WHERE WE PAVE",
+    "heading": "Serving Southwest Georgia",
+    "subheading": "Hot mix delivery throughout the region",
+    "areas": [
+      "Albany",
+      "Sylvester",
+      "Leesburg",
+      "Camilla",
+      "Moultrie",
+      "Tifton",
+      "Cordele",
+      "Americus"
+    ]
+  },
+  "cta": {
+    "heading": "Ready for fresh asphalt?",
+    "body": "Free estimates on all paving work. We'll measure, quote, and schedule — no surprises.",
+    "cta_primary": "Get Your Quote",
+    "cta_secondary": "Call (229) 869-9096"
+  },
+  "design": {
+    "primary_color": "#B45309",
+    "accent_color": "#1F2937",
+    "bg_color": "#FFFFFF",
+    "text_color": "#1A1A2E",
+    "font_heading": "Oswald",
+    "font_body": "Work Sans",
+    "layout_variant": "split"
+  }
+}
